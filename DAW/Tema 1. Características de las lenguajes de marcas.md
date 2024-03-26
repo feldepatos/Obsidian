@@ -1,0 +1,3 @@
+- Contexto
+	- ¿Qué es un ordenador?
+		- Una maquina electrónica que recibe y procesa datos para convertirlas en información útil 

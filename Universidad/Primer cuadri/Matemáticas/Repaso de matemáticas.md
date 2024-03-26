@@ -1,0 +1,131 @@
+- Concepto básicos
+	- Leyes principales
+		- Ley asociativa para la suma P1
+			- ¿Qué significa la palabra asociativa?
+			- Significado a nivel matemático
+				- independientemente de la manera que se relacionamos los factores el producto,es decir, el resultado será el mismo.
+		- Existencia de una identidad para la suma P2
+			- Representación
+				- $a+(-a)=0+a = a$
+			- Explicación
+				- Sucede cuando el valor de a es cualquier distinto a 0,pero para poder demostrar tal hecho debemos hacer que x sea igual a 0 quitando a. 
+		- Existencia de inversos para la suma P3
+			- Explicación
+				- Para cualquier número existe su inversa,por ejemplo; $a -a$ 
+		- Ley conmutativa para la suma. P4
+			- Explicación
+				- El orden de 2 valores no altera el producto(resultado)
+		- Ley asociativa para la multiplicación P5
+			- Representación
+				- $a*(b*c)=(a*b)*c$ 
+		- Existencia de una identidad para la multiplicación.P6
+			- Representación
+				- $a*1$= $1*a$ 
+			- Explicación
+				- Mientras a sea distinto a cero,porque sino no habría valor para a , ya que se anularía el valor de a porque cualquier número multiplicado por 0 da 0.
+		- Existencia de inversos para la multiplicación P7
+			- Representación 
+				- $a*a⁻1=a⁻1=1$ para a.
+			- Explicación
+				- Mientras el valor de **a** sea distinto a cero,porque no existe la inversa del 0.
+		- Ley conmutativa para la multiplicación. P8
+			- Representación
+				- $a*b=b*a$ 
+			- Explicación
+				- Para que la ley se cumpla es necesario la P7 ,es decir, a debe ser diferente a 0, porque sino la multiplicación no daría lo mismo.
+		- Ley distributiva P9
+			- Representación
+				- $a*(b+c)=a*b+a*c$ 
+			- Explicación
+				- Es la suma de todas las leyes explicadas anteriormente.
+		- Ley de tricotomía
+			- Representación
+				- a=0;a pertenece al conjunto,-a pertenece al conjunto
+			- Explicación 
+				- Para todo número a se cumple una y sólo una de las igualdades anteriores.
+		- La suma es cerrada
+			- Explicación
+				- Si a y b pertenecen a P, la suma de ambos valores pertenecerá a P.
+		- La multiplicación es cerrada
+			- Explicación
+				- Si a y b pertenecen a P, el producto de ambos lo hará también.
+- Distinta clases de número
+	- Número naturales **N**
+	- Números enteros **Z** 
+	- Número racionales **Q**
+	- Número reales **R**
+	- Número irracionales 
+		- Este tipo de números se representan con decimales infinitos como el número pi o $2⁽1/2)$  
+- Funciones
+	- Definición
+		- Es una regla que asigna a cada uno de ciertos números reales un número real.
+		- Es una colección de pares de números con la siguiente propiedad: si (a,b) y (a,c) pertenecen ambos a la colección, entonces b=c; en otras palabras,la colección no debe contener dos pares distintos con el mismo elemento
+	- Tipos de funciones
+		- Polinómicas
+			- Dominios
+				- Dom f(x)=**R** ; es decir; existe para todos los valores de x, por lo tanto, todo su dominio será todo R
+			- ¿Representación
+		- Racionales = f(x)= $g(x)/h(x)$ 
+			- Dominios
+				- Como un cociente no se puede dividir entre 0. La función existe para cualquier valor  de x que no anulen el denominador,es decir,que conviertan el valor de x en 0.
+				- Dom f(x)= R-(x que anuel al denominador)
+			- Representación
+		- Irracionales 
+			- Con raíces pares
+				- Dominios
+					- El contenido de la raíz será calculada como un función polinómicas 
+					- Al no existir raíces negativas, el dominio será de aquellos valores de x obtenido y que sean mayores que él, osea hacia el infinito.
+				- Representación
+			- Con raíces impares
+				- Dominios
+					- Al  no tener ninguna restricción, como números negativos, su dominio será cualquier número. Su dominio depende de la solución obtenida en la función de la raíz, osea si es una polinómica o racional.
+		- Logarítmicas
+			- Dominios.
+				- Al no existir logaritmos negativos ni de 0,el dominio será aquellos valores de x que vayan al infinito. Pero en caso que tengamos un  x negativa habrá que cambiar su orientación de la inecuación hacia el menos infinito.
+			- Representación.
+		- Exponenciales
+			- Dominios
+				- El valor a será mayor 0 y diferente a 1.Su dominio dependerá del tipo de función que contenga como exponente.
+		- Trigonométricas
+			- Dominios
+				- Su dominio será en función de la función que contenga.
+		- Definidas a trozos
+			- Dominios
+				- El resultado del dominio deberá estar dentro de la función
+			- Representación
+	- Errores más comunes a tener en cuenta
+		- Duda frecuente de derivación:
+			- $y=sen²x=(senx)²$ 
+				- ¿Cómo solucionarlo?
+					- Derivamos la potencia 
+						- $y'=2*sen x*cos x$ 
+			- $y=sen x²$ 
+				- ¿Cómo solucionamos?
+					- Derivamos el seno
+						- $y'=cosx²*2x$ 
+		- Simplificaciones correcta y erróneas:
+			- $((x+1)(3x-2))/(x+1)²$ = $3x-2/x+1$ 
+				- ¿Por qué?
+					- Sí podemos simplificar, ya qie x+1 multiplica y divide.
+			- $x²+1/x²$ 
+				- ¿Por qué?
+					- No podemos simplificar, ya que $x²$ no multiplica a todo el numerador
+			- $(x²*senx*x²)/(x²)$
+				- ¿Por qué?
+					- No podemos simplificar , ya que x² no multiplica a todo el numerador.
+			- $(x²*senx*x²)/(x²)$
+				- ¿Por qué?
+					- Si,podemos simplificar, ay que x² multiplica a todo el numerador si sacamos factor común.
+		- Multiplicaciones de polinomios con funciones
+			- Los polinomios nunca se pueden multiplicar por "lo que hay dentro" de un seno,coseno,logaritmo,tangente,etc. **Hacerlo es un clásico error y bastante grave.**
+			- Ejemplo
+				- $sen(x²)*2x= sen(2x³)$  Error
+				- $sen(x²)*2x= 2x*(x²)$ Bien.
+	- Dominio
+		- Definición
+			- Es el conjunto de todos los a para los que existe algún b tal que (a,b) está en f. S a está en el dominio de f, se sigue de la definición de función que existe, en efecto, un número b único tal que (a,b) está en f. Este b único se designa por f(a).
+		- Tipo de intervalos
+			- Abiertos
+				- Cuando (a,b) este entre $a<x<b$
+			- Cerrados
+				- Cuando (a,b) este entre$a_<x_<b$ 

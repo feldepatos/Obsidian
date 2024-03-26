@@ -1,0 +1,16 @@
+- ¿Qué es una ecuación?
+	- Una ecuación es una expresión de forma :
+		- -> f(x)=g(x).
+	- donde encontrar un valor x=a .
+- ¿Cómo calcularlo?
+	- E1: f(x)= $x²+x$  h(x)= $x+1$ 
+		- $x²+1=$$x+1$ 
+		- $x²+2x-1=0$ 
+	- E2
+		- f(x)=cos h(x)= x
+		- Se puede demostrar que no existe una expresión para a que no esa otra que no sea otra que la misma expresión
+		- a es solución de cos(x)=x 
+	- Solo existe solución en funciones polinómicas donde le grado de la ecuación sea igual o menor de 4. 
+- Existencia de soluciones(simplificar el problema)
+	- Aplicando la ecuación como:
+		- f(x)-g(x)=0

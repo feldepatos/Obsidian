@@ -1,0 +1,41 @@
+- Concepto y definición
+	- ¿Qué es?
+		- Es una herramienta que nos permite conocer velocidades
+	- Ejemplos
+		- 1
+			- f(t) mide la distancia que recorre un coche
+			- f'(t) mide la velocidad que va el coche
+		- 2
+			- f(x) mide los litros de agua de un grifo
+			- f'(x) el caudal de agua que entre por la tubería
+		- 3
+			- f(x) población de ciervos en un bosque en un año.
+			- f'(x) la tasa de crecimiento o decrecimiento anual.
+- ¿Cómo calcular las derivadas?
+	- Reglas
+		- Derivadas conocidas
+		- Derivada lineal
+		- Derivada del producto
+		- Derivada del cociente 
+		- Regla de cadena
+		- 
+- Interpretación geométricas.
+	- La tangente se podría decir que es el límite, el algún sentido, de estas secantes, cuando h se aproxima a 0. Es decir, como la recta que pasa por (a,f(a)) y tiene por pendiente f'(a). Esto quiere decir que la tangente en (a,f(a)) sólo  está definida si f es derivable en a.
+	- Además nos permite calcular la ecuación normal de una función en un punto.
+		- ![[Pasted image 20230921190732.png]]
+	- ¿Cómo calcular la tangente de una derivada?
+		- La ecuación de la recta tangente a la función f(x) en el punto x=a es:
+			- $y-f(a)=f'(a)(x-a)$ donde $f'(a)=m$ 
+				- Porque la derivada de una función en un punot x=a es la pendiente de m de la recta tangente en dicho punto.
+				- La pendiente **m** también es la **tangente** del **ángulo** que forma la **recta** con la parte positiva del eje **OX**
+		- Pasos
+			-  Sustituir el valor de x por la a en la función
+			- Calcular la derivada por el valor de x.**Primero derivar y luego sustituir**
+			- Sustituimos en la ecuación de la recta
+				- Habrá que despejar la y y dejarla en  forma explícita.
+	- ¿Cómo calcular la ecuación de la recta normal a la función en el punto x=a?
+		- $y-f(a)=((-1)/(f'(a)))*(x-a)$
+			- La ecuación de la recta normal es **perpendicular**a la recta tangente( su pendiente es la inversa de la derivada cambiada de signo).
+		- Pasos
+			- Sustituir el valor de x por la a en la función
+			- Calcular la derivada por el valor de x.**Primero derivar y luego sustituir**

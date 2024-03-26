@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "d06cbc09246ee104",
+    "type": "split",
+    "children": [
+      {
+        "id": "27c640ad1e33fb63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a046d295c0c7a948",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sin título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4865793d591c257a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bf65a2407940b2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2102b411a8ddcb8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "398e711294c2817d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1c30c4d5022ed6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f0c5f5e1a5a4d0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2882953efe01772a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3353e24e3b9b1671",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sin título.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b9da671ae5fec98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sin título.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3fd568978a91e095",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81e0db7f919e36aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sin título.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a046d295c0c7a948",
+  "lastOpenFiles": [
+    "Sin título 1.canvas",
+    "Sin título 2.canvas",
+    "Universidad/Biogrado.canvas",
+    "2024-03-26.md",
+    "Sin título.canvas",
+    "Universidad/Primer cuadri/Matemáticas/Pasted image 20230921190732.png",
+    "Universidad/Primer cuadri/Matemáticas/Resolución numérica de ecuaciones.md",
+    "Universidad/Primer cuadri/Matemáticas/Repaso de matemáticas.md",
+    "DAW/Tema 2. Parámetros físicos,estructura y composición interna de la tierra..md",
+    "DAW/Tema 1. Características de las lenguajes de marcas.md",
+    "DAW/Entorno de desarrollo.md",
+    "DAW",
+    "Universidad/Primer cuadri/Matemáticas/Derivadas.md",
+    "Universidad/Segundo cuadri/Geología",
+    "Universidad/Segundo cuadri/BIología celular",
+    "Universidad/Segundo cuadri/Zoología",
+    "Universidad/Segundo cuadri/Botánica",
+    "Universidad/Segundo cuadri",
+    "Universidad/Primer cuadri",
+    "Universidad/Primer cuadri/Matemáticas",
+    "DAW/Aplicaciones informáticas.md",
+    "Universidad",
+    "Sin título 3.canvas"
+  ]
+}

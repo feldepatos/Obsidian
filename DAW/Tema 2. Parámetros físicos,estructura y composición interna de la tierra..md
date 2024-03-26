@@ -1,0 +1,59 @@
+- Anomalías de la gravedad e isostasia.
+	- Forma de la Tierra 
+		- ¿Qué es?
+			- Superficies donde el valor de a de la gravedad sea k= superficies equipotenciales
+		- Contexto
+			- La Tierra no es una esfera perfecta sino tiene irregularidades :
+				- Aplanamientos++ diferencias entre los diámetros equatorial y polar ++ en los polos.
+				- Anchamientos del ecuador.
+		- Formas
+			- Elipsoide
+			- Geoide:
+				- ¿Qué es?
+					- Superficies equipotenciales que pasan por el nivel del mar.
+					- =Tierra- relieve+ todo cubierto de agua.
+				- Definición matemática:
+					- distancia de diferentes puntos a un elipsoide de referencia+ perpendiculares al vertical.
+	- Anomalías de la gravedad
+		- Causas
+			-  Irregularidad de la tierra el valor de la gravedad será diferente(principalmente por el aplanamiento) 
+			-  Fuerza de inercia(centrífuga,antiguamente) opuesta a la atracción de la gravedad. 
+				- Inversamente proporcional d 2 ptos de observación del  eje de rotación.
+				- Resultado: + 5.300 miligals
+		- Formas de calcular la gravedad
+			- Equipo:
+				- Gravíemtro
+			- Unidades
+				- 981,274 cm/segs² 
+				- 1 gal(Galileu)
+				- 1000 miligals
+			- Fórmula
+				- Gravedad teórica:
+					- gt = 978,03185 (1 + 0,005278895 sen2 ß + 0,000023462 sen4ß) cm/seg²
+				- Gravedad práctica
+					- Instrumental
+		- Corregir las gravedades obtenidas:
+			- Tipos
+				- Aire libre:
+					- Eliminar el factor del relieve
+					- Resultado negativo
+				- Bouguer:
+					- Tiene en cuenta la masa de las rocas de las montañas.
+					- Aumento del valor de g 
+				- Topográfica:
+					- Tiene en cuenta el relieve de los alrededores.
+					- Se utiliza una tabla de medidas estándarizadas.
+				- De mareas:
+					- La atracción del sol y la luna provocan una variación en el campo gravitatorio.
+					- Se corrige con tablas de marea de gravedad.
+				- Residuo de la resta
+					- Anomalía de Bouguer.
+						- Se utiliza para estudiar como se reparte la masa en la parte superior de la Tierra.
+	- Isostasia
+		- Hipótesis:
+			- Airy:
+			- Pratt-Hayford:
+- Flujo de calor terrestre
+- Sismología
+- Estructura interna de la Tierra desde los puntos  de vista sísmico y geodinámico.
+- Composición de la escorza, manto , núcleo.

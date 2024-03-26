@@ -1,0 +1,36 @@
+- Definición de conceptos clave
+	- Software
+		- 
+	- Programa
+- Tipos de software
+	- Según
+		- Tarea
+			- Sistema
+				- Administración+ interacción entre usuario y hardware
+					- ++hardware son los componentes físicos y tangibles de una computadora, es decir, los componentes que pueden ser vistos y tocados.++
+			- Aplicación
+				- Ayudar en tareas de campo de automatización, y resiste a cualquier cambio.
+			- Desarrollo/programación
+				- Proporcionar herramientas para la escritura de programas/manipular de datos.
+		- Distribución
+			- Shareware
+				- Gratuitamente x versión de manera temporal y tendrá restricciones sujeto a pago.
+				- Permite compartir el software a demás indivuduos.
+			- Freeware
+				- Permite la instalación en más individuos(cuentas/dispositivos) Spotofy
+				- Pero el código fuente no es accesible.
+			- Adware
+				- South Park; 
+				- No hay aplicación gratis: publicidad
+		- Licencia
+			- Libre
+				- Permite 
+					- Modificación
+					- Distribución
+					- Publicación de las mejoras que tu realices.
+			- Propietario
+				- No tienes permiso
+					- Redistribución
+					- Código fuente
+			- Dominio  público
+				- Es de todo.
