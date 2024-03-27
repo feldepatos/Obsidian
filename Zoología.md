@@ -7,3 +7,8 @@
 		- Permiductes → depres vesícula espermática (para diferenciar de mamíferos)
 		- Hay un momento donde se comunica el ovario con el glándula vitelogena antes de unirse con el esperma
 		- Tiene una bolsa para el esperma ajeno
+- Neodermis un grupo monofiletico a parte de los turbelarios y se llama neodermata.
+- Miracidio
+- Esporocisto
+- Redia→Cercaria↓Metacercaria(es la que sale)→ adulto
+- Metamorfosis regenerativa

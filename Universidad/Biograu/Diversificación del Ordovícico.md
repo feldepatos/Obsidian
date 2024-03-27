@@ -7,6 +7,8 @@
 		- Tectónica 
 			- La gran separación continental y formación de mini continentes.
 				- Diversidad de condiciones → Biodiversificación, que se observa en 
+			- Tipos de margenes
+				- 
 			- Lugares donde buscar
 				- Argentina
 					- Regiones
@@ -33,8 +35,23 @@
 		- Arrecifes
 	- Paleoclima
 		-  Climas anteriores al Ordovícico
-		- Temperaturas
-		- La subida de temperatura y la bajada por la proximidad a una época de glaciación
+			- Cámbrico
+		- Actual
+			- Ordovícico
+		- Posterior
+			- Siluriano
+		- ¿En que nos basaremos?
+			- CAI→Índice de Altaración del Conodonto
+				- https://sarv.gi.ee/igcp503/IGCP503/page/abstracts.pdf Página 15→ Ordovician paleothermometry of the Argentine Precordillera based on Conodont Color Alteration Index
+				- Conodont geothermometry of the lower Paleozoic from the Precordillera (Cuyania terrane), northwestern Argentina
+					- ![[Pasted image 20240327110311.png]]
+		- Glaciación→ Hirnantiense
+		- Composición de la Atmófera
+			- [CO2]
+				- Basandose en el estudio de la concentración del isótopo carbono 13 porque es un indicador ambiental que nos permite medir el volumen de los elementos que se encuentran en la Tierra
+					- Link
+						- https://sarv.gi.ee/igcp503/IGCP503/page/abstracts.pdf
+			- [O2]
 	- Fluctuaciones del mar
 	- Fauna
 		- Primeras plantas similares a las vasculares
@@ -42,6 +59,7 @@
 -  GOBE
 	- Características
 		- Período geológico donde se produjo un rápido aumento de rasgos taxonómicos inferiores (familias, géneros y especies ) a diferencia que el cámbrico que destacó por la aparición de nuevos filos.
+		- A diferencia de la explosión Cámbrica, es más establa 
 	- Línea del tiempo
 		- El año que se acuño el término
 		- IGCP= Programa Internacional de Correlación Geológica
@@ -87,12 +105,20 @@
 			- Moluscos
 				- Bivalvos!
 			- Poríferos
+				- Estromatoporoides
 			- Briozoos!
-				- La primera aparición
+				- La primera aparición Tremadociano
 			- Equinodermos
+			-  Conodonta
 - En caso de no elegir Argentina
 	- Las diferentes continentes de la fragmentación( Hablar de la téctonica de estas zonas así como sus biotas)
 		- Laurentia+Báltica
 		- Godwana y periferia
 		- Franjas Pantalásicas
+- Autores
+	- Sepkoski
+		- Grandes Faunas Evolutivas
+			- ![[Pasted image 20240327091343.png]]
+	- Webby
+	- Cramer
 

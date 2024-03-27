@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "6a5a1b29a193db39",
+            "id": "73d5d4f8576297e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zoología.md",
+                "file": "Diversificación del Ordovícico.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,9 +100,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidad/Biograu/Diversificación del Ordovícico.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Diversificación del Ordovícico.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universidad/Biograu/Diversificación del Ordovícico.md",
+                "file": "Diversificación del Ordovícico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidad/Biograu/Diversificación del Ordovícico.md"
+                "file": "Diversificación del Ordovícico.md"
               }
             }
           }
@@ -160,15 +162,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a4f1551584392207",
+  "active": "73d5d4f8576297e2",
   "lastOpenFiles": [
-    "Zoología.md",
     "Universidad/Biograu/Diversificación del Ordovícico.md",
+    "Diversificación del Ordovícico.md",
+    "Pasted image 20240327110311.png",
+    "Biología celular.md",
+    "Zoología.md",
+    "Pasted image 20240327091343.png",
+    "Git.md",
     "Pasted image 20240327085712.png",
     "67382940_1487335141408688_3147055922283544576_n.jpg",
     "Universidad/Sin título.md",
     "Universidad/Biogrado.canvas",
-    "Diversificación del Ordovícico.md",
     "Sin título 3.canvas",
     "Sin título 2.canvas",
     "Sin título.canvas",
