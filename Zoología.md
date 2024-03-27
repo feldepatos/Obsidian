@@ -12,4 +12,3 @@
 - Esporocisto
 - Redia→Cercaria↓Metacercaria(es la que sale)→ adulto
 - Metamorfosis regenerativa
-- prueba
