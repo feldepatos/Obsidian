@@ -39,3 +39,4 @@
 		- Pasos
 			- Sustituir el valor de x por la a en la función
 			- Calcular la derivada por el valor de x.**Primero derivar y luego sustituir**
+			- as

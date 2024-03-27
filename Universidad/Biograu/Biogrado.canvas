@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"18f3870767e2431c","type":"text","text":"# GOBE\n## The Great Ordovician Biodiversification Event","x":-240,"y":-80,"width":500,"height":200,"color":"6"},
+		{"id":"6c723f2cca073144","type":"text","text":"Antecedentes","x":-115,"y":-240,"width":250,"height":60},
+		{"id":"ff27c80c3c46281d","type":"text","text":"Situación en el Paleozóico\n","x":-137,"y":-420,"width":295,"height":80},
+		{"id":"3dfe783983cde5b2","type":"text","text":"La Explosión Cámbrica","x":-114,"y":-580,"width":250,"height":80},
+		{"id":"b3435cf1f8afa569","x":-620,"y":-10,"width":250,"height":60,"type":"text","text":"Conferencias"},
+		{"id":"6045935f99f9e39b","x":-900,"y":-5,"width":250,"height":55,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"59398561a9ae6279","fromNode":"6c723f2cca073144","fromSide":"top","toNode":"ff27c80c3c46281d","toSide":"bottom","color":"3"},
+		{"id":"1af74e3028dd7799","fromNode":"ff27c80c3c46281d","fromSide":"top","toNode":"3dfe783983cde5b2","toSide":"bottom","color":"3"},
+		{"id":"1116532f39cfe030","fromNode":"18f3870767e2431c","fromSide":"top","toNode":"6c723f2cca073144","toSide":"bottom","color":"3"},
+		{"id":"5dfbdb4ff695e09f","fromNode":"18f3870767e2431c","fromSide":"left","toNode":"b3435cf1f8afa569","toSide":"right"}
+	]
+}

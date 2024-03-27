@@ -1,0 +1,98 @@
+- Antecedentes
+	- La situación en el Paleozoico
+		- Explosión Cámbrica
+			- Imágenes de Cánada → Ventana del Pasado 
+- Causas
+	- Paleogeografía
+		- Tectónica 
+			- La gran separación continental y formación de mini continentes.
+				- Diversidad de condiciones → Biodiversificación, que se observa en 
+			- Lugares donde buscar
+				- Argentina
+					- Regiones
+						- Precordillera→Plataforma carbonática de margen pasivo y aguas templadas a cálidas→ Depósitos Calcáreos del Ordovícico inferior
+							- Zonas que originaron en la actualidad
+								- La silla
+									- Tremadociano
+										- Tribolites pocos diversos
+										- Escasos gasterópodos
+										- Nautiloides
+										- Conodantes
+								- San juan
+									- Arrecifes
+										- Calcimicrobios y esponjas
+										- Microbialitos , receptaculítidos y estromatoporoides
+						- Sistema de Famatina→ Plataformas volcaniclástica en latitudes intermedias
+							- Tribolites de plataforma externa con bajos niveles de oxigenación→ Formas nadadoras mesopelágicas o bentónicas casi ciegas 
+						- Cordillera Oriental→ plataforma silococlástica
+					- ¿Por qué Argentina?
+						- En este país se desarrollo un ecosistema muy disperso debido a sus condiciones tectónicas y latitudes 
+							- 
+	- Paleoecología
+		- Placton
+		- Arrecifes
+	- Paleoclima
+		-  Climas anteriores al Ordovícico
+		- Temperaturas
+		- La subida de temperatura y la bajada por la proximidad a una época de glaciación
+	- Fluctuaciones del mar
+	- Fauna
+		- Primeras plantas similares a las vasculares
+		- Criptoesporas
+-  GOBE
+	- Características
+		- Período geológico donde se produjo un rápido aumento de rasgos taxonómicos inferiores (familias, géneros y especies ) a diferencia que el cámbrico que destacó por la aparición de nuevos filos.
+	- Línea del tiempo
+		- El año que se acuño el término
+		- IGCP= Programa Internacional de Correlación Geológica
+			- 410
+				- Objetivos
+					- Biodiversificación→ Las biotas
+						- Equipo Clado→ programa de equipo global independiente de clados para evaluar como cada grupo taxonómico 
+							- Imagen de los participantes
+								- ![[Pasted image 20240326203130.png]]
+			- 503
+				- Objetivos 
+					- Paleogeografía
+					- Paleoclima
+				- Fotos de los participantes
+					- ![[Pasted image 20240326201536.png]]
+					- https://sarv.gi.ee/igcp503/IGCP503/page/field_trip.html A elegir una foto
+			- 591(2011-2015)
+				- Objetivos
+			- 653(2016-2021)→ El inicio del GOBE
+				- Objetivos
+					- Analizar las causas que propiciaron la rápida diversificación marina
+				- Integrantes
+					- ![[67382940_1487335141408688_3147055922283544576_n.jpg]]
+			- 735 (2021-2025)
+				- Objetivos
+					- 
+				- Integrantes
+					- ![[Pasted image 20240327085712.png]]
+					- Este proyecto no está terminado
+						- Nanjing mayo 2024
+						- Puerto de la Cruz 
+						- Tartu Estonia
+						- Busan
+						- Córdoba 
+- Organismos
+	- Animales
+		- Bentónicos
+			- Braquiópodos!
+				- Rinconelliformes!
+				- Linguliformes
+			- Trilobites
+			- Ostráculos
+			- Moluscos
+				- Bivalvos!
+			- Poríferos
+			- Briozoos!
+				- La primera aparición
+			- Equinodermos
+- En caso de no elegir Argentina
+	- Las diferentes continentes de la fragmentación( Hablar de la téctonica de estas zonas así como sus biotas)
+		- Laurentia+Báltica
+		- Godwana y periferia
+		- Franjas Pantalásicas
+
