@@ -8,7 +8,6 @@
 			- La gran separación continental y formación de mini continentes.
 				- Diversidad de condiciones → Biodiversificación, que se observa en 
 			- Tipos de margenes
-				- 
 			- Lugares donde buscar
 				- Argentina
 					- Regiones
