@@ -1,0 +1,95 @@
+-  Contactos intercelulares
+	- Características
+		- Forman los tejidos y los órganos
+	- Tipos de uniones
+		- Herméticas/ocludens/estrecha/tight junctions
+			- ¿Qué es?
+				- Es un tipo de unión donde las membranas se hallan completamente unidas
+			- Características
+				- Dependientes de Ca.
+				- Compuestas por proteínas transmembrana
+				- Impiden el  libre transporte de moléculas entre las dos células porque actúa como barrera selectiva.
+				- Se asocian con uniones adhesivas y desmosomas para formar complejos de unión.
+				- Este tipo de unión solo mantiene unida en los puntos de contacto.
+				- En caso de mutación → puede producir tumor
+			- Vista desde el microscopio
+				- Una red.
+				- ↑ Complejidad = ↑oclusión
+					- ![[Pasted image 20240330205912.png]]
+			- Estructura
+				- Proteínas que intervienen
+					- Ocludina
+						- Proteínas integral
+						- Regula la permeabildiad selectiva paracelular
+						- La unión no depende de esta proteína
+					- Claudina
+						- Proteínas integral
+						- Las diferentes claudina condicionan la permeabilidad
+					- JAM→Junctial Adhesion Molecule
+						- Proteínas integrales que pertenecen a la superfamilia de  las inmunoglobulinas
+						- Sirve de anclaje al citoesqueleto de actina
+			- Función
+				- Pueden participar en la proliferación celular
+					- ++ por ello, en caso de mutación puede provocar tumores++ 
+				- Forman una barrera que separa entre el espacio extracelular 
+					- En caso de un fallo a nivel funcional puede provocar la disrupción de la integridad de la barrera intestinal
+				- Además forman canales o poros selectivos
+				- Mantienen la polaridad de los epitelios 
+			- Unión en invertebrados
+				- Uniones septadas
+		- Anclaje
+			- Características
+				- Adhesión celular a modo de velcro
+				- Desplazamiento celular porque reptan
+				- Puede regular el nivel de adhesión en función de las integrinas que conforman la unión
+			- Tipos 
+				- Intercelular/cél-cél
+					- Componentes con los que intervienen
+						- Citoesqueleto
+						- Complejo proteíco citosólico
+						- Proteína transmembrana
+					- Estructura
+					- Tipos en función del tipo de citoesqueleto que interviene
+						- Adherentes→ microfil.actina
+						- Desmosomas→ filamentos intermedios
+				- Extracelular/Célula-matriz extracelular
+					- Características
+						-  Puede regular el nivel de adhesión en función de las integrinas que conforman la unión
+					- Estructura
+					- Tipos
+						- Adhesiones focales
+						- Hemidesmosomas
+		- Comunicantes
+			- Características
+				- NO dependientes de Ca
+				- Tiene versión vegetal→plasmodesmos
+				- NO tienen filamentos del citoesqueleto asociados
+				- Permite el paso de sustancias por diferentes señales
+					- Eléctricas
+					- Metabólicamente
+			- Tipos
+				- GAP
+					- Estructura
+					- Función
+				- Plasmodemas
+					- Estructura
+		- Proteínas de adhesión celular.
+- Señalización celular
+	- Tipos de señalización
+	- Moléculas señalizadores
+		- Hormonas esteroidees
+		- NO (Óxido nítrico)
+		- Neurotransmisores
+	- Tipos de receptor
+		- Intracelulares
+		- De membrana
+			- Acoplados a
+				- Canales iónicos
+				- Proteínas G
+				- Enzimas
+- Glosario
+	- Mácula→ Una unión puntual que se limita a un pequeña superficie de la membrana.
+	- Zónula→ si forma una banca de unión que ocupa el perímetro de la célula.
+	- MEC→matriz extracelular
+	- Interacción homofílicas→ entre mismas proteínas
+	- Interacción heterofílicas→ diferentes proteínas
