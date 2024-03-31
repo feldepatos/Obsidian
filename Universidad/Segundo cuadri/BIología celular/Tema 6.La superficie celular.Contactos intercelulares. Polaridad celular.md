@@ -39,7 +39,7 @@
 				- Uniones septadas
 		- Anclaje
 			- Características
-				- Adhesión celular a modo de velcro
+				- Adhesión celular a modo de velcro porque son muchas células.
 				- Desplazamiento celular porque reptan
 				- Puede regular el nivel de adhesión en función de las integrinas que conforman la unión
 			- Tipos 
@@ -48,17 +48,98 @@
 						- Citoesqueleto
 						- Complejo proteíco citosólico
 						- Proteína transmembrana
+					- Características
+						- Dependientes de Ca
+						- Transmiten señales al citoesqueleto
+					- Proteínas
+						- Cadherinas
+							- Forman uniones homotípicas
+								- Se reconocen a otras cadherinas en la célula adyacente.
+								- Se asocian lateralmente.
+							- ![[Pasted image 20240331135232.png]]
+							- Se utilizan para la comunicación celular pero solo pueden establecer conexiones con células que provengan de la misma hoja embrionaria porque tendrán las mismas características morfológicas.
+							- Hay cadherinas específicas que se pueden vincular con la metástasis de cáncer.
+						- Inmunoglobulinas
+							- Características
+								- Forman uniones homotípicas con la célula adyacente, aunque puede realizar heterofílico.
+								- Participan en la función inmune.
+								- Algunas originan adhesiones intercelulares independientes de Ca (indirecta).
+							- Inmuno importantes
+								- NCAM/CD56→Neural Cell Adhesion Molecule
+									- 
+								- L1
+									- Común en neuronas
+								- VCAM→ Vascular Cell Adhesion Molecule
+									- 
+						- Selectinas
+							- Forman uniones heterotípicas porque se unen a glúcidos presentes en la célula vecina.
+					- Función
+						- Función adherente
+						- Conectan nexos de fibras de actina entre células vecinas
+						- Participan en los movimientos morfogenéticos
+							- Las fibras de actina realizan este proceso, las uniones adherentes actuan como intermediarios entre células adjacentes→ invaginación
+								- Las células se desplazan al interior, porque las célula actúan como efecto dominó
+						- Son importantes para el aislamiento celular.
 					- Estructura
+						- Forman dímeros entre las cadherinas cercanas, que en presencia de Ca se formarán y estableceran uniones con los otros dímeros de encima.
+						- ![[Pasted image 20240331135642.png]]
 					- Tipos en función del tipo de citoesqueleto que interviene
 						- Adherentes→ microfil.actina
 						- Desmosomas→ filamentos intermedios
+							- Proteínas
+								- Desmoplaquina
+								- Placoglobina
+								- Placofilina
+							- Características
+								- Son uniones puntuales
+								- ↑ en células epiteliales y musculares
+					- Enfermedades
+						- Autoinmune
+							- Desarrolla anticuerpos contra las cadherinas propias y deshace los desmosomas y produce un debilitamiento de la piel y pérdida de fluidos corporales
+						- Bacterianas→Clostridium difficile
+							- Produce toxinas que eliminan las cadherinas que provocan diarres, donde el agua saldrá y entrarán otras sustancias como bacterias que puede provocar una sepsis.
 				- Extracelular/Célula-matriz extracelular
+					- Componenentes que aporta la célula
+						- Citoesqueleto
+						- Complejo proteíco citosólico
+						- Proteína transmembrana
 					- Características
-						-  Puede regular el nivel de adhesión en función de las integrinas que conforman la unión
+						- Puede regular el nivel de adhesión en función de las integrinas que conforman la unión
+						- En caso de mutación de las integrinas provocan tumores.
+							- Diferencia de las cadherinas.
+					- Proteínas
+						- Integrinas
+							- Presenta 3 dominios
+								- Intracelular
+									- Conecta con filamentos de actina del citoesqueleto
+								- Extracelular
+									- Con fibras de colágeno, fibronectinas y lamininas
+								- Intramembrana
+									- Formado por secuencias de aa hidrófobos entre las cadenas de ácidos grasos de la membrana.
+							- Permite una continuidad  estructural mecánica entre el interior y el exterior de la célula.
+							- Modifican su capacidad de adhesión cambiando el número de integrinas.
+							- Pero su nivel de adhesión es menor que otras proteínas
+							- Caso de formar hemidesmosomas
+								- En vez de establecer contacto con la actina lo hará con los filamentos intermedio.
+					- Función
+						- Unión a la matriz extracelular y punto de anclaje para el citoesqueleto.
 					- Estructura
+						- ![[Pasted image 20240331133310.png]]
+						- En la imagen se observa un complejo de unión donde están presentes las uniones herméticas, las adherentes, desmosomas. Debajo se encuentra las uniones gap.
 					- Tipos
-						- Adhesiones focales
-						- Hemidesmosomas
+						- Adhesiones focales→Actina
+							- Caracteríticas
+								- Tienen interacciones heterofílicas
+								- ![[Pasted image 20240331134625.png]]
+							- Función
+								- Interviene para el movimiento de la célula
+						- Hemidesmosomas→ intermedios
+							- Características
+								- Parecidos morfológicamente a medio desmosomas.
+								- En algunos vertebrados inferiores puede tener una placa adiccional.
+							- Se unen  las células epiteliales a la lamina basal gracias al dominio extracelular de la integrina, mientras que el dominio intracelular contacta con los filamentos intermedios citosólicos
+							- Visualmente parecen mitad de un desmosomas pero presentan diferencias moleculares.
+							- ![[Pasted image 20240331203342.png]]
 		- Comunicantes
 			- Características
 				- NO dependientes de Ca
@@ -67,11 +148,63 @@
 				- Permite el paso de sustancias por diferentes señales
 					- Eléctricas
 					- Metabólicamente
+				- Permiten la comunicación directa entre los citoplasma de dichas células.
+				- Formados por proteínas transmembrana que se asocian para formar canales.
+				- La permeabilidad depende de la expresión de diferentes tipos de conexinas→
+					- Tipo celular
+					- Grado de diferenciación.
 			- Tipos
 				- GAP
 					- Estructura
+						- ![[Pasted image 20240331203626.png]]
+						- ![[Pasted image 20240331210407.png]]
+						- Atraviesan la pared celular 
 					- Función
+						- Acoplamiento
+							- Metabólico→hepático
+							- Fisiológico→oovocitos
+							- Eléctrico→ muscular
+						- Paso de sustancias 
+							- Iones
+							- Glúcidos sencillos
+							- Segundos mensajeros 
+								- AMPc
+								- Ca
+								- aa
+						- Libre difusión entre células vecinas
+					- Factores que condiciona :
+						- Permeabilidad
+							- Medida de contacto
+							- Nº de contacto
+						- su cerramiento
+							- ↓pH
+								- Daño celular
+							- ↑Ca
+								- Cuando excede el límite
+							- Productos metabólicos
+								- ↓ de dopamina
+					- Proteínas
+						- Connexon
+							- Partículas de 8,5 nm con separación de membrana de 2-4 nm. Formado por unidades hexagonales llamadas connexinas.
+								- Estas pueden tener uniones homoméricas o heteroméricas
+								- 6 forman un hemicanal
+									- 2 hemicanal→ canal
+								- Hay un limitado número de combinaciones de conexinas, por ello, las células expresan 2 tipos de conexinas.
+								- Los canales pueden ser homotípicos o heterotípicos.
+					- Enfermedades
+						- Charcot Marie
+							- ¿Qué es?
+								- Enfermedad neurodegenerativa en los nervios periféricos.
+							- Síntomas
+								- Sordera
+								- Enfermedades de piel
+								- Cataratas cognéticas
 				- Plasmodemas
+					- Características
+						- Se forman durante la mitosis entre células hijas que no acaban de separarse.
+						- Tienen una apertura regulable y permiten el paso de sustancias necesarias para el desarrollo vegetal
+							- Hormonas
+							- ARNs
 					- Estructura
 		- Proteínas de adhesión celular.
 - Señalización celular
@@ -93,3 +226,7 @@
 	- MEC→matriz extracelular
 	- Interacción homofílicas→ entre mismas proteínas
 	- Interacción heterofílicas→ diferentes proteínas
+	- Proteínas citosólicas→ son grandes complejos de enzimas que son responsables de varias vías metabólicas, la síntesis de proteínas y otros procesos importantes de señalización celular.
+	- Uniones homomérica→ misma conexina
+	- Uniones heteroméricas→ diferentes conexina
+	- NPA: **KA30178**
