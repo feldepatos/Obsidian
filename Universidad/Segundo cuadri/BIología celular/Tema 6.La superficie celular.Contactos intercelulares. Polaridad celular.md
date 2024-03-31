@@ -42,6 +42,7 @@
 				- Adhesión celular a modo de velcro porque son muchas células.
 				- Desplazamiento celular porque reptan
 				- Puede regular el nivel de adhesión en función de las integrinas que conforman la unión
+				- Las células sin migración pueden migrar, que pueden agregarse hasta diferenciarse 
 			- Tipos 
 				- Intercelular/cél-cél
 					- Componentes con los que intervienen
@@ -63,16 +64,34 @@
 							- Características
 								- Forman uniones homotípicas con la célula adyacente, aunque puede realizar heterofílico.
 								- Participan en la función inmune.
+									- Diapédesis
 								- Algunas originan adhesiones intercelulares independientes de Ca (indirecta).
 							- Inmuno importantes
 								- NCAM/CD56→Neural Cell Adhesion Molecule
-									- 
+									- Induce el crecimiento de la neurita en las células embrionarias
+									- Mediodora de CAM entre las neuronas y entre neuronas y músculo.
+									- En marcador molecular para ciertos cánceres
 								- L1
 									- Común en neuronas
 								- VCAM→ Vascular Cell Adhesion Molecule
-									- 
+									- Migración de células inflamatorias a la pared vascular
+										- → Diapédesis
+									- Relacionados con la angiogénesis y la formación de vasos sanguíneos en tejidos tumorales.
 						- Selectinas
-							- Forman uniones heterotípicas porque se unen a glúcidos presentes en la célula vecina.
+							- Proteínas transmembrana, son lectinas de superficie que participan en la adhesión de glóbulos blancos a células endotiales o plaquetas.
+							- Reconocen ligandos fucosilados, sialilados y en algunos casos sulfatos que aparecen en glucoproteínas.
+							- Forman uniones heterofílicas porque se unen a glúcidos presentes en la célula vecina.
+							- Son fisiológicamente importantes en procesos 
+								- Inflamatorios
+									- diapédesis
+								- Inmunológicos
+							- Participan en ciertas enfermedades
+								- Ateroesclerosis
+								- Lesión por reperfusión post-isquémica
+								- Inflamatorias
+								- Capacidad metastática de algunos cánceres.
+							- ![[Pasted image 20240331221402.png]]
+								- Diapédesis
 					- Función
 						- Función adherente
 						- Conectan nexos de fibras de actina entre células vecinas
@@ -121,6 +140,9 @@
 							- Pero su nivel de adhesión es menor que otras proteínas
 							- Caso de formar hemidesmosomas
 								- En vez de establecer contacto con la actina lo hará con los filamentos intermedio.
+							- Se enganchan a la lamina basal
+							- Dependientes de Ca.
+							- Son receptores de membrana, se encuentra mayoria
 					- Función
 						- Unión a la matriz extracelular y punto de anclaje para el citoesqueleto.
 					- Estructura
