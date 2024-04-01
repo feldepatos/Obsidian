@@ -231,10 +231,130 @@
 		- Proteínas de adhesión celular.
 - Señalización celular
 	- Tipos de señalización
-	- Moléculas señalizadores
+		- En función del receptor
+			- Sin contacto
+				- Sinapsis
+				- Presenta una molécula soluble como receptor
+			- + contacto
+				- Glucocalix
+					- Molécula fija como receptor
+					- Provocan cambios en la fisiología celular.
+		- Forma de interacción
+			- Paracrina
+				- La célula diana se encuentra cerca, por ello, no requiere transporte mediante la sangre.
+			- Endocrina
+				- Requiere el transporte porque la célula diana se encuentra en otro lugar 
+			- Autocrina
+				- A la misma célula que emite la señal.
+					- Me lo como me lo guiso.
+	- Tipos de respuesta a una señalización celular→dependen de la señal y receptores
+		- Supervivencia
+		- Crecimiento+división
+		- Diferenciación
+		- Muerte
+		- Cambios
+			- Fisiológicos
+			- Metabólicos.
+	- Modelo de respuesta celular→proceso general
+		- ![[Pasted image 20240401002933.png]]
+			- El receptor de la membrana puede estar dentro o fuera
+			- Puede tener dos rutas
+				- Rápida→sec a min
+					- Alteración de la función de una proteína
+				- Lenta→ min a horas
+					- Entra al núcleo modificando el patrón de la expresión génica.
+			- Ambos alteran la maquinaria citoplasmática→ a la célula.
+	- Moléculas señalizadores→hidrofobicas
 		- Hormonas esteroidees
+			- Características
+				- Hidrofobicas 
+					- Son capaces de atravesar la membrana
+						- Que se unen a receptores intracelulares
+			- Sexuales
+				- Testosterona,estrógenos y progesterona
+					- Ambos son similares al provenir del colesterol
+						- Entonces sus respectivos receptores no diferencia entre ellos
+							- Debido a eso cuando hay un exceso de su concentración, el excedente irá a los receptores de las otras hormonas de manera que se activará sus efectos.
+			- Metabolismo
+				- Cortisol→Hormona del estrés
+					- Regula el ritmo circadiano
+				- Aldosterona
+					- Sistema renina-angiotensina-aldosterona
+						- Regula el agua y sales en el riñon
+							- Homeostosis
+				- Tiroides
+					- Sus metabolitos regulan el metabolismo
 		- NO (Óxido nítrico)
+			- Característica
+				- No activa a la enzima guanilil ciclasa 
+					- Esa enzima es un receptor del NO y cataliza la formación del GMP a partir del GTP
+				- GMPC actúa como segundo mensajero.
+				- Ante un estímulo la enzima NOS (NO sintetasa) se sintetiza NO.
+					- Interviene la L-arginina
+					- Requiere NADPH+O2.
+			- Forma de entrada
+				- Difusión simple, porque es un gas.
+			- Funciones
+				- Regula la presión sanguínea
+					- Vasodilatador
+			- Mecanismo
+				- Teórico
+					- Las células sintetizan el gas como relajante muscular a modo de respuesta a ciertos estímulos.
+						- Se transmite a la parte muscular de la arteria y la relaja y, con ello, se produce su dilatación.
+				- Esquema
+					- Acetilcolina→activación de células→Síntesis de NO→ Difusión del NO a las células musculares lisas→Síntesis de GMPc→Relajación muscular→Dilatación del vaso sanguíneo→Eliminación del GMPc por PDE5.
+					- ![[Pasted image 20240401021051.png]]
+				- Inhibición
+					- Nitroglicerina
+						- Porque bloquea la acción del PDE5 
 		- Neurotransmisores
+			- Forma de transmisión
+				- Hidrofílicas
+					- Se unen a receptores en la membrana de la célula diana.
+					- Tipos de receptores
+						- Canales iónicos
+						- Acoplados a proteínas
+			- Características
+				- Se liberan, como consecuencia de un potencial de acción, en la sinapsis.
+			- Los importantes
+				- Epinefrina/adrenalina
+					- Sube la presión arterial
+				- Glicina
+					- Actúa como inhibidor del sistema nervioso central
+				- Serotonina
+					- Relación con el control de las emociones y el estado de ánimo.
+				- Histamina
+					- Relación con los procesos de hipersensibilidad.
+					- Actúa como neurotransmisor en el sistema nervioso central.
+				- Acetilacolina
+					- Es el whatsapp
+						- Envia el mensaje a otras células desde nerviosas,musculares y glandulares.
+		- Otros
+			- Hormonas
+			- Eicosanoides
+			- Hormonas vegetales
+				- Auxines
+					- Elongación
+					- Diferenciación
+				- Gibberelinas
+					- Elongación del tallo
+				- Citoquinas
+					- División celular
+				- Ácido abscisico
+					- Germinación
+				- Etileno
+					- Maduración de la fruta
+	- Una molécula y varias respuestas
+		- Una misma molécula señalizadora puede generar diferentes respuestas.
+			- Se ve condicionada por el tipo de célula sobre la que actua y del receptor presente en la célula afectada.
+		- Receptores 
+			- muscarínicos
+				- Produce AMPcíclico
+			- Nictotínicos
+				- Contrae
+					- Pone fin a la contracción muscular
+				- Dependiente del Ca.
+				- Canal que se abre
 	- Tipos de receptor
 		- Intracelulares
 		- De membrana
