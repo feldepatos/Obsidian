@@ -1,3 +1,4 @@
+- El gato de Cheshire es comúnmente conocido por ser el gato de las aventuras de Alicia en el mundo de las Maravillas.
 - El gato Cheshire
 	- - El efecto Cheshire Cat, descrito por Sally Duensing y Bob Miller, es una rivalidad binocular lo que hace que los objetos estacionarios vistos en un ojo desaparezcan de la vista cuando un objeto en movimiento cruza frente al otro ojo.
 	- Cada ojo ve dos vistas diferentes del mundo, envía esas imágenes a la corteza visual donde se combinan, y crea una imagen tridimensional. El efecto Cheshire Cat ocurre cuando un ojo está fijado en un objeto estacionario, mientras que el otro nota algo en movimiento. Dado que un ojo está viendo un objeto en movimiento, el cerebro se enfocará en él, causando que partes del objeto estacionario se desvanecen completamente de la visión.
