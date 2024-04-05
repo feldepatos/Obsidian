@@ -1,7 +1,7 @@
 - Antecedentes
 	- La situación en el Paleozoico
 		- Explosión Cámbrica
-			- Imágenes de Cánada → Ventana del Pasado 
+			- En el Cámbrico se produjo una gran aparición de numerosos filos que consigo trajo una seria de nuevos planos corporales y el inicio de la esquel
 - Causas
 	- Paleogeografía
 		- Tectónica 
@@ -52,13 +52,10 @@
 						- https://sarv.gi.ee/igcp503/IGCP503/page/abstracts.pdf
 			- [O2]
 	- Fluctuaciones del mar
-	- Fauna
-		- Primeras plantas similares a las vasculares
-		- Criptoesporas
 -  GOBE
 	- Características
 		- Período geológico donde se produjo un rápido aumento de rasgos taxonómicos inferiores (familias, géneros y especies ) a diferencia que el cámbrico que destacó por la aparición de nuevos filos.
-		- A diferencia de la explosión Cámbrica, es más establa 
+		- A diferencia de la explosión Cámbrica, es más estable
 	- Línea del tiempo
 		- El año que se acuño el término
 		- IGCP= Programa Internacional de Correlación Geológica
@@ -120,4 +117,6 @@
 			- ![[Pasted image 20240327091343.png]]
 	- Webby
 	- Cramer
+- Glosario
+	- Radiación→
 

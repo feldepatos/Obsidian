@@ -1,0 +1,169 @@
+- Introducción
+	- Arqueotipo
+		- Se trata del modelo ideal del cual podría derivar todas las especies o, al menos, todas las especies de un filo.
+- Desarrollo embrionari→ segmentación+gastrulación+organogénesis
+	- Modelo
+		- ![[Pasted image 20240402004605.png]]
+		- ![[Pasted image 20240402011015.png]]
+		- ![[Pasted image 20240402011637.png]]
+	- Fases
+		- Segmentación
+			- Antecedentes
+				- Epigénesis
+					- Material granular indiferenciado que acabaría disponiéndose en capas, que continuaría engrosando, pleglándose y segmentándose hasta que parezca un embrión.
+			- ¿Qué es?
+				- Es una fase donde el cigoto se divide repetidamente hasta formar el blastómeros.
+					- No habrá un aumento de tamaño, solo de subdivisión hasta alcanzar el tamaño de una célula somática y la proporción entre núcleo y citoplasma sea equidestente.
+				- Es la división del zigoto que origina los blastómeros. Estos se agrupan en una morula que tiene casi el mismo tamaño del zigoto.
+			- Características
+				- Al final de la segmentación el cigoto se ha dividido miles de veces
+				- Hay un ↑ rápido aumento de DNA.
+				- Cambio en la composición química por un desplazamiento de las partes constituyentes del citoplasma ovular.
+				- El blastómero presenta un eje polar que establece la dirección de la tabicación y la subsiguiente diferenciación del embrión.
+			- Patrones de segmentación
+				- Características
+					- Los huevos con muy poco vitelo distribuido uniformemente se llaman isolecitos.
+					- Es holoblástico en animales. equinodermos, tunicados, cefalocordados, nementinos, moluscos, mamíferos marsupiales y placentarios.
+						- El hecho que la segmentación sea holoblástica significa que el surco de segmentación afecta al cigoto.
+						- En muchos invertebrados con poco vitelo se transforma en un estado larvario que nada libremente→Desarrollo indirecto
+				- Tipos
+					- Radial Holoblástico
+					- Espilar Holoblástico
+					- Discoidal meroblástico
+					- Rotacional holoblástico
+					- ![[Pasted image 20240402181408.png]]
+					- ![[Pasted image 20240402181522.png]]
+				- Tipos de huevo en función de la concentración
+					- Isolecito
+						- ↓ Vitelo distribuida por todo el huevo
+					- Mesolecito
+						- Tienen una cantidad moderada de vitelo concentrada en el polo vegetativo
+					- Telolecito
+						- ↑ 
+					- Centrolecito
+				- Otra forma de diferenciar los tipos de segmentación
+					- En función de
+						- Afectación del huevo
+							- Total→Holoblástica
+								- Afecta a todo el huevo
+							- Parcial→Meroblástica
+								- Afecta a una sola parte del huevo
+						- Tamaño de blastómero
+							- Igual→todos son del mismo tamaño
+							- Desigual→hay 2 tipos
+								- Macromeros
+								- Micromeros
+						- Organización del blastómero
+							- Irregular
+								- Disposición desorganizada de los blastómeros
+							- Regular
+								- Radial
+									- Los blastómeros se agrupan en hileras verticales y horizontales dejando surcos meridianos y latitudinales.
+								- Espiral
+									- Los blastómeris se disponen, alternándose, en capas horizontales dejando surcos oblicuos en relación al eje de polaridad del huevo.
+						- Destino del blastómero
+							- Determinado→Mosaica
+								- El destino de cada blastómero está fijado desde las primeras etapas de la segmentación.
+							- Indeterminado
+								- No está prefijado el destino final de cada blastómero
+						- Simetría del blastómero
+							- Bisimétrica→Birradial
+								- Los dos primeros planos de segmentación (meridianos) constituyen los planos de simetría del embrión→Ctenóforos
+							- Bilateral
+								- El primer plano de segmentación corresponde al plano de simetría del animal. Tunicados
+						- Forma de división
+							- Discoidal
+								- Se divide un disco de citoplasma en el polo animal del huevo formando un disco de blastómero
+									- Blastodermo/
+									- blastodisco
+									- ![[Pasted image 20240402180054.png]]
+							- Superficial
+								- El huevo se divide varias veces sin que aparezcan límites celulares. Los núcleos alcanzan el citoplasma periférico y se disponen formando una capa sincitial. Después se forman los límites celulares y se delimita un blastoderma periférico alrededor del vitelo central no segmentado.
+								- ![[Pasted image 20240402180104.png]]
+								- ![[Pasted image 20240402181447.png]]
+				- Blastogénesis=blastulación
+					- ¿Qué es?
+						- Formación de la blástula; los blastómeros de la mórula se reagrupan dejando una cavidad central, el blastocele.
+					- Tipos
+						- Celoblástula
+							- con el blastocele en el interior, centrado(regular) o más próximo al polo animal(irregular).
+						- Esteuroblástula
+							- Blastocele virtual, repleto de blastómero
+						- Discoblástula
+							- Se forma a partir de la segmentación discoidal.
+						- Periblástula
+							- Con blastocele virtual. Se forma a partir de la segmentación superficial
+				- Polaridad del embrión
+					- Tras la formación de la blástula, los blastómeris se redistribuyen progresivamente según el plan corporal de la larva o del adulto.
+					- Uno de los pasos importantes para establecer el arqueotipo de un animal es el desarrollo de la simetría bilateral→polarización.
+					- La normal general, quien marca la simetría bilateral es la entrada del espermatozoide en el huevo radial y determina los ejes corporales.
+					- ![[Pasted image 20240402194043.png]]
+					- ![[Pasted image 20240402194509.png]]
+		- Gastrulación y la formación de capas embrionarias
+			- ¿Qué es?
+				- Es el proceso de formación de la gástrula, Consiste en la migración de los blastómeros que origina dos capas:
+					- Ectodermo→externa
+					- Endodermo→endodermo
+			- Cosas que han pasado en la segmentación
+				- El embrión se ha dividido en un multicelular, en el que el citoplasma de estas células se encuentra casi en el mismo sitio que estaba en el huevo original.
+				- Tipos de la gastrulación
+					- Invaginación
+					- Recubrimiento 
+					- Deliminación
+					- Inmigración
+					- Proliferación polar
+				- Formación del mesodermo
+		- Organogénesis
+- Ciclos vitales y arquitectura animal
+	- Simetría corporal
+		- Tipos
+			- Esférica
+			- Radial
+			- Bilateral
+		- Segmentación corporal
+			- ¿Qué es?
+			- Organización de los animales
+				- Aparatos
+					- Circulatorio
+						- Abierto y cerrado
+					- Respiratorio
+					- Excretor
+						- Tipos
+	- Ciclos vitales
+		- Reproducción
+			- Asexual
+			- Sexual
+- Nomenclatura zoológica
+- Glosario
+	- Previa 
+		- Arqueotipo
+			- Un patrón ejemplar del cual se derivan otros objectos, ideas o conceptos.
+		- Epigénesis→ el desarrollo de una planta o animal de un huevo o espora a través de una serie de proceso en los que las masas célulares no organizadas se diferencian en órganos y en sistemas o aparatos. 
+		- Capas germinales
+		- Polipermia→ la entrada de más de un espermatozoide al óvulo, por ello, pierde la capacidad de adhesión para evitar la unión de más de un espermatozoide→reacción cortical.
+		- Cono de fecundación→ es el pto de contacto de la cabeza del espermatozoide y el óvulo→ la región
+	- Segmentación
+		- Holoblástico→ completo germen
+		- Vitelo
+			- Isolecitos→poco vitelo distruido uniformemente
+			- Mesolecitos→ presenta una moderada cantidad de vitelo, concentrado en el polo vegetativo.
+			- Telolecitos→ mucho vitelo en un extremo del huevo
+		- Polo vegetativo→ región del cigoto/embrión se acumula las sustancias de reserva
+		- Polo animal→ polo opuesto del vegetativo contiene citoplasma y poco vitelo. Se produce toda la actividad metabólica
+		- Blastómeros
+			- Son un tipo de céluals embrionarias indiferenciadas resultantes de la segmentación del cigoto después de la fecundación→células totipotentes.
+		- Arquénteron→es una cavidad embrionaria que se forma en la fase de gastrulación y prefigura la futura luz del tubo digestivo que se abre al exterior a través del blastoporo. NO se tiene que confundir con el blastocele, pseudoceloma y celoma
+		- Blástula→ es una masa de células producido por la segmentación 
+		- Blastocele→
+		- Morula→ 16-31 blastómeros
+		- Blastocitos→es un embrión de 5-6 días de desarrollo que presenta una estructura celular compleja formada por aprox 200 células. La fase de blastocistos es el estadio de desarrollo previo a la implamantación del embrión en el útero materno.
+			- Es una etapa de 64 células y los blas
+		- Gatrula
+		- Morula→ es el estadio anterior a la blástula en los embriones de animales. Posee 12-16 células 
+	- Gastrulación 
+		- Celoma→ cavidad que contiene las visceras. Tiene 2 formas: esquizocelia y enterocelia.
+		- Esquizocelia→
+		- Enterocelia→ proceso embrionaria donde las células del arquenteron (tubo digestivo embrionario) se multiplican hacia el blastocele originando el mesodermo, a partir del cual se formará el celoma.
+	- General
+		- Embrión→ se considera embrión desde la fecundación hasta que el organismo adquiere las características morfológicas de la especie
+			- En vertebrados vivíparos después del fin de la fase embrionaria→9 Semanas

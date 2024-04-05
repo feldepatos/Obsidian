@@ -12,6 +12,7 @@
 				- Se asocian con uniones adhesivas y desmosomas para formar complejos de unión.
 				- Este tipo de unión solo mantiene unida en los puntos de contacto.
 				- En caso de mutación → puede producir tumor
+				- Dependen de la formación de las uniones adherentes
 			- Vista desde el microscopio
 				- Una red.
 				- ↑ Complejidad = ↑oclusión
@@ -43,6 +44,7 @@
 				- Desplazamiento celular porque reptan
 				- Puede regular el nivel de adhesión en función de las integrinas que conforman la unión
 				- Las células sin migración pueden migrar, que pueden agregarse hasta diferenciarse 
+				- ![[Pasted image 20240402201514.png]]
 			- Tipos 
 				- Intercelular/cél-cél
 					- Componentes con los que intervienen
