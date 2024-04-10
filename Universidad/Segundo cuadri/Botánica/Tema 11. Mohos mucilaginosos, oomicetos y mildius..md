@@ -87,5 +87,15 @@
 						- Sifonogamia
 				- Características
 					- Parásitos de peces como la trucha y otros salmones, siendo la causante de grandes pérdidas económicas a las empresas salmoneras.
-			- Plasmopara viticola
-			- Phytophthora infestans
+			- Plasmopara viticola→uva
+				- Monogenético diplofásico con meiosis gamética
+					- Fase asexual
+						- Esporangioforos y esporocistos
+				- Características
+					- Las lesiones en la shojas se han combatido tradicionalmente con el caldo bordeles.
+					- ¿Qué zona afecta?
+						- Fruta...
+			- Phytophthora infestans→patatas
+				- Monogenético diplofásico con meiosis gamética
+				- Diversas fases del ciclo
+					- Las enfermedades en plantas originadas por este oomicet son difícil de controlar químicamente. Por eso, como estrategia contra de ellas, se extiende el cultivo de variantes resistentes.
