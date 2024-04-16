@@ -1,0 +1,1 @@
+Es más fácil de juzgar lo errores de los demás que los propios 
