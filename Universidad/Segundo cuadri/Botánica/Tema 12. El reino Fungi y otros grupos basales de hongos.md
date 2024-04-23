@@ -1,0 +1,203 @@
+- Filogenia general
+	- Hongos verdaderos
+	- Mohos mucilaginosas
+	- Mohos acuátics y mildius
+- Hongos verdaderos→ Reino Fungi
+	- Características
+		- Pertenecen al grupo Opistoconts→Opisthokonta
+		- NO fotosintéticos
+		- Nutrición heterotrófica
+			- Tipos
+				- Lisotrofia
+					- Digestión extracelular quimioheterótrofa involucrado en el procesamiento de materia orgánica descompuesta
+						- Mecanismo de alimentación propio de los hongos en el que las partículas alimenticias son digeridas fuera del organismo mediante la participación de enzimas digestivos que inducen la ruptura de las sustancias
+				- Osmotrofia
+					- Tipo de nutrición donde el organismo se alimenta por medio de absorción osmótica de sustancias disueltas
+		- Organización talofílica
+			- Forman micelios filamentosos
+				- Levaduras
+			- Algunos protistas unicelulares
+				- Porque están adaptados al medio acuático
+		- Pared celular
+			- Quitina
+				- Polímero de N-acetilglucosamina.
+		- Ciclo vital
+			- ¿Cuál?
+				- Haplo-dicariótico
+			- Tipo de células 
+				- La norma general
+					- Que no lo tenga
+				- Excepciones
+					- Zoospóricos
+						- Flagelo liso
+							- Que se instalada detrás de la célula
+		- Tipo de división celular
+			- Endonuclear con desarrollo de cuerpos polares
+		- Mitocondrias con crestas aplanadas
+		- Síntesis de la lisina via ácido aminoadípico
+		- x>100.000 especies y se aproxima alrededor de 5 millones
+			- Son poco conocidos pero con una gran importancia en la biosfera.
+	- Organización y estructura
+		- Hifas  
+			- Tipos
+				- General
+					- Septadas
+					- NO septadas
+						- Pueden ser
+							- Plurinucleadas
+							- Cenocíticas 
+				- Especiales
+					- Ultraestructura del ápice de la Hifa Neurospora sp.
+						- Su contenido celular se acerca a los animales.
+							- La membrana plasmática carece de colesterol
+								- Poseen ergosterol
+					- Apresorios
+						- ¿Qué es?
+							- Modificación de las hifas (engruesan)para la infección de una célula epidérmica del huesped
+								- La penetración se realiza por 
+									- Presión
+									- Enzimas 
+					- Haustorios 
+						- ¿Qué es?
+							- Hifas relativamente ramificadas que se desarrollan dentro del huésped.
+								- NO necesariamente que sean parásitos. Pueden establecer relaciones simbióticas.
+			- Tipos de septas
+				- Simple
+					- Cuerpo de Woronin
+				- Complejo
+					- Dolípor
+						- Septo hinchado a un extremo y una capa membranosa a banda y banda
+							- Parentosoma
+			- Crecimiento
+				- Etapas
+					- 1
+						- Reblandecimiento
+							- Se incorporan vesículas con enzimas de lisis que reblandecen la pared.
+					- 2
+						- Estiramiento/extensión
+							- La pared se estira transversalmente
+					- 3
+						- Resíntesis
+							- Reconstrucción de la pared a partir de nuevas vesículas cargadas de enzimas de sínstesis y componentes amorfos
+			- Anastomosis
+				- ¿Qué es?
+					- Fusión de hifas en ramificaciones para formar redes complejas
+				- Funcionalidad
+					- Abarcar la mayor más área de absorción
+			- Plectenquimas→![[Pasted image 20240417181139.png]]
+				- ¿Qué es?
+					- Falso tejido de los hongos
+						- Aglomeraciones pluriestratificadas de células entralazadas similares a un tejido.
+				- Tipos
+					- Prosoplectenquimas
+						- Plectenquimas+ hifas de paredes delgadas
+					- Pseudoplectenquimas→paraplecténquima
+						- Cualquier talo que parece un parénquima pero cuya células se han unido después de haberse formado, no por la división de una o varias células para dar una estructura contínua
+							- Parénquima
+								- Tejido fundamental en los vegetales superiores, constituidos por células no lignificadas e isodiamétricas, puede ser de varios tipos.
+		- Cuerpo vegetativo→micelio
+			- ¿Qué es?
+				- Formado por una red de hifas en forma de filamentos microscópicos enterrada en el substrato llamado micelio.
+			- Tipos
+				- Talus
+					- Unicelular
+						- Quitridial multinucleado
+							- Talus esférico con rizomicelio
+								- Todo el talus no hay separación entre las células que la forman.
+						- Unicleado
+							- Levaduras
+					- Pseudomiceliar
+						- Formado por gemmación de talus levuriforme
+							- Cuando las células no se separan completamente.
+					- Miceliar 
+						- Cenocítico
+							- Formado por hifas sin septas
+						- Septado
+							- Formado por hifas septadas
+	- Reproducción
+		- Estructuras especializadas
+			- En función del tipo de hongo
+				- Basidiomicetos
+					- Setas
+				- Ascomicetos
+					- Cazoletas
+		- Tipo
+			- Mitosis endonuclear
+				- Una de las características especiales 
+					- En la longitud que adquiere los cuerpos del huso mitótico
+				- Pero en otros hongos puede haber una desintegración parcial de la envoltura nuclear
+		- Sexual
+			- Zoosporas→carecen de pared celular+metabólicamente activas
+				- Isogamia
+				- Anisogamia
+				- Oogamia
+			- Zoosporas!→ formación de diferentes esporas
+				- Cistogamia
+					- Copulación gametangial/gametangiogamia
+				- Sifonogamia
+					- Contacto gametangial
+				- Triconogamia
+					- Espermatización
+				- Somatogamia
+		- Asexual→ Fragmentación + esporulación
+			- Esporas→mitosporas
+				- Tipos
+					- Zoosporas
+					- Aplanosporas
+				- Se pueden diferenciar en función de como se forman
+					- Endosporas
+					- Exosporas→Conidios
+						- Tipos de formación
+							- Conidiogénesis 
+								- Blástica
+									- Los conidios no derivan de una célula preexistente porque derivan de una nueva célula codiniogéna de la punta de la hifa.
+										- Puede aumentar de tamaño al cortarse como un globo
+								- Tálica
+									- Se desarrolla por la conversión de un elemento hifal preexistente en el cual las células terminales o intercalares de una hifa se cortan por tabiques.
+			- Diversidad
+				- Son unidades de dispersión de pared engrosada, en ocasiones impregnadas de melanina y lípidos
+					- Tipos
+						- Ascósporas
+						- Clamidósporas
+						- Zoósporas
+			- Germinación
+				- Durante la germinación, la espora incorpora rápidamente compuestos orgánicos del medio
+				- En algunos casos se formar el corro de brujas
+					- Es causado por hongos micorrizicos que crecen en el suelo y forman relaciones simbióticas con las raíces de las plantas de césped.
+						- Formado por el crecimiento radial del micelio de un hongo.
+				- Dispersión 
+					- Zoocoria→de los hongos coprófilos→Pilobolus crystallinus→cañón de hongos
+						- Las esporas se arrojan sobre el césped que luego serán comidas por los animales. Aunque sean comidas estas esporas son capaces de resistir la digestión, por lo que, aparecen en las heces donde crecerán.
+						- Presentan una vesícula cristalina que encima tiene el esporangio.
+							- La vesícula contiene pigmentos fotosintéticos y esta repleta de líquido que en función de su posición con la luz condicionará su trayectoria.
+							- Pueden lanzar esporas hasta 2 metros.
+						- Dirige sus esporocistos, que están orientados por las sustancias caretenoides sensibles a la luz que contiene la vesícula situado debajo del esporocisto. Los lanza con la fuerza de 2 metros.
+					- Viento→Anemocórica
+						- ¿Qué es?
+							- Es un tipo de dispersión de los propágulos en la que es el viento el que produce el transporte.
+							- Utilizan la turgencia 
+						- Las ascomas se encuentran en ascuas. Con tal de potenciar la dispersión de las esporas, las ascuas disparan como el cañón de una escopeta mediante presión de turgencia desde la base hasta el ápice; en algunos casos se desprenden hasta 1.700.000 esporas por cm2
+						- Caso especial
+							- Balistóporas→Gota de Muller
+								- ¿Qué es?
+									- Son esporas formadas por gemación, que son resultado de la reproducción asexual de origen blástico
+								- Presentan  un esterigma 
+									- Qué es un ápendice hifal que contiene un esporangio.
+									- En el ápendice es donde se coloca la gota de agua (Gota de Buller)
+									- Las blastispora tiene 2 lados : hidrofóbicas y hidrofílicas
+										- Cuando la gota de agua se forma por la condensación se coloca en el ápendice que a medida que crece hasta su zona hidrofílica donde por su peso se desprenderá del esterigma.
+							- ![[Pasted image 20240417201620.png]]
+					- HIdrocoria
+						- Casos generales
+							- Los hongos zoospóricos las zoosporas nadan respondiendo a la luz, al oxígeno y sobretodo los nutrientes y otras sustancias.
+							- Los hongos presentan apéndices que facilitan la dispersión del agua.
+								- Tanto las esporas presentan una morfología para la dispersión
+						- Especial→Lluvia
+							- 
+
+| Hongos              | Características que comparte con los animales |
+| ------------------- | --------------------------------------------- |
+| Quitina             | Vesículas+RE                                  |
+| Proteínas           | Mitocondrias+Dictiosoma+plasmalemma           |
+| Glucanos +proteínas | Citoplasma+pared celular+ribosomas            |
+| Glucanos            | Núcleo+nucléolo                               |

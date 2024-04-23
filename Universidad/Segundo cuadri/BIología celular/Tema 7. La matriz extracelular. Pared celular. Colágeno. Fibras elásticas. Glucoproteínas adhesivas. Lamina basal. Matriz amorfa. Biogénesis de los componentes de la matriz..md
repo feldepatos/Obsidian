@@ -1,0 +1,198 @@
+- Introducción
+	- La membrana plasmática marca el límite externo de una célula.
+	- Bacterias, hongos, algas y células de plantas superiores están envueltas por una pared celular que forma parte de la propia célula.
+	- Las células animales no tienen pared celular, pero muchas están embebidas en una matriz extracelular.
+	- La matriz extracelular proporciona soporte estructural a las células y tejidos
+	- También juega un papel importante en la regulación del comportamiento celular.
+- Pared celular
+	- ¿Qué es?
+		- Conjunto soluble de macromoléculas secretadas presentes en bacterias y en muchos tipos de células eucariotas (hongos, algas y plantas superiores).
+	- Tipos
+		- Procariota→Bacteriana
+			- ¿Qué es?
+				- Polisacáridos unidos mediante enlaces cruzado con polipéptidos cortos. 
+			- Características
+				- Determinan la forma de las bacterias.
+				- Formados por peptidoglicanos
+			- Tinción de Gram
+				- ¿Qué es?
+					- Es una técnica para diferenciar entre bacterias en función de composición de su pared celular
+				- Procedimiento 
+					- Diferentes baños
+						- Violeta de genciana→entra en todas las células
+						- Yodo/Lugol→fijar la tinción 
+						- Etanol→decolorante del violeta de cristal
+						- Fusciana/Safranina→tiñe solo a las negativas
+				- Explicación de los coloración
+					- Las positivas serán las que presenten el color violeta del color violeta que al tener una capa más gruesa resiste la decoloración del etanol. Al contrario que las negativas que se tiñen del color safranina(color rosado).
+		- Eucariota
+			- Tipos
+				- Hongos
+					- ¿Qué es?
+						- Formada por quitina, polímero de N-acetilglucosamina.
+						- Presente en conchas de cangrejos y exoesqueleto de insectos.
+					- Función
+						- Rigideza 
+						- Protege contra
+							- El efecto/choque osmótico
+							- Sustancia antifúngicas
+						- Algunas proteínas de la pared pueden participar en procesoso de comunicación celular.
+				- Plantas
+					- Composición
+						- Representación
+							- ![[Pasted image 20240421235842.png]]
+						- Celulosa→polímero lineal de glucosa que presenta enlaces beta 1-4.
+						- Hemicelulosa
+							- ¿Qué es?
+								- Heteropolisacárido ramificado que se une a las microfibras que se unen a las microfibras de celulosa mediante puente de hidrógeno 
+							- Función
+								- Resistencia mecánica
+						- Pectinas
+							- ¿Qué es?
+								- Tipo de heteropolisacáridos de polímeros ácidos y neutros muy ramificados
+							- Función
+								- Capacidad de atrapar moléculas formando geles que se encuentren embedidas de celulosa y hemicelulosa
+									- Esto se debe por las cargas negativas que se asocian con cationes como el calcio
+								- Fuente de señales entre células.
+						- Glucoproteínas
+							- Función
+								- Proporcionan más soporte estructural a la pared celular.
+						- Otros
+							- Cutícula
+								- ¿Qué es?
+									- Cutina + ceras
+								- Función
+									- Contra la deshidratación 
+										- Porque aisla completamente del exterior.
+							- Suberina
+								- ¿Qué es?
+									- Polímero de ácidos grasos y derivados fenólicos 
+									- Principal componente del corcho
+								- Función
+									- Aisla la superficie del tallo y raíces.
+							- Lignina
+								- ¿Qué es?
+									- Polímero complejo de residuos fenólicos hidrófobos
+								- Función
+									- Soporte + densidad a la madera.
+							- Esporopolenina
+								- ¿Qué es?
+									- Politerpeno impermeable
+								- Función
+									- Capa protectora de las esporas y granos de polen.
+					- Función
+						- *Mantiene unida a las células*
+							- Racionalizan mejor la energía  
+								- Porque el agua entra a favor de gradiente
+									- ↑ coste energético pero ↑ oxidación energética.
+						- Soporte estructural
+						- Impide que la célula vegetal se rompa por desequilibrio osmótico
+							- ¿Cómo?
+								- Las células vegetales no mantiene el equilibrio osmótico entre el citoplasma y el líquido extracelular.
+								- El desequilibrio genera una entrada contínua de agua al interior de la célula
+								- La célula tolera este flujo de entrada por el hecho que la pared evita que explote.
+								- El agua se almacena dentro de la célula en forma de vacuolas y genera una presión de turgencia
+								- Cuando la presión de turgencia se iguala a la presión osmótica deja entrar más.
+						- La presión de turgencia da a lugar a un tipo de crecimiento exclusivo de vegetales.
+							- Utilizando la presión de turgencia→gasto cero.
+								- Las auxinas señalizan el proceso activando a las expansinas (proteínas)
+							- Las expansinas debilitan la pared celular y la presión de turgencia hace que la célula se alargue en esa dirección.
+						- La pared celular determina la dirección del crecimiento de las células vegetales
+							- La orientación de las microfibirlas de celulosa al formarse la pared va determinando como crece la célula
+							- La presión de turgencia va empujando a la célula en la dirección de mínima resistencia
+								- Perpendicular a la orientación de las microfibrilas.
+							- Esta dirección esta determinado por las hormonas vegetales
+					- Estructura
+						- La glucosa se dispone en paralelo para formar microfibrilas
+						- Partes
+							- Pared 
+								- Primaria
+									- Presente en todos los tejidos
+										- Se origina tras la división celular 
+									- Se localiza entre la membrana plasmática y la lamina media 
+									- Función
+										- Responsable de la forma y tamaño inicial de la célula vegetal
+								- Secundaria
+									- Solo en la esclerenquima y el xilema
+										- Células de soporte + conductoras
+									- Se encuentra entre la membrana plasmática y la pared primaria 
+									- ¿Cuando comienza su síntesis?
+										- La fase final del crecimiento y la extensión de la pared primaria
+									- Principal componente de la madera
+								- Lamina media
+									- Primera en formarse
+									- Función
+										- AActúa como pegamento que une a las células vecinas
+									- Formado por ácido péctico 
+										- Ácido galacturónico esterificadas con metanol.
+					- Formación de la pared→Biogénesis de la pared 
+						- Síntesis de los componentes
+							- Aparato de Golgi
+								- Hemicelulosa
+							- Membrana plasmática 
+								- Celulosa
+									- Por la celulosa sintasa→complejo enzimático
+										- Se sintetiza por la UDP-Glucosa
+						- Proceso como tal
+							- Los microtúbulos cumplen la función de raíles de trenes, por tanto, marcan la dirección del desplazamiento de la celulosa
+							- Los complejos de celulosa sintasa se van desplazando en función del citoesqueleto por la membrana plasmática
+- Matríz extracelular
+	- ¿Qué es?
+	- Características
+		- Los tejidos están formados por células y matriz extracelular
+			- ![[Pasted image 20240422000356.png]]
+			- ![[Pasted image 20240422000421.png]]
+			- Abundan en el hueso y cartílago mientras que son escasos en el tejido nervioso
+			- Se calcifica al hueso
+				- Se vuelve transparente a la córnea o presenta una alta fuerza a los tendones.
+	- Composición
+		- Glucosaminoglicanos
+			- Características
+				- ↑Complejidad
+					- Agrecano→proteína central proteoglicano cartílago-específica
+						- Presenta una estructura de escobilla
+						- Es una molécula muy importante para el funcionamiento del cartílago
+			- Tipos
+				- Hialuronato
+					- Unidades repetidas de disacáridos
+						- N-acetilglucosamina
+						- N-acetilgalactosamina
+						- Ácido glucurónico
+						- Ácido idurónico
+				- Heparano sulfato
+				- Condroitino sulfato 
+				- Queratino sulfato
+			- Propiedades
+				- Poco flexibles
+					- Ocupa un gran volumen + ↑Hidratación→actúa como un gel.
+						- Los tejidos que presenten una alta concentración tendrán una alta capacidad de resistir a fuertes presiones mecánicas.
+				- ↑ Número de cargas negativas
+					- ↑ capacidad de atracción de cationes
+						- Permiten una fuerte y abundante asociación con moléculas de agua
+							- Aportando una gran hidratación.
+				- ↑ Peso molecular
+					- Gran capacidad de retención de agua
+				- En resumidas cuentas, no se puede comprimir
+					- Permisivo/selectivo al tránsito de moléculas.
+			- Estructura
+				- ![[Pasted image 20240422003405.png]]
+		- Proteínas 
+			- Estructurales
+				- Colágeno
+					- Estructura
+					- Síntesis
+					- Tipos
+			- Elásticas
+				- Elastina/Fibrina
+			- Adhesivas
+				- Fibronectina
+				- Laminina
+				- Tenascina
+	- Función
+		- Supervivencia 
+		- Desarrollo
+		- Migración
+		- Proliferación
+		- Difusión de nutrientes
+		- Da forma
+- Lamina Basal
