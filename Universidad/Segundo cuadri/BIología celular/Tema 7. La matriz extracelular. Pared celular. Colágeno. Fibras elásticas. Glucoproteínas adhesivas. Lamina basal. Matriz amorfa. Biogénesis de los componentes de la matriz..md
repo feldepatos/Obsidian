@@ -179,7 +179,21 @@
 		- Proteínas 
 			- Estructurales
 				- Colágeno
+					- ¿Qué es?
+						- Proteínas fibrosas secretadas por células del tejido conjuntivo
+					- Composición
+						- ↑ Glicina
+							- ↑ Empaquetamiento
+					- Formación del colágeno
+					- Fotos en diferentes perspectivas del M.E
+						- Ligamento de la rodilla
+							- ![[Pasted image 20240424212630.png]]
+						- Sección longitudinal
+							- ![[Pasted image 20240424213735.png]]
+						- Transversal
+							- ![[Pasted image 20240424213748.png]]
 					- Estructura
+						- Representa un cuarto de la proteína total de los mamíferos.
 					- Síntesis
 					- Tipos
 			- Elásticas

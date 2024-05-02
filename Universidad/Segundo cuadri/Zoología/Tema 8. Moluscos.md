@@ -1,0 +1,87 @@
+- Importancia 
+	- Biológica
+		- Malacología
+			- ¿Qué es?
+	- Económica
+		- Consumo
+		- Posición del fílum
+- Características diagnósticas
+	- Introducción
+		- Partes importantes
+			- Rádula→Pie→Manto
+			- Simetría bileteral→Protostomats→Eucelomats→Esquisocélia
+		- Ampliación del manto
+	- Rasgos generales
+		- Celoma→reducido a pequeños espacios alrededor de los nefridios, el corazón y parte del intestino
+		- Sistema circulatorio abierto →cavidad principal del cuerpo es un hemocele.
+		- Corazón→cavidad pericárdica formado por ventrículos y aurículos
+		- Tubo digestivo completo→dividido en regiones especializadas con grande secs digestivos
+		- Metanefridis grande y complejos→ Riñones
+		- Desarrollo embrionario→ Típico de los protosms
+		- Larva trocófora y larva belígera (no en todos)
+		- Fecundación externa o interna con segmentación espiral.
+		- Respiración tegumentaria, branquial o pulmonar.
+		- Formas monoicas y dioicas.
+		- Alimentación 
+			- Micrófaga 
+			- Suspensívora
+			- Herbívora
+			- Carnívora
+		- Fase larvaria
+			- Desarrollo directo en los cefalópodos
+- Modelo de organización corporal
+	- Todos los moluscos comparten el mismo patrón estructural
+		- Modelo general de molusco hipotético
+			- Animal acuático
+				- Se alimenta a medida que se desplaza raspando el sustrato
+			- Forma ovoide
+			- Simetría bilateral
+			- Ventralmente plano muscularizado
+				- Solo reptando→Pie
+			- Dorsalmente 
+				- Conquilla ovalada
+					- Convexa en forma de escudo protector de la masa visceral
+			- La epidermis
+				- Manto
+					- Función 
+						- Secretora
+							- Esqueleto calcáreo del tamaño del cuerpo 
+							- Formando la cavidad paleal en el extremo posterior
+					- Composición
+						- Capa gruesa de piel→epidermis + cutícula
+					- Visualización
+						- ![[Pasted image 20240429090440.png]]
+			- Músculos retractores del pie (pares)
+				- Función
+					- Tirar de la conquilla hacia abajo con tal de pegarse al sustrato
+			- Ampliación del cuerpo 
+				- El cuerpo
+					- Pared corporal
+						- Cutícula
+							- Externa
+								- Composición
+									- aa+proteínas esclerotizadas 
+									- Conchina y conquiolina
+						- Células epidérmicas ciliadas
+							- Glándulas de la concha
+								- Producción de espículas o concha calcárea
+							- Papilas epidérmicas sensoriales
+						- 3 capas de fibras musculares
+							- Musculatura 
+								- Circular
+								- Diagonal→oblicua
+								- Longitunidal
+					- Manto
+						- ¿Qué es?
+							- Órgano parecido a una lamina que forma parte dorsal del cuerpo
+						- Crecimiento
+							- Durante el desarrollo 
+								- 3 lóbulos
+					- Cavidad paleal
+					- Conquilla
+						- Partes
+							- Periostraco
+								- ¿Qué es?
+									- Estrato orgánico secretado por el mantell palment 
+- Funciones vitales
+- Clasificación

@@ -1,0 +1,149 @@
+- Organización y estructura
+	- Características
+		- Algunas especies unicelulares
+		- Talus
+			- Filamentosos
+			- Uniseriados
+			- Multiaxiales
+			- Ramificados
+			- Pseudoparenquimáticos
+			- Laminares
+		- Carecen de células o estadios flagelados
+		- Presencia de connexiones citoplasmáticas entre 2 células
+			- Hay 2 tipos de sinapsis
+				- Primaria y secundaria
+		- Pared celular formada por una matriz de microfibrilas de celulosa asociada a ficocoloides
+			- Excepciones
+				- En el orden de las coralinaceas están impregnadas con carbonato cálcico
+		- Cloroplastos
+			- Con doble membrana
+				- Endosimbiosis primaria
+		- Tilacoides simples y equidistantes con ficobilisomas
+		- Pigmentos
+			- Clorofila
+				- a
+			- Ficoeritrina
+			- Ficocianina
+			- Caretenoides
+			- Pirenoides→en algunos grupos
+		- Sustancia de reserva
+			- Almidón de floridias
+				- Citoplasmático
+- Reproducción
+	- Tipos
+		- Asexual
+			- Monosporangios
+				- Producción mitósporas
+			- Tetrasporangios→meiosporangios
+				- Tetrasporas haploides
+		- Sexual
+			- Tricogamia→oogamia
+				- Implica la fusión de un espermacio con un carpogonio que contiene un gameto femenino no flagelado de mayor tamaño.
+					- Posterior desarrollo de un carposporófito sobre el gametófito femenino
+- Ciclo vital
+	- Trigenéticos haplo-diplofásico isomorfo o heteromorfo
+		- ![[Pasted image 20240502102553.png]]
+- Diversidad
+	- Características
+		- Fundamentalmente marino
+		- 500-600 géneros
+		- Frecuente a las aguas tropicales-subtropicales
+	- Origen
+		- ![[Pasted image 20240502102710.png]]
+	- Diversidad
+		- No homogeniamente distribuida entre los grupos.
+		- Destacan las clases Bangiophycaea y Florideophyceae
+- Clases
+	- Bangiophyceae
+		- Características
+			- Talus
+				- Macroscópicos
+					- Sencillos
+					- Laminares 
+				- Microscópicos
+					- Filamentosos
+			- Cloroplastos
+				- Estrellados
+			- Reproducción
+				- Sexual
+					- Ciclo digenético isomorfo-heteromorfo
+				- Estructuras
+					- Carpogonio poco diferencias carecente de tricogonia
+					- Tetrasporangios absentos
+			- Ejemplos
+				- Poryphyra/Pyropia
+		- Ciclo vital→Porphyra sp.
+	- Florideophyceae.
+- Órdenes
+	- Corallinales
+		- Características
+			- Origen 
+				- ↑ registro fósil en el cámbrico
+			- Talus
+				- Macroscópicos
+					- Erectos o incrustantes calcificados , multiaxiales
+			- Pared
+				- Impregnadas con CaCO3
+			- Estructuras reproductoras
+				- Conceptacles con tetrasporangios zonados
+			- Ecología
+				- Mediterráneo
+			- Usos
+				- En los tropicos
+					- En la consolidación de los corales
+			- Ejemplares a destacar
+				- geniculades
+				- No geniculades.
+		-  Acificación de los oceanos y cambio climático
+			- ↓ de pH del agua debido al aumento del CO2 disuelto disminuye la calcificación y la capacidad de regeneración de las algas rojas coralinales .
+			- Las consecuencias :
+				- Pérdida de diversidad 
+				- Reducción de alimetnos para los organismos herbívoros
+				- Desestabilización del ecosistema
+	- Agarofites→gelidials+gracilarials
+		- Principal interés
+			- Agar
+				- ¿Qué es?
+					- Una mezcla de polisacáridos que se obtiene de los géneros de algas rojas
+		- Diferencia entre ambos géneros
+			- La presencia de grupos sulfatos en la agaropectina
+				- ![[Pasted image 20240502104906.png]]
+		- Usos comerciales
+			- Alimentación+biología molecular
+				- ↑ agente gelificante
+					- Es un sustituto de la gelatina de origen animal en las dietas vegetarianas 
+					- Permite la gelificación de determinados productos que no gelifican con la gelatina animal 
+	- Gigartinals
+		- Caracteríticas
+			- Algas productoras de carragueninas
+			- Son cultivadas ampliamente  en los países tropicales
+				- Principales productores
+					- Hong-Kong
+					- Singapur
+					- Yakarta
+					- Zanzíbar
+			- Composición
+				- Formadas por unidades de galactosa y/o anhidrogalactosa, sulfatadas o no unidas por enlaces alpha (1→3) y beta 1→4
+					- Solubles en agua caliente
+						- Soluciones altamente viscosas
+		- Usos comerciales
+			- Industria alimentaria 
+				- Por su poder gelificante
+			- Aplicaciones biotecnológicas
+				- Propiedaes reológicas tixotrópicas
+					- Útil para suspender partículas insolubles 
+						- Porque a bajas concentraciones es capaz de perder su propiedad de viscosidad pero tras aumentar la concentración, el efecto desaparece
+				- Creación de bioplásticos
+
+Clases
+
+|                           | Bangiophyceae                                                      | Florideophyceae                                               |
+| ------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------- |
+| Talus                     | Macroscópicos→Sencillos laminares; microscópicos→filamentosos      | Uniaxiales, multiaxiales pseudoparenquimáticos                |
+| Sinapsis                  | -                                                                  | Entre células vegetativas                                     |
+| Cloroplastos              | Estrellados                                                        | Alargafos o discoides, parietales sin pirenoides              |
+| Reproducción              | Sexual→ciclo digenético isomorfo o heteromorfo Carece de tricogina | Ciclos trigenéticos haplo-diplofásico, isomorfo o heteromorfo |
+| Estructuras reproductoras | Carpogonio poco diferenciado+ carece de tetrasporangios            | Presentan: tetrasporófito, gametófito y carposporófito        |
+| Diversidad                | 194sp                                                              | x>29 ordenes                                                  |
+| Usos                      | Alimentación                                                       |                                                               |
+| Ejemplares a destacar     | Porphyra                                                           | Coralinas, gelidiales, gigartinales y gracilariales           |

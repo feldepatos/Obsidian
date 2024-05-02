@@ -1,0 +1,109 @@
+- Características físicas y químicas de los oceanos
+	- En la actualidad
+		- Creemos la existencia de 5 continentes pero presentan una tendencia a hacia la unión de 3 continentes→Atlántico, Pacífico e Índico.
+			- El Ártico →Atlántico
+			- Antártico→Pacífico+ Atlántico+Índico
+		- Los océanos tienen diferentes orígenes
+			- Atlántico+Índico→fragmentación de la Pangea del Jurásico
+			- Pacífico→ evolución del Panthalasa
+				- Supercontinente del Paleozoico y Mesozoico
+					- Pérmico hacia Triásico
+			- Mediterráneo→cuenca residual del cerramiento del mar de Tethys
+		- Todos los océanos están conectados por las cuencas océanicas, por tanto, hay una transferencia entre ellos.
+		- En la actualidad existe un equilibrio dinámico de la concentración de iones 
+			- Porque en caso de haber una alta concentración, esta será contrarrestada porque los organismos tales las diatomeas utilizaran para la formación de sus propias estructuras
+	- Composición
+		- Sólidos
+			- Sal→salinidad
+				- ¿Qué es?
+					- Es la cantidad total/concentración de sólidos inorgánicos disueltos en el agua. Además modifica las propiedades físicas del agua del océano
+						- Se considera sal a cualquier sólido disuelto en el agua
+							- Esto se debe a su carácter iónico dipolar de la molécula, que es capaz de disolver a una gran cantidad de sustancias.
+						- Origen de los iones
+							- Preexistían de los océanos principales 
+							- Meteorización de la escorza terrestre
+						- Iones principales
+							- Cl
+							- Na
+							- SO4
+							- MG
+							- Ca
+							- K
+						- Principales sales que forman
+							- NaCl
+							- KCl
+							- CaSo4
+							- MgSo4
+				- Unidad de medida
+					- g/l→gramos por litro
+					- %→ tanto por mil
+				- Variaciones
+					- 33-37
+						- Esto se debe por diferentes procesos
+							- Evaporación
+							- Precipitación
+							- Entrada de agua dulce
+							- Congelación y descongelación de los polos
+								- Pero la sal que esta presente en el agua que se transforma en hielo no se congela sino se expresa en forma de salmorra que aumenta la salinidad de las aguas próximas
+						- Estas variaciones se calculan/miden por el 
+							- Principio de las proporciones constantes/Principio de Forchhammer
+								- Indica porcentajes relativas ente las diferentes sales son invariables 
+									- De tal manera si conocemos la salinidad del océano podemos conocer obtener los porcentajes del resto de sales
+										- Además siguiendo este principio conocemos que el cloro tiene un 55,04% de manera es más sencilla calcular el resto de los componentes
+				- Medida de la salinidad
+					- Instrumento 
+						- Salinómetros
+					- ¿Cómo se mide?
+						- Método indirecto
+							- Para ello necesitamos:
+								- Temperatura
+								- Conductividad eléctrica
+									- Esta es dada por la cantidad de sales
+									- Depende de la temperatura
+				- Mediana→35
+			- Nutrientes
+				- Capas 
+					- P+N+Si+Fe
+						- Capas
+							- Superiores
+								- Mínimas concentraciones por el consumo activo de los animales
+									- Ex→formación de sus estructuras como en las diatomeas
+							- Inferiores
+								- ↑ por la constante formación de los productores primarios
+									- Pero por el efecto de upwelling estos nutrientes acaban en la capa superficial.
+		- Gases
+			- O2
+				- Explicación general 
+					- Capas
+						- Superiores
+							- ↑
+								- Por la producción de los organismos fotosintéticos que consumen activamente el CO2.
+						- Inferiores
+							- Va disminuyendo a medida que aumenta la profundidad hasta llegar a un zona de profundidad de compensación del O2 donde nos topamos a organismos fotosínteticos
+				- Por zonas
+					- Fótica
+						- 0-200m
+							- Superficial donde llega el O2 de la atmósfera y de los organismos fotosínteticos que requieren luz solar
+					- Afótica
+						- 500-1000m
+							- ↓ Del O2 por la disminución de los productores así como de la luz
+						- x>1000m
+							- Condiciones anóxicas→anaeróbicas
+								- Pero ahí nos topamos con organismos fotosínteticos que apenas requieren luz solar entonces aumenta la concentración de 02.
+			- CO2
+				- Características
+					- 15% en todo el océano enfrente a los 0,033% de la atmósfera
+						- ↑ más soluble en el agua
+						- ↑capacidad de reacción para formar ácido carbónico
+				- Concentraciones
+					- El CO2 sufre el efecto contrario porque en la superficie es consumido fuertemente por los organismos fotosintéticos, pero a medida que descendemos su concentración aumenta drásticamente por ser un producto de rechazo de los organismos , de la carbonatación,  el aumento de solubilidad producto de la presión y de la bajada de temperatura.
+	- Características físico-químicas
+		- Temperatura
+		- Densidad
+		- Presión
+		- Luz y sonido
+- Dinámica marina: mareas, oleaje y corrientes superficiales y profundos
+	- Teoría del equilibrio y dinámica de las mareas. Patrones mareales
+- La circulación global de los océanos.→24-4-24
+- Dinámica y modelado de los fondos marinos
+- Bioconstrucciones recifales

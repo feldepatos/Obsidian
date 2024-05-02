@@ -1,0 +1,18 @@
+- Look back
+	- Pedirlo con meses de antelación 
+		- Tardan mínimo un mes
+- Oyazumi pun pun
+	- No requiere más de una semana pero su envío esta en continuo cambio
+- Bubusbook→animal crossing
+- Algún libro de tin tin
+	- Ya le he regalado 
+		- El país de los soviets
+- Lego
+	- Rosas
+	- Animal crossing
+- Retrato de animales
+- Ilustración de flores
+- Llavero hecho a mano
+- Sin ideas
+	- Peluches ya no por falta de espacio
+	- 

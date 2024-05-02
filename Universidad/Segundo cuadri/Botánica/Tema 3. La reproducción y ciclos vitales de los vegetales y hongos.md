@@ -1,0 +1,227 @@
+- Reproducción
+	- ¿Qué es?
+		- Es una de las características de los seres vivos que les permite producir otras nuevamente
+	- Tipos
+		- Asexual
+			- Características
+				- Solo requiere un individuo
+				- Su genotipo se conservará
+				- Cada descendiente es un clon del organismo inicial
+			- Formación de estructuras  especializadas
+				- Propágulos
+					- ¿Qué es?
+						- Son estructuras desarrolladas por las plantas para la reproducción sexual
+					- Tipos
+						- Estolón
+							- ¿Qué son?
+								- Son ramas o porciones de los tallos que a cierta distancia del pie inicial vuelven a fijarse al suelo.
+									- En relación con los embriofitos.
+										- Pero también  hay casos con algas y hongos donde la norma sea el crecimiento vertical pero con los estolones se produce de manera horizontal
+											- ![[Pasted image 20240426005112.png]]
+						- Tubérculos
+							- ¿Qué son?
+								- Estructuras perdurantes subterráneas
+									- Papa
+								- Estos pueden surgir a partir de rizoides
+						- Bulbos
+							- ¿Qué son?
+								- Son gemmas pequeñas que se forman alrededor de los filidios de algunos helechos, también en hojas y tallos de plantas
+				- Esporas
+					- ¿Qué es?
+						- Es una célula haploide o diploide que es capaz por sí mismo de desarrollar un nuevo individuo
+					- Tipos
+						- - flagelo→aplanosporas
+						- + flagelo→ planasporas
+							- Isocontes
+								- =flagelos
+							- Heterocontes
+								- !=flagelos
+							- Estefanocontes
+								- Parecen cilios 
+			- Tipos
+				- División celular
+					- ¿Qué es?
+						- La forma habitual en organismos unicelulares mediante la cual se obtienen 2 células idénticas entre sí e idénticas al individuo del cual proceden.
+							- ![[Pasted image 20240426154442.png]]
+				- Fragmentación
+					- A partir de la fragmentación del talus o parte (poco diferenciada) de una planta o alga puede regenera un individuo completo.
+					- Se utiliza en agricultura y en ingenería.
+			- Ventajas
+				- Mantenimiento de los carácteres
+					- Individuos iguales genéticamente
+					- ↑ rápida desarrollo
+					- Su población se regula ante la presencia de organismos diocos
+			- Desventajas
+				- ↓ variabilidad 
+				- ↑ transmisión de enfermedades
+				- Senescencia precoz de los individuos.
+		- Sexual
+			- ¿Qué es?
+				- Tipo de reproducción donde dos células reproductoras dan a lugar a un cigoto que presenta el genoma del cual será la suma de los genomas de las células reproductoras.
+				- El resultado siempre es el cigoto.
+				- Es propia de los eucariotas
+					- La variabilidad que aparece en los individuos originados mediante este proceso es la base de la evolución de los organismos.
+			- Tipos de organismos sexuales
+				- Monoicos
+					- El mismo individuo forma los gametos femenino y masculinos
+				- Dioicos
+					- Los organismos presentan 2 tipos de individuos que uno producirá los gametos femenino y el otro los masculinos
+			- Tipos
+				- Hologamia
+					- ¿Qué es?
+						- Tipo de reproducción donde no existen gametos a excepción del momento de la reproducción que todo el organismo unicelular actúa como el gameto.
+							- Propio de algas verdes.
+								- Clorofita
+				- Cistogamia
+					- ¿Qué es?
+						- No hay formación de gametos
+							- Parte de las células vegetativas se transforman en gametocistos, los cuales se fusionan para formar el zigoto
+								- Típico de algas verdes y hongos mucoromicetos 
+				- Somatogamia
+					- ¿Qué es?
+						- No hay formación de gametos
+						- 2 hifas compatibles ses fusionan→plasmogamia 
+							- Formando el micelio dicariotico
+								- En el que cada célula del micelio tiene dos núcleos 
+							- Después ocurrirá la cariogamia y la meiosis.
+						- Es propia de los hongos basidiomicetos
+				- Merogamia
+					- ¿Qué es?
+						- Es el tipo de reproducción donde cabe la posibilidad que una o más células se conviertan en gametos
+							- Los gametos serán haploides 
+					- Tipos
+						- Isogamia
+							- Los 2 gametos son iguales y móvile
+								- El tipo más primitivo
+								- ![[Pasted image 20240426134051.png]]
+						- Anisogamia
+							- !=gametos
+								- Tanto funcional o morfológicamente
+						- Oogamia
+							- - !=gametos
+								- Femenino
+									- Grande e inmóvil
+								- Masculino
+									- Pequeño y móvil presenta uno/varios flagelos
+					- Tendencia a la oogamia
+						- Las plantas terrestres y los parientes acuáticos 
+						- El conjunto de todas ellas se llaman estreptofitos 
+						- Es algo observable como el el género volvox
+							- ![[Pasted image 20240426154519.png]]
+				- Tricogamia
+					- ¿Qué es?
+						- !=gametos
+							- Masculinos
+								- Espermacis son pequeños + inmóviles.
+							- Femeninos
+								- Está dentro de una estructura que presenta una prolongación→tricogina
+					- Frecuente en algas rojas y hongos ascomicetos
+				- Sifonogamia
+					- ¿Qué es?
+						- Los gametos masculinos no requieren desplazarse mediante un flagelo sino la planta/hongos presentan una estructura a modo de túnel hasta el gameto femenino
+						- Es el tipo de reproducción más evolucionado+ adaptación a la vida terrestre
+							- Para el desplazamiento de los gametos masculinas que tienen flagelo requieren de la necesidad de agua, es decir, serían incapaces de vivir en la vida terrestre
+			- Caso concreto de los hongos
+				- Homotálica
+					- La formación del micelio se produce a partir de una única espora que será capaz de reproducirse sexualmente
+				- Heterotálica
+					- ! Homotálica donde existe un heterotalismo bipolar(implicación de una apreja de alelos) o heterotalismo tetrapolar (implicación de 2 parejas de alelos)
+- Ciclos vitales en vegetales y hongos
+	- Introducción
+		-  Singamia+meoisis
+			- En la reproducción sexual existe un hecho básico
+				- La fusión de 2 células reproductoras se llama singamia→fecundación
+				- A partir de ella se forma el zigoto
+			- Para mantener el número cromosómico de una especie aparece la meoisis
+			- Son 2 procesos que se complementan pero pueden ocurrir en diferentes momentos de la vida de un organismo.
+				- Esto explica la diversidad y complejidad de ciclos vitales que observan a los vegetales y hongos 
+		- Conceptos 
+			- Estructuras reproductoras
+				- Gametófito
+					- - cubierta de células estériles
+						- Gametocistos
+							- Algas + hongos
+					- + cubierta de células estériles
+						- Gametangios
+							- Plantas terrestres
+				- Esporófito
+					- - cubierta de células estériles
+						- Esporocistos
+							- Algas +hongos
+					- + cubierta de células estériles
+						- Esporangios
+							- Plantas terrestres
+	- Ciclos vitales
+		- Características
+			- Una generación →es la etapa de desarrollo de un ser vivo que comienza por una célula reproductora y acaba, después de una marcada actividad vegetativa, con la producción de otras células reproductoras diferentes (esporas o gametos) o no de las que han producido la etapa del desarrollo considerada.
+			- A los animales y más raramente a los vegetales, el zigoto engendra un individuo capaz de llegar a la madureza sexual y producir gametos.
+			- En los vegetales y algunos hongos pueden existir dos o más generaciones que completan la vida de un organismo
+				- Gametófito es la generación haploide que produce gametos
+				- Esporofito es la generación diploide quqe produce meiosporas
+		- Tipos
+			- En función de la meioisis
+				- Gamética
+					- La meioisis se produce justo antes de la formación de los gametos
+					- Todas las células son diploides exceptos los gametos que son haploides
+				- Zigótica
+					- Se produce en la primera división del zigoto
+					- Todas las células son haploides excepto el zigoto que es diploide
+				- Espórica
+					- Se produce en la primera formación de esporas que dará a lugar al gametofito
+					- Habrá una generación haploide y otro diploide
+			- El número de generaciones
+				- Monofásicos
+					- Características
+						- La vida del organismo se completa con una sola generación
+							- Este generación puede consistir en un individuo haploide o diploide, por la cual cosa los ciclos monogenético pueden ser haplofásicos o diplofásicos
+							- ![[Pasted image 20240426151435.png]]
+				- Difásicos
+					- Características
+						- 2 generaciones completan la vida del organismo
+							- A los ciclos digenéticos la meoisis es espórica
+						- Los ciclos digenéticos pueden ser 
+							- Isomorfo
+								- Gametofito=Esporófito
+							- Heteromorfo
+								- Gametofito!=esporófito
+					- ![[Pasted image 20240426151644.png]]
+				- Trifásicos
+					- Características
+						- 3 generaciones completan la vida del organismo
+						- 2 generaciones de 2n
+							- 1º→carposporófito
+								- No tiene vida independiente
+								- Produce esporas 2n
+									- Carposporas
+							- 2º→Tetrasporofito
+								- Tiene la vida independiente
+								- Produe meiosporas
+									- Tetrasporas
+						- Organismo que suele darse
+							- Algas rojas
+						- Representación del ciclo
+							- ![[Pasted image 20240426151906.png]]
+								- La primera fase es el tetrasporófito(2n) que produce tetrasporas (esporas agrupadas en 4 ) por meoisis. 
+								- Cada espora produce un gametofito haploide que originan los gametos femeninos y masculina haploide.
+								- La unión de ambos forma el zigoto que actúa como un parásito sobre el gametófito .
+								- A este se le llamará como carposporofito que forma las carposporas que originan al tetrasporofito del inicio.
+		- Caso especial de los hongos
+			- Haplo-dicariótico
+				- Características
+					- A la mayoría de los hongos, el proceso de singamia sucede en tiempos y espacios diferentes a la plasmogamia y la cariogamia
+					- En este ciclo vital no se da una verdadera alternancia de generaciones
+					- Alternan un micelio monocariótico (cada célula tiene un núcleo) y un micelio dicariótico en el cual tiene 2 núcleos
+				- Representación
+					- ![[Pasted image 20240426153228.png]]
+		- La importancia adaptativa de los ciclos vitales
+			- Al conjunto de los vegetales y hongos se observa una tendencia a la reducción, incluso y todo a la supresión, de la fase haploide, y a un predominio de la fase diploide
+			- A la naturaleza se observan ciclos monogenéticos diplofásicos, o ciclos digenéticos, a los cuales la fase dominante son individuos diploides.  A los cormófitos se observa una reducción progresiva del gametófito
+- Diccionario
+	- Espermacis →espermatozoides de la reproducción tricogamia
+	- Generación→ es decir una alternancia entre fases haploides y diploides
+	- Haplofásicos→organismos adultos que son haploides y produces gametos por mitosis
+	- Diplofásicos→ 
+	- ![[Pasted image 20240426154407.png]]
+
+
+

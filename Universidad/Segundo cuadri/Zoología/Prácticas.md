@@ -1,0 +1,3 @@
+- Nemátodos
+	- Primera pregunta
+		- La cutícula actúa como el músculo antagónico al ser poco flexible además utiliza la presión creada por la existencia del cuerpo hidrostático

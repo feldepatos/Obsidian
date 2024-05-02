@@ -1,0 +1,310 @@
+- ¿Qué son?
+	- Organismos acuáticos, fotosintéticos, de organización relativamente simple (protófitos y talófitos ), la reproducción de las cuales se realiza mediante esporas y/o gametos.
+	- En el sentido más amplio tanto a organismo procariotas (cianobacterias ) como eucariotas
+	- Amplio y diversas ventanal de organismos que integra diferentes filums o divisiones.
+- Características
+	- ↑ ventall morfológico
+	- Tipos celular
+		- Unicelular
+			- Coloniales
+			- Cenobias
+		- Pluricelular
+			- Carecen de raíces, tallo y hojas
+	- Ciclo vitales diversos y generalmente complejos. Intervienen las esporas y/o gametos flagelados o no.
+	- Alimentación
+		- Autótrofos
+			- Excepciones
+				- MIxotrófia
+					- Osmotrofia+ fagotrofia
+				- Heterotrofia
+	- El pigmento fotosintético universal es la clorofila A
+		- Los accesorios pueden ser:
+			- Clorofila →b+c
+			- Ficobilinas
+			- Carotenoides
+	- La sustancia de reserva son:
+		- Almidón
+		- Laminarina
+		- Lípidos
+	- Hábitats
+		- Acuáticos
+			- Dulces
+				- Lugares
+					- Lagos
+					- Estanques
+					- Rios
+				- Tipos de algas
+					- Fitoplacton+perifiton
+						- Conjunto de organismos como ahora las bacterias, hongos, algas y protozous embeguts en una matriz polisacarídica.
+			- Marinas
+				- Tipos
+					- Fitoplacton+fitobentos
+						- Algas bentónicas marinas
+		- Terrestres
+			- Cubiertas criptogámicas
+			- Líquenes
+			- Simbiosis con plantas
+		- Simbiosis
+			- Líquenes
+			- Animales invertebrados
+- Grupo filogenéticamente heterogeneo
+	- Representación de los 5 grandes grupos
+		- ![[Pasted image 20240428235358.png]]
+- Número de especies de algas
+	- ![[Pasted image 20240428235407.png]]
+- Importancia en los ecosistemas y humanos
+	- Ecosistemas
+		- Debido a su capacidad fotosintética son los principales productores primarios a los ecosistemas acuáticos, donde constituyen un componente fundamental de la biodiversidad de los ecosistemas acuáticos
+		- Prestan servicios ecológicos esenciales, como ahora el reciclaje de nutrientes, la depuración de las masas de agua y crean hábitats para otros seres vivos.
+		- Son organismos bioindicadores que, a más, tienen importancia en la industria alimentaria y biotecnológica, ya que algunas producen ficocoloides (agar, carragueninas , alginatos →ácido algínico) de gran interés en la producción de alimentos, medicametos y otros productos industriales
+	- Algas como bioindicador
+- Algas a destacar
+	- Watermolen snow→Chlamydomonas nivalis
+	- Trentepohlia spp. als murs d’ esglésies i escorça de pins
+- Tipos 
+	- Verdes
+		- Tipos
+			- Clorófitas
+				- Algas verdes marinas y gran parte de las dulciaquicolas
+			- Carófitas
+				- El resto de algas dulciaquicolas y subaereas
+	- Rojas
+		- Características
+			- Algas principales marinas
+			- Incluyen las coralináceas
+				- ↑ Importancia ecológica
+			- Algunos géneros son explotafos como alimento o fuente de agar y carragueninas
+	- Pardas
+		- Características
+			- Grupo muy diverso que se caracteriza porque sus miembros presentan un aparato flagelar con una organización heteroconta, es decir, con 2 flagelos desiguales.
+			- Pigmentos fotosintéticos
+				- Tipos
+					- Clorofilas
+						- a+c
+					- Ficoxantinas
+			- Sustancia de almacenamiento
+				- Crisolaminarina
+				- Lípidos
+		- Diferentes divisiones
+			- Ochrophyta
+				- Características
+					- Las ocrófitas pertenecen al grupo SAR, concretamente a los estramenopilos
+					- Incluyen varias líneas evolutivas de algas micro y macroscópicas, pero con un origen monofilético : a más de las diatomeas y algas pardas, las crisofíecias y xantofícias
+				- Clase
+					- Phaeophyceae→algas pardas
+						- Dentro de las algas pardas, las especies del orden laminariales son, de todos los grupos de algas conocidas, las que presentan mayor dimensiones y complejidad histológica
+					- Bacilliarophyceae→diatomea
+- Endosimbiosis
+	- General
+		- ![[Pasted image 20240429002452.png]]
+	- El origen de los plastos de las algas
+		- Se ubica a las cianobacterias incorporadas como endosimbiontes
+		- Estas cianobacterias pertenecen al dominio Bacteria (gram negativo) y, por tanto, son procariotas
+			- ![[Pasted image 20240429002601.png]]
+			- ![[Pasted image 20240429002622.png]]
+	- Plastos
+		- Tipos
+			- Primarios
+				- En función del tipo de alga
+					- Glaucophyta
+						- Plastos
+							- 2 Membrana
+							- + tilacoides simples aislados
+							- Capa de peptidoglicanos entre las 2 membranas
+							- Pigmentos fotosintéticos
+								- Ficobilisomas en la superficie de los tilacoides
+							- Sin pirenoides
+							- + carboxisomas
+							- Almidón
+					- Rhodophyta→algas rojas
+						- 2 membranas y tilacoides simples aislados
+						- Ficobilisomas en la superficie de los tilacoides
+						- Pirenoides raros
+						- Almidón de floridies→citoplasmáticos
+					- Chlorophyta+Charophyta
+						- 2 membrana y tilacoides en paquetes de 2-6 grana 
+							- En la división charophyta
+						- Tilacoides sin ficobilisomas
+						- Pirenoides frecuentes
+						- Almidón intraplastidial
+			- Secundarios
+				- Estramenopilos
+					- 4 membranas
+					- Nucleomorfo en cryptophyta
+					- Tilacoides en paquetes de 3
+					- Pirenoides intraplastidiales excéntricos
+				- Algas verdes
+					- Cloraracniofitos
+						- 4 membrana 
+						- Nucleomorfo
+						- Pirenoide
+						- Tilacoides en paquete de 3
+					- Euglenófitos
+						- 3 membrana
+						- Pirenoides
+						- Tilacoides en paquetes de 3
+						- Paramil→citoplasmático
+	- Pigmentos fotosintéticos de las algas
+		- Universal
+			- Clorofila a
+		- Accesorios
+			- Clorofila
+				- b+c
+			- Ficobiliproteínas
+				- Ficocianina
+				- Ficoeritrina
+			- Xantofilas
+				- Ficoxantina
+				- Sifonoxantina
+				- Sifoneina
+					- Caulerpales
+			- Carotenoides
+- ↑ Diversidad morfológica a los plastos de las algas
+	- En espiral
+	- Estrellados
+	- Reticulados
+	- Discoides
+- Flagelos de las algas
+	- En función del tipo de alga
+		- ![[Pasted image 20240429005355.png]]
+- Reproducción
+	- Tipos
+		- Asexual
+			- Tipos
+				- División celular
+				- Propágulos+estolones
+				- Esporas unicelulares especializadas
+					- Zoosporas
+					- Aplanosporas
+					- Esporas de resistencia, quistes, estatosporas, hipnosporas
+		- Sexual
+			- Tipos
+				- Isogamia
+					- =gametos
+					- Se diferencian por su comportamiento y fisiología
+				- Anisogamia
+					- !=gametos
+						- Masculino pequeño
+						- Femenino grande+inmóvil
+				- Oogamia
+					- Femenino grande e inmóvil
+				- Gametangiogamia→copulación gametangial
+					- NO hay liberación de gametos
+					- Los gametocistos establecen contacto directo
+	- Órganos reproductores
+		- + capa de protección
+			- Gametangios
+			- Esporangios
+		- - capa de protección
+			- Gametocistos
+			- Esporocistos
+	- Ciclos vitales
+		- Características
+			- A las algas la reproducción sexual implica la formación de zigotos y la aparición de la meiosis en un momento a otro del ciclo.
+			- Atendiendo el número de fases o generaciones pueden ser monogenéticos, digenéticos o trigenéticos
+		- Tipos
+			- Haplofásico→R! Zigótic
+				- Algas epicontinentales
+			- Diplofásico→R! Gamética
+				- Raros, mal conocidos o dudosos en algas marinas sifonadas
+			- Trifásico→! Espórica
+				- Alternancia entre esporófito y gametófito
+			- Somáticos
+				- Muy raros.
+				- Solo se conoce 2 casos:
+					- Prasiolales→Chlorophyta
+					- Batrachospermales→Rhodophyta
+- Principales factores ecológicos abióticos
+	- Luz
+		- ↑ la profundidad, la luz disminuye gradualmente en intensidad (irradación), y a la vez que experimenta un proceso de selección espectral en función de la longitud de onda
+		- Los dos componentes dependen del tipo de agua:
+			- Mar oligotróficos
+				- ↑ Transparentes 
+				- Características de aguas tropicales y subtropicales
+			- Aguas costaneras
+				- ↑ turbias
+	- Temperatura
+		- Características
+			- ↓ de la Temperatura en función de la latitud
+			- ↑ influye en el crecimiento y distribución geográfica de las algas
+		- Distribución geográfica
+			- Los rangos de tolerancia son responsables de los patrones de distribución geográfica
+			- Junto a la luz, la temperatura regulas los ciclos vitales
+				- Las mayores oscilaciones en la temperatura de las aguas superficiales se dan a las latitudes medianas
+		- Blanqueado
+			- + la muerte del coral 
+				- Ocurre por la expulsión de las zooxanteles simbióticas de los tejidos debido a un incremento de la temperatura
+		- Comparativa de la producción de materia primaria condicionada por la temperatura
+			- ![[Pasted image 20240429014912.png]]
+		- Efectos de la temperatura
+			- Creación de diferentes franjas de nivel en función del gradiente de temperaturas
+				- Epilímnion
+					- Capa cálidad
+					- Calentada por el sol
+					- Existe cierta homogeniadad de la temperatura por el viento
+				- Metalimnion
+					- Capa donde se produce una variación rápida de la temperatura y densida
+					- Termoclima
+				- Hipolimnion
+					- ↑ más profunda
+						- ↑ densidad
+						- T=-4ºC
+			- El termoclima no permite la mezcla de agua ente el epilímnion y el hipolimnion. Es estable en la zona tropical. En zonas de clima estacional la termoclima puede ser más intenso en verano y desaparece en invierno, afectando al flujo de nutrientes entre las 2 masas de agua
+	- Nutrientes
+		- Tipos de sistemas
+			- Oligotróficos
+				- P limitante
+				- ↓ producción de O2 en el hipolimnion
+				- ↑ Diversidad
+				- Salmónidos
+			- Mesotróficos
+				- Intermedios
+			- Eutróficos
+				- ↑ Nutrientes
+				- ↑ Producción
+				- ↑ actividad bacteriana
+				- Anaerobiosis
+				- ↑ Producción de biomasa+ simplificación estructural y funcional
+					- ↓ biodiversidad
+		- Características
+			- Ligados a la producción primaria a los lagos y oceanos
+		- Esenciales
+			- CHONP
+			- Mg,Fe, Cu, Mn, Mb
+		- Limitantes
+			- Nitrógeno
+				- DIN
+					- NO3+NH4
+				- DON
+					- Úrea
+					- aa
+			- P
+			- Si+Fe
+				- Producción de diatomeas
+	- Hidrodinamismo 
+		- Corrientes
+			- Las áreas más productivas están asociadas a las floramientos →upwelling
+				- Aunque suponen solamente el 0,1% de la superficie, es responsable del 50% de la producción total oceánica
+		- Oleaje y corrientes
+			- Ventajas
+				- Favorece la renovación de gases y nutrientes
+				- Elimina competidores y disminuye la presión de los herbívoros
+				- ↑ la dispersión de los propágulos
+			- Desventajas
+				- ↑ efectos catastróficos 
+					- La simplificación biótica y estructural de las comunidades
+- Patrones de zonación
+	- Pisos bionómicos
+		- ![[Pasted image 20240429012915.png]]
+		- ![[Pasted image 20240429012924.png]]
+	- Principales de factores abióticos
+		- ![[Pasted image 20240429012902.png]]
+	- En función del tipo de algas
+		- Algas pardas
+			- Mar→
+				- Atlántico
+					- El género Fucus, juegan un papel ecológico muy importante a las costas del Altántico boreal, disponidiendose en horizontes característicos en función de su tolerancia a la emersión
+					- ![[Pasted image 20240429012738.png]]
+					- ![[Pasted image 20240429012747.png]]
+				- Mediterráneo
+					- ![[Pasted image 20240429012727.png]]

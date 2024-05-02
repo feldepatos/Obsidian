@@ -1,0 +1,228 @@
+- Simbiosis
+	- Definición de simbiosis según diferentes autores
+		- De Bary
+			- ¿Qué es?
+				- Asociación basada en el contacto físico entre dos o más organismos (simbiontes) de diferentes especies durante una parte significativa de su ciclo vital; estas especies pertenecen al mismo o a diferente reino.
+			- Tipos de interacciones
+				- Ecológicas
+				- Genéticas
+				- Molecular
+			- Clasificación
+				- Mutualismo
+				- Parasitismo
+				- Comensalimsmo
+		- Merezhkowsky y Margulis
+			- ¿Qué es?
+				- El origen evolutivo de nuevas morfologías (tejidos y órganos) y fisiologías, y puntualmente de nuevas especies de organismos debido a la interacción simbiontica entre bionetes de orígenes y reinos diversos.
+				- Como resultado, se genera un holobionte
+					- Liquen
+		- Actual
+			- Simbiosis intracelular
+				- Endocitosimbiosis
+					- Origen de las células eucariotas que contienen orgánulos → Teoría del Endosimbiosis Serial
+					- Mitocondrias, plastos, flagelos son simbiontes bacterianos transformados que viven dentro de una células huésped.
+			- Simbiosis extracelular
+				- Las células de los organismos se mantienen separada, y se pueden diferenciar.
+				- No se transmiten como una unidad durante la mitosis, se reconocen y asocian física de forma cíclica→separación espacial y temporal
+					- Endosimbiosis
+						- M.O. de los remugantes
+						- Hongos y bacterias endosimbiontes de insectos
+					- Ectosimbiosis
+						- Líquenes
+						- Micorrizes
+	- Tipos de relaciones
+		- Mutualistas
+			- Se relacionan físicamente durante toda su vida con un organismo fotosíntetico (fotobionte), que obtiene la energía a partir de la luz.
+			- Los hongos, de manera secundaria, se convierten en autótrofos y, por tanto, en productores primarios
+				- Hongo+fotobionte→líquen
+				- Hongo+raíz de una planta→micorriza
+	- - Diversidad de micobiontes y fotobiontes
+		- Micobiontes
+		- Fotobiontes
+			- Algas eucariotas y/o cianobacterias
+				- Algas verdes
+					- Chlorophyta
+						- Trebouxia
+						- Asterochloris
+						- Prasiola
+						- Trentepohlia
+						- Vulcanochloris
+						- Symbiochloris
+				- Cyanobacteria
+					- Nostoc
+					- Rivularia
+					- Syctonema
+- Líquen
+	- ¿Qué es?
+		- Asociaciones simbióticas cíclicas ente, al menos, 2 tipos de diferentes organismos: un hongo heterotrofo (micobionte) y un simbionte fotosintético (fotobionte) que proporciona los "azucares" necesarios para el metabolismo, fijando CO2 y liberando O2 en el proceso.
+	- Características de los líquenes
+		- Generales
+			- Fruto de la interacción de los 2 simbiontes se forman entidades individualizadas llamadas talus liquénicos.
+			- Los talus liquénicos es el resultado de uno de los mayores grados de integración entre 2 organismos simbiontes
+			- Los simbiontes son organismos poiquilohidres; por tanto, adquieren el agua y también los nutrientes minerales principalmente de la atmósfera,a  través de la lluvia, niebla, pols, etc
+			- A la hora de nombrar a un líquen se hace por el organismo micobionte.
+			- Crecen lentamente
+				- 0,1-10 mm al año
+			- Primeros colonizadores de las rocas
+			- Presentan coloraciones variadas que suelen ser el reflejo visible de un metábolito secundario producido por el micobionte que protege al fotobionte del exceso de la luz UV.
+		- Beneficios para el micobionte y el fotobionte
+			- Micobionte
+				- Glúcidos+ energía del fotobionte y/o productos derivadas del metabolismo del nitrógeno de los cianobacterias
+			- Fotobionte
+				- Sustancias higroscópicas 
+					- Absorben el agua que se transfiera al fotobionte
+				- Protección frente a daños mecánicos, depredación, y de intensidad lumínica
+				- ↑ ampliar su rango de distribución y puede utilizarlo al micobionte como una manera de engancharse al sustrato
+				- CO2 a través de la respiración
+		- Estructura del talus liquénico
+			- Homómero
+				- Hifas del micobionte y las células del fotobionte laxa y homogéniamente distribuidas en el talus, e incluidas en una matriz gelatinosa
+				- Los líquenes con esta estructura presentan un talus con biotipo gelatinosos
+			- Heterómero→estratificado
+				- Características
+					- Al talus  con biotipo foliaceo, el talus esta delimitado por el cortex inferior, adquieriendo una configuración dorsiventral.
+					- Las células del fotobionte se concentran en la porción superior de la médula, bajo el cortex superior
+				- Estructura
+					- ![[Pasted image 20240429161125.png]]
+					- ![[Pasted image 20240429161102.png]]
+- Preguntas que generan discusión
+	- Interacción entre las hifas de los hongos y la célula algal en un líquen
+		- ![[Pasted image 20240429113218.png]]
+	- Biotipo de liquénicos
+		- Tipos
+			- Gelatinosos
+				- Muy blando en estado hidratado; común en cianoliquenes homómeros
+			- Crustáceo 
+				- Forman crestas inseparables del sustrato al que se adhieren a través de la médula 
+					- Carecen de cortex inferior) 
+				- Generalmente heterómeros
+				- Dorviventrales
+			- Foliaceo
+				- Laminar, parcialmente unido al sustrato
+				- Homómeros o heterómeros dorsiventrales
+			- Umbilicat
+				- Foliacis, generalmente circular, unido al sustrato por un punto central→ melic
+			- Fruticulosos
+				- Similares a pequeños arbustos
+				- Unidos por un único pto o no→hapterio 
+				- Heterómeros radiales
+			- Esquamulosos
+				- Formados por escamas
+			- Mixto/Talus compuesto
+				- Parte basal crustácea, foliacia o esquamulosa
+				- Parte erecta ramificada→ podeci o en forma de trompeta→escif
+		- Visto desde el M.E.
+			- ![[Pasted image 20240429161517.png]]
+	- Reproducción
+		- Tipos
+			- Asexual
+				- Fragmentación
+					- ¿Qué es?
+						- Porción de los talus albergantes de células del micobionte y del fotobionte, y que pueden dar a lugar a otro individuo
+					- Estructuras reproductoras
+						- Los 2 simbiontes al mismo tiempo
+							- Soredis
+								- ¿Qué es?
+									- Agrupaciones de células (propágulos )del fotobionte envueltas de hifas del micobionte, no corticades, que se agrupan, a su vez, en estructuras redondeadas, pulverulentas →soralis
+										- ![[Pasted image 20240429162009.png]]
+							- Isidis
+								- ¿Qué es?
+									- Otro tipo de propágulos que consiste en prolongaciones de talus, subesféricas o cilíndricas corticades (recobiertas del cortex del talus) y que, al igual que a los soredis,  incluyen hifas del micobionte y células del fotobionte
+										- ![[Pasted image 20240429162122.png]]
+						- Únicamente en el micobionte
+							- Picnidis
+								- ¿Qué es?
+									- Estructuras repletas de células conidiogénesis→conidios (mitosporas)
+								- ![[Pasted image 20240429162220.png]]
+		- Sexual
+			- Estructuras reproductoras
+				- Únicamente con el biotente
+					- Apoteci
+						- ¿Qué es?
+							- Ascoliquen crustáceo saxícola
+						- Anatomía
+							- ![[Pasted image 20240429162826.png]]
+					- Periteci 
+						- Ascoliquen crustáceo terrícola
+					- Lirela
+						- Ascoliquen crustáceo corticícola
+					- Leconorí
+						- Marga con algas
+							- Excepto el talí
+					- Lecidei
+						- Marga sin algas 
+						- Tiene el mismo aspecto que el resto del apotecio
+					- Mazedio→otro tipo de ascomas
+						- ![[Pasted image 20240429162908.png]]
+						- 
+					- Basidiomas en basidiolíquenes
+						- Están menos extendido (6 órdenes) que los ascomicetos liquenizados
+						- Desarrollan basidiomas con basidios y basidiosporas
+				- Otras estructuras del talus liquénicos
+					- ![[Pasted image 20240429163049.png]]
+	- Fisiología de los líquenes
+		- Absorción de agua y nutrientes
+			- Los líquenes absorben minerales y nutriente de la atmósfera a través de toda su superfície.
+			- Las hifas están cubiertas de sustancias liquénicas y proteínas (hidrofobinas) que repelen el agua, ya que, si estuviera demasiado hidratados, la fotosintésis no sería eficaz.
+				- Porque el exceso de agua interrumpiría la difusión de los gases
+			- Los líquenes con cianobacterias son capaces de fijar el nitrógeno atmosférico a iones de NH4.
+		- Fotosintésis y respiración
+			- A los líquenes se incorpora CO2 durante la fotosíntesis y libera CO2 durante la respiración
+			- Limitaciones
+				- Los líquenes no tienen el control de la regulación del contenido hídrico (poiquilohidras), pero pueden sobrevivir con bajos niveles de agua (15-30)  durante varios meses siendo metabólicamente inactivos.
+				- De hecho, pueden absorber agua de la lluvia o niebla, y en unos pocos minutos, pueden estar activos, si hay suficiente luz.
+	- Sustancias liquénicas
+		- Los atractivos colores de los líquenes derivan de los pigmentos que producen las hifas del micobionte como a resultado de su metabolismo secundario.
+		- Algunos metabolitos secundarios actuan como un filtro solar, y otros como antibióticos. Se conocen más como 400 sustancias diferentes.
+		- Productos secundarios del micobionte
+			- Tipos
+				- Atranorina
+				- Ácido úsnico
+				- Parietina
+					- Da la tonalidad narajan
+					- Esta da el nombre a la familia
+			- Función
+				- Evitar la depredación
+				- Acción antibiñotica
+				- ↑ 
+					- Absorción de agua
+					- Permeabilidad de las algas, para facilitar el intercambio de nutrientes
+				- Fotoprotección del fotobionte
+				- Productos de desecho, como el oxalato cálcico
+	- Ecología
+		- Tipos
+			- Saxícoles
+				- Sobre rocas
+			- Epífitos
+				- Sobre troncos→corticícola
+			- Terrícolas
+				- Suelo, tierra, arena poco  compactada
+		- Hábitas
+			- + condiciones extremas
+				- Frias
+					- Antártida Marítima
+						- ![[Pasted image 20240429164056.png]]
+						- ![[Pasted image 20240429164045.png]]
+					- Tundra ártica
+				- Cálidas
+					- Desiertos cálidos
+						- ![[Pasted image 20240429164121.png]]
+			- Sustratos artificiales y naturales inusuales
+				- ![[Pasted image 20240429164132.png]]
+	- Bioprotección vs biodeterioro de los monumentos
+		- ![[Pasted image 20240429164213.png]]
+		- ![[Pasted image 20240429164231.png]]
+	- Uso de líquenes
+		- Medicinal+herboristeria
+		- Industrial
+			- Tintes
+			- Maquetas
+			- Perfumería 
+		- Bioindicadores de la contaminación ambiental
+			- Justificación
+				- Para tal uso utilizan líquenes oligotróficos, es decir, hongos que no toleren altas concentraciones de nitrógeno a diferencia de los nitrofitos
+				- A las zonas temperadas y boreales se han desarrollado múltiples bioindicadores de la contaminación para nitrógeno, siendo los líquenes epífitos uno de los más sensibles y ampliamente aplicados
+			- Diagrama del uso de ellos
+				- ![[Pasted image 20240429164554.png]]
+- Glosario
+	- Fotobionte

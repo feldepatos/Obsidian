@@ -1,0 +1,74 @@
+- Introducción al filo
+	- Entre en el filo de pseudocelomados
+		- Los vertebrados así como los invertebrados presentan un celoma que se forma en el mesodermo durante el desarrollo embrionario y, por tanto, esta revestido de una capa de epitelio mesodérmico, el peritoneo.
+		- Los pseudocelomados tienen un pseudocele en lugar de un celoma, que deriva del blastocele emrbionario en lugar derivar de una cavidad secundaria del interior del mesodermo. Es un espacio no revestido de peritoneo, entre el tubo digestivo y los componentes mesodérmicos y ectodérmicos de la pared del cuerpo.
+		- Dentro de este grupo encontramos a:
+			- Rotíferos
+			- Gastrotricos
+			- Loriciferos
+			- Priapodidos
+			- Nematomorfo
+			- Endoprotos
+- Introducción a los nematodos
+	- En función de su alimentación podemos encontrar
+		- Vida libre
+			- Se alimentan de 
+				- Bacterias
+				- Levaduras
+				- HIfas de hongos y de algas
+		- Depredarores
+			- Rotíferos
+			- Tardigrados
+			- Pequeños anélidos
+			- Y otros nematodos pequeños.
+	- Presas de otros animales
+		- Ácaros 
+		- Larvas de insectos
+		- Hongos
+- Características según brusca
+	- Triblástico+bilateral, vermiform, no segmentado y blastocélico
+	- Cuerpo redondo en sección transversal y cubierto por una cutícula en capas (quitina presente en la cutícula de la faringe en algunas especies) ; crecimiento en juveniles acompañados de muda cutilar hasta alcanzar la forma adulta; generalmente con cuatro etapas juveniles
+	- Pared corporal con solo músculos longitudinales (carecen de músculos circulares), con brazos musculosos.
+	- Con órganos sensoriales cuadales únicos→ fásmidos
+	- Sistema digestivo completo; varias estructuras orales dispuestos en un patrón radialmente simétrico.
+	- La mayoría con un sistema secretor-excretor único, compuesto por una o dos célula renette o un conjunto de túbulos colectores.
+	- Sin estructuras especiales circulatorias o de intercambio de gases.
+	- Epidermis celular o sincitial, formando cordones longitunidales que albergan cordones nerviosos.
+	- Gonocorístico; amplia gama de modos reproductivos
+	- Con un patrón de escote único; no radial o espiral.
+	- Eutalmente presente en al menos algunas especies (o algunos órganos)
+	- Se encuentra en agua marina, dulce y terrestre, de vida libra y parásitos, a veces con ciclos de vida complejos
+- Locomoción según Brusca
+	- La capa más externa de la cutícula, la epicutícula, secreta una capa superficial del glucocáliz que protege al gusano de los depredadores microbianos y parásitos, y podría facilitar la locomoción mediante la lubricación. La cutícula forma un exoesqueleto flexible que se invagina en la boca, cloaca y recto, así como en los ánfidos, fásmidos, poro secretor-excretor y vulva. La cutícula está compuesta principalmente por lípidos y proteínas asociados a mucopolisacáridos.
+	- El colágeno, una proteína estructural, es el componente principal de la cutícula (>80%). Los nematodos carecen de quitina en su cutícula, a excepción de la cutícula faríngea de algunas especies (la quitina también se encuentra en la cáscara del huevo). Además de servir
+	- Al actuar como antagonista de la contracción de los músculos longitudinales, la cutícula es semipermeable y desempeña un papel en la secreción-excreción o absorción de sustancias.
+	- La cutícula también es responsable en parte de permitir que los nematodos vivan en ambientes hostiles, como los secos. suelos terrestres y el tracto digestivo de los animales huéspedes, ya que reduce drásticamente la permeabilidad de la pared corporal
+	- La cutícula es una estructura compleja y muy variable entre los nematodos. Puede ser relativamente liso o estar cubierto de setas sensoriales y protuberancias parecidas a verrugas. El
+	- La cutícula de muchos nematodos tiene anillos o anillos, o está marcada con crestas y surcos longitudinales (Figura 19.4). En muchas formas marinas, contiene varillas dispuestas radialmente, puntuaciones u otras inclusiones de varias formas. A medida que un nematodo crece, muda su cutícula y le crece una nueva a través de una serie de cuatro mudas (la primera ocurre dentro de la membrana del huevo en algunas especies) durante su vida. Por lo tanto, las etapas de intermuda (estadio) se denominan J1 a J4, seguido por el adulto.
+	- Aunque es probable que la muda sea inducida por una hormona esteroide, aún no se conoce la naturaleza exacta de la hormona (el esteroide ecdisona desencadena la muda en los artrópodos).
+	- La nueva cutícula postmuda comúnmente tiene pliegues epidérmicos (plicae) sobre los cuales la nueva cutícula se vuelve altamente enrevesado, lo que permite que el gusano aumente de longitud en forma de acordeón después de la ecdisis.
+	- La epidermis (que a veces se llama “hipodermis”) varía entre los diferentes taxones, desde celular hasta sincitial, pero típicamente está engrosada en cordones longitudinales dorsales, ventrales y laterales únicos. (Figura 19.3A,C). 
+	- Los músculos están conectados a los cordones nerviosos dorsal y ventral mediante extensiones únicas llamadas brazos musculares (Figura 19.3A,B). Esta disposición es diferente de las uniones neuromusculares habituales en la mayoría de los demás animales; en los nematodos las conexiones se realizan mediante extensiones especiales de las células musculares en lugar de las neuronas. Cada neurona puede recibir muchos, incluso cientos, de brazos musculares. Curiosamente, aparentemente existe una condición similar en algunos equinodermos y en el Branchiostoma cefalocordado, presumiblemente casos de evolución convergente. Además, en algunos nematomorfos, kinorrincos, platelmintos, anélidos y gastrotricos, los músculos longitudinales de la pared corporal tienen extensiones similares a los brazos de los músculos de los nematodos.
+	- No se ha estudiado a fondo si son homólogos o convergentes. No existe una capa muscular circular en los nematodos ni en los nematomorfos, una condición considerada homóloga por la mayoría de los investigadores.
+	- El blastoeloma lleno de líquido no es espacioso. La cavidad corporal aparentemente grande que se observa en muchas muestras de laboratorio es a menudo un artefacto causado por la contracción de los tejidos en alcohol. Las técnicas modernas de microscopía revelan que los órganos de la mayoría de los nematodos ocupan casi toda su superficie. El espacio interno, y en especies muy pequeñas la cavidad puede quedar completamente obliterada. Sin embargo, en especies grandes como Ascaris está claramente presente un blastocele discernible. La cutícula proporciona la mayor parte del soporte del cuerpo nematodos. En ausencia de músculos circulares de la pared corporal, algunos tipos de locomoción, como la excavación peristáltica, son imposibles. Los movimientos de los nematodos dependen de ondas de contracciones musculares, que viajan hacia atrás a lo largo del cuerpo. Estos movimientos impulsan al gusano hacia adelante, ya sea nadando en el agua o arrastrándose entre partículas del suelo o tejidos animales o vegetales.
+	-  Estas contracciones de los músculos longitudinales producen un movimiento ondulatorio similar a un látigo (figura 19.3E). Entre los nematodos de vida libre, este patrón de movimiento se basa en el contacto con los sustratos ambientales, contra los cuales empuja el cuerpo. Los músculos actúan contra el esqueleto hidrostático y la cutícula, que sirven como fuerzas antagónicas a las contracciones musculares. Cuando se los coloca en un ambiente fluido y se les priva de contacto con objetos sólidos, los nematodos bentónicos se agitan de manera bastante ineficiente. Algunos realmente nadan (pero no muy bien) y otros pueden arrastrarse utilizando varias espinas cuticulares, surcos, crestas y glándulas para agarrarse al sustrato (Figuras 19.1E,H y 19.4).
+- Forma y función
+	- Los carácteres distintivos de este grupo de animales es su forma cilíndrica, su cutícula flexible e inerte, su carencia de cilios móviles o flagelos ; los músculos de la pared del cuerpo, que tienen características inusuales, como el hecho de que sólo discurren en dirección longitudinal, y la eutelia. 
+	- Los nematodos no tiene protonefridios, hecho relacionado con su carencia de cilios; su sistema excretor consta de una o más células glandulares, o con más células y canales juntos. 
+	- Su faringe es típicamente muscular, con una luz tirrradiada que recuerda a la faringe de los gastrotricos y de los kinorrincos.
+	- El uso del pseudocele como órgano hidrostático esta muy extendido en los nematodos, y con gran parte de su morfologia funcional puede extenderse mejor en el contexto de la alta presión hidrostática (turgescencia) del pseudocele.
+	- La cubierta externa del cuerpo es una cutícula no celular relativamente gruesa secretada por la epidermis subyacente (hipodermis). La hipodermis es sincitial y sus núcleos se localizan en cuatros cordones hipodérmicos que sobresalen hacia el interior. Los cordones dorsal y ventral llevan los nervios longitudinales dorsal y ventral, y los cordones laterales llevan los conductos excretores.
+	- La cutícula tiene una gran importancia funcional para el animal, al servir para resistir la alta presión hidrostatica ejercida por el fluido del pseudocele. Las distintas capas de la cuticula son principalmente de colágeno.
+	- Tres capas están compuestas por de libras entrecruzadas, que confieren al animal cierta elasticidad longitunidad, pero que limitan considerablemente su capacidad para la expansión lateral.
+	- Los músculos de la pared del cuerpo de los nematodos son pocos comunes. Se sitúan por debajo de la hipodermis y solo se contraen longitunidalmente. NO existe musculatura circular en la pared del cuerpo. Los músculos están dispuestos en cuatro bandas, o cuadrantes, marcadas por los cuatros cordones hipodérmicos. Cada célula muscular tiene un puerto ión fibrilar contractil o hueso muscular y una porción sarcoplásmica no contráctil →cuerpo celular.
+	- El hueso es distal y esta confinado a la hipodermis, y los cuerpos celulares sobresalen hacia el pseudocele. El huso es estriado con bandas de actina y miosina, lo que recuerda al músculo esquelético de los vertébrados. El cuerpo celular contiene el núcleo y es el principal del colágeno almacenado en el animal. De cada cuerpo celular se extiende un saliente o brazo muscular hacia los nervios ventral o dorsal. Aunque no es exclusiva de los nematodos, están dispuestos de manera muy curiosa; en muchos animales las prolongaciones nerviosas se extienden hasta el músculo, en lugar del contrario.
+	- El fluido que rellena el pseudocele que baña los órganos internos, constituyen un esqueleto hidrostatico que esta presente en muchos invertebrados, y que presta soporte para la transmisión de la fuerza de la contracción muscular al fluido encerrado no comprimible. Normalmente, la disposición muscular es antagónica, de forma que el movimiento se efectua en una dirección por la contracción de un grupo de músculos  y el movimiento en el sentido opuesto por el grupo de músculos antagónicos. No obstante, como los nematodos no tienen musculatura circular en la pared del cuerpo para que cordones nerviosos longitudinales no apareados, mientras que los los engrosamientos laterales contienen canales excretores (cuando están presentes, como en Ascaris) y neuronas. Dentro de la epidermis hay una capa relativamente gruesa de músculo longitudinal estriado oblicuamente dispuesto en cuatro cuadrantes.
+	- 
+- Funciones
+	- Locomoción
+	- Nutrición
+	- Respiración
+	- Excreción 
+- Definiciones
+	- Celoma→cavidad peritonial
+	- Eutelia

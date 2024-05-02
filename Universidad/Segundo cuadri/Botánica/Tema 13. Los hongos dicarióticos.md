@@ -1,0 +1,149 @@
+- Posición filogénica 
+	- Son los hongos que han perdido en la evolución las zoosporas móviles
+		- ![[Pasted image 20240430170017.png]]
+- Características generales
+	- Eucariotas heterótrofas 
+	- Alimentacón
+		- Osmotrofia
+	- Talus→micelio
+		- Filamentoso formado por hifas
+	- Ciclo biológico haplo-dicariótico
+	- Formas de vida
+		- Parásitos
+		- Saprófitos
+		- Simbiosis mutualistas
+			- Líquenes
+			- Micorrizas
+- Tipos
+	- Ascomicetos
+		- Características
+			- División
+				- Ascomycota
+			- Tipo de esporas
+				- Meiospora endosporas incluidas en las asques
+			- Formación de diferentes tipos de ascomas
+				- Clistotecio
+				- Apoteci
+				- Periteci
+			- Micelio formado por hifas septadas
+				- Tanto en organismos unicelulares como pseudomiceliars.
+			- Pared celular
+				- +Quitina
+			- Septas simpleas con obsturadors→cuerpos de woronin
+			- Ciclo haplo-dicariotico
+			- Tipos
+				- Tatrinomicetos
+					- Taphrina deformans
+						- No forma ascomas 
+						- Micelio intercelular
+							- Provoca un desarrollo hipertrófico a la superficie del huésped parasitado a causa de la producción de ácido indolacético
+					- Pneumocistis
+						- Causa la pneumonia en personas inmunodeficiente
+				- Sacaromicetos
+					- Características
+						- Caracen de ascomas
+						- Pared celular con ↓quitina o no quitonosa
+						- Talus unicelulares o pseudomicelares
+						- Asques sin mecanismos de dehiscencia
+						- Multiplicación asexual por gemmación
+						- Generalmente saprófitos
+						- ↑ importancia en la industria alimentaria
+							- Para la fermentación
+					- Ciclo de vida→reproducción 
+						- asexual+sexual
+						- ![[Pasted image 20240430170851.png]]
+						- ![[Pasted image 20240430170916.png]]
+				- Pezizomicetos
+					- Ciclo vital
+						- Estructura de los órganos reproductores
+							- Ascomas
+							- ![[Pasted image 20240430171003.png]]
+						- Tipos
+							- Podemos encontrar desde la estructura básica hasta 
+								- Cassoletes, rabassoles, selles y tofones
+									- Pero son saprófitos o microrrizogenos con ascas operculades
+									- ![[Pasted image 20240430171140.png]]
+				- Moho verdes o azulado
+					- Tipos 
+						- Penicillium notatum i P.chrysogenum
+							- Producción de antibióticos
+						- Penicillum requefortii y P. camemnertii
+							- Elaboración de los quesos
+						- Aspergillus flavus
+							- Producción de toxinas carcinógena en alimentos almacenados
+					- Ejemplar a destacar
+						- Levadura candida albicans
+							- Únicamente produce mitósporas
+							- Produce infecciones blancas que reciben el nombre de candidiasis
+			- Hongo a destacar
+				- Claviceps purpurea→baña del segol
+					- Contiene alcaloides (ergometrina y ergotamina) y derivados del ácido lisérgico a partir del cual se sintetiza el LSD
+				- Grupo de hongos que desconocemos su estado sexual
+					- ![[Pasted image 20240430171306.png]]
+	- Basidiomicetos
+		- Características
+			- División Basidiomycota
+			- Meiosporas exosporas
+				- Producidas en las esporas
+					- En basidios
+			- Formación de basidiomas
+			- Micelio formado por hifas separadas
+			- Septo dolípor con parentosoma
+				- Excepto rovells y carbonos
+			- Pared celular generalmente de quitina
+			- Ciclo haplo-dicariótico con diccariofase larga y vegetativa.
+		- Tipos
+			- Pucciniomicetos
+				- Rovells
+					- No forman basidiomas
+					- Producen esporas de repetición sobre basidios septados
+					- Rovells→masas de esporas de color de hierro rovellado
+				- Ciclo vital de Puccinia graminis
+					- Tiene 2 huésped alternativo: el trigo y el coralet y produce, 4 esporas diferentes:
+						- Teliosporas
+						- Basidiosporas
+						- Ecidiósporas
+						- Uredósporas
+			- Ustilaginomicetos
+				- Comprendo a los carbonos, los tissones y grupos afines, casi todos los parásitos de angiospormas
+				- Ejemplo
+					- El maíz con hongos de mexico
+			- Agaricomicetos
+				- Tipos
+					- + basidios septados
+						- Especies saprófitas con basidiomas gelatinosos en estado hidratado
+					- - basidios septados→holobasidios
+						- ![[Pasted image 20240430172804.png]]
+				- Ciclo vital
+					- ![[Pasted image 20240430172814.png]]
+		- Absicicón esporal
+			- Implica una gota de agua que se forma junto al punto de unión del esterigma a la espora; esta gota impulsa la espora. Cuando se suelta con tal que sea arrastrada por tal turbulencias del aire.
+		- Diversidad en el desarrollo de los basidiomas
+			- Tipos
+				- Gimnocárpico
+				- Memiangiocárpico
+				- Angiocárpico
+		- Estructura de un cuerpo fructífero→Bolet
+			- Cuerpo fructífero
+				- Nomenclatura relacionada
+					- Basidioma
+					- Basidios típicos
+						- Holobasidios
+				- Representación de diferentes cuerpos fructíferos en una diversidad de órdenes de hongos
+					- Agaricomycotina:
+						- Basidiomas típicos putrescibles, hemiangiocárpicos y gimnocárpico con himenofor de laminas o porus
+- Diferencias entre el ciclo de vita de ascomicetos y basidiomicetos
+	- ![[Pasted image 20240430173430.png]]
+	- 
+
+|                         | Ascomicetos                             | Basidiomicetos                   |
+| ----------------------- | --------------------------------------- | ------------------------- |
+| División                | Ascomycota                              |                                  |
+| Tipo de esporas         | Meiòspores endòspores                   |                                  |
+| Estructura reproductora | Ascomes                                                                    |
+| Micelio                 | Hifas separadas                                                            |
+| Septa                   | Dolíporo con parentosoma  osoma  osoma  osoma  osoma  osoma  osoma  osoma  |
+| Ciclo vital                                                                                          |
+| Nº de especi                                                                                         |
+
+

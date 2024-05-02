@@ -1,0 +1,55 @@
+- Localización de ambos subgrupos en los grupos
+	- ![[Pasted image 20240428215255.png]]
+- Algas pardas→feofícies
+	- Características
+		- División→Ochrophyta
+		- Clase→ Phaeophyceae
+		- Marinos
+		- ↑ diversidad morfológica + variabilidad por su organización estructural
+		- 
+	- Reproducción
+		- Tipos
+		- Ciclo digenético haplo-diplofásico isomorfo
+			- Ectocarpus
+			- Dictyota dichotoma
+			- Laminaria 
+		- Ciclo monogenético diplofásico→Fucus 
+	- Distribución
+	- Especies clave→Los ingenieros de los ecosistemas
+	- Algas a destacar
+		- Orden Fucales,
+			- Familia Sargassacea →Sargassum spp.
+			- Familia Cystoseiracea→Cystoseira s.l
+	- Usos
+		- Alimentación
+		- Cocina
+- Crisoficies
+	- Características
+- Xantoficies
+	- Características
+	- Reproducción
+- Diatomeas
+	- Características
+		- Morfología
+	- Reproducción
+	- Ecología
+	- Usos
+- Dinoflagelados
+	- Características
+	- Diversidad
+	- Origen de los plastos
+	- Aparato fotosensitivo
+	- Tipo de dinoflagelados a destacar
+		- Mizocitosis
+			- Características
+			- Reproducción
+			- Ecologia
+			- Bloom tóxicos→mareas rojas
+		- Pocillopora→coral duro
+	- La base del sistema
+- Haptofitos+coccolitofóridos
+	- División 
+	- Características generales de ambos grupos
+	- Coccolitoforidos
+		- ¿Qué es?
+		- Ecología

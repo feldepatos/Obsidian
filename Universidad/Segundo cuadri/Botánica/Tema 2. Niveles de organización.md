@@ -1,6 +1,186 @@
 - La célula
 	- Características
+		- Todos los seres vivos están formados por células procarioticas o eucariotas
+		- Algunos orgánulos de las células eucariotas, como ahora los plastos y los mitocondrias se han originado por endosimbiosis a partir de organismos procariotas.
 	- Tipos
 		- Eucariota
 			- Vegetal
+				- Presenta prácticamente los mismo orgánulos que la animal a excepción de una serie:
+					- +
+						- Cloroplastos
+						- Pared celular
+					- -
+						- Lisosomas
+						- Centriolos
+						- Flagelos 
+							- A excepción de algún gameto masculino de la reproducción sexual 
 			- Fúngica
+				- Diferencias 
+					- A nivel de orgánulos
+						- ¿Qué tienen las células fúngicas
+							- Diferencias entre los propios hongos
+								- Ascomicetos
+									- Levuriformes donde se reproducción por gemmación
+								- Basidiomicetos
+									- Presenta dos formas
+										- Levuriformes 
+										- Hifas
+							- Bud→bulbo
+								- La gemmación de un nuevo hongo
+							- Septo
+							- Bud scar
+							- Vesículas
+						- ¿Qué tienen las células vegetales?
+							- Cloroplastos
+							- Amiloplastos
+				- 
+
+|                                         | Embriofitos                               | Algas                                                                                                          | Hongos                                              |
+| --------------------------------------- | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Componentes de la pared celular         | Celulosa+hemicelulosa+pectinas            | Celulosa+hemicelulosa+pectinas                                                                                 | Quitina, glucanos, mannanos y algunas proteínas     |
+| Membrana                                | + fitosteroles                            | + fitosteroles                                                                                                 | + Ergosterol                                        |
+| Membrana celular y de algunos orgánulos | + 2 envolturas, grana , y clorofila a y b | diferentes número de envoltura, disposición de tilacoides y pigmentos fotosínteticos dependiendo de los grupos | NO                                                  |
+| Presencia de cloroplastos               | Almidón                                   | Almidón u otros compuestos dependiendo de los grupos                                                           | Glúcogeno                                           |
+| Número de núcleos por célula            | 1                                         | 1 o +1                                                                                                         | 1 o +1                                              |
+| Connexiones intercelulares              | Plasmodesmos                              | Septos de complejidad variable a las multinucleadas                                                            | Septos de complejidad variable a las multinucleadas |
+
+- Nivel de organización
+	- Unicelular a pluricelular
+		- La pluricelularidad ha aparecido varias veces y de manera independiente a lo largo de la historia de la vida. 
+		- A cuanto más especialización y más cooperación
+	- Niveles
+		- Protófitos
+			- Unicelular
+				- Tipos
+					- Móviles
+						- Flagelados 
+						- Ameboides
+					- ![[Pasted image 20240426000432.png]]
+					- Inmóviles
+						- ![[Pasted image 20240426000441.png]]
+			- Colonias
+				- ¿Qué es?
+					- Agregados de células en número, generalmente, indeterminado
+				- ![[Pasted image 20240426000453.png]]
+			- Cenobios
+				- ¿Qué es?
+					- Agrupaciones celulares de aspecto definido por un número de células determinado
+					- ![[Pasted image 20240426000544.png]]
+			- Plasmodios y pseudoplasmodios
+				- ¿En qué organismos están presentes?
+					- Grupos afines a los hongos
+				- Tipos
+					- Masas de protoplasma plurinucleadas sin pared→Plasmodios
+						- Mixomicetos
+							- ![[Pasted image 20240426000609.png]]
+					- Formadas por la simple agregación de amebas→Pseudoplasmodios
+						- Dictiosteliomiceto
+							- ![[Pasted image 20240426000619.png]]
+		- Talófitos
+			- ¿Qué es?
+				- Organismo plurinucleares congénitos o cenocíticos (plurinucleados) con células que se especializan y cooperan
+				- El cuerpo de estos organismos se llama Talus, que es poiquilohidre y mayoriarmente de vida acuática, ya que esta bien adaptado a este medio.
+			- Tipos
+				- Sencillos/ Cenobios complejos
+					- ![[Pasted image 20240426000642.png]]
+					- Características
+						- Tipo Volvox (algas verdes clorofitas)
+						- Este organismo está formado por un número elevado de células que forman una esfera vacia
+					- Paso de protófitos a talofitos
+						- Pasos
+							- Uniceluar
+							- Lamina plana o corbada con 8-32 células indiferenciadas
+							- Colonia esférica con 64-128 células donde el 30-50% son somáticas
+							- Cenobios complejos ; las células más pequeñas son somáticas y las más grandes reproductivas
+						- Representación
+							- ![[Pasted image 20240426000725.png]]
+							- ![[Pasted image 20240426000735.png]]
+				- Filamentosos
+					- ![[Pasted image 20240426000751.png]]
+					- ¿Qué es?
+						- Un filamento celular es una hilera de células una detrás de otras. 
+						- Los talus filamentosos puede ser simples (si el plano de división no varia ) o ramificados (sí existe un giro en el plano de división)
+						- Tipos
+							- Sifonals/cenocíticos
+								- Son aquellos talus filamentosos en los que las células después de la mitosis no quedan delimitadas por septos o membranas
+								- Presentes en algunos hongos y algas verdes y xantoficias.
+								- ![[Pasted image 20240426000805.png]]
+							- Sifonocladals→hemisifonales
+								- Talus filamentosos con algunas septos que delimitan porciones plurinucleadas
+								- Presentes en algunas algas verdes
+								- ![[Pasted image 20240426000813.png]]
+				- Plectenquimáticos→Falsos tejidos
+					- ¿Qué es?
+						- Son falsos tejidos que se forman a partir de filamentos compactados y entrelazados.
+					- Tipos
+						- Prosoplectenquimas
+							- Se reconocen los filamentos individuales
+							- ![[Pasted image 20240426000836.png]]
+						- Pseudoparenquimas
+							- ↑ grado de compatación que no se reconocen los filamentos.
+							- Da a lugar a talus robustos,laminares, corticales y a cuerpos fructíferos de los hongos.
+							- ![[Pasted image 20240426000828.png]]
+				- Hísticos
+					- ¿Qué son?
+						- Son los talófitos más complejos, en los que aparecen algún tipo celular especializado ("tejidos" aislantes, corticales y medulares), además de estructuras diferenciadas.
+						- Están presentes en algunas algas brunas→feocias
+						- ![[Pasted image 20240426000852.png]]
+							- ![[Pasted image 20240425231952.png]]
+		- Briófitos
+			- ¿Qué es?
+				- Este nivel de organización es característico de un grupo de plantas terrestres o embriofitos.
+			- Características
+				- Hábitat
+					- Diversos
+						- Terrestres
+						- ↑Húmedos
+						- Áridos o semidesérticos
+				- Organización sencilla
+					- Carecen de 
+						- Hojas→filidios
+						- Tallo→caulidios
+						- Raíces→rizoides
+				- NO tiene sistemas complejos de transporte de agua y nutrientes
+					- Existe excepciones
+						- Hidroides
+						- Leptoides
+				- Poiquilohidres + ↑ resistencia a la desecación
+					- ↑ defensa enfrente a la deshidratación de las células
+				- Es típico en las siguientes divisiones
+					- Bryophyta
+						- Grupo
+							- Helechos
+						- Organización 
+							- Se distinguen la capsula , seta (contiene hidroides) y en las rizoides con leptoides
+								- ![[Pasted image 20240425234125.png]]
+					- Marchantiophyta
+						- Grupo
+							- Hepáticas
+					- Anthocerotophyta
+						- Grupo
+							- Antocerots
+			- Tipos
+				- Briofita
+					- Helechos
+				- Organización
+				- Marchantiophyta
+					- Hepática
+				- Anthocerotophyta
+					- Antocerots
+		- Cormófito
+			- ¿Qué es?
+				- Es el nivel de organización estructural más complejo, presente en plantas terrestres 
+			- Cuerpo vegetativo
+				- Partes
+					- Raíz
+					- Brotes
+						- Tallo
+						- Hojas
+				- ![[Pasted image 20240426000921.png]]
+			- Características
+			- Tipos
+				- - semilla
+					- Pteridofitos
+				- +semilla
+					- Gimnospermas
+					- Angiospermas

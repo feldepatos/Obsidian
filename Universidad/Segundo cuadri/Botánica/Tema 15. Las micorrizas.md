@@ -1,0 +1,94 @@
+- Origen del concepto
+	- Describe la simbiosis mutualista cíclica entre un hongo y una raíz de una planta: todas las embriofitas o briofitas 
+		- Cíclica por el continuo crecimiento de la raíz.
+	- Los componentes ricos en carbono fluyen de la planta al hongo, mientras que los nutrientes inorgánicos  (especialmente el fósforo ) y el agua van en la dirección contraria
+- Tipos
+	- Ectomicorrizas→2%
+		- Características
+			- Micorrizas ectotróficas
+			- Tipo de hongo
+				- La norma general
+					- Basidiomiceto de los siguientes órdenes
+						- Agaricales
+						- Boletales
+						- Russulales
+				- Excepción
+					- Ascomiceto
+						- Tuber
+			- Desarrollo micelar ocurre en el exterior de la raíz, formando el manto
+			- Algunas hifas se situan en espacios intercelulares del cortex de la raíz y forman la red de Hartig
+			- NO presentan hifas intracelulares
+			- El crecimieto de raíz modifica y adopta una morfología característica.
+			- Están implicadas el 3-5% de las plantas, algunas de interés económico y forestal como las que pertenecen a las familias : Betulaceae, Fagaceae, Pinaceae , Cupressaceae, Salicaceae y géneros de Rosaceae y Leguminosae
+		- Estructura de un manto por hifas del hongo
+			- ![[Pasted image 20240429170646.png]]
+		- Vista  global del tejido que afectan
+			- Las esctomicorrizas solo se producen en las raíces secundarias, corta y de crecimiento limitado.
+			- La morfología de las ectomicorrizas es característica del grupo vegetal con el que se establece la simbiosis 
+				- Angiospermas
+					- No atraviesa la endodermis porque sino desestructuraria los canales de agua
+				- Gimnospermas
+			- ![[Pasted image 20240429170851.png]]
+			- ![[Pasted image 20240429170838.png]]
+		- Hongos
+			- Muchos cuerpos fructíferos comestibles que se encuentran en los bosques pertenecen a los hongos ectomicorrizogenos
+			- Es importante de no dañar el micelio al recoger setas.
+	- Endomicorrizas→80%
+		- Características
+			- 2º Nombre→micorrizas endotróficas
+			- Rasgos especiales a nivel de estructura
+				- El micelio penetra al interior de las células del cortex de la raíz, generando un contacto muy íntimo con la célula vegetal.
+			- Forman hifas intracelulares
+				- Desarrollan haustorios
+					- Con estas estructuras absorben los nutrientes de la planta.
+		- Tipos
+			- VA→Vesiculoarbusculares
+				- Características
+					- Hongos
+						- Glomeromycotina
+					- Plantas
+						- lleguminoses, gramínies, labiades, asteràcies i cupressàcies
+					- Recibe este nombre porque forma vesículas y arbucles al interior de las células de la raíz.
+			- Ericoides
+				- Características
+					- 3 subtipos
+						- Ericoides
+							- Formación de rinxoles a la rizoderma
+								- Manto!
+							- Promueva el desarrollo de nuevas raíces
+						- Arbutoides
+							- Parecidas a las anteriores
+							- ↑más forma de manto y  una red de Hartig parecido a las ectomicorrizas
+						- Monotropoides
+				- Hongos
+					- Ascomicetos
+						- Hymenoscyphus
+					- Basidiomicetos
+						- Boletus
+				- Planta→ericácias
+					- Erica, Calluna, Arctostaphylos, Arbutus
+			- Orquidaceas
+				- Características
+					- Permite el desarrollo del embrión de la fruta de las orquídeas que no tienen sustancia de reserva
+				- Hongo
+					- Basidiomicetos ectomicorrízic, saprófito o parásito
+- Repaso del tipo de micorrizas
+	- ![[Pasted image 20240429172034.png]]
+- Plantas micoheterótrofas
+	- Obtienen los glúcidos y también los minerales del suelos a través de los hongos. 
+	- La mayoría de estas plantas han perdido la clorofila y, por tanto no pueden realizar la fotosíntesis; por eso su ciclo vital depende completamente del suministro de nutrientes de los hongos con los que micorrizan,
+	- La micoheterotrófia se ha originado más de 40 veces a lo largo del árbol de la vida de las plantas, con unas 580 especies de 17 familias diferentes.
+- Papel en la colonización del medio terrestre
+	- Justificación
+		- Es problable que la colonización de las plantas del medio terrestre fuera facilitada por los hongos simbióticos, que van a contribuir a la captación de nutrientes (P) a las raíces primitivas
+		- La filogenia datada muestra que la colonización del medio terrestre por parte de los hongos va precedir la de las plantas
+	- Wood Wide WEB: implicaciones ecológicas de la micorrización
+- Importancia ecológica y económica de la micorrización
+	- Favorecen a la absorción del agua y de compuestos P y N, de manera que las plantas micorrizadas, enfrente a las que no están
+	- Ventajas
+		- ↑ 
+			- Crecen más vigor
+			- Floración y fructificación+rendimiento de la agricultura
+			- Tolerancia a la desecación
+			- Resistencia a las infecciones de hongos y bacterias patógenos.
+		- Mantener la calidad del suelo y a la recirculación de los nutrientes
