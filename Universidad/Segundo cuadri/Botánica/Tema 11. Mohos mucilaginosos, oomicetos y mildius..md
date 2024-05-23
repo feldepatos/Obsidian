@@ -5,6 +5,17 @@
 	- Ubicación filogenética
 	- Características
 		- Similitud como diferencias
+			- Parecido 
+				- Nutrición
+				- Reproducción
+				- Presencia de micelio
+				- Células flageladas unicontes
+			- Diferencias
+				- Nutrición heterotrófica por fagotrofia
+				- Absencia de pared celular o que este compuesta por celulosa
+					- No de quitina
+				- Células flageladas bicontes  heterocontes
+					- A los oomicetos
 	- Tipos
 		- Mohos mucilaginosas→Amoebozoa
 			- Supergrupo
@@ -99,3 +110,4 @@
 				- Monogenético diplofásico con meiosis gamética
 				- Diversas fases del ciclo
 					- Las enfermedades en plantas originadas por este oomicet son difícil de controlar químicamente. Por eso, como estrategia contra de ellas, se extiende el cultivo de variantes resistentes.
+				- Infectando a una alzira

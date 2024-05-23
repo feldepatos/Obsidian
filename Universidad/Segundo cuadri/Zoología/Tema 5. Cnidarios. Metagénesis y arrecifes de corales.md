@@ -1,0 +1,182 @@
+- Introducción
+	- Características diagnósticas
+		- Cuerpo radial, con extremos oral y aboral.
+			- Sin cabeza definido.
+			- Con o sin tentaculos.
+		- Diblástico→ectoderma+mesoglea+gastroderma
+		- Polimorfismo corporal→pólipo+medusa
+		- Orificio oral-aboral→funciona como boca y ano
+			- Cavidad gastrovascular→celenterón
+		- Exoesqueleto o endoesqueleto quitinosos, calcáreo o proteínico.
+		- Células defensivas urticantes
+		- Musculatura formada por células mioepiteliales  en forma T, derivadas  del ectoderma y del endoderma.
+		- Plexo nervioso intraparietal→órganos sensoriales primitivos (estatocistos y ocelos).
+		- Digestión extra/intra celular.
+			- Respiración, excreción y osmoregulación por difusión simple.
+		- Gónadas a  partes de los canales digestivos.
+		- 10.000 especies acuáticas, en  la mayoría acuática.
+			- Batimetría variada
+		- Vida libre, sesil (polipo) o nadadora (medusa). Solitarios o coloniales. Depredadores.
+		- Reproducción asexual porgemmación, gemmulación y fisión. Formas monoicas o dioicas. Larva plánula: ciliada,  compacta y nadadora.
+		- Ciclo vital sin o con alternancia  de fases polipoide (asexuada) y medusoide (sexuada)  
+- Modelo de organización corporal
+	- Simetría
+		- 
+	- Polimorfismo corporal
+		- Introducción
+			- Todas las formas de cnidarios se ajustan a uno o dos tipos morfológicos: el polipo, o forma hidroide, que esta adaptado a una vida sésil o sedentaria, y la medusa, o forma medusa, que esta adaptada para la flotación o una vida nadadora libre.
+		- Fases
+			- Pólipo
+				- La mayoría de polipos tienen cuerpos tubulares, con una boca rodeada por tentáculos en uno de sus extremos.
+				- Generalmente, el extremo aboral esta fijado al sustrato por un disco u otro medio. 
+				- Los polipos pueden vivir solitarios o en colonia. Las colonias de algunas especies incluyen individuos diferentes, cada uno especializado para una determinada función, como alimentación, reproducción o defensa.
+				- Se estudiará como modelo el de los hidrozoos coloniales.
+					- Modelo corporal de los hidrozoos coloniales
+						- 
+			- Medusa
+				- Son nadadoras libres, y tienen cuerpos con forma de campana o paraguas y simetría tetramera.
+				- La boca suele estar en el centro del lado concávo y los tentáculos se extienden desde el borde de la umbrela.
+	- Superficie corporal
+- Funciones vitales. Ciclo metagenético
+	- Funciones
+		- Alimentación
+			- Carnívoros
+				- Digestión
+					- Extracelular
+					- Intracelular
+			- Componentes importantes de las redes tróficas
+		- Circulación, excreción e intercambio de gases
+			- Difusión simple
+		- Sistema nervioso  
+			- ![[Pasted image 20240523131942.png]]
+			- 
+		- Órganos de los sentidos 
+	- Ciclo vital
+		- Modalidades de reproducción
+- Clasificación
+	- Clases
+		- Anthozoa→anémonas
+			- Clase Antozoos.
+				- Introducción
+					Marina. Solitario o colonial; sin estadio medusoide (todos los individuos son polipoideos); cnidos epidérmicos y gastrodérmicos; celenterón dividido por mesenterios longitudinales (oral-aboral), cuyos bordes libres forman filamentos mesentéricos gruesos en forma de cordón; mesénquima grueso; los tentáculos son 8 (Octocorallia) o se presentan en múltiplos de 6 (Hexacorallia) y contienen extensiones del celenterón; la faringe estomodal (= actinofaringe) se extiende desde la boca hasta el celenterón y tiene uno o más surcos ciliados (sifonoglifos).
+					Los pólipos pueden reproducirse tanto sexual como asexualmente; Los gametos surgen de la gastrodermis. Alrededor de 7.200 especies vivas descritas se dividen en tres subclases: Octocorallia, Hexacorallia y Ceriantharia.
+				- Características
+					- Tiene forma  cilíndrica,  con  una  corona de tentáculos dispuestos  en uno o  más círculos alrededor de la boca situado en el disco oral.
+					- La boca, conduce  a  una  faringe, en  uno  o ambos  extremos  de la boca  hay  un surco  ciliado→sifonoglifo, que se  extiende por la faringe. P
+		- Polypodiozoa
+			- ![[Pasted image 20240523131828.png]]
+			- Parásitos de los ovocitos de los peces acipenseriformes. En forma de gusano, sin células musculares epiteliales, pero con células de músculo liso en mesoglea. Las células binucleadas dentro de los ovocitos de los peces se desarrollan en larvas planuliformes invertidas, que se evierten durante el desove del huésped en estolones tentaculados que poseen cnidos y se fragmentan cuando se liberan en agua dulce, dispersándose como medusoides que se reproducen asexualmente cuyos gametos infectan al pez huésped. Una única especie conocida, Polypodium hydriforme.
+		- Myxozoa
+			- 
+		- Staurozoa
+			- ![[Pasted image 20240523131642.png]]
+			- Medusas acechadas. Individuos pequeños y sésiles que se desarrollan a partir de larvas de plánula bentónica no ciliada y que tienen ciclos de vida complejos pero poco comprendidos; la plánula se convierte en un estauropólipo sésil, y éste en una estauromedusa con un disco adhesivo con pedúnculo mediante el cual los individuos se adhieren al sustrato (no existe una etapa de medusa altamente móvil); stauromedusae tiene 8 “brazos” con tentáculos y carece de velo; la reproducción sexual puede ser dominante en la mayoría de las especies, aunque se conoce reproducción asexual en al menos una (Haliclystus antarcticus). Alrededor de 50 especies, la mayoría en el hemisferio norte (p. ej., Calvadosia, Haliclystus, Lucernaria). Los análisis filogenéticos moleculares indican que a pesar de una considerable convergencia morfológica con los hidrozoos de traquilina, la diminuta especie antártica, Microhydrula limopsicola, anteriormente identificada dentro de Limnomedusae, es de hecho una etapa de vida dentro del ciclo de vida de Haliclystus antarcticus.
+		- Sciphozoa
+			- ![[Pasted image 20240523131617.png]]
+			- Medusa . Los individuos polipoides (escifistomas) son pequeños y discretos, pero a menudo viven mucho tiempo; faltan pólipos en algunas especies; cuando están presentes, los pólipos producen medusas por gemación asexual (estrobilación); celenterón dividido por 4 mesenterios longitudinales (oral-aboral); medusae acraspedote (sin velo), típicamente con una capa mesogleal (o colenquimatosa) gruesa, pigmentación distinta, tentáculos filiformes o capitados y muescas marginales que producen orejeras; los órganos de los sentidos se presentan en muescas y se alternan con tentáculos; rhopalia con estructuras visuales complejas; los gametos surgen de la gastrodermis; cnidos presentes en epidermis y gastrodermis, nematocistos únicamente; la boca puede o no estar sobre un manubrio; generalmente sin canal anular. Los escifozoos son exclusivamente marinos; planctónico, demersal o adjunto. Alrededor de 200 especies, divididas en tres órdenes.
+		- Cubozoa
+			- ![[Pasted image 20240523132025.png]]
+			- Avispas marinas y medusas de caja. Medusas de 1 a 30 cm, en gran parte incoloras; cada uno de los pólipos produce una sola medusa mediante metamorfosis completa (no se produce estrobilación), la campana de medusa es casi cuadrada en sección transversal; rhopalia con estructuras visuales complejas; tentáculos interradiales huecos cuelgan de pedalios en forma de cuchillas, uno en cada esquina del paraguas; margen en forma de campana sin volantes dibujado hacia adentro para formar una estructura similar a un velo (el velario) hacia el cual se extienden los divertículos del intestino. Cnidos del tipo nematocisto únicamente; la picadura es muy tóxica, en algunos casos mortal para los humanos, de ahí el nombre de “avispas marinas”. Los cubozoos son fuertes nadadores que se encuentran en todos los mares tropicales (y en algunas regiones templadas, por ejemplo, la costa occidental de Sudáfrica y Namibia), pero son especialmente abundantes en la región del Indo-Pacífico.
+			- Ciclo vital→
+				- El pólipo  es solitario y sésil  que produce nuevos pólipos por yemas laterales,  que se desprenden y  se aleja,
+					- Los  polipos no producen efiras,  pasan directamente  a  medusas por metamorfosis.
+				- ![[Pasted image 20240523122635.png]]
+		- Hydrozoa
+			- Características
+				- Son marinos y coloniales.
+				- Su reproducción es el típico de este filum.
+					- Aunque algunos como la hidra carece de forma medusa o fase polipo.
+			- Modelo corporal 
+				- La hidra no es el típico hidrozoo, pero se  ha convertido en el favorito como modelo para la introducción  al flo.
+				- Tiene el  aspecto de un tubo cilíndrico  con el  extremo aboral alargado, formando un delgado tallo, que termina en un disco basal o discopedio para la fijación. Este disco basal esta provisto de células glandulares que permiten a la hidra adherirse al sustrato y tambień secretar una burbuja de gas para flotar. 
+				- En el centro del disco puede  haber un poro excretor.
+				- La boca, localizada en una elevación cónica→ hipostoma.
+				- La boca se  abre en la cavidad gastrovascular (celenteron)  que comunica con las cavidades de los tentáculos. 
+			- Epidermis
+				- La  capa  epidérmica contiene células epiteliomusculares, intersticiales, glandulares, cnidocitos y células  nerviosas y sensoriales.
+				- Las células epiteliomusculares 
+					- forman la mayor parte de la epidermis y sirven como cubierta y para la contracción muscular.
+					- Las bases de la mayoría de estas células se extienden paralelas a los tentáculos o al eje del  cuerpo  y contienen miofrilas, de modo que forman una capa musculatura longitudinal  próxima a la mesoglea. La contracción de estas  fibras acorta el cuerpo o a los tentáculos.
+				- Las células intersticiales
+					- son células indiferenciadas  que se encuentran entre  la base  de las células epiteliomusculares.
+					- La diferenciación de estas células genera cnidoblastos, células sexuales, yema, células  nerviosas y otros tipos pero generalmente no dan a  lugar a células epiteliomusculares.
+				- Las células  glandulares 
+					- son  células  altas que se encuentran  alrededor del disco basal y de la boca  y secretan una sustancia adhesiva para la fijación y aveces una burbuja de gas para la flotación; y los que secretanuna sustancia utilzada en la locomoción y fijación.
+				- Las células sensoriales
+					- Dispersas  entre las  demás células de la epidermis, especialmente cerca de la boca y  de  los  tentáculos y en el disco basal.
+					- El extremo libre de cada célula sensorial lleva un flagelo,  que  es el receptor  sensorial  para los estímulos químicos y mecánicos.
+					- El otro extremo se ramifica en finas prolongaciones  que forman sinapsis con  las células  nerviosas.
+				- Células  nerviosas
+					- Multipolares, aunque en los  cnidarios más organizados  pueden ser bipolares.
+					- Sus  prolongaciones  forman sinapsis con las células sensoriales y otras  células  nerviosas, y uniones en la células epiteliomusculares y  cnidocitos. 
+					- Hay sinapsis unidireccionales y  bidireccionales   con otras células nerviosas.
+				- Gastrodermis
+					- Esta es una capa de células que tapiza la cavidad gastrovascular, se compone  principalmente  de grandes  células epiteliales columnares ciliadas con bases planas irregulares.
+					- Las  células  de la gastrodermis incluyen  células nutrivomusculares, intersticiales y glandulares.
+						- Las células nutrivomusculares son, células columnares altas con bases que se extienden lateralmente y  que  contienen miofibrilas. Estas son perpendiculares   al  eje del cuerpo o  de los tentáculos y forman una capa de musculatura circular.
+						- El agua es conducida  a travésde la boca mediante el  batido de los cilios de las células nutrivomusculares.
+						- De este modo,el agua de la  cavidad actúa como  un esqueleto hidrostático.
+							- Así  los  dos cilios del extremo libre de cada  célula sirven  para  la circulación  del alimento y de los fluidos en  la cavidad digestiva.
+						- Las  células glandulares del hipostoma y de la columna secretan enzimas digestivas.
+							- Carece de   cnidocitos.
+				- Mesoglea
+					- Situada  entre  la epidermis y la gastrodermis y unidas  a   ambas capas.
+					- Tiene una consistencia gelatinosa   y  tanto las células epidérmicas como  las gastrodérmiscas envían  prolongaciones dentro  de  ella.
+					- Se extienden  por el cuerpo y los  tentáculos, más   gruesa en  la parte  del pedúnculo y más  finas  en  los  tentáculos.
+					- Otorga más resistencia mecánica y más flexibilidad.
+						- Ayuda a sostener el   cuerpo y  actúa como un  tipo de esqueleto elástico.
+			- Locomoción
+				- Movimiento por   deslizamiento de su  disco  basal , ayudada por  las  secreciones  mucosas. 
+				- Utilizando un  movimiento  de gusano medidor, puede  desplazarse curvándose y  apoyando sus tentáculos sobre el sustrato.
+				- Plegarse  sobre sí misma  y, formando  una burbuja de gas en  su disco basal,  flotar hacia  la superficie.
+			- Alimentación+digestión
+				- Carnívoros
+				- Se alimentan solo de animales que desprende unas  sustancias que son capaces de activar el proceso
+				- Dentro de la cavidad, las  glandulas descargan enzimas   sobre el alimento.
+				- La digestión se inicia en la cavidad, aunque muchas  de las partículas de  alimento son dirigidas por  los pseudópodos hacia  el interior de  las células nutrivomusculares de  la  gastrodermis→digestión intracelular.
+				- Las  células ameboides llevan partículas no digeridas hacia  la cavidad  donde son expulsadas  junto con otros materiales no digeribles.
+			- Reproducción
+				- Gemmación, donde sus yemas aparecen por todo el cuerpo y desarrollan hidras  jovenes que  finalmente se  desprenden del  progenitor.
+				- Son  dioicas.
+		- Colonias  de hidroides
+			- ![[Pasted image 20240523131525.png]]
+			- ![[Pasted image 20240523131546.png]]
+			- Tiene una base, un tallo, y uno o más  zooides terminales.
+			- La base por  la que la colonia se  fija al  sustrato es un estolón con  forma de raíz→hidrorriza,  de la cual parten uno  o más  tallos denominados hidrocaules.
+			- La  parte  celular  viva  es el cenosarco tubular,  formado por las 3 capas típicas de los  cnidarios, que rodean al  celenteron (cavidad gastrovascular)
+			- La cubierta protectora  del hidrocaule  es una funda  quinitosa inerte→perisarco.
+			- Los polipos individuales, o  zooides, están  unidos al hidrocaules.
+			- Muchos de los  zooides son  pólipos  alimentadores  denominados hidrantes
+				- Pueden ser tubulares,  con  forma  de botella  o  de vaso, pero  todos tienen una boca  terminal y un círculo de tentáculos.
+			- La alimentación es similar a las hidras  así como  su reproducción.
+				- Por  gemación  se originan nuevos pólipos alimentadores y  también yemas de medusas en  la colonia.
+					- Estas yemas se forman a partir de un polipo reproductor  denominado gonangio
+						- Las  jovenes medusas abandonan la  colonia como individuos nadadores libres que  maduran y  producen gametos.
+						- En algunas  especies las  medusas fijas a la colonia  y liberan sus espermatozoides desde allí.
+						- En otras, las medusas no se desarrollan  nunca y  los gametos son producidos por  gonóforos masculinos  y femeninos.
+						- De la embriogénesis del zigoto  resulta  una larva plánula ciliada que nada durante algún tiempo.
+						- Después se fija al sustrato  y se forma un  diminuto pólipo que origina, por  gemación, la colonia hidroide, completando  así el ciclo.
+					- En la fase medusa, en su borde  de la campana se mete hacia  dentro  formando un velo  con  forma  de estante,  cierra parcialmente el lado abierto de la campana y  se utiliza para nadar.
+					- Las pulsaciones musculares que alternativamente llenan y vacían la campana impulsan  al  animal con el lado  aboral por delante, a modo de una débil propulsión a  chorro.
+					- La boca, que  se abre en el extremo de un manubrio colgante, conduce  a un estomago y a cuatro canales radiales que  comunican con un canal anular alrededor del borde de la campana.  Este  se comunica con   los tentáculos huevos.
+						- De esta manera la cavidad es continua desde la boca hasta  los tentáculos y  todo el sistema esta tapizado  por gastrodermis
+					- El  plexo  nervioso  se  concentra  en  dos anillos nerviosos en  la base del velo. El borde de la campana está provisto de células sensoriales. Por lo común también lleva dos clases de órganos sensoriales: estatocistos y ocelo.
+	- Filogenia 
+- Glosario
+	- Hipostema
+	- Cnidocitos
+	- Mesoglea
+	- Pedúnculo
+	- Zooides
+	- Hidrorriza
+	- Hidrocaules
+	- Cenosarco
+	- Perisarco
+	- Hidrantes
+	- Gonangio
+	- Velo
+	- Manunbrios
+	- Estatocistos→órganos para el equilibrio
+	- Ocelos→órganos fotosensibles
+	- Pedalia
+	- Velario

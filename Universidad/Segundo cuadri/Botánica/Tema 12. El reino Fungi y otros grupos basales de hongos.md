@@ -172,6 +172,7 @@
 							- La vesícula contiene pigmentos fotosintéticos y esta repleta de líquido que en función de su posición con la luz condicionará su trayectoria.
 							- Pueden lanzar esporas hasta 2 metros.
 						- Dirige sus esporocistos, que están orientados por las sustancias caretenoides sensibles a la luz que contiene la vesícula situado debajo del esporocisto. Los lanza con la fuerza de 2 metros.
+					- Las tófonas no tienen otro mecanismo de dispersión de las esporas que emiten sustancias, como hormonas de mamíferos, para ser desenterrados e ingeridas
 					- Viento→Anemocórica
 						- ¿Qué es?
 							- Es un tipo de dispersión de los propágulos en la que es el viento el que produce el transporte.
@@ -187,13 +188,56 @@
 									- Las blastispora tiene 2 lados : hidrofóbicas y hidrofílicas
 										- Cuando la gota de agua se forma por la condensación se coloca en el ápendice que a medida que crece hasta su zona hidrofílica donde por su peso se desprenderá del esterigma.
 							- ![[Pasted image 20240417201620.png]]
-					- HIdrocoria
+					- Hidrocoria
 						- Casos generales
 							- Los hongos zoospóricos las zoosporas nadan respondiendo a la luz, al oxígeno y sobretodo los nutrientes y otras sustancias.
 							- Los hongos presentan apéndices que facilitan la dispersión del agua.
 								- Tanto las esporas presentan una morfología para la dispersión
 						- Especial→Lluvia
-							- 
+							- Sobre la gelga pulvurelenta fértil→Estrella de Tierra
+							- Sobre porciones lenticulares→peridíoles als niuets
+	- Ciclo vitales
+		- Tipos
+			- Monogenéticos haplofásico
+			- Monogenético diplofásico
+			- Digenéticos haplo-diplofásico→dicarion
+				- +
+					- Micelio monocariótico+n
+				- -
+					- Micelio monocariótico-n
+						- Monocarion→plasmogamia micelio dicariótico→dicarion
+							- Cariogamia
+								- Zigoto→2n
+	- Nutrición
+		- Tipos
+			- Lisotrofia
+		- Sustancia de reserva
+		- Fuentes de energía
+			- Productos de metabolismo secundario
+	- Ecología
+		- Los hongos son descomponedores de la materia orgánica, libera CO2 a la atmófera y revuelve al suelo compuestos nitrogenados y otros materiales que son reciclados por las plantas y los animales.
+			- Diferentes maneras de obtención de nutrientes
+				- Saprófitos
+					- A partir de tejidos muertos de plantas, animales, m.o. u otros hongos
+				- Biotrofos
+					- Obtienen la energía de células vivas
+						- Son los parásitos y también los líquenes y las micorrizas
+				- Necrotrofos
+					- Secretan toxinas que rompen las membranas plasmáticas matando las células y tejidos y se alimentan de sus restos
+						- Ejemplar a destacar→Armillaria mellea
+							- Parásitos en un inicio y al mismo tiempo un saprófitos de los restos del huésped una vez muerto.
+	- Utilidades de la simbiosis fungicas
+		- Producción de sustancias que pueden causar de manera accidental beneficios al huésped.
+			- Diferentes maneras de nutrición
+				- Simbiosis no patogénicas
+					- Pestalotiopsis microspora
+						- Hongos endófito del teix que vive dentro de los tejidos de la planta y produce taxol
+							- Sustancia anticancerígena de uso medicinal
+	- Hongos parásitos
+		- Declive del cultivo de la monera y la producción de seda a Carcaixent
+	- Hongos entomapatógenos
+		- Control biológico del morrut rojo
+- Diversidad y filogenia de los grupos basales
 
 | Hongos              | Características que comparte con los animales |
 | ------------------- | --------------------------------------------- |

@@ -1,0 +1,227 @@
+- Concepto de geología
+	- Diferentes definiciones de la geología
+		- Literal
+			- Ciencia que estudia o tracta sobre la Tierra
+		- James Hutton
+			- La ciencia que estudia la constitución de la Tierra, su conocimiento y evolución
+		- Lyell
+			- Ciencia que investiga los cambios sucesivos que han tenido lugar en los reinos orgánicos e inorgánicos de la naturaleza
+		- Actual
+			- Estudia el desarrollo y evolución de los procesos en el tiempo.
+	- Problemática con el significado de la geología
+		- Porque la Tierra no es un mero objecto de estudio sencillo, nos surge 3 grandes problemas
+			- 1. Innacesibilidad al su interior
+				- Por la falta de datos
+					- Solo poseemos datos obtenidos de métodos directos de la parte superior de la escorza
+						- Pero respecto a los datos del interior es más difícil porque carecemos de los métodos para obtenerlos sin correr peligro
+			- 2. El contenido
+				- Esta compuesto por diferente factores:
+					- Biológico
+					- Físico de las capas exteriores
+						- Atmósfera
+						- Hidrosfera
+			- 3. El tamaño
+				- Por las diferentes escalas de los objectos geológicos(desde un átomo hasta un planeta), y dentro de un mismo objecto (un fósil dentro de una roca)
+					- En muchas ocasiones para poder abordar un problema o interpretar un proceso, el primer que necesitamos saber en que escala estamos trabajando.
+			- + Nueva problemática
+				- El tiempo
+					- Hay que tener en cuenta que el sistema Solar y la Tierra tienen alrededor de 4.500 m.a. pero las rocas más antiguas que tenemos datadas son de 3.800.
+						- Esto es debido a las altas temperaturas de manera que las rocas se fundirían 
+							- Por ello, se tiene que emplear métodos de la astronomía y ciencias a fines.
+- Objectivos y la metodología
+	- La metodología
+		- Al ser una ciencia más debe seguir con el método científico
+		- Principales vías de estudio
+			- Directo
+				- Observación de los eones actuales y su transformación en eones históricos
+			- Indirecto
+				- Observación de eones geológicos que han estado registrado en los materiales y rocas terrestres.
+			- Experimentación
+				- Planteandose en este caso concreto el problema del vector tiempo.
+		- Resumen de las vías de estudio
+			- Reducir los procesos geológico a procesos físicos, químicos y biológicos→*metodología reduccionista*
+			- Insistiendo en la evolución en el tiempos→*metodología histórica*
+	- Brancas fundamentales de la geología
+		- Estudio de las rocas y sus componentes
+			- Geognosia
+			- Petrología
+			- Mineralogía
+			- Cristalogía
+		- Estudios que han afectado a las  rocas
+			- Geodinámica
+				- Externa
+				- Geomorfología
+			- Geografía física
+			- Geodinámica  interna
+			- Téctonica y  geología estructural
+				- Geofísica
+			- Ordenación en el tiempo
+				- Geología histórica +Estratigrafía
+					- Sedimentología
+					- Geocronoloǵia
+					- Paleogeografía
+					- Paleoclimatología
+			- Paleontología
+	- Interrelaciones con las ciencias de la vida
+		- Ciencia
+		- Paleontología
+			- Disciplina biológica que proporciona  la  dimensión histórica para la comprensión  del fenómeno vital
+				- Ciencia  que estudia los fósiles, entendiendo como a tales, cualquier resto de origen orgánico o manifestaciones de la existencia de un organismo.
+		- Petrología+geoquímica
+			- Claves para establecer los ciclos de diferentes materiales
+				- Cárbono
+				- P
+				- S
+- Tiempos en la Geología
+	- Tipos
+		- Absoluto
+			- Indica un dato, una antigüedad mediante algún método como radiométricos que nos proporciona un dato en concreto
+		- Relativo
+			- Una ordenación en el tiempo de una  serie de fenómenos en función del que ha pasado antesy el que ha pasado más tarde.
+- Principios y conceptos básicos de la Geología
+	- Conceptos
+		- Estratos+estratificación
+			- Estratos
+				- ¿Qué es?
+					- Como un nivel de roca o sedimetno, con litología homogénea o gradacional, que se va depositar  durante un intervalo de tiempo definido.
+				- Características
+					- Composición
+					- Sus límites
+					- Dimensiones
+				- Límites
+					- Texturas y estructuras del estrato
+			- Estructuras sedimentarias
+				- ¿Qué es?
+					- Elementos que caracterizan las rocas sedimentarias que se derivan de la organización particular de sus granos o componentes minerales.
+					- La ordenación y geometría observada en las estructuras son causadas:
+						- Fuerzas que se dan en la interfase sedimento-fluido
+						- Fuerzas producidas por fluidos al interior del sedimento
+						- Perturbaciones que producen los seres vivos por encima del sedimento.
+				- Formación
+					- Ligada a los procesos de la génesis de la roca
+						- Es decir, de estudiar y deducir el ambiente sedimentario en que se va formar la roca
+							- Nos proporciona información de los procesos que ocurrieron en el medio donde se va producir.
+				- Ventajas
+					- ↑una rápida formación
+						- De manera nos permite recrearlas en el laboratorio
+					- Clasificación
+					- Genético
+						- Orgánicas
+						- Inorgánicas
+					- Temporalidad del proceso generador
+						- Si se ha formado al mismo tiempo que el sedimento o después
+							- Tipos
+								- Singenéticas
+								- Epigenéticas
+					- Lugar geométrico del anclaje de las estructuras
+						- Tipos
+							- Internas
+							- Superficiales
+					- Indicadores de polaridad o sentido de la corriente
+						- Direccionales
+							- Las cuales dan el sentido del movimiento del flujo
+						- No direccionales
+			- Discontinuidades estratigráficas
+				- Introducción
+					- Concordanza
+						- La relación vertical entre 2 unidades estratigráficas superpuestas, en la cual tanto la unidad infrayacente como la suprayacente presentan superficies de estratigráficas parañeñas a la superficie entre ambas
+					- Discordanza
+						- ¿Qué es?
+							- A la relación entre 2 unidades estratigráficas superpuestas en que la superficie de separación entre ambas corta la superficie de estratificación de la unidad infrayacente,
+					- Continuidad
+						- Aluden a la relación genética entre dos materiales cuando no habían una interrumpción sedimentaria mesurable entre 2 depósitos de ambos 
+					- Discontinuidad
+						- ¿Qué es?
+							- Alude a esta relación cuando va haber una interrumpción sedimentaria mesurable
+						- Tipos
+							- Conformidad
+								- Las unidades son contínuas y concordantes
+							- Paraconformidad
+								- Discontínuas+concordante
+							- Discordanza
+								- Discontínuas+discordantes
+	- El principio de Superposición y otros relacionados
+		- El principio
+			- Es una sucessión normal (no deformada) de estratos, los que ocupan la posición inferior son los más antiguos
+		- Explicación
+			- El orden de la superposición de los estratos revela el orden en que van a ser depositados
+			- Cada estrato supone un intervalo de tiempo
+				- Esta sucessión se registra en un lapso de tiempo ordenado según la vertical
+			- Razón científica
+				- Por consecuencia lógica y directa de una ley física→ley de la gravedad
+					- Por cual, cualquier carga sedimentaria tiende a desplazar hacia los lugares topográficamente más bajos
+				- Excepciones
+					- La deformación tectónica
+					- Sedimentación producida en cavidades erosivas del sustrato
+	- El principio de la horizontalidad original
+		- El principio
+			- Los estratos corresponden a antiguos sedimentos que, cuando se van a depositar, lo van a hacer en posición horizontal, aunque posteriormente pueden haber sufrido deformaciones.
+		- Explicación
+			- Se deduce que cuando se encuentren estratos con grandes inclinaciones, estos deben originados por deformaciones.
+		- Problemas
+			- Algunos  cuerpos sedimentarios se depositan originalmente con una cierta inclinación, pero en estos casos no hay métodos  para reconocer  que  estos no  se deben a deformaciones
+	- El principio de la continuidad lateral original
+		- Principio
+			- Los estratos han de ser originalmente, continuos al fondo de las cuencas de sedimentación, excepto a los bordes de la cuenca, donde se estrechan adaptandose al sustrato.
+		- Explicación
+			- Explica la existencia de las mismas capas en relieves adjacentes, y pone en manifiesto la existencia previa en aquellos sectores intermedios, donde habían estado eliminados por erosión
+				- En cambio, la terminación lateral de los estratos es un proceso común en determinados ambientes sedimentarios, y la continuidad lateral depende de otros factores independientes de la geometría de la cuenca como la proximidad a la zona de aportes de sedimento.
+	- El principio de las relaciones de corte
+		- Principio
+			- Todo el que corta (estructuras y rocas) es posterior al que es cortado
+		- Explicación
+			- Permite establecer una cronología relativa a los fenómenos geológicos registrados en una área concreta
+	- Principio de la Sucesión Faunística
+		- Principio
+			- Cada estrato o conjunto de estratos tiene un contenido fosilífero característico que permite identificarlo y que no se repite en otros estratos anteriores o posteriores.
+				- Los estratos de diferentes localidades, que contienen los mismo fósiles características y tienen el mismo orden de superposición son de la misma edad.
+		- Explicación
+			- Se basa en el proceso evolutivo de los seres vivos, que es unidireccional y no recurrente
+				- El método es básico en la datación relativa y correlación estratigráfica
+					- Bioestratigrafía
+						- Permite establecer una edad relativa de los materiales a partir de los fósiles y elaborar una tabla biocronológica y establecer correlacionar a distancia terreno de la misma edad, sin conexión directa entre sí.
+				- Pero no todos los fósiles sirven para ser ptos de guía
+					- Condiciones necesarias
+						- Mínina duración temporal
+							- Escaso espacio de tiempo entre la aparición de la especie y su extinción
+						- Gran grado de dispersión geográfica
+							- A mayor grado de dispersión, más posibilidades de correlación entre áreas muy alejadas
+						- Capacidad de fosilizar
+							- El que la posee no significa que sea un buen fósil de pto de guía porque si en fósil tiene una gran capacidad de fosilizar pero poco tiempo de vida, no será útil.
+	- Principio del actualismo
+		- Nuevas teorías
+			- Catastrofismo
+				- Creador→Cruvier
+				- ¿En qué se basaba?
+					- En el estudio estratigráfica y paleotológico de la secuencia de los sedimentos terciarios continentales y marinos, de la cuencia geológica de París.
+				- Conclusiones
+					- El mar ha sido invadido la tierra ferma y se ha retirado varias veces a lo largo de la historia de la Tierra
+					- Estos avances y retrocesos no son graduales, sino que la mayoria de veces van ser tan bruscos que van producir auténticas catástrofes que van extinguir seres vivos
+					- La rapideza de estos procesos explica que la edad de la Tierra sea muy pequeña
+					- Los nuevos organismos son completamente diferente a los anteriores
+						- Se descarta la evolución orgánca 
+			- Actualismo
+				- Principio
+					- El presente es la clave del pasado
+					- Se convierte en el instrumento que permite el origen de las rocas y de los procesos que los que han afectado
+				- Consecuencias de la aplicación
+					- En la historia de la tierra no se ha producido grandes catástrofes sino que las modificaciones han de ser lentas y graduales
+					- ↑ edad de la Tierra por la lentitud de los procesos
+					- La sucesión de organismo en el tiempo no es producto de extinciones y creaciones masivas, sino del proceso de evolución orgánica 
+				- Resume
+					- El actualismo esta relacionado con el evolucionismo 
+				- Problemática 
+					- Conflictos con el concepto en diferentes nombres
+						- Uniformidad en las leyes de la naturaleza→ la aplicación a la interpretación de los hechos geológicos antiguos permite conocer como se van producir
+						- Uniformidad de los procesos
+							- Los cuales son constantes
+						- Uniformidad en la velocidad e intensidad de los procesos→Gradualismo
+			- Neocatastrofismo
+				- Nuevas partes
+					- Acepta el actualismo metodológico e utiliza para interpretar la mayor parte de los procesos geológicos antiguos
+					- Pero ahora acepta la existencia ocasional de catástrofes que han revolucionado de forma brusca de las condiciones ambientales terrestres.
+
+| Principios              | Catastrofismo | Uniformismo | Neocatastrofismo |
+| ----------------------- | ------------- | ----------- | ---------------- |
+| Actualismo metodológica | NO            | SI          | SI               |
+| Gradualismo             | NO            | SI          | NO               |

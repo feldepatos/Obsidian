@@ -1,1 +1,68 @@
-- 
+- Características diagnósticas
+	- Pre introducción
+		- Gusanos planos son los grupos más  sencillos con simetría bilateral primaria
+	- Cuerpo deprimido y asegmentado →excepto en cestodas
+	- Simetría bilateral primaria
+	- Condición triblástica. Mesoderma origina parenquima y musculatura→parietal + visceral
+	- Órganos de fijación en las especies parásitos.
+	- Epidermis celular (vida libre) o sincitial (vida parásita), con o sin cilios respectivamente. Rabditos defensivos en formas libres.
+	- Nivel de organización órgano-tejido-aparato. Espacio  interno  no anatómico ocupado por parenquima mesodérmico (condición acelomática). Falsa metameria en cestodas.
+	- Musculatura parietal estriada en forma de funda o baina:
+		- Bicapa→musculatura+longitudinal
+		- Tricapa→
+			- Monogenea→circular+diagonal+longitudinal 
+			- Cestoda→circular+longitudinal+circular
+	- Musculatura visceral lisa intrínseca monocapa (circular) al aparato digestivo
+	- Cefalización y centralización del aparato nervioso. Dos ganglios cerebroides. Cadena ventral primitiva, Tacas oculares en turbelarios.
+	- Aparato digestivo incompleto, sin ano. Absento en cestodas.
+	- Aparato excretor-osmoregulador protonefridial.
+	- La mayoría son monoicos. Aparato reproductor:1-2 ovarios y/o 1-2 testículos (múltiples en cestodas y algunos Tuberlarios).
+	- 20.000 especies. Endoparasitos, ectoparasitos y de vida libre
+	- Reproducción asexual. Fecundación cruzada. Ciclo indirecto monoexno o heteroxeno
+	- Regeneración corporal→autofagia en Turbelarios
+- Modelo de organización corporal
+	- Turbelarios→
+		- Características
+			- Es el modelo corporal por excelencia
+				- Pared corporal
+					- Epidermis→ectoderma
+						- Células
+							- Ciliadas
+							- Defensivas
+							- Pigmentarias
+							- Sumergidas
+							- Sensoriales
+					- Lamina basal simple→mesoderma
+					- Musculatura parietal →mesoderma
+						- Musculatura circular externa
+						- Musculatura longitudinal interna
+				- Parenquima→mesoderma
+					- Musculatura dorsoventral
+					- Células fijas parenquimáticas
+					- Neoblastos
+					- Matriz extracelular
+				- Digestivo
+					- Musculatura visceral circular→mesoderma
+					- Epitelio intestinal→endoderma
+	- Superficie corporal
+		- ![[Pasted image 20240521220533.png]]
+- Funciones vitales
+	- Aparato digestivo
+	- Aparato excretor 
+	- Aparato nervioso
+	- Reproducción
+		- Asexual
+		- Sexual
+	- Ciclos vital general
+	- Autagia
+- Clasificación
+	- Clases trematoda
+		- Pared corporal
+		- Aparato digestivo
+		- Nerviosos+ excretor 
+		- Reproductor
+		- Ciclo vital
+		- Tipos de larvas
+	- Clase monogenea
+		- Pared corporal
+		- Estructuras de fijación

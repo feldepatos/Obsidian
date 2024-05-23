@@ -1,0 +1,122 @@
+- Ubicación filogenética de las algas verdes
+- Características
+	- ↑ Diversidad de especies unicelulares, flagelados
+	- Nivel de organización
+		- Protófitos
+			- Cenobios
+			- Colonias
+		- Talófitos
+			- Filamentosos
+			- Septadas 
+			- Sifonales
+			- Uniseriados o multiaxiales
+			- Simples o ramificados
+			- Pseudoparenquimáticos de aspecto laminar
+	- Pared celular
+		- Celulosa
+		- Hemicelulosa
+		- Pectinas
+	- Cloroplastos
+		- 2 membrana
+			- Endosimbiosis primaria
+	- Tilacoides
+		- Depende de la división
+			- Chlorophyta
+				- Simples
+			- Charophyta
+				- Agrupados en grana
+	- Pigmentos
+		- Clorofila
+			- a
+			- b
+		- Carotenoides
+		- Diversas xantofilas
+	- Pirenoides presentes
+	- Sustancia de reserva
+		- Almidón →intraplastidial
+- Estructura 
+	- Celular
+	- Flagelar
+- Ciclo celular
+	- División celular
+		- Tipos
+			- Huso acromático
+				- No persistente
+				- Persistente
+	- Mitosis
+		- Tipos
+			- Cerrada
+			- Abierta
+- Reproducción
+	- Asexual
+		- Mediante esporas
+			- Zoosporas
+			- Aplanosporas
+			- Autosporas
+	- Sexual
+		- Inducida por cambios ambientales
+		- Fecundación
+			- Tipos
+				- Isogamia
+				- Anisogamia
+				- Oogamia
+- Ciclos vitales
+	- Tipos
+		- Monogenéticos haplofásicos con meiosiss zigótica
+			- Este tipo de ciclos se dan en:
+				- Ulvophyceae, Trebuxiophyceae, Chlorophyceae i Charophyta
+		- Monogenéticos diplofásicos con meiosis gamética
+			- (Ulvophyceae).→ talus sifonatos
+		- Digenéticos haplo-diplofásicos con meiosis espórica
+			- (Ulvophyceae)
+	- Un ejemplar a destacar
+		- ![[Pasted image 20240502112831.png]]
+- Registro fósil y origen
+	- La interpretación del registro fósil resulta complicado debido a las posibles convergencia morfológicas entre los diferentes grupos.
+		- Por ejemplo, entre los representantes actuales entre las dos líneas evolutivas de algas verdes se observan estan convergencia morfológicas que dificultan la clasificación entre los carácteres.
+- Diversidad
+	- ↑ 500 géneros
+	- 1800 sp
+- Ecología
+	- Hábitats epicontinentales y marinos
+- Homologías entre las charophyta y las plantas terrestres
+	- Cloroplatos
+		- Clorofila
+			- A+B
+		- 2 membranas
+	- Flagelos de raíces asimétricas con una estructura multilaminar en la base
+	- Pared celular 
+		- Estructura multicapa con celulosa y pectinas
+	- Mitosis abierta con membrana celular no persistente
+	- Glicolato oxidasa y catalasa en los peroxisomas
+	- División celular
+		- Citocinesis
+			- En lagunas con formación de placa celular y fragmoplasto
+	- Parecidos a nivel molecular en secuencias de ADN
+- División
+	- Chlorophyta
+		- Características
+			- Ecología
+				- Marino
+			- Talus
+				- Sifonada
+					- + CaCO3 superficial
+			- Ciclo vital
+				- Mono-digenéticos
+			- Usos
+				- Bioindicarores marinos
+				- Usos alimentarios
+		- Clases
+			- Ulvophyceae
+				- Características
+				- Género ulva
+			- Chlorophyceae
+				- Características
+	- Charophyta
+		- Características
+		- Clases
+			- Zygnematophyceae
+			- Charophyceae
+				- Orden
+					- Charales
+						- Ciclo vital→Chara

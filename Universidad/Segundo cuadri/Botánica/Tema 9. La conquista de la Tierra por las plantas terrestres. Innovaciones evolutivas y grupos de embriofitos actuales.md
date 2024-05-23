@@ -1,0 +1,26 @@
+- Adaptación del medio terrestre
+	- Introducción
+		- Hace poco más de 400 millones de años va quedar completada la ozonosfera o capa protectora enfrente de los rayos de UV procedentes del Sól.
+		- La radiación UV es altamente mutagénica
+			- En el ADN procova daños graves, generando deformaciones en la cadena, la cual cosa impide un normal funcionamiento de esta, haciendo inviables a los organismos la vida en la tierra
+			- Entonces, protegidos los vegetales y favorecidos por la existencia de mayor cantidad de energía luminosa, van  poder comenzar a colonizar el medio terrestre.
+	- Cambios drásticos entre los dos medios
+		- Acuático
+		- Terrestres
+	- El número de plastos por célula, como a factor que va poder influir en la terrestrialización
+	- Pluricelularidad y señalización hormonal
+	- Las micorrizogenos
+- Reproducción de las plantas terrestres
+	- Nuevas estructuras reproductoras
+	- Embrión
+	- Ciclo vital
+		- Variantes
+- Briófitos
+	- Características
+	- Partes
+- Cormófitos
+	- Características
+	- Partes
+	- Origen
+- Algunas innovaciones evolutivas
+- Tendencias evolutivas
