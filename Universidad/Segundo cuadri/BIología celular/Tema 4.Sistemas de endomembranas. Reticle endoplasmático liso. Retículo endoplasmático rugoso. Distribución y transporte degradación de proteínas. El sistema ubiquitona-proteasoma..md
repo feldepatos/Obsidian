@@ -1,0 +1,27 @@
+- Sistemas endomembranas
+	- Retículo Endoplasmático
+		- Origen
+		- Tipos
+			- Rugoso
+				- Funciones
+					- Síntesis de proteínas
+						- Incorporación de proteínas
+						- Xaperonas y plegamiento
+					- Glicosilación→dolicol
+					- Plegamiento y degradación de proteínas mal plegadas→proteosoma.
+			- Liso
+				- Funciones
+					- Formación de membrana
+					- Metabolismo lípidos
+					- Detoxificación
+					- Almacenamiento de calcio→retículo sarcoplásmico
+					- Liberamiento de glucosa
+	- Aparato de Golgi
+	- Lisosomas
+	- Peroxisomas y glioxisomas
+- Tráfico vesicular
+	- Formación de vesículas
+		- Clatrina
+		- COP I+II
+		- Caveolas
+	- Endocitosis/Exocitosis/Transcitosis

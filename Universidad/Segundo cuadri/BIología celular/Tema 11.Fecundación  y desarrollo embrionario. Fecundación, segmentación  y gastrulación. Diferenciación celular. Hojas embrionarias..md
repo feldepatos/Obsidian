@@ -1,0 +1,24 @@
+- Capacitación y maduración  de los  gámetos.
+- Fecundación 
+	- Externa
+	- Interna
+- Bloqueo de lapolispermia
+	- Rápido
+	- Lento→reacción cortical
+		- Modificación de la zona pelúdica
+- Amfimixi
+- Embriogénesis
+	- Procesos celulares
+	- Ontogenia y filogenia
+	- Fases del proceso
+		- Segmentación
+		- Blastulación
+		- Gastrulación
+- Hojas embrionarias
+	- Ectoderma, endoderma y mesoderma
+	- Derivados de las hojas embrionarias
+		- Neurulación
+		- Somitas
+- Diferenciación celular
+	- Inducción primaria  e inducción  secundaria
+- Nociones  de organogénesis

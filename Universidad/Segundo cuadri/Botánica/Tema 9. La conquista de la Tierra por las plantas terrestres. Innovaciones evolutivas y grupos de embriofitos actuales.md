@@ -1,26 +1,140 @@
 - Adaptación del medio terrestre
 	- Introducción
+	- ![[Pasted image 20240604001310.png]]
 		- Hace poco más de 400 millones de años va quedar completada la ozonosfera o capa protectora enfrente de los rayos de UV procedentes del Sól.
 		- La radiación UV es altamente mutagénica
 			- En el ADN procova daños graves, generando deformaciones en la cadena, la cual cosa impide un normal funcionamiento de esta, haciendo inviables a los organismos la vida en la tierra
 			- Entonces, protegidos los vegetales y favorecidos por la existencia de mayor cantidad de energía luminosa, van  poder comenzar a colonizar el medio terrestre.
 	- Cambios drásticos entre los dos medios
 		- Acuático
+			- Estable→ humedad constante
+			- Variaciones lentas de temperatura
+			- Denso
+			- ↓ luz
+			- Nutrientes alrededor
 		- Terrestres
-	- El número de plastos por célula, como a factor que va poder influir en la terrestrialización
-	- Pluricelularidad y señalización hormonal
-	- Las micorrizogenos
+			- Variaciones bruscas y prolongadas de 
+				- Humedad
+				- Temperatura
+			- ↓ Denso
+			- ↑ luz
+			- Nutrientes en el suelo
+		- Adaptaciones 
+			- Los medios terrestres es más exigente y extremos que el acuático y la respuesta de algunos organismos que va ser la formación de nuevos compuestos en sus nuevas paredes y una mayor especialización de sus células para constituir tejidos:
+				- Cutina y suberina disminuye la transpiración; tejidos aislantes
+					- ![[Pasted image 20240604001331.png]]
+				- Lignina que endurece la pared de las células conductoras del  xilema contribuyendo a sostener la planta.
+					- ![[Pasted image 20240604001347.png]]
+			- El número de plasos por célula, como a factor que va poder influir en la terrestrealización
+				- Cronología y pasos clave en la evolución de los plastidios:
+					- Desde el ancestro arqueoplastido hasta la diversificación de los plastidios a las plantas con fruta.
+						- ![[Pasted image 20240604001403.png]]
+				- Pluricelularidad y señalización hormonal.
+					- Genes involucrados en la pluricelularidad
+					- La columna vertebral de la señalización hormonal  es anterior o acompaña  a la colonización terrestre de las plantas.
+						- ![[Pasted image 20240604001414.png]]
+			- La adaptación al medio terrestre: contribución de los hongos micorrizogenos.
+				- ![[Pasted image 20240604001424.png]]
 - Reproducción de las plantas terrestres
 	- Nuevas estructuras reproductoras
+		- El paso a la vida terrestres  va suponer una serie de  modificaciones tanto de las estructuras vegetativas  como de las  de las estructuras reproductoras.
+			- Se observa una tendencia  a la protección de los gametos y las  esporas.
+			- Los gametos se forman al interior de gametangios:
+				- Que presentan una pared de células estériles.
+					- ![[Pasted image 20240604001621.png]]
+		- Las estructuras que producen esporas son más complejas   que las de las algas verdes, se denominan  esporangios  y están  formadas  por una pared de una o  diversas  capas de células estériles que  sirven de protección a las esporas.
+			- ![[Pasted image 20240604001635.png]]
 	- Embrión
+		- La aparición del embrión a partir del zigoto se interpreta como una adaptación a la vida terrestre.
+			- Todas las plantas terrestres son embriofitos.
+				- ![[Pasted image 20240604001647.png]]
 	- Ciclo vital
+		- El ciclo vital de las plantas siempre es haplo-diplofásico hetermorfo con altencia intermedia. Ciclo con meiosis espórica.
+			- Alternan dos generaciones un gametofitos haploide y un esporofito diploide, estas dos generaciones son diferentes (al menos en todas las plantas que viven en la actualidad )
+			- En la reproducción sexual de las plantas terrestres la fecundación puede ser:
+				- Oogamia
+					- Briofitos, Pteridófitos, algunas gimnospermas
+				- Sigonógamia
+					- Algunas gimnnospermas y angiospermas.
+				- ![[Pasted image 20240604001834.png]]
+			- Los esporófitos de las plantas terrestres, dependiendo del grupo pueden producir→un  único tipos de meiosporas (plantas isospóricas) o  2 tipos meiosporas (plantas heterospóricas)
+				- Isosporia
+					- Plantas isospóricas
+						- Todos son  briófitos
+						- Algunas licopodiófitos y  monolófitos→pteridófitos.
+							- ![[Pasted image 20240604001853.png]]
+				- Heterosporia
+					- Plantas heterospóricos
+						- Algunas  licopodiófitos  
+						- Plantas  con fruta→gimnospermas y angiospermas
+							- Microsporas
+								- ↓ pequeñas y producidas  en gran cantidad→dan lugar al gametófito masculino
+							- Megasporas
+								- Grandes y escasos→ dan a lugar al gametófito femenino y masculino
+									- ![[Pasted image 20240604001926.png]]
+						- El fenómeno de la heterosporia esta asociado a la endoprotalia de los gametófitos:
+							- Desarrollo de los gametófitos dentro de la espora.
+								- ![[Pasted image 20240604001952.png]]
+								- ![[Pasted image 20240604002003.png]]
 		- Variantes
+			- ![[Pasted image 20240603202046.png]]
+		- Adaptación al medio terrestre
+			- Probablemente va haber muchos intentos de colonización del medio terrestre pero las plantas terrestres (embriófitos) que actualmente viven en la Tierra presentan 2 estrategias adaptitvas diferentes:
+				- Organización
+					- Briófita→briófitos
+						- Sistema conductores sencillos, 
+						- No lignificados
+						- Gametófito dominante
+						- ![[Pasted image 20240604002128.png]]
+					- Cormófita
+						- Sistemas conductores lignificados
+						- Esporófito dominante:
+							- Unidad de dispersión→Espora= Pteridófitos s.a.
+							- Unidad de dispersión→Semilla= Espermatófitos
+								- Semilla nuevas→ Gimnospermas
+								- Semilla al interior de la fruta→ Angiospermas
+							- ![[Pasted image 20240604002141.png]]
 - Briófitos
 	- Características
+				- ![[Pasted image 20240604002153.png]]
+		- Organismos sencillos estructuralmente
+		- Poiquilohidras
+		- La mayoría carecen de sistemas de transporte de agua
+		- Algunas viven en ambientes constantemente húmedos.
+		- Otros han desarrollado la tolerancia a la desecación.
+			- ![[Pasted image 20240604002212.png]]
 	- Partes
+		- El cuerpo vegetativo de las cormófitos esta estructurado en:
+		- ![[Pasted image 20240603204524.png]]
+			- Raíz
+				- Con la función de absorción de agua y nutrientes minerales y fijación de la planta al suelo
+			- Brote
+				- Tallo
+					- La función principal de la cual es sostener las hojas y conducir la saba.
+				- Hojas
+					- Especializadas a realizar la fotosíntesis.
 - Cormófitos
 	- Características
-	- Partes
+		- ![[Pasted image 20240604002249.png]]
+
+		- Organismo complejos con tejidos especializados:
+			- En la absorción y transporte de agua→células lignificadas
+			- En la protección de planta para evitar su desecación→epidermis cutinizadas y tejido suberificada.
+			- Son organismos homeohidras y no son resistentes a la desecación→llevado excepciones.
+			- Incluye a los Pteridófitos en sentido ampleo (2 divisiones), las Gimnospermas (5 divisiones) y  las Angiospermas (1 divisiones).
 	- Origen
+		- Las plantas terrestres tienen un origen común a partir de las algas verdes.
+		- Los restos fósiles más antiguos más corresponden al período Ordovicicó hace unos 475 millones de años.
+		- ![[Pasted image 20240604002520.png]]
 - Algunas innovaciones evolutivas
+	- ![[Pasted image 20240603211950.png]]
 - Tendencias evolutivas
+	- ![[Pasted image 20240603212003.png]]
+- Diversidad
+	- Principalmente de hábitat terrestre.
+	- Algunas se han adaptado secundariamente al medio acuático.
+	- Comprenden diferentes grupos:
+		- Briofitos
+		- Pteridofitos
+		- Gimnospermas
+		- Angiospermas

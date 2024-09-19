@@ -1,0 +1,21 @@
+- Mitocondrias
+	- Distribución y morfología
+	- Estructura de los mitocondrias
+	- Funciones
+		- Acoblamiento quimiosmótico
+		- Fosforilación oxidativa
+		- Oxidación de ácidos grasos
+		- Ciclo de Krebs
+		- La cadena de transporte electrónico
+		- ATP sintasa mitocondrial
+- Cloroplastos 
+	- Clasificación de los plastidios
+	- Estructura de los cloroplastos
+	- Funciones
+		- Activación  de la  clorofila
+		- Fotosistemas, cadena de transporte de electrones
+		- Fijación del carbono
+- Origen de cloroplastos y mitocondrias
+- Genoma de cloroplastos y mitocondrias
+- Renovación de cloroplastos y mitocondrias
+	- Transporte de proteínas

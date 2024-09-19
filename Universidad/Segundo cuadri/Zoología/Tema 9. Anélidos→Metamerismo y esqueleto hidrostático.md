@@ -22,6 +22,7 @@
 				- Convergencia evolutiva con los apéndices de los artrópodos
 				- Movimiento metacronal
 					- Los parapodios se mueven en la misma dirección pero al mismo tiempo, sino  que en cada punto del recorrido los parapodios  se  encuentran en una fase diferente para facilitar el avance
+						- ![[Pasted image 20240528011637.png]]
 						- ![[Pasted image 20240506135612.png]]
 		- Homología seriada
 			- ¿Qué es?
@@ -156,7 +157,96 @@
 	- Modelo de organización corporal
 		- Morfología externa
 			- Poliquetos sedentarios→chaetopteridae
-				- 
+				- ![[Pasted image 20240528155045.png]]
+				- Segmentación heteronoma
+					- Segmentación del cuerpo donde cada anillo esta separado por septas.
+					- Segmentos especializados en diferentes funciones.
+					- Viven en galerias o tubos en forma de U.
+					- Neuropodios 14-16 modificados corrientes de agua-filtrar alimentos
+					- Neuropodios-ventosas subjección-interior del tubo
+					- Segmento 12→podios en forma de vela. Recogida de alimento
+					- Segmento 13→ transformando en red de moco que atrapa el alimento
+				- Segmentación Homónoma
+					- Poliquetos errantes 
+					- ![[Pasted image 20240528155658.png]]
+						- Partes corporales
+							- Cabeza→no es metamérico
+								- Prostomio→peribucal
+								- Peristomio→bucal;1 metámero
+							- Metastomio
+								- Metámeros 7-600
+							- Cola/pigidio
+								- No es metamérico
+				- Oligoquetos→lumbricidae
+				- ![[Pasted image 20240528155813.png]]
+					- Partes corporales
+						- Cabeza
+							- Prostomio→peribucal
+						- Tronco
+							- Metámeros 7-600
+						- Pigidio
+			- Hirudinea
+				- ![[Pasted image 20240528155856.png]]
+		- Estructura
+			- Compartición corporal
+				- Poliquetos
+					- ![[Pasted image 20240528160209.png]]
+				- Oligoquetos
+					- ![[Pasted image 20240528160219.png]]
+				- Hirudinea
+					- ![[Pasted image 20240528160230.png]]
+			- Locomoción
+				- Poliquetos
+					- Epibentónicas
+					- ![[Pasted image 20240528165204.png]]
+						- Características
+							- Las cavidades celomáticas actúan como esqueleto hidrostático
+							- Musculatura→longitudinal
+							- Estructura corporal metamérica
+							- Podios
+								- Se mueven en la misma dirección pero no al mismo tiempo, isno que en cada punto del recorrido los parapodios se encuentran en una fase diferente para facilitar el avance.
+							- Movimiento
+								- Lento
+								- Rápido
+								- Natación
+						- Proceso
+							- Las contracciones rítmicas crean unas ondas metacrónicas que se desplazan desde la parte posterior a la anterior. 
+							- Variaciones en la amplitud de las ondas se combinan con el movimiento desde los podios para generar  los diferentes movimientos. 
+							- Los podios "reman" en el momento  que pasa por la cresta  metacronal  de la onda.
+					- Excavadores
+					- ![[Pasted image 20240528165220.png]]
+						- Características
+							- Perforación/pérdida de septos intersegmentarios→presentan un celoma fluido que puede atravesar por  los segmentos→ no todos
+							- Carece de parapodios bien desarrollado  así como  órganos de los  sentidos desarrollados.
+							- Su movimiento es mediante su faringe,  que  evierte y ancla en el sustrato, desplazando el cuerpo mientras  se retrae.
+							- En algunos, presentan pequeños parapodios que tienen unas  sedas con forma  de gancho, dispuestas en sentido opuesto las de los  lados anteriores  o  posterior  para oponerse  al movimiento del animal  en la galería.
+						- Requesitos
+							- Cavidades celomáticas actúan como esqueleto hidrostático
+							- Musculatura→circular+longitudinal
+							- Estructura corporal metamérica
+							- Podios
+				- Oligoquetos
+				- ![[Pasted image 20240528165235.png]]
+					- Características
+						- Total dependencia del esqueleto hidrostático
+							- Suporte corporal
+							- Movimiento
+								- Ondas perisltálticas+quetas
+						- Requesitos
+							- Septas bien separadas
+							- Contracción alterna→musculatura
+								- Circular+longitudinar
+							- Quetas
+				- Hirudinea
+				- ![[Pasted image 20240528165244.png]]
+					- Requesitos
+						- Soporte del cuerpo proporcionaod por
+						- Tejido conjuntivo fibroso
+						- Triccapa→musculatura
+							- Circular
+							- Oblicua
+							- Longitudinal
+						- Celoma compartido
 	- Funciones vitales
 		- Digestión
 			- Esquema  general
@@ -166,6 +256,8 @@
 						- Función→alimentaria→faringe
 			- En función de clases
 				- Poliquetos
+					- Características
+						- Presentan glándulas mucosas que secretan  sustancias que se adhieren que no están digeridas→Formación de bolitas fecales que saldrán por el anus.
 					- Partes
 						- Anterior
 							- Boca+faringe+esófago
@@ -175,9 +267,211 @@
 						- Posterior
 							- Recto+anus
 								- Aquí hay glandulares mucosas
+					- Poliquetos sedentarios
+						- Presentan penacles→radiola→Pinnule→cilios
+							- Selección de partículas en función del tamaño
+								- Las partículas no  digeridas se utilizan para la formación  del tubo digestivo
 				- Oligoquetos
+					- ![[Pasted image 20240528141309.png]]
+					- ![[Pasted image 20240528011531.png]]
+					- ![[Pasted image 20240528141717.png]]
+					- Diferencias entre los poliquetos
+						- Presencia  de glándulas calíferas
+							- Prolongaciones laminares
+								- Presentan glándulas que absorbenel alimento que lo transformaraá en calcita, la cual no se absorbe y será expulsaada en sus heces.
+								- Estas glándulas cumple la función de regulador de pH, porque regula la concentración del Ca dentro del celoma.
+						- En un corte transversal
+							- El typhosole
+								- ↑ Superficie de absorsión
+						- Células cloragogeno
+							- Contienen pigmentos para la excreción del metabolismo
+						- Faringe muscularizada
+						- Esofago
+							- Al final hay un buche 
+								- Bolsa para el almacenamiento del alimento.
+							- Mollejo
+								- ↑ Muscularizada
+									- Para triturar los alimentos
 				- Hirudinas
+					- ![[Pasted image 20240528011545.png]]
+					- ![[Pasted image 20240528141745.png]]
+					- Esquema
+						- Anterior
+							- Boca+faringe+proboscis invaginable
+						- Mediana
+							- Esófago+buche (cecs intestinales y estómago)
+						- Posterior
+							- Final del intestino+ano
+					- La proboscics contiene una glándula salival que secretan  hidudina que evita la coagulación.
+		- Circulatorio+ respiración
+			- Esquema general
+				- 3  vías de respiración
+					- Superficie
+					- Estructuras especializadas
+						- Bránqueas
+						- Parapodios
+							- Presentan plexos sanguíneos+ capilares.
+			- Poliquetos
+			- ![[Pasted image 20240528141831.png]]
+				- 2 vasos  sanguíneos longitudinales  contínuos por todo el animal.
+					- Dorsal
+						- Hacia delante
+					- Ventral
+						- Hacía atras
+				- Presenten metamerización  en los vasos  transversales en cada metámero  lateral que comunican con el dorsal y ventral.
+				- En caso de tener parapodios presentan vascularización→plexe vascular
+				- Pigmentos
+					- Eitrocrocina
+					- Hemoritrina
+					- Clorocrocina
+				- Carecen de corazón→tienen vasos sanguíneos pero más muscularizados.
+				- Movimiento por contracción muscular y bombas  especializadas
+				- ![[Pasted image 20240528142029.png]]
+			- Oligoquetos
+			- ![[Pasted image 20240528141922.png]]
+				- 3 vasos longitudinales pare crear una comunicación entre los vasos laterales/comisurales
+				- También tienen válvulas para controlarlos junto a una bomba.
+				- Además tienen de 3 a 5 vasos perisofágicos que actúan como corazones laterales.
+			- Hirudinea
+				- Difusión simple a través de la piel
+				- ![[Pasted image 20240528141947.png]]
+		- Excretor
+			- Poliquetos
+			- ![[Pasted image 20240528152712.png]]
+				- La eliminación  de metabolitos/sustancias de rechazo y la regulación del equilibrio osmótico se produce en cada  compartimiento celomático de  manera independiente.
+				- Cada  segmento metamérico  es independiente→la gestión también lo es.
+				- El nefrostoma está en la cavidad celomática que atraviesa el seno y el nefroporo, hasta el siguiente poro (expulsa la sustancias)(parte lateral).
+				- El nefrostoma→ciliado que  sale directamente
+				- EL nefroducto→ selección selectiva
+			- Oligoquetos
+				- ![[Pasted image 20240528152733.png]]
+				- Tubo estrecho
+					- Recibe los líquidos y los solutos procedentes del cuerpo
+					- Cada nefroducto esta rodeado por capilares.
+				- Tubo ancho
+					- Selección selectiva
+				- Células Clonágenas
+					- Desproteinización de las proteínas
+					- ![[Pasted image 20240528152848.png]]
+					- ![[Pasted image 20240528152933.png]]
+			- Hirudinea
+				- ![[Pasted image 20240528152945.png]]
+				- ![[Pasted image 20240528153109.png]]
+				- Órganos ciliados→agrupaciones  de nefrostomas
+				- Capsula nefridiana
+					- Bajo el nefrostoma en vez de ir directo al nefroducto
+				- Tejido botriodal
+					- Función similar a las glándulas clorágenas→excreción
+		- Sistema nervioso
+			- General
+			- ![[Pasted image 20240528153124.png]]
+			- Clases
+				- Poliquetos
+					- Estructuras
+						- En función de la sección del animal
+							- Cerebro anterior
+								- Tentáculos/Antena
+								- Prostomio
+							- Cerebro mediano
+								- Ojos
+							- Cerebro posterior
+								- Órganos bucales
+					- Órganos sensoriales 
+						- Receptores táctiles
+						- Fotoreceptores
+							- Depresión muy simple
+							- Ojo completo
+						- Quimioreceptores
+						- Estatocistos
+					- Partes importantes
+						- Fibra gigante lateral
+							- Muy largas→trasnmisión ↑ rápida sin tener que pasar por los ganglios porque en cada metámero  hay una inervación
+						- Ganglio podial
+							- Sistemas nerviosos contínuos pero con una repetición
+						- Conectivos perifaríngeos
+						- Ganglio subfaríngeo
+				- Oligoquetos
+				- ![[Pasted image 20240528154425.png]]
+					- Cerebral ganglia
+						- Nervios prostomiales de carácter sensorial
+					- Fibras gigante
+						- Carga reflectivas  dorsales para los reflejos rápidos y movimiento de fuga
+					- Subpharyngeal ganglion
+						- Control motor del movimiento
+					- Órganos sensoriales
+						- Fotoreceptores lenticulares en la epidermis→fototactismo negativo
+						- Sensibles a los cambios de ph
+						- Quimioreceptores
+				- Hirudenea
+				- ![[Pasted image 20240528154558.png]]
+					- Órganos 
+						- 2-10 ojos dorsales con una complejidad variable→fototactismos negativo
+						- Neurosecreciones
+						- Sensilas→tacte
+						- 21 ganglios segmentarios
 		- Reproducción
+			- General
+			- ![[Pasted image 20240528154923.png]]![[Pasted image 20240528154911.png]]
+			- 
+			- Poligoquetos
+				- Regeneración 
+					- Apéndice perdidos
+						- Papls
+						- Tentáculos
+						- Cirros
+						- Podios
+					- Segmentos posteriores→Nunca
+					- Secreciones neuroendocrino a los puntos de neocrecimiento
+						- Zona de crecimiento o blastema.
+					- Características
+						- Solo se puede regenerar el segmento anterior  y no el posterior.
+				- Tipo
+					- Asexual
+						- Fisión transversal.
+			- Oligoquetos
+				- Ciclo vital
+					- El más común
+						- Huevo-larva-adulto
+							- Metamorfosis
+				- Regeneración
+					- Tanto las partes anteriores y posteriores.
+					- Mantienen el número de segmentos 
+				- Asexual
+					- Estacional→Fisión transversal
+				- Sexual
+					- Nereidae
+						- ![[Pasted image 20240528154655.png]]
+					- Lumbricidae
+						- ![[Pasted image 20240528154745.png]]
+						- ![[Pasted image 20240528154753.png]]
+					- Dioicos
+						- Fecundación externa
+							- Indirecto→larva trocófora
+								- No presenten estrúcturas permanentes.
+								- Los gametos se generan en el peritoneo que lo liberarán al celoma.
+								- Para su salida al exterior se realizará por los protonefridios o una ruptura de la pared corporal.
+					- Estructuras a destacar
+						- Clitelo
+						- ![[Pasted image 20240528121833.png]]
+					- Estructuras masculinas
+						- 2-4 testículos→cámaras seminal.
+						- Monoicos→hermafroditas
+							- Fecundación interna
+								- Ciclo directo→no larva
+					- Copula
+						- En los segmentos 9-15 se localizan 2 pares de receptáculos  seminales que reciben y almacenan el esperma que se intercambian durante la cópula.
+						- Cuando se aparean los gusanos extienden fuera de sus galerías sus extremos anteriores que se unen por sus respectivos superficies ventrales.
+						- Estas se mantienen juntas mediante un moco secretado por el clitelo y por sedas ventrales que penetran en el cuerpo de la pareja. Después de la cópula, cada animal secreto, primero un tubo mucoso y luego una banda quitinoidea dura con la que forma un capillo alrededor de su clitelo.
+						- A medida que el capullo, avanza hacia delante, se vierten en él los huevos desde los oviductos y esperma de la pareja.
+						- La fecundación se produce en el interior del capullo
+			- Hirudinea
+				- Estructuras
+					- Clitelo+tentidas→espermaducto
+					- 1 porus 
+						- Estas estructuras estan en contacto directo.
+				- Proceso
+					- Fecundación cruzada mediante el pene o  por impregnación epidérmica de un espermatóforo.
+					- Desarrollo directo dentro del capullo.
 - Glosario
 	- Palpo
 		- Estructura sensorial alargada y ligeramente engrosada

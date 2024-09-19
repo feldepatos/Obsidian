@@ -1,0 +1,21 @@
+- Aspecto del núcleo celular al microscopio óptico y electrónico
+- Hipótesis sobre el origen del núcleo.
+- Ácidos nucleicos
+	- Tipos
+	- Organización
+- Componentes del núcleo
+	- Cobertura nuclear
+		- Membrana nuclear 
+		- Lamina nuclear
+		- Porus nuclear
+			- Transporte a través del núcleo
+		- Matriz
+			- Cromatina
+			- Subcompartimentos nucleares
+				- Cuerpos de Cajas, PML; Splicesomas
+				- Núcleolo→ribosomas
+	- Procesos
+		- Transcripción
+			- Formación ARN mensajero
+			- Splicing alternativo, procesamiento y estabilización del ARN m
+		- Traducción

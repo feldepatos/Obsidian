@@ -6,50 +6,309 @@
 		- Clase→ Phaeophyceae
 		- Marinos
 		- ↑ diversidad morfológica + variabilidad por su organización estructural
-		- 
+		- Pared celular
+			- Composición
+				- Celulosa+polisacáridos
+					- Fracción amorfa de sales del ácido algínico y fucoidano
+				- Plastos
+					- ↑ número
+					- Discoides o alargados
+					- 4 membranas→endosimbiosis secundaria
+					- Tilacoides en laminada de 3 
+					- Sin o no pirenoides
+				- Pigmentos
+					- Clorofila a y c
+					- Diatoxantina
+					- Ficoxantina
+				- Sustancia de reserva
+					- Laminarina
+					- Mannitol
+				- Crecimiento
+					- Difuso tricotálico
+					- Apical marginal
+					- Mediante meristemas
+				- Esporas y gametos biflagelados hetercontes
 	- Reproducción
 		- Tipos
+			- Asexual
+				- Fragmentación
+				- Propágulos en algunos géneros son característicos propágulos asexualas especializados.
+				- Zoosporas→producidas en esporangios pluriloculares
+			- Sexual
+				- Esporocistos uniloculares
+				- Intervienen gametocistos pluriloculares.
+				- La fecundación se efectua por isogamia, anisogamia u oogamia
+				- Zoosporas y gametos flagelados
 		- Ciclo digenético haplo-diplofásico isomorfo
 			- Ectocarpus
+				- ![[Pasted image 20240529234100.png]]
 			- Dictyota dichotoma
+				- ![[Pasted image 20240529234120.png]]
 			- Laminaria 
+				- ![[Pasted image 20240529234133.png]]
 		- Ciclo monogenético diplofásico→Fucus 
+			- ![[Pasted image 20240529235304.png]]
+			- ![[Pasted image 20240529235315.png]]
+				- Organización típica con estípitos, filoides, receptacles y aerocistos
 	- Distribución
+		- Rocosas del mar fríos y temperados.
+			- ![[Pasted image 20240529235131.png]]
+		- El mar de los Sargassos
+			- Un original e importante hábitat pelágico constituido por sargassos flotantes
 	- Especies clave→Los ingenieros de los ecosistemas
-	- Algas a destacar
-		- Orden Fucales,
-			- Familia Sargassacea →Sargassum spp.
-			- Familia Cystoseiracea→Cystoseira s.l
+		- El mar de los Sargassos
+			- Un original e importante hábitat pelágico constituido por sargassos flotantes
+		- Orden Fucales, Familia→Cystoseiraceae→Cystoseira s.l.
+			- ![[Pasted image 20240529235612.png]]
+		- Laminariales del Pacífico→Macrocystic spp.
+			- ![[Pasted image 20240529235241.png]]
 	- Usos
 		- Alimentación
-		- Cocina
+			- Laminaria japonica
+				- Kombu
+					- Sabor único en los platos →unami
+		- Cocina→Gelificación
+			- Explicación
+				- Geles fríos en presencia de Ca2+
+					- En presencia de calcio, el alginato puede formar una estructura conocida como caja de huevos.
+					- En esta estructura, los iones de calcio se sitúan como puente entre los grupos con carga negativa del ácido gulurónico.
+			- Usos
+				- Esferificación
+					- Directa
+						- Alginato sódico+ líquido (zumo frutal)
+							- Se introduce en una disolución acuosa del cloruro cálcico
+					- Inversa
+						- Si el líquido a esferificar es una sustancia rica en calcio es el alginato el que se mezcla con agua.
+						- Si el contenido en calcio del líquido a esferificar no fuera lo bastante elevado, se debe reforzar añadiendo glucolactato del calcio.
 - Crisoficies
 	- Características
+		- División Ochorophyta
+		- Clase→Chrysophyceae→algas daurades.
+		- Unicelulares
+			- Coloniales o filamentosas
+			- Algunas ameboides y plasmodiales.
+		- Predominantemente dulciaquicolas y algunas marinas.
+		- Cubierta celular formada por placas silicificadas, con celulosa en algunas, ausente a las formas ameboides.
+		- Algunas coloniales rodeadas por loricas.
+		- Reproducción
+			- Asexual
+				- Formación de zoosporas
+			- Sexual
+				- Poco conocida
+					- Formación de quistes de resistencias
+		- Movimiento
+			- Flageladas o no
+				- Cuando presentan es en pares, con mastigonemas
+		- Nutrición
+			- Mixótrofa
+		- Cloroplastos con 4 membranas→endosimbiosis secundaria
+		- Pigmentos fotosintéticos:
+			- Clorofila a y c
+			- Carotenoides 
+				- Ficoxantina
+		- Sustencia de reserva
+			- Crisolaminarina en un vacúolo
 - Xantoficies
 	- Características
+		- División→Ochrophyta,
+		- Clase→Xanthophyceae
+		- Unicelulares, coloniales o filamentosas cenocíticas
+			- Algunas ameboides
+		- Ecología
+			- Dulciaqüicolas
+			- Terrestres
+			- Marinas
+		- Pared celular
+			- Celulósica a veces silicificada
+		- Movimiento
+			- Flageladas o no 
+				- En parejas
+		- Cloroplastos
+			- 4 membranas→endosimbiosis secundaria
+		- Pigmentos
+			- Clorofila→a+c
+			- Caretenoides
+			- Sin ficoxantina
+		- Sustancia de reserva→lípidos
 	- Reproducción
+		- Asexual
+			- Formación de zoosporas
+		- Sexual
+			- Fecundación oogama 
+			- Ciclo monogenético haplofásico con meiosis zigóticoa
+				- ![[Pasted image 20240530003716.png]]
 - Diatomeas
 	- Características
+		- División→Ochrophyta,
+		- Clase→Bacillariophyceae:
+		- Unicelulares o coloniales
+		- Ecología
+			- Mar
+			- Agua dulce 
+			- Suelo
+			- Rocas húmedas
+		- Función
+			- Componente fundamental de la microflora acuática continental
+			- En el mar es un componente esencial del fitoplacton de aguas frías y ricas de nutrientes.
+			- Suponen entre el 20-25% de la fijación del CO2 de la biosfera
+		- ↑ éxito evolutivo
 		- Morfología
+			- Céntricas
+				- Simetría radial
+				- Frústil radialmente a las centrales
+			- Pennadas
+				- Lanceolada o elíptoca a las pennadas.
+				- Simetría bilateral.
+				- Rafídias  y no rafídias
+		- Pared celular→Frústul
+			- Compuesto por silicio amorfa, y que consta de una hipoteca y de una epiteca
+		- Movimiento
+			- Flagelo
+				- Sí
+					- Con mastigonemos
+						- En gametos masculinos de diatomeas céntricas
+				- !
+					- Diatomeas pennadas
+		- Cloroplastos
+			- Endosimbiosis secundaria→4 membranas
+			- 2 cloroplastos parietales a las pennadas, numerosas a las centrales.
+		- Pigmentos
+			- Clorofila→a+c
+			- Ficoxantina
+		- Sustancia de reserva
+			- Crisolaminarina+lípidos
 	- Reproducción
+		- Ciclo→ Monogenético diplofásicos con meiosis gamética.
+		- Tipos
+			- Asexual
+				- Células vegetativas de resistencia y esporas de resistencia,
+				- División celular sons un plano valvar.
+				- Disminución progresiva del tamaño de las células.
+					- La hipoteca de la célula original actúa de epiteca de la nueva célula.
+						- ![[Pasted image 20240530010048.png]]
+			- Sexual
+				- Formación de auxosporas
+					- ![[Pasted image 20240530010220.png]]
+				- Tipo
+					- Pennadas
+						- Gametangiogamia
+							- ![[Pasted image 20240530010239.png]]
+					- Céntricas
+						- Oogamia con intervención  de gametos masculinos flagelados.
 	- Ecología
+		- ↑ upwelling
+		- [Si] factor limitante+Fe (en algunas regiones)
+		- ↑ comportamiento heterotróficas
+			-![[Pasted image 20240530010426.png]]
 	- Usos
+		- Tierra de diatomeas→diatomita
+		- Bioindicador de calidad de las aguas dulces
+		- Desarrollamiento de índices biológicos.
 - Dinoflagelados
+	- ![[Pasted image 20240530010547.png]]
 	- Características
+		- ![[Pasted image 20240530012358.png]]
+		- Divisón→Dinophyta
+		- Juntos a los ciliados→ciliata y apicomplexa y froman el grupo de Alveota.
+		- Ecología
+			- Marinos
+			- Dulciaqüicolas
+		- Unicelulares con 2 flagelos
+		- 2 partes
+			- Epicon +Hipocon
+			- Cíngol+ solc
+		- Aparato flagelar→2 flagelos
+			- Longitudinañ proyectado fuera de la célula con 2 filas de mastigonemas
+			- Transversal con una fila de mastigonemas
+		- Plastos
+			- Color→marrón daurat en 3 membranas
+		- Pigmentos fotosintéticos
+			- Clorofila→a+c
+			- Peridinina→xantofila
+		- Sustancia de reserva
+			- Almidón
+		- Núcleo mesocariótico
+		- Características
+		- Reproducción
+			- Tipo
+				- Asexual
+					- Fisión binaria
+				- Sexual
+					- Ciclo monogenético haplofásicos con meiosis zigótica
+					- Intervención de plano y hipozigotos.
+					- Isogamia o anisogamia
+						- Homo/hetero tálicos
+					- Cistos de origen sexual o asexual en respuesta a los cambios en los nutrientes, irradiancia, fotoperiodo o temperatura.
+					- Inoculo a los blooms
+		- Ecologia
+			- Mares oligotróficos
+		- Bloom tóxicos→mareas rojas
 	- Diversidad
+		- ![[Pasted image 20240530012332.png]]
 	- Origen de los plastos
+		- Dinoflagelados cerca a los apicomplexos como→plasmodium ; malaria
+		- Los mixotrofos no presentan plastos permanentes, los obtienen de sus presas→cleptoplastia
+			- ![[Pasted image 20240530012615.png]]
 	- Aparato fotosensitivo
+		- Estigmas y ocelos
+			- Tricocistos
+				- ![[Pasted image 20240530012816.png]]
+				- Orgánulos baciliformas
+				- Contienen projectiles de material proteínico que se polimerizan en punta de flacha al momento de dispararse
+			- Mucocistos
+				- ![[Pasted image 20240530012831.png]]
 	- Tipo de dinoflagelados a destacar
 		- Mizocitosis
-			- Características
-			- Reproducción
-			- Ecologia
-			- Bloom tóxicos→mareas rojas
+		- ![[Pasted image 20240530123122.png]]
+			- Proceso de mizocitosis en Karlodinium armiger, predante sobre una alga bruna unicelular,Fibrocapsa japonica
+			- Tubo de succión aseñalado con una flecha a la figura m.
 		- Pocillopora→coral duro
+			- Arrecifes tropicales, un ecosistema basado en la endosimbiosis con xooantelas
 	- La base del sistema
+		- La endosimbiosis entre corales y zoocanteles
+			- Proporcionan más del 95% de los requerimientos metabólicos del huésped.
+				- Fundamentalmente en forma de glicero.
+			- La enorme energía requerida para crear los depósitos del carbonato se obtiene gracias a la extraordinaria eficiencia de esta endosimbiosis.
 - Haptofitos+coccolitofóridos
-	- División 
+	- Grupo→Hacrobia
+	- División →Haptophyta
+	- Unicelulares o coloniales
+	- Ecología
+		- Marinas
+	- Presentan generalmente haptonema y 2 flagelos isocontes o anisocontes lisos.
+	- Son nus
+		- Las células suele presentar una cubierta superficial de escamas orgánicas , si calcificadas→Coccolitos 
+	- Son importantes contituyentes del nanoplactón en los ocenaos tropicales y subtropicales.
+	- ↑ géneros  y especies fósiles.
+		- Aparición al triásico.
+		- Su ↑ abundancia es en el triásico
+		- Algunas especies implicadas en blooms, algunas tóxicas
 	- Características generales de ambos grupos
+	- ![[Pasted image 20240530123103.png]]
+		- Movimiento
+			- Flagelado, unicelualres:
+				- 2 flagelos iguales o desiguales
+				- Sin mastigonemas,
+				- Haptonema
+			- Cubierta celular
+				- Escamas de celulosas
+					- En los coccolitofóridos, las escamas se calcifican y se denominan coccolitos.
+			- Aparato fotosintético
+				- Cloroplastos de color daurat o amarillo-daurat
+				- 4 membranas→endosimbiosis secundaria.
+			- Pigmentos
+				- Tilacoides en paquetes de 3
+				- Clorofila→a+c
+				- Ficoxantina.
+				- Pirenoides
+			- Sustencia de reserva
+				- Z
+				- Crisolaminarina
+					- En una vesícula
 	- Coccolitoforidos
 		- ¿Qué es?
-		- Ecología
+			- Las células suelen presentar una cubierta superficial de escamas orgánicas o calcificadas→coccolitos
+				- Pueden ser simple o complejos.
+		- Más destacados
+			- Emiliana huxleyi→↑ productos de carbonato cálcico
+			- Prymnesium parvum y Phaeocystis→ provocan mortaldats de peces

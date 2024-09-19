@@ -1,0 +1,12 @@
+- Composición de la membrana plasmática
+	- Lípidos
+	- Proteínas
+	- Glúcidos
+- Estructura de la membrana plasmática
+	- Mosaico Fluido
+	- Imágenes
+- Transporte a través de la membrana
+- Gradiente Electroquímico→Ecuación de Nerst
+	- Canales Iónicos
+	- Renovación de la membrana
+- Funciones de la membrana plasmática.

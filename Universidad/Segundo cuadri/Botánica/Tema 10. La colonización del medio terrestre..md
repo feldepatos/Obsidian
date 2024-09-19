@@ -1,0 +1,93 @@
+- Planta terrestres
+	- Introducción
+		- Las plantas terrestres actuales representan un grupo monofilético que incluye unas 350.000 especies las cuales presentan en común:
+			- Ciclo biológico haplo-diplofásico heteromorfo.
+			- Presencia de embrión
+			- Estructuras reproductoras protegidas por capas de células estériles.
+			- Esporas con pared de esporopolenina.
+		- Estrategias biológicas
+			- Briófitas
+				- Gametófito dominante
+				- Esporófito no ramificado, con  un único esporangio
+				- Lignina!
+				- Esporofito depende del gametófito
+				- Esporofito sin estructura  cormofítica.
+			- Traqueófitas (cormófitos)→plantas vasculares
+				- Esporófito  dominante
+				- Esporófito ramificado, con numerosos esporangios.
+				- + lignina
+				- Esporófito de vida independiente.
+				- Esporófito con  estructura cormofítica→raíz, tronco,  hojas.
+	- Características
+		- Los grupos  que vinculan una y  otra estrategia  están extintos. Se trata de plantas   terrestres polisporangiadas (con esporófitos dominante, ramificado y con numerosos  esporangios pero con tejido vascular, sin lignina).
+		- ![[Pasted image 20240604012655.png]]
+		- Se observa una tendencia a la reducción del tamaño y complejidad de la fase gametofítica.
+			- ![[Pasted image 20240604012801.png]]
+	- Registro fósil
+		- Cooksonia  es una riniófito que  se cree que habitaba en  suelos embalsamados.
+		- Se considera actualmente como la planta vascular más antigua conocida.
+			- Consistía en un sistema de ejes, de ramificación  dicótoma, sin hojas y acabados con un esporangio.
+			- Se va desarrollar durante los períodos del silúrico medio a devoniano.
+- Plantas vasculares
+	- Filogenía
+		- ![[Pasted image 20240604013357.png]]
+		- ![[Pasted image 20240604013427.png]]
+		- Tipo de crecimiento
+			- ![[Pasted image 20240604013622.png]]
+			- ![[Pasted image 20240604013634.png]]
+		- Consecuencias  
+			- ![[Pasted image 20240604013651.png]]
+			- ![[Pasted image 20240604013702.png]]
+	- Antecedentes de la semillas
+		- 2  tipos
+			- + cambium
+			- Eustela
+	- Tendencia evolutivas
+		- ![[Pasted image 20240604024511.png]]
+		- ![[Pasted image 20240604024521.png]]
+		- ![[Pasted image 20240604024535.png]]
+		- ![[Pasted image 20240604023916.png]]
+		- Secuencia evolutitva hipotética de la transformación de  un esporangio de una planta isospórica hasta a un primordio seminal de un espermatófito
+			- ![[Pasted image 20240604023902.png]]
+	- Reproducción a las 
+		- Gimnospermas
+		- ![[Pasted image 20240604022223.png]]
+			- Características
+				- No hay flores.
+				- En muchas de ellas los microsporangios y megasporangios se producen sobre esquames agrupadas en estróbilos  (esporofilos) o conos
+					- ![[Pasted image 20240604022319.png]]
+			- ![[Pasted image 20240604022208.png]]![[Pasted image 20240604021111.png]]
+				- La fecundación es simple.
+				- El resultado es un cigoto de 2 n que se desarrollará  en el embrión de la semilla.
+				- El gametófito femenino o protalus femenino (n)  se transforma en un tejido de reserva de la semilla.
+		- Angiospermas
+			- Las estructuras reproductoras son las flores. 
+			- Están formadas por un conjunto de hojas modificadas fértiles acompañadas de hojas modificadas estériles (antofilas)
+			- ![[Pasted image 20240604020542.png]]
+				- Antofilas
+					- Estériles
+						- Sépalos
+						- Pétalos
+					- Fértiles
+						- Estambres, incluyen los microsporangios a la antera.
+						- Carpelos
+							- Incluyen al megasporangio al primordio seminal
+			- Micro- Megagametofitogénesis
+			- ![[Pasted image 20240604020822.png]]
+				- El gametófito masculino→microgametófito→ de las angiospermas consta de únicamente de 3 células.
+				- El gametófito femenino →megagametófito→más característico de las Angiospermas consta únicamente de 8 núcleos organizados en 7 células.
+			- Doble fecundación
+			- ![[Pasted image 20240604020837.png]]
+				- A las angiospermas, la fecundación es doble. Uno de los gametos del tubo polínico se fusiona con la ovocélula y da lugar a un cigoto (2n) que se desarrollará en el embrión de la semilla.
+				- El otro gameto masculino se fusiona con los núcleos polares de la célula central y forma un núcleo (3n) que se divide para dar a lugar a un tejido de reserva, el endosperma secundario.
+			- En lagunas angiospermas del endosperma secundario es diploide.
+				- ![[Pasted image 20240604021048.png]]
+			- Partes de la semilla
+				- Episperma→testa
+					- Capa periférica de protección (modificación de los tegumentos del primordio seminarl). 
+					- Lisa o rugosa
+					- Blanca, negra o calorejada
+				- Endosperma
+					- Tejidos nutritivos exteriores al embrión
+				- Embrión
+					- Con los ápices  radicualre y  caulinar, los cotiledones, epi-hipocótil. El tamaño del embrión es variable, desde una  mínima parte hasta  ocupar casi toda la semilla.

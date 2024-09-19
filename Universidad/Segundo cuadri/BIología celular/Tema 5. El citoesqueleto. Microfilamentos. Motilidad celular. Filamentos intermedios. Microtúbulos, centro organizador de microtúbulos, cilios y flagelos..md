@@ -1,0 +1,26 @@
+- Elementos del citoesqueleto
+	- Microfilamentos de actina
+		- Actina
+		- Comportamiento in vitro
+		- Proteínas de unión a actina
+		- Anclaje a la membrana
+		- Funciones
+			- Microvellosidades
+			- Contracción Muscular→miosina, sarcómero
+			- División celular
+			- Cohesión celular
+			- Motilidad celular
+	- Filamentos intermedios
+		- Estructura
+		- Tipos
+		- Funciones
+	- Microtúbulos
+		- Tubulina
+		- Comportamiento in vitro→intercambio rotatorio
+		- Centro organizador de microtúbulos
+		- Proteínas de unión a tubulina
+		- Funciones
+			- Transporte de orgánulos
+			- Motilidad
+			- Morfología
+			- Mitosis

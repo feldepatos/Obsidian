@@ -136,14 +136,14 @@
 	- ![[Pasted image 20240430173430.png]]
 	- 
 
-|                         | Ascomicetos                             | Basidiomicetos                   |
-| ----------------------- | --------------------------------------- | ------------------------- |
-| División                | Ascomycota                              |                                  |
-| Tipo de esporas         | Meiòspores endòspores                   |                                  |
-| Estructura reproductora | Ascomes                                                                    |
-| Micelio                 | Hifas separadas                                                            |
-| Septa                   | Dolíporo con parentosoma  osoma  osoma  osoma  osoma  osoma  osoma  osoma  |
-| Ciclo vital                                                                                          |
-| Nº de especi                                                                                         |
+|                         | Ascomicetos                                                               | Basidiomicetos |
+| ----------------------- | ------------------------------------------------------------------------- | -------------- |
+| División                | Ascomycota                                                                |                |
+| Tipo de esporas         | Meiòspores endòspores                                                     |                |
+| Estructura reproductora | Ascomes                                                                   |                |
+| Micelio                 | Hifas separadas                                                           |                |
+| Septa                   | Dolíporo con parentosoma  osoma  osoma  osoma  osoma  osoma  osoma  osoma |                |
+| Ciclo vital             |                                                                           |                |
+| Nº de especies          |                                                                           |                |
 
 
