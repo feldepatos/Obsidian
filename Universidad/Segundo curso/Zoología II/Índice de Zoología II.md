@@ -1,0 +1,162 @@
+Tema 1
+Tema 2
+Tema 3
+Tema 4. Deuteróstomos. Equinodermos. Hemicordados
+- Introducción al filum
+	- Filogenía
+	- Diferencias con otros filos
+	- Reino animal
+- Filum echinodermata
+	-  Características diferenciales 
+		- Nº de especies
+		- Hábitat
+		- Tamaño
+		- Morfolipos
+	- Clases
+		- Filogenia de los diferentes tipos clases 
+	- Sistemática
+	- Plan corporal
+		- Origen del plan corporal de los equinodermos
+		- Características generales
+		- Tipos  de planos
+		- Evolución de planes corporales alternativos en función del tipo de clases
+			-  Clase Ophiudoidea
+				- Características
+				- Morfología y formas coporales
+				- Estructura comparada de los brazos
+				- Ofisuras→consumidoras versátiles
+			- Clase equinoideos
+				- Morfología interna
+					- Al parecer pápulas presentan branquias
+					- Linterna de Aristóteles
+						- el esófago se proyecta a la boca→los alveolos contiene los dientes
+			- Clase Crinoidea
+				- Plan general
+					- Peduncudas
+				- Sistema de captación de partículas
+				- Mecanismos de control de los efectos de la corriente
+					- Capacidad de autotomía
+						- Reproducción
+			- Clase holothuroidea
+				- Formas corporales
+					- Morfología
+				- Algunos aspectos de la biología/Habilidades extraordinaria 
+	- Larvas
+		- Argumentos adaptativos asociados a la producción de larvas
+			- Tejido conjuntivo mutable
+			- Escenarios que promueven la bilateralidad
+				- Erizos irregulares
+				- Holoturias
+					- Secundaria en holoturoideos
+			- Asteroides 
+				- Morfología externa
+					- Simetría acuífero
+				- Morfología interna
+					- Sistema hemal
+	- Endoesqueleto calcáreo de origen mesodérmico
+		- Características
+		- Tipos
+		- Derivados tegumentarios
+	- Organismos por excelencia→
+		- Estrellas del mar
+		- Concentricicloides→margaritas de mar
+	- Funciones vitales
+		- Intercambio gaseoso
+		- Reproducción
+			- Desarrollo embrionario
+				- Larva dipleurula
+	- Papel en los ecosistemas
+		- Problemas
+- Filum  Xenoturbélidos
+	- Características diferenciales
+	- Relación entre grupos de Deuteróstomos
+- Filum Hemicordados
+	- Características diferenciales
+	- Clases
+		- Pterobranquios
+			- Morfología 
+		- Enteropneustos
+			- Pared corporal
+			- Morfología interna
+	- Larva Tornaria
+Tema 5. Cordado. Urocordados y Cefalocordados
+- Introducción
+	- Reino Animal
+	- Origen de los Cordados
+		- Protóstomos
+		- Deuteróstomos
+	- Teoría Dipleuruloide
+- Características exclusivas del Filum de los Cordados
+- Clasificación de los Cordados
+- Subfilum Urocordados/tunicados
+	- Grupos
+		- Sorberacis
+		- Ascidiacis
+			- Características
+			- Aportaciones biológicas
+			- Pared corporal
+				- Tipos morfológicos
+			- Funciones
+				- Reproducción
+					- Tipos
+						- Sexual
+						- Asexual
+						- Larva apendicularia
+					- Excepción
+						- C.thaliaceos: Reproducción alternante
+							- 3 tipos
+		- Apendiculacis
+		- Taliacis
+			- Larvas
+				- Pirsosómidos+sálpidos+doliólidos
+- Subfilum Cefalocordados/Acranios
+	- Aportaciones biológicas
+	- Historia
+	- Morfología externa
+	- Funciones
+		- Nutrición
+		- Sistema circulatorio
+		- Sistema esquelético
+		- Reproducción
+Tema 6.Vertebrados. Agnatos y Gnatostomados
+-  Introducción
+	- Reino Animal
+- Subfilum Craneados/Vertebrados
+	- Características
+	- Adaptaciones evolutivas
+		- Yunnanozoos
+	- Cambios evolutivos en los vertebrados
+		- Nuevas evidencia de que los dinosaurios autorregulaban su temperatura corporal
+		- Tegumento y derivados tegumentarios
+			- Evolución  de las estructuras tegumentarias de los vertebrados  ejemplificadas por los taxones existentes
+				- Cripsis
+				- Aposematismo
+			- Endoesqueleto vs endoesqueleto
+				- Formación de la columna vertebral
+				- Costillas, vértebras y esternón
+				- Cráneo/Esqueleto cefálico
+					- Formación y evolución del cráneo
+			- Origen de las aletas pares
+			- Cintura escapular y pelviana
+	- Adaptaciones mecánicas a la locomoción terrestres
+		- Musculatura
+			- Peces
+		- Evolución de la musculatura
+		- Partes del aparato digestivo
+	- Evolución del sistema de respiración 
+		- Vejiga natatoria
+		- Respiración
+			- Branquial+pulmonar
+		- Circulatorio
+			- Evolución del corazón y arcos aórticos en craneados
+			- Tipos
+	- Sistema excretor 
+		- Nefrona
+		- Amniota
+	- Sistema reproductor
+	- Sistema nervioso central
+		- Amniota
+		- Encéfalo y médula espinal
+	- Sistema nervioso periférico
+	- Visión en los vertebrados
+		- Mamíferos

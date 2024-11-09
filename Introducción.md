@@ -1,1 +1,0 @@
-El farenozoico es un punto álgido para la evolución de los animales porque comprende dos grandes diversificaciones : la explosión Cámbrica y la radiación Ordovícica. La primera establece los filos modernos y aparecen los primeros fósiles mineralizados. 

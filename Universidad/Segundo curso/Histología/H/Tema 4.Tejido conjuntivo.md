@@ -1,0 +1,26 @@
+- Tejido conjuntivo
+	- Composición
+		- Células
+			- Fijas
+				- 
+			- Errantes
+		- Matriz extracelular
+			- Fibras
+				- Colégeno
+				- Reticulares
+				- Elásticas
+			- Sustancia fundamental
+				- Proteoglucanos
+				- Proteínas adhesivas
+	- Tipos
+		- Embrionario
+			- Tipos
+				- Mesénquima
+				- Mucoso
+			- Maduración a tejido conjuntivo adulto
+		- Adulto
+			- Laxo
+				- Características
+			- Denso
+				- Características
+				- Tipos
