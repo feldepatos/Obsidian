@@ -1,7 +1,8 @@
+
 # Tejido sanguíneo
 ## Generalidades de la Sangre
-**La sangre es un tejido conjuntivo líquido que circula a través del sistema cardiovascular.**
-Al igual que los otros tejidos conjuntivos, la sangre está formada por células y un componente extracelular. El volumen total de sangre en un adulto promedio es de alrededor de 6 L, lo que equivale del 7 % al 8 % del peso corporal total. La acción de la bomba cardíaca impulsa la sangre a través del sistema cardiovascular para que llegue a los tejidos corporales. Muchas de las funciones de la sangre son las siguientes:
+**La sangre es un tejido conjuntivo líquido que circula a través del sistema cardiovascular.**  
+kdfkomedio es de alrededor de 6 L, lo que equivale del 7 % al 8 % del peso corporal total. La acción de la bomba cardíaca impulsa la sangre a través del sistema cardiovascular para que llegue a los tejidos corporales. Muchas de las funciones de la sangre son las siguientes:
 - Transporte de sustancias nutritivas y oxígeno hacia las células en forma directa o indirecta.
 - Transporte de desechos y dióxido de carbono desde las células.
 - Distribución de hormonas y otras sustancias reguladoras a las células y los tejidos
@@ -39,29 +40,12 @@ lipoproteínas, factores de coagulación y otras moléculas que
 pueden intercambiarse entre la sangre y el tejido conjuntivo
 extravascular.
 El fibrinógeno, la proteína plasmática más grande
-(340 kDa), se sintetiza en el hígado. En una serie de reac-
-ciones en cascada con otros factores de coagulación, el fi-
-brinógeno soluble se transforma en la proteína insoluble
-fibrina (323 Da). Durante la conversión de fibrinógeno en fi-
-brina, las cadenas de fibrinógeno se fragmentan para producir
-monómeros de fibrina que se polimerizan con rapidez para for-
-mar fibras largas. Estas fibras establecen enlaces cruzados entre
-sí y forman una red impermeable en el sitio de los vasos san-
-guíneos lesionados, lo que impide una hemorragia adicional.
-Con excepción de estas grandes proteínas plasmáticas y de
-las sustancias reguladoras, que son proteínas o polipéptidos
-pequeños, la mayoría de los componentes del plasma son su-
-ficientemente pequeños como para atravesar la pared de los
-vasos sanguíneos en los espacios extracelulares del tejido con-
-juntivo contiguo.
-En general, las proteínas plasmáticas reaccionan con fija-
-dores comunes y con frecuencia quedan retenidas dentro de
-los vasos sanguíneos en los cortes histológicos. Las proteínas
-plasmáticas no poseen una forma estructural por arriba del
-nivel molecular; por lo tanto, cuando quedan retenidas en los
-vasos sanguíneos, aparecen como una sustancia que se colo-
-rea de manera uniforme con la eosina en los cortes histológi-
-cos teñidos con hematoxilina y eosina (H&E).
+(340 kDa), se sintetiza en el hígado. En una serie de reacciones en cascada con otros factores de coagulación, el fibrinógeno soluble se transforma en la proteína insoluble
+fibrina (323 Da). Durante la conversión de fibrinógeno en fibrina, las cadenas de fibrinógeno se fragmentan para producir monómeros de fibrina que se polimerizan con rapidez para formar fibras largas. Estas fibras establecen enlaces cruzados entre
+sí y forman una red impermeable en el sitio de los vasos sanguíneos lesionados, lo que impide una hemorragia adicional.
+Con excepción de estas grandes proteínas plasmáticas y de las sustancias reguladoras, que son proteínas o polipéptidos pequeños, la mayoría de los componentes del plasma son suficientemente pequeños como para atravesar la pared de los vasos sanguíneos en los espacios extracelulares del tejido conjuntivo contiguo.
+En general, las proteínas plasmáticas reaccionan con fijadores comunes y con frecuencia quedan retenidas dentro de los vasos sanguíneos en los cortes histológicos. Las proteínas plasmáticas no poseen una forma estructural por arriba del
+nivel molecular; por lo tanto, cuando quedan retenidas en los vasos sanguíneos, aparecen como una sustancia que se colorea de manera uniforme con la eosina en los cortes histológicos teñidos con hematoxilina y eosina (H&E).
 **El suero es igual al plasma sanguíneo excepto que está des-
 provisto de los factores de coagulación.**
 Es de práctica habitual que, con fines de diagnóstico, se extraigan muestras de sangre de una vena (procedimiento denominado venopuntura). Cuando se saca de la circulación, la sangre se coagula de inmediato. Un coágulo sanguíneo
@@ -139,7 +123,7 @@ de la matriz citoplasmática granular fina sin orgánulos membranosos (fig.10-8)
 **Los neutrófilos son fagocitos activos que utilizan una gran variedad de receptores de la superficie para reconocer bacterias y otros agentes infecciosos en los sitios de inflamación.**
 Una vez en el sitio de la lesión tisular, el neutrófilo primero debe reconocer sustancias extrañas antes de que ocurra la fagocitosis. Al igual que la mayoría de las células fagocíticas, los neutrófilos tienen una variedad de receptores en su membrana celular que pueden reconocer y fijar bacterias, organismos extraños y otros agentes infecciosos (fig. 10-10). Algunos de estos organismos y agentes se unen en forma directa a los neutrófilos (no se requieren modificaciones de sus superficies), mientras que otros tienen que estar opsonizados (cubiertos con anticuerpos o complemento) para ser más atractivos
 a los neutrófilos. Los receptores más comunes utilizados por los neutrófilos durante la fagocitosis comprenden los siguientes:
-- Receptores de F c, que están en la superficie del neutrófilo y se unen a la región Fc expuesta de los anticuerpos IgG que cubren las superficies bacterianas (fig. 10-10). La unión de bacterias cubiertas de IgG activa la función fagocítica de los neutrófilos y provoca un rápido aumento del metabolismo intracelular.
+- Receptores de Fc, que están en la superficie del neutrófilo y se unen a la región Fc expuesta de los anticuerpos IgG que cubren las superficies bacterianas (fig. 10-10). La unión de bacterias cubiertas de IgG activa la función fagocítica de los neutrófilos y provoca un rápido aumento del metabolismo intracelular.
 - Receptores de complemento (CR), que facilitan la fijación y la captación de complejos inmunitarios opso- nizados por la proteína C3 activa del complemento, en particular, C3b. La unión de bacterias u otros antígenos cubiertos con C3b a los CR desencadena la fagocitosis, cuyo resultado es la activación de los mecanismos líticos y las reacciones de estallido respiratorio del neutrófilo.
 - Receptores “limpiadores” (scavenger) (SR), que son un grupo estructuralmente diverso de glucoproteínas transmembrana que se unen a formas modificadas (acetiladas u oxidadas) de lipoproteínas de baja densidad (LDL), moléculas polianiónicas que con frecuencia se encuentran en la superficie de bacterias, tanto Gram-positivas como Gram-negativas, y cuerpos apoptósicos. La unión a estos receptores aumenta la actividad fagocítica de los neutrófilos.
 - Receptores tipo Toll, también conocidos como receptores de reconocimiento de patrones (RRP), que son receptores de neutrófilos que reconocen moléculas de patógenos como endotoxinas, lipopolisacáridos, peptidoglucanos y ácidos lipoteicoicos que se organizan en patrones moleculares asociados con patógenos (PAMP) predecibles y se expresan normalmente en las superficies de las bacterias y otros agentes infecciosos. Al igual que otras células fagocíticas, los neutrófilos poseen una gran variedad de receptores tipo toll que reconocen PAMP. La unión de antígenos bacterianos a estos receptores provoca la fagocitosis y la liberación de citocinas, como la interleucina 1 (IL-1) , la interleucina 3 (IL-3) y el factor de necrosis tumoral a (TNF a ) por los neutrófilos. La IL-1, conocida históricamente como pirógeno (agente causante de la fiebre), induce la síntesis de prostaglandinas, que a su vez actúan sobre el centro termorregulador del hipotálamo para producir fiebre . Por ende, la fiebre es una consecuencia de la reacción aguda frente a agentes patógenos invasores que causan una respuesta neutrófila masiva.
@@ -160,25 +144,13 @@ Además, el óxido nítrico (NO) y otros intermediarios del nitrógeno reactivo 
 **Las bacterias fagocitadas también pueden ser destruidas por un arsenal diverso de mecanismos de muerte independiente del oxígeno que utilizan enzimas bacteriolíticas y péptidos antimicrobianos.**
 Además de las reacciones de estallido respiratorio dependientes de oxígeno, los microorganismos pueden ser destruidos por las enzimas bacteriolíticas y los péptidos catiónicos antimicrobianos que se almacenan en los gránulos del citoplasma de los neutrófilos. Estos mecanismos de muerte independientes
 de oxígeno están dirigidos hacia la membrana de la célula bacteriana, provocando su degradación y permeabilidad. Los neutrófilos contienen cantidades particularmente grandes de proteínas catiónicas antimicrobianas, como defensinas y péptidos antimicrobianos llamados catelicidinas. Al igual que las lisozimas y las catepsinas almacenadas en los gránulos específicos, estas proteínas catiónicas antimicrobianas degradan la pared bacteriana. Además, las enzimas hidrolíticas lisosómicas que digieren las proteínas bacterianas y las lactoferrinas que quelan el hierro de las vías bacterianas nutricionales contribuyen a la destrucción de las bacterias invasoras.Estos mecanismos no son tan eficientes como los mecanismos de destrucción dependientes de oxígeno. Los neutrófilos de pacientes con defectos de los mecanismos dependientes de oxígeno, como
-los que padecen enfermedad granulomatosa crónica (cua-
-dro 10-4), en cierto grado todavía son capaces de destruir las
-bacterias fagocitadas. Sin embargo, debido a la poca eficiencia
-de estos procesos, los individuos con estos defectos son más
+los que padecen enfermedad granulomatosa crónica (cuadro 10-4), en cierto grado todavía son capaces de destruir las bacterias fagocitadas. Sin embargo, debido a la poca eficiencia de estos procesos, los individuos con estos defectos son más
 susceptibles a sufrir infecciones graves.
-Después de la digestión intracelular realizada por el neutró-
-filo, los restos de material degradado se almacenan en cuerpos
-residuales o sufren exocitosis. La mayoría de los neutrófilos
-muere en este proceso; la acumulación de bacterias destruidas
-y neutrófilos muertos constituye el espeso exudado llamado
-pus. El color amarillo verdoso del pus y de las secreciones
-mucosas (p. ej., de los pulmones infectados) proviene del pig-
-mento hemo de la enzima MPO almacenada en los gránulos
+Después de la digestión intracelular realizada por el neutrófilo, los restos de material degradado se almacenan en cuerpos residuales o sufren exocitosis. La mayoría de los neutrófilos muere en este proceso; la acumulación de bacterias destruidas
+y neutrófilos muertos constituye el espeso exudado llamado pus. El color amarillo verdoso del pus y de las secreciones mucosas (p. ej., de los pulmones infectados) proviene del pigmento hemo de la enzima MPO almacenada en los gránulos
 azurófilos de los neutrófilos.
 **En la inflamación y la curación de las heridas también participan los monocitos, los linfocitos, los eosinófilos, los basófilos y los fibroblastos.**
-Los monocitos también entran en el tejido conjuntivo como respuesta secundaria a la lesión tisular. En el sitio de la lesión, se transforman en macrófagos que fagocitan detritos celulares e tisulares, fibrina, bacterias restantes y neutrófilos
-muertos. La cicatrización normal de las heridas depende de la participación de los macrófagos en la respuesta inflamatoria; se convierten en el principal tipo de células en el sitio de inflamación después de que los neutrófilos se consumen. Al
-mismo tiempo que los macrófagos se activan en el sitio de la inflamación, los fibroblastos cercanos acrecientan su actividad y las células mesenquimáticas indiferenciadas en la adventicia de los vasos pequeños locales comienzan a dividirse y diferenciarse en fibroblastos y miofibroblastos, que secretarán las
-fibras y la sustancia fundamental para reparar la lesión. Al igual que los neutrófilos, los monocitos son atraídos hacia el sitio de la inflamación por el mecanismo de quimiotaxis. Los linfocitos, los eosinófilos y los basófilos también desempeñan un papel en la inflamación, pero intervienen más en los aspectos inmunológicos del proceso (cap. 14, sistema linfático).
+Los monocitos también entran en el tejido conjuntivo como respuesta secundaria a la lesión tisular. En el sitio de la lesión, se transforman en macrófagos que fagocitan detritos celulares e tisulares, fibrina, bacterias restantes y neutrófilos muertos. La cicatrización normal de las heridas depende de la participación de los macrófagos en la respuesta inflamatoria; se convierten en el principal tipo de células en el sitio de inflamación después de que los neutrófilos se consumen. Al mismo tiempo que los macrófagos se activan en el sitio de la inflamación, los fibroblastos cercanos acrecientan su actividad y las células mesenquimáticas indiferenciadas en la adventicia de los vasos pequeños locales comienzan a dividirse y diferenciarse en fibroblastos y miofibroblastos, que secretarán las fibras y la sustancia fundamental para reparar la lesión. Al igual que los neutrófilos, los monocitos son atraídos hacia el sitio de la inflamación por el mecanismo de quimiotaxis. Los linfocitos, los eosinófilos y los basófilos también desempeñan un papel en la inflamación, pero intervienen más en los aspectos inmunológicos del proceso (cap. 14, sistema linfático).
 Los eosinófilos y linfocitos son más comunes en los sitios de inflamación crónica.
 ### Eosinófilos
 Los eosinófilos tienen más o menos el mismo tamaño que los neutrófilos y su núcleo es normalmente bilobulado (fig.10-12; lámina 17, pág. 330). Al igual que en los neutrófilos, la heterocromatina compacta de los eosinófilos está principalmente junto a la envoltura nuclear, mientras que la eurocromatina está ubicada en el centro del núcleo.
@@ -342,47 +314,14 @@ Cuando los eritrocitos alcanzan los 4 meses de edad (~120 días) , se vuelven vi
 grupo hemo de la molécula de hemoglobina se degrada parcialmente a bilirrubina, unida a la albúmina, se libera en la circulación y se transporta hacia el hígado, donde se conjuga y se excreta a través de la vesícula biliar como el glucurónido de bilirrubina de la bilis.
 #### Formación de trombocitos→Trombopoyesis
 Cada día, la médula ósea de un adulto sano produce cerca de 1 X 1011 plaquetas, una cantidad que puede aumentar 10 veces en los momentos de mayor demanda. La trombocitopoyesis a partir de los progenitores de la médula ósea es un proceso complejo de división y diferenciación celular que requiere el apoyo de interleucinas, factores estimulantes de colonias y hormonas.
-Los trombocitos (plaquetas) derivan de una célula pro-
-genitora de megacariocitos/eritrocitos bipotencial (MEP),
-que se diferencia en la célula progenitora predestinada a
-convertirse en megacariocito (MKP) y por último en mega-
-cariocito.
-Las plaquetas se forman en la médula ósea a partir de las mis-
-mas células progenitoras mieloides comunes (CMP) que las
-series eritroide y mieloide. Bajo la influencia del factor estimu-
-lante de colonias de granulocitos-macrófagos (GM-CSF) y la
-IL-3, un citoblasto CMP se diferencia en una célula proge-
-nitora de megacariocitos/eritrocitos (MEP) bipotencial. El
-desarrollo adicional avanza hacia una célula progenitora pre-
-destinada a convertirse en megacariocito (MKP) (o CFU-
-Meg), que continúa su desarrollo hacia el megacarioblasto. El
-megacarioblasto que surge de esta MKP es una célula grande
-(alrededor de 30 mm de diámetro) con un núcleo no lobulado.
-No hay indicios de la formación de plaquetas en esta etapa. El
-megacarioblasto sufre endomitosis sucesivas (es decir, los cro-
-mosomas se duplican), pero no ocurre cariocinesis ni citocinesis.
-Bajo la estimulación por trombopoyetina, una hormona glu-
-coproteica de 30 kDa producida por el hígado y los riñones, la
-ploidía aumenta de 8 n a 64 n antes de que cese la replicación
-cromosómica. La célula se convierte en un megacariocito pro-
-ductor de plaquetas, una célula de 50 mm a 70 mm de diámetro
-con un núcleo multilobulado complejo y gránulos azurófilos
-dispersos. Tanto el núcleo como la célula aumentan de tamaño
-en proporción a la ploidía celular. Con el MET, en estas células
-también se ven múltiples centríolos y varios aparatos de Golgi.
-Cuando se examina la médula ósea en un frotis, una gran
-parte del citoplasma periférico del megacariocito se ve lleno
-de campos de plaquetas. Cuando se examina con el MET, el
-citoplasma periférico del megacariocito parece estar dividido
-en pequeños compartimentos por invaginación de la mem-
-brana plasmática. Como ya se describió, estas invaginaciones
-forman los conductos de demarcación de plaquetas (v. fig.
-10-16). La trombocitopenia (disminución de la cantidad de
-plaquetas en la sangre) es un trastorno clínico importante en
-el manejo de pacientes con enfermedades del sistema inmuni-
-tario y cáncer (es decir, leucemia). Aumenta el riesgo de sufrir
-hemorragias y, en pacientes con cáncer, a menudo limita la
-dosis de los fármacos quimioterapéuticos.
+Los trombocitos (plaquetas) derivan de una célula progenitora de megacariocitos/eritrocitos bipotencial (MEP), que se diferencia en la célula progenitora predestinada a convertirse en megacarioblasto (MKP) y por último en megacariocito.
+Las plaquetas se forman en la médula ósea a partir de las mismas células progenitoras mieloides comunes (CMP) que las series eritroide y mieloide. Bajo la influencia del factor estimulante de colonias de granulocitos-macrófagos (GM-CSF) y la
+IL-3, un citoblasto CMP se diferencia en una célula progenitora de megacariocitos/eritrocitos (MEP) bipotencial. El desarrollo adicional avanza hacia una célula progenitora predestinada a convertirse en megacariocito (MKP) (o CFU-Meg), que continúa su desarrollo hacia el megacarioblasto. El megacarioblasto que surge de esta MKP es una célula grande (alrededor de 30 mm de diámetro) con un núcleo no lobulado.
+No hay indicios de la formación de plaquetas en esta etapa. El megacarioblasto sufre endomitosis sucesivas (es decir, los cromosomas se duplican), pero no ocurre cariocinesis ni citocinesis. Bajo la estimulación por trombopoyetina, una hormona glu-
+coproteica de 30 kDa producida por el hígado y los riñones, la ploidía aumenta de 8 n a 64 n antes de que cese la replicación cromosómica. La célula se convierte en un megacariocito productor de plaquetas, una célula de 50 mm a 70 mm de diámetro
+con un núcleo multilobulado complejo y gránulos azurófilos dispersos. Tanto el núcleo como la célula aumentan de tamaño en proporción a la ploidía celular. Con el MET, en estas células también se ven múltiples centríolos y varios aparatos de Golgi.
+Cuando se examina la médula ósea en un frotis, una gran parte del citoplasma periférico del megacariocito se ve lleno de campos de plaquetas. Cuando se examina con el MET, el citoplasma periférico del megacariocito parece estar dividido en pequeños compartimentos por invaginación de la membrana plasmática. Como ya se describió, estas invaginaciones forman los conductos de demarcación de plaquetas (v. fig.10-16). La trombocitopenia (disminución de la cantidad de plaquetas en la sangre) es un trastorno clínico importante en el manejo de pacientes con enfermedades del sistema inmunitario y cáncer (es decir, leucemia). Aumenta el riesgo de sufrir
+hemorragias y, en pacientes con cáncer, a menudo limita la dosis de los fármacos quimioterapéuticos.
 #### Formación de granulocitos→Granulopoyesis
 Los granulocitos se originan a partir del citoblasto progenitor mieloide común (CMP) multipotencial, que se diferencia en progenitores de granulocitos/monocitos (BPM) bajo la influencia de las citocinas como el GM-CSF, el factor estimulante de colonias de granulocitos (G-CSF) e IL-3. El
 GM-CSF es una citocina secretada por células endoteliales, linfocitos T, macrófagos, mastocitos y fibroblastos. Estimula las células GMP para producir granulocitos (neutrófilos, eosinófilos y basófilos) y monocitos. El progenitor de neutrófilos (NOP) sufre seis etapas morfológicamente identificables en el proceso de maduración: mieloblasto, promielocito, mielocito, metamielocito, célula en cayado (inmaduros) y neutrófilos maduros. Los eosinófilos y los basófilos sufren una maduración morfológica similar a la de los neutrófilos. Cuando las células GMP, son inducidas por el GM-CSF, la IL-3 y la IL-5, se diferencian en progenitores eosinófilos (EOP) y por último maduran hasta convertirse en eosinófilos. La falta de IL-5 hace que las células GMP se diferencien en progenitores basófilos (BaP), que producen basófilos. Los precursores eosinófilos o basófilos no pueden diferenciarse morfológicamente de los precursores neutrófilos con el microscopio óptico hasta que las células alcanzan la etapa de mielocito, cuando aparecen los gránulos específicos.
@@ -528,8 +467,7 @@ Los linfocitos inmunocompetentes (junto con las células plasmáticas derivadas 
 #### Respuestas inmunitarias frente a antígenos
 **La inflamación es la respuesta inicial frente a un antígeno.**
 La reacción inicial del cuerpo frente a la invasión de un antígeno, ya sea una molécula extraña o un organismo patógeno, es la defensa no específica conocida como respuesta inflamatoria. La respuesta inflamatoria puede secuestrar el antígeno, digerirlo físicamente con enzimas secretadas por los neutrófilos o fagocitarlo y degradarlo en el citoplasma de los macrófagos. La degradación de los antígenos llevada a cabo por los macrófagos puede conducir a la posterior presentación de una porción del antígeno a los linfocitos inmunocompetentes para obtener una respuesta inmunitaria específica.
-**Las respuestas inmunitarias específicas pueden ser prima-
-rias o secundarias.**
+**Las respuestas inmunitarias específicas pueden ser primarias o secundarias.**
 Cuando las células inmunocompetentes se encuentran con un antígeno extraño (p. ej., antígeno asociado con microorganismos patógenos, trasplante de tejido o toxinas), se genera una respuesta inmunitaria específica contra ese antígeno.
 Una respuesta inmunitaria primaria se refiere al primer encuentro del organismo con un antígeno. Esta respuesta se caracteriza por un período de latencia de varios días, antes de que puedan detectarse en la sangre los anticuerpos (principalmente IgM) o los linfocitos específicos dirigidos contra el antígeno invasor. La primera respuesta a un antígeno es iniciada por un solo linfocito B o unos pocos de ellos, que han sido programados genéticamente para responder ante ese antígeno específico. Después de esta respuesta inmunitaria inicial, unos
 pocos linfocitos B específicos para el antígeno permanecen en la circulación como células de memoria .
@@ -631,7 +569,7 @@ Después del contacto con un antígeno, los macrófagos sufren uno de dos proces
 M2). Éstos inhiben la inflamación, promueven la reconstrucción de la matriz extracelular y la proliferación celular, y estimulan la angiogénesis. En el cap. 6, tejido conjuntivo, se provee una descripción detallada de ambos tipos de macrófagos, sus mecanismos de activación y sus funciones.
 Los macrófagos también cumplen una función vital al secuestrar y eliminar materiales extraños y microorganismos que no despiertan una respuesta inmunitaria o que son fagocitados pero no digeridos. Aquí se incluyen partículas orgánicas e inorgánicas (p. ej., partículas de carbono), pigmentos (p. ej., de los tatuajes), celulosa y asbesto, así como los bacilos de la tuberculosis y de la lepra, y los microorganismos que causan paludismo y otras enfermedades. En estos ejemplos, los macrófagos suelen fusionarse para formar las células gigantes multinucleadas de cuerpo extraño, denominadas células gigantes de Langerhans, que aíslan estos patógenos del organismo.
 ### Tejidos y órganos linfáticos
-### Vasos linfáticos
+#### Vasos linfáticos
 **Los vasos linfáticos son la vía a través de la cual las células y las grandes moléculas retornan a la sangre desde los espacios del tejido.**
 Los vasos linfáticos comienzan como redes de capilares ciegos en el tejido conjuntivo. Son más abundantes debajo del epitelio de la piel y de las membranas mucosas. Estos vasos eliminan sustancias y líquido desde los espacios extracelulares de los tejidos conjuntivos para formar la linfa. Debido a que las paredes de los capilares linfáticos son más permeables que las paredes de los capilares sanguíneos, las grandes moléculas, como los antígenos y las células, logran entrar con más facilidad en los capilares linfáticos que en los capilares sanguíneos.
 A medida que la linfa circula a través de los vasos sanguíneos, atraviesa los ganglios linfáticos. Dentro de los ganglios linfáticos, las sustancias extrañas (antígenos) transportadas en la linfa son atrapadas por las células dendríticas foliculares. 
@@ -838,3 +776,144 @@ anómalos por varios mecanismos diferentes:
 - Los mecanismos específicos comprenden la opsonización de la membrana celular con anticuerpos IgG anti-banda 3, lo cual desencadena la fagocitosis eritrocítica dependiente de receptor de Fc. Además, los cambios específicos en la glucosilación de las glucoforinas (v. pág. 295) en los eritrocitos que envejecen, actúan como una señal de reconocimiento que desencadena la eliminación de eritrocitos envejecidos por los macrófagos.
 A pesar de estas importantes funciones, el bazo no es indispensable para la vida humana. Puede extirparse quirúrgicamente (esplenectomía), lo cual se realiza con frecuencia después de un traumatismo que causa rotura esplénica con
 hemorragia incontenible. La captación y la destrucción de los eritrocitos envejecidos se producen, entonces, en la médula ósea y en el hígado.
+
+Práctica  7→21-11-24
+Sangre
+
+| Componentes | Función        | Foto                                 |
+| ----------- | -------------- | ------------------------------------ |
+| Eritrocitos |                |                                      |
+| Neutrófilos |                | ![[Pasted image 20241121153547.png]] |
+| Linfocitos  |                | ![[Pasted image 20241121153652.png]] |
+| Monocito    | forma de riñón | ![[Pasted image 20241121153741.png]] |
+| Plaquetas   |                | ![[Pasted image 20241121153834.png]] |
+Monocitos↑ vs linfocitos→rueda vs circular
+Monocito es más grande que los linfocitos así como la forma del núcleo, el linfocito tiene un núcleo más redondo
+Bazo
+A nivel teórico
+Es un órgano de normal tenemos fuera tejido conjuntivo denso me delimitará la forma →cápsula
+trabércula→tejido conjuntivo denso+muscular liso
+Pulpa blanca→glóbulos blancos→linfocitos, siempre envuelve a las arterias
+	Parte interna
+	 centro germinal→más clara
+	 Parte externa
+	 corona marginal
+		 sin esas estructuras son linfocitos envolviendo la arteria
+		 Más oscura
+Pulpa roja→erictritos
+es todo lo demás, su nombre no tiene nada que ver con sus aspectos 
+Sinosoides 
+perforaciones del endotelio , los que no son espacios son cordones de células 
+Pulpa roja→glóbulos rojos→eritrocitos
+Capsula se introduce adentro del bazo por trabérculas porque ese tejido es le mismo del otro
+![[Pasted image 20241121155846.png]]
+marrón →citoplasma de eritrocitos 
+Bazo
+
+| Componentes             |                                                                                               |
+| ----------------------- | --------------------------------------------------------------------------------------------- |
+| Pulpa blanca            | ![[Pasted image 20241121160145.png]]![[Pasted image 20241121160305.png]] todos son linfocitos |
+| Pulpa roja              | ![[Pasted image 20241121160630.png]]                                                          |
+| Trabérculas conjuntivas | ![[Pasted image 20241121160212.png]]![[Pasted image 20241121160228.png]]                      |
+| Cápsula                 | ![[Pasted image 20241121160204.png]]                                                          |
+| Arteriola               | ![[Pasted image 20241121160454.png]] si no veo la luz indica que hemos cortado la             |
+Pulpa roja+trabércula
+![[Pasted image 20241121160731.png]]
+Célula reticular
+![[Pasted image 20241121161126.png]]
+![[Pasted image 20241121161133.png]]
+![[Pasted image 20241121160924.png]]
+
+Megacariotico
+
+![[Pasted image 20241121161035.png]]
+capilar
+![[Pasted image 20241121161046.png]]
+Ganglio linfático
+dentro del sistema linfacito→la linfa circula por unos tubos unos ciegos que transviesan y lo devolvian por los vasos linfácitos por las venas del cuello, en ese recorrido aparecen estas estructuras tubulares
+la capsula será tejido conjuntivo denso
+el espacio→senos por donde circula la linfa
+corteza hay 2
+externa→foliculos linfoides→estructuras circulares→LB
+interna→LT esto no es excluyente pero amyoriamente tienen esta disposición+dentro tenemos lo mismo que antes+cordones celulares
+nunca hay que confundir con un bazo
+los vasos interrumpen la estructura
+![[Pasted image 20241121162040.png]]
+Adipicto blanoc pero sin vasos sanguíneos grandes
+![[Pasted image 20241121162200.png]]
+Tejido conjuntivo
+![[Pasted image 20241121162214.png]]
+
+| Componentes          | Función                | Foto                                                                                                                                                                                                  |
+| -------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Corteza              |                        | ![[Pasted image 20241121161841.png]] más un seno antes de llegar  a la corteza![[Pasted image 20241121161915.png]] se ve lo circular es la externa y lo otro es la paracorteza que delimita la medula |
+| Hilio                | Entre corteza y medula |                                                                                                                                                                                                       |
+| Médula               |                        |                                                                                                                                                                                                       |
+| Detección de centros |                        |                                                                                                                                                                                                       |
+| Adipocitos           |                        |                                                                                                                                                                                                       |
+| Fibroblastos         |                        |                                                                                                                                                                                                       |
+![[Pasted image 20241121162416.png]]
+![[Pasted image 20241121162535.png]]
+son células reticulares
+Timo
+solo lobulillos típicos, la parte más externa es más oscura
+células epitelio-reticulares→aqui vienen a madurar
+↑ células reticulares
+Dentríticas+macrófagos
+corteza +LT→más oscuro
+medula→↓ LT→↓ más oscuro
+Hassall→celula epitelio-reticulares se envuenlen con células+queratinizan→en el examen es la pista decisiva del saber que es un timo
+![[Pasted image 20241121163513.png]]
+3 lóbulos
+la capsula es tejido conjuntivo laxo
+![[Pasted image 20241121163556.png]]
+
+| Componentes            | Función                                                                                                                                                                                | Foto                                 |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| Corteza                |                                                                                                                                                                                        |                                      |
+| Médula                 |                                                                                                                                                                                        |                                      |
+| Linfocitos             |                                                                                                                                                                                        |                                      |
+| Células reticulares    | ![[Pasted image 20241121164023.png]]                                                                                                                                                   | ![[Pasted image 20241121164015.png]] |
+| Corpúsculos de Hassall | ![[Pasted image 20241121163830.png]] laminas que se enrollan![[Pasted image 20241121163842.png]] no confundir con vasos sanguíneos ![[Pasted image 20241121163926.png]]+ queratinizado | ![[Pasted image 20241121163658.png]] |
+![[Pasted image 20241121163727.png]] capilar→repleto de eritrocitos
+
+Tejido muscular cardíaco
+ambos son estriados→presentan estrías 
+las células musculares se unen durante el desarrollo embrionario→multinucleadas que se encuentran en la periferia y cada una de las células es una fibra muscular
+la diferencia es la organización en la cardiaca se ramifica→aqui no hay fibra cada célula solo tiene un núcleo y podemos ver donde acaba →disco intercalar
+
+| Componentes                                   | Función/Estructura | Foto |
+| --------------------------------------------- | ------------------ | ---- |
+| Sarcómeros de las células estriadas cardíacas |                    |      |
+| Discos intercalares                           |                    |      |
+| Núcleos de las fibras musculares              |                    |      |
+
+Tejido muscular esquelético
+arriba lonfitudinal 
+en medio tenemos 
+![[Pasted image 20241121164702.png]]
+tejido conjuntivo→fibroblastos+colágeno
+están irrigadas→por eso encontramos 
+adventicias→dentro están los capilares
+![[Pasted image 20241121164746.png]]vena + arteria
+cada una d elas fibras musculares estan envuelta por un conjuntivo llamado endomisio si agrupamos varias celulas en un fascículo
+![[Pasted image 20241121165014.png]] es como un lobulillo, el conjuntivo que los envuelve es perimisio, el conjuntivo de arriba y no tienen estrías →hepimisio y envuelve el músculo
+![[Pasted image 20241121165045.png]]
+![[Pasted image 20241121164847.png]] donde está el contorno está el nucleo, esa es nuestra pista hay que ver la estratificación.
+![[Pasted image 20241121165220.png]] nervio se supone que hay axones cortdos como ramos
+
+| Componentes           | Función/Estructura | Foto |
+| --------------------- | ------------------ | ---- |
+| Sarcomeros            |                    |      |
+| Miofibrilas           |                    |      |
+| Núcleos               |                    |      |
+| Fibroblastos          |                    |      |
+| Capilares sanguíneos  |                    |      |
+Cardiaco
+![[Pasted image 20241121165450.png]] una célula
+se ramifican  como y
+![[Pasted image 20241121165504.png]]
+arterias
+![[Pasted image 20241121165539.png]]
+
+![[Pasted image 20241121165956.png]] Hígado embrionario

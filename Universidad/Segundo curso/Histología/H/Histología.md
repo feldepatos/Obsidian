@@ -215,3 +215,33 @@ azul→colágeno→conjuntivo laxo
 triada portal→3 cosas→espacio=porta
 cúbico simple→pancreas
 mirar la irrigación del hueso→y como el origen de las arterias  enfunción de la edad
+25-11
+tenemos APC con MHC II+Il2→expansión clonal liberaran interferon y provoca que las bacterias fagocittadas se eliminen →activen el macrófago
+Tenemos una célula cancerosa entonces tenemos MHCI se produce paralelo al CD4, tenemos el MHCI con el antígeno ese peptido unido que será reconocido por el CD8
+Primero necesitamos el reconocimiento  del MHC-Ag
+SI en los linfocitos T tmb generan memoria
+	tenemos el T helper+CTL→CD4,CD8
+		tenemos un APC, en el  MHCII+IL2→expansión clonal y lagunas de esas células quedará como de memoria
+		MHCII+CD8→para presentar que la célula  debe ser eliminada
+	IL2 estimula a tanto CD4/8
+		apoptosis
+			macrófago ha introducido a un oatógeno y lo ha ezpuesto ala superficie celular
+				+MHCI+linfotico T  pero tmb  estimula los CD8 iría a reconocer el  antígeno infestadas para eliminarlas lliberando enzimas fragmentina+poro en la membrana de las células infestadas
+TCR→esa sinapsis facilita la reacción inmunitaria
+	célula diana+T→se liberan todas las enzimas→no son neurorreceptores pero es un reconocimiento específico que provoca la muerte +APC
+Los NK  son de la respuesta innata
+tenemos antígenos reconocidos por la FC se pueden unir a los FC de los Nk se liberan esas porfinas, las células se marquen para su posterior apoptosis
+	algo complejo+repite→mediada por anticuerpos pero es innata
+La dispositiva anterior de la tabla de linfocitos y su función se ignora
+NO células dentríticas
+los linfocitos se generan por un precursor de la médula ósea→en el linfoide ha de pasar por el timo; primarios→médula ósea+timo
+b→médula osea→sangre
+t→timo→sangre
+los subtipos del CD4 no interesan solo la interacción con los antígenos
+Tema 7→Tejido muscular
+Tejido
+Histogenesis
+Musculos esquelético
+Estructura sarcómero
+esquelético+estriado visceral→es igual histológicamente
+cada células esun núcloe→sincital

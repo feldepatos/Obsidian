@@ -409,3 +409,352 @@ Concha→la pequeña valva tapa→microconstrucciones
 las cosas
 la mayor parte de los individuos estaban no han sido transportados completos→formadas por marcas→formación lnetamente+fondos  marinos+↓tasa de sedimentación=ideal para organismos filtradores
 	especies autóctonos+démicos
+12-11-24
+Tema 5
+Inferencia del ambiente sedimentario
+coherencia entre los fósiles y la roca que aparecían
+no son tranformadas por tanto son démicas y autóctonas
+Agerostrea
+branquias en estos organismos juegan un papel fundamental,para expulsar los residuos 
+La gráfica de mortalidad contando los anillos, que nos permite conocer la edad del organismo
+pq decimos , sabemos que es una estratega de la que que se acentúa con la edad
+todos aquellos que llegan a esa edad deberán tener alguna ventaja mayor eficacia para la obtención de los recursos
+Sobrevivan mucho más de lo esperado
+Entonces tienen esa ventaja selectiva.
+que de todos los organismos que hay una población aquellos que sobrevivan serán los mejores adaptados al ecosistema
+veremos en las prácticas el tema de la branquias 
+Como esta micro evolución está relacionado. AQuellos individuos que compiten mejor 
+ver estas tendencias de naturaleza adaptativa donde estos caracteres cambian de manera macroevolutiva donde podamos ver que tendencia exista hacia morfologías a otros.
+Se compone de otros 
+se observa los diferentes géneros de más antiguo a más moderno de cmo se va cambiando , hay que ver como va cambiando
+La primera 
+![[Pasted image 20241112125927.png]]
+Pliegues muy altos 
+los cambios de caracteres lo presentarán los individuos de mayor edad
+Entonces solo vamos a considerar esto 2 tipos de selección+ normalizadora es la más frecuente. en una distribución normal es más abundante del nº de individuos son los que se encuentran en la zona normal de morfología
+dirigida uno de los dos extremos sobreviva mejor
+↑ curvatura→favorece que expulse todos los componentes que no le interese a la ostra y lo expulsará rápidamente+ captación lento
+↑ concentración en el arco corto la corriente más rápido será su expulsión, en la parte más cerrada salen mucho más rápido.
+Si que hay una ventaja a esta curvatura se verá una selección idrigida
+hacen lo mismo que el aumento de la curvatura, cuanto más alto son estos pliegues, dsitribuye de manera más uniforme. Se bañarán de agua
+y se eliminarán mejor los residuos
+La poblacións erá dirigifa mayor incremento de los pliegues, el nº de pliegues +una valva con menor pliegues 
+SE considera una estabilizadora a un nº menor de pliegues, teniendo en cuenta la altura dle arco sería más eficaz tener un arco mayor, ya que hemos incrementado la altura del pliegue
+La altura ↓ . 
+La variabilidad que se observa en la agerostrea
+	como se dsitribuye estas formas de cada uno de los 4 características en la población fósil que tenemos
+	Los años que han vivido
+		LAs conchas de un año, de 4-11 años dependiendo de las valvas que tengamos la mediana y la desviación estándar
+		Los valores de donde va a lo largo de la edad de cada edad de las valvas de los individuos es mayor
+Resultados obtenidos
+	Curvatura de cómo se distribuye en jóvenes , el crecimiento aumenta y nos  dice como  se estabiliza a lo largo de las  valvas, es menor
+	al principio hay unas  altura de valvas muy dispares  y cómo se va estabilizando. Mediante los datos reales nos indica que se trata de un tipo de evolución
+	Altura de los pligues
+		La distribución que cambia con la edad
+			aquí lo que vemos es como se elimina los extremos
+				La eliminación es más acusada,  la altura , de que era una selección  dirigida, estabilizadora
+Si  vemos el nº de pliegues
+	si que se ve que coincide entre viejos y jóvenes
+		la parte del número de pliegues, si que hay una eliminación del número de pliegues, lo que  apsaría que no tenemos suficiente caco3 sería la parte de donde tenemos muchos pliegues bajaría
+Problemática en la escala macroevolutiva puede hber una tendencias hipotécias pero en la evolución se observa que predomina la microevolutiva
+La selección estabilizando es la que predomina en todos  los casos, en la forma de vida de estas ostras.
+que implicación evolutivas hay en este caso lo más importante→desacoplamiento
+lo que si parece que hay una tendencia macro pero choca con los datos obtenidos→se obtiene un desacoplamiento entre micro y macro evolución
+Estasis morfológico→mantienen un estasis
+	a nivel de estabilidad ambiental, cada población si no cambia nada suele mantener una morfología estable
+14-11-24
+Tema 6.  La forma de los organismos 
+cada fósil de dentro hacia fuera→fosiles caballos n
+pq es compjela→registro fósil no todo se reconstruyen o se encuentran como fosiles+ no tenemos toda representación del todo ecosistema
+el nivel mas bajo que estudiamos esn el organismo productor→como representación del organismo producotr ya no es el organismo sino a sufrido unos cambios debido a la fosilización
+en yacimientos muy excepcionales
+conexiones muy grandes con los roganismoq que lo ha formado→bivalvo
+formas nos da información de cómo eran los fosiles→morfología→paleobiológica, esta información solo a partir del amorfología →son los que nos permitirán reconstruir la taxonomía→estrías+ornamentación+valvas simétricas
+dos rasgos básicos
+forma
+	ave rapaz se ve su forma, contorno
+tamaño
+ una medida del espacio que ocupa
+ multivarianle queremos saber si existen semenjanzaz o cuales  son  las diferencias de las medidas que tomaremos
+ ejemplo huesos
+ humeros+femures
+ reducción en este  caso
+ vamos  a desompner los huesos en esas mediads tendremos información  pero no del todo  tamaño+ hueso→información del hueso→longitud maxima+anchura  hipifisis→nos permitirán medir aexcepción  que  utilizemos otros procesos
+ desviación  estándard
+ el caso  estener la media de cada medida+desviación estandard
+ medidas originales + desviaciones→las pondremos juntas dentro del mismo análisis→este tipo de morfología de gráficas no son coordenadas típicas→puntos que vamos poder interpretar como diferencias en la forma+tamaño
+ transformar esas medidas lineales en unos índices que podremos representar de esta nueva medida nos van a dar información sobre le tamaño y la forma
+ las nuevas variables a partir de esa transofrmación de índices no  van a permitir poder comparar de mnaaera que separamos información del tamaño y otros sobre los componentes
+ un análisis que nos a transformar en unas variables estadísitcamente medir de alguna manera tamaño+forma.
+ un ejemplo práctico en trilobite
+ las medidas que tienen son  estas 3
+ el tamaño corporal nos determinará la nube de puntos→una medida de tamaño
+ cómo de alguna manera se estudia las medidas morfológicas
+ el tema lakmans 
+	 coger puntos estándard →determinar un lugar del fśoil que es homogńeoe que es similar  a otros 
+	 si son crestas es más sencillo
+	 algun tipo de estructura topográfica comparar todo ellos→eliminada la escla y puedes  ver como se desforma→entre distintos grupos taxonómicos
+	mEedir las formas
+Alteraciones tafonómicas
+erosión actual+camaras rotas→muchas veces se puede encotrar sedimento residmentados por incompatibildiad viable en ese ambiente
+destruir los restos esqueléticos
+han crecido algunos gusanos→cavidad paleal  estos  agujeros acabarñan  po  destruir la poca morfología que presentaba
+Fosifldiagenética
+	por compresión
+		más forma no es  la mimsa
+		no dará los mimos resultados si  no  utilizaos el que no esta comprimido→españa todos rotos a nivel taxonomico no  de forma
+21-22-24
+Cambios alométricos en la filogenia: Los pelicosaurios
+que aparecen durante el paleozoico
+entonces se vio que los adultos presentan diferencias de tamaños+ dos cráneos+3 fémures dibujadas en la misma escala 
+podemos ver que la longitud del fémur crece de manera isométrica→ no se ve afectado por los efecto alométricos
+la anchura si se ve afectado por las medidas alométricas para aguantar el peso pq uno largo no sería capaz de sustentar todo el peso sin que le creciese la epifisis
+anchura→la proximal crece más que la distal
+se puede plantear que son prolongaciones de la observadas, ↑ de tamaño cada vez que se hacen más grande constituyen un independiente
+la especie 2↑ pero siguiendo una curva diferente a la que llegaría el adulto 1.
+Cambios morfológicos(selección dirigida u ontogenia)
+son importantes para conocer como ha conducido→si estos caracteres estudiados varían con la ontogenia
+el problema surge cuando los caracteres están ligados a la ontogenia, podemos decir que si los pequeños son eliminados por
+quiere decir→ que estos tamaños↓ que vemos en jóvenes puede que no sean adaptativos en la siguiente especie→direccional o cuestión de la ontogenia 
+Tema 11→pero es el 6 segunda parte
+Este concepto de concebir la forma→4 grupos de factores
+todo ello en un ambiente efectivo→las condiciones pueden condicionar 
+	rocas en 3 dimensiones
+Es el marco metodológico y teórico de investigación evolutiva de la forma orgánica.
+Se ha explicado desde aristóteles desde vista funcional
+sin embargo, como surge la forma en vez de las posibles funcionalidad del organismo
+una estructura no tiene función intrínseca pero que la utiliza con una función, la función la da el organismo que presenta la estructura
+Neodarwinismo→adaptativa
+problemas
+si tenemos en cuenta la transición de un pez a un vertebrado
+períodos quizas sean adaptativos poco competitivos→el problema serán los estadios intermedios/transición
+el cuello de la jirafa es la misma no han podido cambiar el nº de vertebras están contristados al de mamíferos
+elongación de las falanges pero que surge de la misma estructura de las manos que nosotros tenemos
+tiktaalik sobrevivió pq no había más individuos terrestres pero la estructuras no tienen una función pulida hasta que alcanza su puntualidad?
+no todo sea morfologicamente posible que auneua sean muy óptimos no se podrán alcanzar las partes que en teoría fuera muy eficaces porque deben venir de algun parte quizas las partes intermedias sean incapaces de alcanzar
+la variabilidad donde actúa la selección sea finita
+La estructuras se producen independientemente de las funciones
+sin que aparezcan partes intermedias.
+algunas estructuras tienen cambios que no son tan graduales teniendo en cuenta la función y con pequeño cambio implica ↑ funcionalidad→pre adaptación
+Ejemplo
+	Plumas
+	o fueron seleccionados por las selección natural y por un cambio anatómica de alguna estructura asociada cambia su función y acaba por tener una función que no implica que haya cambiado gradualmente para esta función.
+Biomorfodinámica
+Actúa como el diseño y se inserta en el genoma
+las maquinas hecchas por humanos, la formación de los diferentes materiales presentan ciertas interacciones
+el organismo que posee puede dar a lugar a diferentes estructuras 
+igual que la piedra, es posible hacer esculturas gigantes robustas a partri de la arcilla en principio no ni a la inversa
+dependerá del material que disponga el individuo
+Ejemplo del fondant
+Todo bonito o aberraciones
+con el mismo material un individuo puede hacer estructuras que le permite sobrevivir
+es una manera de identificar y separar los factores que van a afectar a la forma y función de los individuos
+Factor filogenético
+vemos como va cambiando la morfología al cabo del tiempo, ese pasado común transmite un gene pool, tendrán un genotipo común cada uno de esos puntos implica un cambio
+cada una de los nudos implicará/puede un cambio, implica un momento de adquisición de una nueva novedad provoca un cambio morfológico
+Representa una carga solo se podrá adquirir las morfologías que provienen de
+el factor tiempo estos cambios llegue a la biodiversidad que tenemos en la actualidad
+Carnívoros
+cánidos vs hiénidos
+ambos son consumidores de huesos con sus dientes
+Dentición
+	las hienas fracturan premolaeres+p4+p3+
+	los canidos con los molares→
+lo sabemos por el desgaste de esos dientes
+se pueden adquirir estados similares o funciones en dos grupos de carnívoros de dieta parecida. Vienen de molares grandes se han adaptado a machacar con dientes molares
+Hienas; Reducción de molares→↑ de los premolares se habían perdido los molares
+La evolución de los tetrápodos
+peces lobulados
+Bauplan difiere de un gupo si consideramos el esqueleto, es igual de manera primitiva a grandes rasgos se parecen bastante pq derivan de un grupo de anfibios del devónico 
+Mesozoico derivaron las aves 
+pelicoisaurios→se parecen más a los mamíferos que a los dinosaurios
+El cambio de las aletas→lobuladas hasta el brazo de un ratón
+vemos que a grandes rasgos pueden ser las mismas estructuras que llega un momento que adquiere una morfología muy parecida, las aletas luego aptas
+pero de golpe adquiere unas morfologías que hay actuales.
+esa modificación de una reorientación de las piezas óseas existentes.
+las falanges no se adquiere hasta que se considere un tetrápodo
+espinas  son zigapósifis  no están tan formados en los peces hasta la adquisión de vertebras tan robustas que se adquieren esta capacidad de desplazamiento por medio a no aplastarse al salir del agua.
+EN un tetrápdo primitivio vs secundario
+se mantiene el plano , se pueden dar modificaciones grandes a partir de estas morfologías similares
+las costillas se pierden de las vertebras cervicales+lumbares +mantienen torácicas esto hace→le permite una flexibilidad extra +permite realizar una serie de movimiento los reptiles mamiferoides primitivos+ movilidad del cráneo
+Sabemos que hay genes con Hox que hace que cada estructura similar se agrupen de la misma y se han conservado→determinar el desarrollo de la cabeza
+Hacen que se desarrollo de la cabeza en posición anterior en todos los animales
+pero existen diferencias
+genes homólogos
+esto implica que hay un antepasado común que lo contendría otros genes que determina los ejes
+El modelo de reloj de S.J.Gould
+Pensad que es un reloj se ve varios ejemplos→donde se alinean la forma final+edad→pero si hay cambios se ve esos nombres
+![[Pasted image 20241203123830.png]]
+son teóricas resultatntes de las variables 
+![[Pasted image 20241203123857.png]]
+	pregunta de examen→quedarnos con el concepto de cada una 
+		hay que saberse la combinaciñón que da
+![[Pasted image 20241203123934.png]]
+	se realiza una comparación de linaje pero formas nuevas que no había en la especie anterior 
+	y como leer la gráfica
+	Ejemplos 
+		en la naturaleza
+		Progénesis
+		Neotenia→el ser humano a un ancestro similar a un chimpance
+		Enanismo
+		Hipermorfósis
+		Aceleración
+		Gigantismo
+Pera→nuevas morfologías que nos vemos en anteriores
+	entender el reloj de gould
+Ejemplos
+	Las consecuenicas son pedomórfimos→nos parecemos más a la crías
+	tenemos más morfologías pero no tamaños que a los adultos
+	Aceleración→peramorfimos
+		si vemos la morfología ancestral y el  crecimiento ha ocasiona una nueva morfología debido a la adicción de nuevas estructuras provoca una nueva morfología para el linaje.
+Cambios
+en la velocidad del crecimiento y tiempo inicial de crecimiento
+vemos las 3 ejes→una gráfica de 3 dimensiones→estos cambios pueden verse en las gráficas
+No tiene en considerar cuando se forma una estructura  que se puede acelerar 
+	se consigue un
+	Cambios en  beta→no se tiene en consideración de la edad de formación pero en otros relojes nos indica la edad pero esta es para todos
+	pero aquí se contempla que la edad se anterior o posterior que se puede representar en los relojes y puede provocar los mismos cambios de heterocronía
+	La gráfica de gould no es perfecta
+Heterocronía y evolución
+![[Pasted image 20241203125925.png]]
+a pesar de que tenía caraterísticas de la estretega k y r 
+	es un braquiopodo fijador→se tenía que fijar allí
+	tenía que tener una capacidad↑ de fijación→temas de poblaciones
+		que proceso evolutivo?
+			![[Pasted image 20241203130115.png]]
+			↓ tasa reproductora
+Estos cambios se pueden producir de manera reiterara→no todas las morfologías aparecen en la evolución
+	Para conocer los constrains zonas menos adaptativas
+Tutoría
+Venta de moro
+
+Yacimiento de batallones
+En composición faunística
+Se parecen mucho más que en el interior.
+↑ autopodio
+Segunda gráfica→↑ de incisivos, se va de la mandíbula
+	hay dos elementos que un esqueleto más habitual si que aparece y en el yacimiento aparece poco , ↓ de costillas y vertebras
+		fino`delgado
+		vertebras→núcleo+espinas que se fractura rápidamente
+		pero en general el resto de elementos aparece en una proporción ideal a un esqueleto.
+		Es decir la fase estratomía  es corta 
+Batallones vs venta de moro
+puede existe en un ecosistema→C
+Composición faunística y comparación entre los 2 yacimientos.
+NO puede existir en un ecosistema
+Se parece mucho más que la anterior
+Subirlo en pdf
+Serro de batallones
+Solución
+1. batallones 3
+	1. cavidad por formación de cuevas dolinas no por formación→no por arcillas
+	2. hay niveles de silex en la parte inferior y arriba arcilla en esa cavidades caían algún animal, tortugas caían en barro→↑ putrefacción 
+		1. que atraen los carnívoros se forman una especies de mineralitos e iban llegando sedimentos desde arriba
+		2. no se desarticula demasiado
+			1. ↑ representación muy parecida al real
+			2. composición faunística
+				1. ↑ carnívoros
+				2. la caída de los herbívoros son trampas naturales
+			3. Arenas movedizas por eso se dice que tenía forma de  arena de reloj
+				1. en la zona central no suele haber fósiles, cuando no es una cavidad se encontrará los herbívoros que aparecerán con todos los huesos.
+2. 2 venta de moro
+	1. Acumulación
+		1. lagos →muerte en superficie ↑ Dispersión +rotura
+			1. tipo convencional en los cuales nos encontramos a nivel del lago →a veces aparecen esqueletos enteros
+				1. representación del ecosistema pero los huesos estarán rotos
+10-12-24
+TEMA.7. La forma de los organismos II
+Morfología teórica funcional
+a partir de conceptos teóricos recrear modelos de la forma de los dinosaurios
+Como crecen las concha con forma espiral
+como crecen estas conchas a partir de ciertos parámetros, braquiópodos o foraminíferos.
+El modelo más sencillo→isométrico
+todas sus partes crecen al mismo ritmo→más sencillo deexplicar de manera  sencilla
+es un concha longitudinal 
+![[Pasted image 20241210134756.png]]
+eso se ha enrollado→aunque sea todo el  cuerpo→en  realidad  esta ahí y luego vuelve a estar ahí es parte  dorsal esta enrollado en la conche
+
+la forma de los  fósiles de Thopmson
+Espiral isométrica
+h"p://www2.mat.dtu.dk/people/V.L.Hansen/nau7lus/naustory.html donde está la formula de la concha.
+crece por acreción y se forma esa espiral logarítmica→formula matemática hasta un modelo delo que  será la concha
+el modelo 3D  se utiliza para comparar con las naturales  confirmar que las formasa partri de esos parámetros se encuentran en la naturaleza.
+nos sirven para explicartodoslos animessolo  en espirales habra  formas que no tengan representacińode la  vida real.
+crece rápidamente
+a un bivalvo
+w→es el espacio que  despleza entre cada  vuelta.
+lo otro→es la tasa  que crece este por  cada vuelta, están  relacionadas pero  no son exactamente iguales
+↑w=↑ es  le crecimiento exponencial
+diapositiva 24→10-12-24
+cuanto más allá  está más separada del centro
+ammnionites→ es la b
+los bivalvos+braquiodos→fora¡ma una orqeudad donde viviráel  animal
+se puede generar cualquier concha a partir de lo helicoidal
+
+que aparezcan 2 es una mutación posterior
+caracoles es alométrico→crecimiento cuyas partes de un organismo no crecen al mismo ritmo, no se pueden reconstruir si no cambian los parámetros de crecimiento→mismo pero a medida que crecen cambian
+no todas las conchas no crecen patrones isométricos
+en la larva por el modo d e la vida provoca que la w↑=la concha será rara y  esta  cea al sustrato
+a pesar que la concha primitiva tenga esaw  se vuelve a pequeña.
+30 diapositiva 
+
+10-12-24
+
+Tutoría
+Batallones
+mioceno
+↓ mamífero
+una fauna que no se  encontraría en valle de moro
+↑ lagos→9 cerros batallones, en el 8 carece de fósiles
+sepiolita=arcillas muy absorbentes
+la  parte superior de silicio, tenían que eliminarlo con dinamita
+
+Venta de moro
+pretendían construir un carril ferroviario→al final de la trinchera
+Corresponde a la epoca donde se "secó" el mar Mediterráneo.
+
+Anatomía
+autopodio→manos y pies
+Estilopodio→fémur
+Zeugopodio→tibia+fíbula
+![[Pasted image 20241210165423.png]]
+ecosistema ideal
+dientes→0% porque se encuentran con la mandíbula 
+
+![[Pasted image 20241210165947.png]]
+es equivalente las proporciones?
+↑ autopodio=↑ huesos+resistentes a las etapas bioestratinómicas
+↑ falanges
++Interferencias
+Dientes→por esmalte
+	porque se encuentran sueltos?
+		implica la ruptura de ella.
+	solo hay fragmentos de cráneos
+la presencia de dientes implica un transporte de ellos
+
+![[Pasted image 20241210170337.png]]
+Batallones
+![[Pasted image 20241210170557.png]]
+vertebras=?autopodio
+
+costillas son uno de los huesos más fáciles de romper
+hay mucho menos dientes que en la de venta de moro
+todos los huesos  del esqueleto se  han preservado
+batallones 3 se encuentra en la ladera donde hay crecimiento  de árboles  que rompen los huesos.
+sin embargo predomina la presencia de carnívoros a diferencia de venta de moro.
+yacimiento convencional, representación faunística +fases bioestratinómicas de llanuras de inundación
+arcilla húmeda que formarían arenas movedizas.
+Tutoría
+↑ representación del ecosistema
+placas son tortugas, lo importante de la cavidad→salita de arcilla
+sedimiento sepiolita pegajosa que emite con olor →trampa natural de carnívoros.
+En tener al esqueleto completo→excepcional
+como váculos, huesos en conexión anatómica juntos 
+La cavidad tenía un tamaño de una sala
+Primera  capa→silex discontínuo→pseudo karstico
+Segunda→sepiolita/arcilla
+se pueden formar galerías por la entrada de agua por el silex y el silex se puede caer formando dolinas
+son todos los batallones pero no todos son trampas 
+batallones 10 pero de herbívoros
+	el yacimiento acaba teniendo  forma de reloj de arena
+	habra una zona que no es trampa de nadie  en medio rellno de barro→laguitos→donde se acumulan agua formando zonas arenas movedizas→trampa de herbívoros.

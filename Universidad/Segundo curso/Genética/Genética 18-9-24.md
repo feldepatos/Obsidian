@@ -633,3 +633,444 @@ Estos son medias de las gallinas en un ambiente
 	Para conocer la Ex→la diferencia entre E1-Media total
 Ronald  Fisher→cáncer de pulmón→descomposición de la varianza
 La esperanza del fenotipo es 
+11-11-24
+Conceptos relacionados con el ambiente
+covarianza de genotipo y ambiente =muy difícil de eliminar
+	confunden los componentes genéticas de la varianza
+Interacción genotipo+ambiente
+	nos aparece cuando intentamos expresar el fenotipo esperado en función del ambiente en que se ha desarrollado posible si el ambiente no lo consideremos como una infinidad de variables 
+	como al suma del efecto genotipo+ambiente=regresión lineal si hemos catagorizado el ambiente 
+	Estos conecpto lo veremos en el ejemplo la norma de raección→nos dice le reusltado de combinar un gneotipo+ambiente; muy abstracto de una dimensionalidad elevada
+	el ambiente solo es una variable→temperatura
+	genotipo=2 razas de gallinas y como cada una manifiesta un genotipo diferente en cada ambiente posible las dos variables genéticas están la misma proporción en una misma población
+	la linea de punta marca la media de individuos que presentan ese alelo en función del ambiente
+		el término medio= observaríamos une efecto del ambiente+genotipo
+		los dos genotipos presentan la misma media en una selección equilibrada=resultaría un efecto ambiental y ninguno genético
+			¿pq?
+				el hecho que sea tan simétrico provoca que se compensen y evita la diferencias a nivel estadístico para que podemos desligar los efectos genéticos , la importancia del fenotipo 
+			NO solo el efecto genotipo podría ser nulo si tenemos una población equilibrada y el ambiente si tenemos una representación equilibrada de todos los ambientes=la media es la misma en todos los ambientes no hay efecto ambiental
+		![[Pasted image 20241111134931.png]]
+				La varianza es siempre de la población depende del nº de individuos+ ambientes
+					seria posible que toda la población se encuentra en la misma región de temperatura
+						tanto la variación de la presencia más de un fenotipo
+							toda la población presenta el mismo
+	Son normas de reacción típicas relacionadas con la temperatura 
+		pueden ser los óptimos o diferentes
+			aquí la genética y el ambiente son importantes
+Aditividad
+	no existe interacción ambiental y genético
+		el ambiente presenta el mismo efecto para los 2 fenotiípico
+			genético es la misma sea cual sea el ambiente
+Heredabilidad
+	$$
+H²=VG/Vp
+$$
+La varianza será menor a la fenotípica=valor entre 0-1
+	a los efectos genéticos=dominantes, aditiviso+epistarias
+La varianza observado en una población concreta se debe a  la variación total, en que estamos 
+	el mismo caracter sea heredable en la misma población o no
+	En sentido estricto nos permite relacionar progenitores y su descendencia 
+		adivitva+fenotipo
+		a los efectos alélicos sin tener en cuenta la dominancia
+			se trabajará más con esta heredabilidad
+			La proporción varianza fenotipica atribuida a la aditiva se podia descompner en genética y ambiental ...
+				Amplio
+				En estricto será tmb en 0-1
+	Covarianza entre indiviiduos
+		tomo al azar dos individuos de la población→
+			en qué medida esos dos individuos van a mostrar diferencias respecto la media en el mismo sentido y magnitud 
+			Hablamos de un fenotipo en concreto medir de un individuos diploide
+			La covarianza→resulta si que sus ambientes no han estado correlacionados +asumimos algunos características concretas→la covarianza a que han vivido en ambientes correlacinado se deberá  a la semejanza genética entre ellos
+				coeficiente de fraternidad* varianza de dominancia*
+				la proporción del genoma que es idéntica por descendencia cuya varianza estamos calculando
+					dos alelos van a ser idénticos por descendencia si han sido heredado de la misma copia de alelo de una generación anterior
+				p coeficie=la % de un locus en concreto compartan el mismo alelo por descendencia
+	La covarianza se reduce a la mitad de la covarianza 
+	entre un padre+madre→descendencia no tienen pq tener el mismo genotipo por descencia entonces la p2 se cancelaria 
+	parte del genoma que comparten el padre y su hijos será ½ es idéntica al progenitor 
+	mitad+% los dos alelos idénticos por el mismo alelo
+Hasta ahora no hemos asumido que la población no tienen el misma distribución normal, la esperanza de x será 
+![[Pasted image 20241111140653.png]]
+	util en algunos casos
+		para cualquier par de variables y el fenotipo media de los progenitoros→entre el fenotipo del individuo de los progenitores
+			entre los descendientes progenitores
+				no es loa mismo progenitor que la media de los 2 progenitores
+			como coeficiente para determinar el fenotipo de los descendientes a partir de los parentales
+				explica la correlación entre los descendientes y que no tenga una pendiente igual a 1
+					regresión lineal
+						representada con la línea de puntos=pendientes a la heredabilidad es algo cuantitativo
+La ecuación de la ganadería→como lo del Galton
+	planificar la selección artificial en animales de granja pq si podemos predecir el fenotipo podemos identificar que progenitores son los más adecuados y cuales elegir 
+		respuesta  a la selección=diferencial de selección
+		DIferencial de selección
+			distribución del fenotipo actual
+				puede ser un campo de maíz el nº de grano de mazorcas
+					me interesa las diferencias 
+						a los individuos que tienen más de la media y dada la distribución 
+				aqui la respuesta es 10 pq hemos desplazado la media en 10 unidades mientras que el coeficiente será 20 pq la diferencia de la población y progenitores será 20
+					La regresión entre los progenitores y descendientes
+						rojo como fundadores de la siguiente generación
+La varianza aditiva
+	descomposición fenotipo en efectos adivitos, dominancia 
+	es la parte de la varianza fenotipo que es debida a los efectos alélicos sin contra los efecto dominantes y epistáticos
+Cuestionario
+18-11-24
+Preguntas de exámenes→
+no va  a preguntar ejercicios tipo demostraciones, pero sí del tipo de cuestiones
+que sepamos interpretar los conceptos y discutirlos→razonar
+
+Tema 7. Cromosomas sexo y herencia
+Los descubrimientos que fueron claves para desarrollar la teoría cromosómica, saber que es la compensación de dosis
+Repasar algún concepto visto en temas anteriores
+Introducción
+	Siglo XX, se sabía que Robert Brown 
+		orquídeas→El comportamiento de los cromosomas se observó que los cromosomas se dividian longitudinalmente pero no veía la duplicación se separaban dos hebras cada vez que se dividía
+	Beneden hacia finales dle 19
+		son divididos en partes iguales veremos algun protagonista más, los padres de la herencia cromosómica son
+Sutton+Boveri
+	Cromosomas son los responsables de la transmisión
+	Demostración empríica, situaciones 
+		Si que podían observar
+			en mitosis era el esperado en los factores
+				Estudiaron la meioisis
+				los cromosomas se comporatabn e forma semejante de como mendel dijo que se compratrían los caracteres→genes
+				Transmisión independiente de cada alelo a la descendencia
+					Mendel había demostrado que esa segregación
+					Un par génico distribuye los cromosomas independientemente de otro par de cromosomas
+					Esto era una conjetura, solo pueden ver la migración 
+						en esta figura cada cromosma esta coloreado estructuras del mismo color
+							Si el cromosoma verde
+							lo hacía con la copia verde oscuro
+								las dos opcioes es igual de probable
+				Carothers
+					Comprobación
+						UN par de los cromosomas tenía polimorfismo
+							Uno de los cromosomas era más largo
+								homólogos(sexual) pero con la ventaja que si se pueden diferecían
+								Heteromorfos
+									los mchoas→meiosis producen este patrón por un patrón desapareado→
+								En el 50% de los casos migraba hacía el mismo polo hacia el par que si podía distinguir la migración
+								del amarillo podemos distinguir los cromosomas despareado migra con una de las copia y el otro migra con otra copia
+									en cualquier otro sistema
+									Puede ser una translocación
+							La segragación es aleatoria respecto de un cromosoma respecto al otro.
+			Alfred Blakesle
+				Trabajo clásico→en le que se pone en maigiesto la importanica de los cromosmas a la hroa de determinar algun fenotipo
+					consiguieron cepas con más de un cromosoma extra, si hay dos pares
+					era trisómica cada par de cromosmas en todos los casos producían unos efector fenotiípicos car
+						demostración de que los cromosmoa llevan información genética pq las plantas q tienen 3x cromosoma específico producen un fenotipo en concreto→correlación del cromosma y el fenotipo
+		La importancia del tema es el determinar el valor de cada experimento
+		Hasta ese momenot no se había prestado mucho valor a la herencia ligado al sexo
+			estos dos carácteres no se segregan simultáneamente
+				alas blancas al cruzarlas con un macho→toda la descendencia 
+				el fenotipo controlado por 2 alelos es domiante sobre el otro
+					el recíproco no es el macho sino la hembra
+					resultado diferentes
+				Sin tener en cuenta el sexo→segregación 50%→heterocigotca→autosómico controlado por 2 alelos uno dominante+recesivo
+					que casualidad que la descendencia ese 50% precisamente todas las hembra +50% machos
+					correlación del sexo+color de las alas
+						La segregación no independiente→ligada al sexo
+						Lo llamamos herencia cruzada los machos acaban aparecienco a al hembra
+						A reciproco de B la diferencia la hembra es la que lleva el fenotipo recesivo si hubiéramos hecho solo el cruce A no se habría notado nada
+							herencia ligado al sexo, completamente
+							algunos cruces que si se observa produce una correlación perfecta entre sexo
+							solo podían llegar a eso
+Descubrimiento de los cromosomas sexuales
+Clarence→descubridora de los cromosomas sexuales , eran determinantes 
+	el cromosoma accesorio de los saltamontes→desapareado en macho
+		Demostración del cromosoma desapareado+fenotipo(el sexo del individuo)
+	Stevens
+		escarabajo
+			estudio las meiosis masculinas+femeninas
+				En las hembras
+				Machos →Y de tamaño ↓
+			Aventurar la determinación del sexo dependía de esos cromosomas como lo entendemos actuales
+				Ya se conocía los cromosomas accesorio
+					correlación
+						es que esto lo que determina el sexo, un cromosomas X+Y=macho
+						X+X=hembra
+					Los cromosomas son los que determina el sexo de los individuos
+Thomas Hunt
+	acabó de demostrar empíricamente
+	Fuera responsable del sexo
+	En este cruce la hambre tiene los ojos rojos y el macho blanco
+		un gen con 2 alelos
+			que determina los ojos
+				a juzgar por este primer cruce
+				podemos suponer si esto fuera un par gen mendeliano que son ambos heterocigotos debería producir una descendencia único
+					3/4 ojos rojos
+					1/4 blancos
+						con le detelle, sin nos fijamos los individuo que lelvan los blancos son los machos
+						hipótesis
+						Hembras se cruza con otro macho +blanco
+							"homocigoto"
+							50% blanco+rojo→mendiliano
+								heterocigoto+homocigoto recesivo
+									ninguna sorpresa si solo se realice este experimetno sería suficiente 
+					![[Pasted image 20241118141345.png]]
+					no se puede explicar mediante mendel
+					Cruce recírproco del A
+						C es al reves del A
+						son diferentes a las observables
+							correlación del fenotipo del color de los ojos y sexo
+								obtenemos lo mismo que el cruce Ben la F2
+Teoría para 
+	![[Pasted image 20241118141531.png]]
+		Observaciones microscópicas
+			proporciones 
+				los individuos que estaba cruzando la hembra→lleva 2 cromosomas x
+				el macho  blanco solo tiene un X +Y
+					la segregación de los cromosomas coincide y explica laos resultado que éramos imposible de explicar solo con mendel
+						con el macho hemicigótico→recibido de la madre X→
+				Las combinaciones condicionan el color de los ojos y el sexo
+				esto explica el cruce recíproco C
+					en la F1→sucede 50%  de  cada
+						pq los machos heredad un cromosoma  de cada,las hembras son todos 
+						La F2  identificar que gameto produce cada individuo
+				¿Pq este experimento es una demostración?
+					fue el primero en demostrar que el individuo tenía dos cromosoma XX
+					NO es un esquema de cromosomas abstracto lo podía correccional con el fenotipo
+					el gen que determina el color de la drosophila se encuentra en el cromosoma Y, con la determinación del sexo de los embriones pq este experimento de Morgan demostraba empíricamente cierta 
+Bridges
+	estudió miles de moscas
+		empiezan a aparecer las excepciones raras
+			los resultados que observamos+importancia pq es algo parecido en otro tema
+				1:2000→macho estéril no tenía ojos rojos+hembra blanca fértil
+				estos machos no podría comprobar que progenie producía
+					pero las hembras sí
+						que se encuentran en el mismo tubo del ensayo
+							la mayor parte es lo esperado
+							hembra blanco+rojo
+								hembras rojos+machos blancos→
+								pero 4% de la descendencia el macho era rojo+fértil, hembra blanco+fértil
+									Introducción a tercer carácter relacionado con la determinación del sexo
+										todas las hembra blanco seán fértiles mientras que los machos sean estériles
+	Hipótesis
+		una de cada dos mil meiosis los dos cromosomas homologo sexuales no se separan en la primera separación meiotica
+			la primera generación de células habrá una célula sin célla sexual y otra con 2 par
+			Segunda
+				un par de gametos normales
+				y otro sin cromosmoa sexual y otro con 2 en lugar de uno
+				SI esto sucede una de cada 2 mil meiosis→habría individuos que no hereden pro parte de la madre sexual solo un X de la meiosis normal del padre
+				![[Pasted image 20241118142947.png]]
+					este se desarrolla como macho pero no es fértil, en cambio si el gameto llevaba dos cromosomas 
+						XX en este caso se desarrollan como hembras+mutación heredados de la madre
+						las otras dos son letales.
+							en las moscas no, el gen SRY→tiene diferentes métodos
+								solo Y desarrolla macho
+			la bola blanca indica que solo hay un cromosoma X.
+			
+20-11-24
+Clase perdida→segunda parte del tema 7
+
+
+
+25-11-24
+
+Tema 8. Ligamiento genético
+2  sesiones
+Transmisión de genes ligados
+	se observa  cuando  vemos el efecto  de 2 genes al menos 2 diferentes→epistasias, la segregación independientes, 2 genes que controlan un fenotipo diferente
+	solo considerar 2 genes y q cada uno controle un caracteres+2 alelos dominancia+recesivo
+		tenemos dos situaciones
+			cromosomas diferentes
+				profase 1 tenemos 2 cromatidas de los parentales
+					cada una con alelo diferente
+						que tipo de gameto produce
+							según como se distribuya A Y B
+							este alelo 1 puede migrar al polo A o a
+							lo mismo con el a
+							el reparto no es aleatorio sino siempre va en un lado contrario de a, es independiente en gametos y se combinan con el alelo de otroa gene
+			mismo cromosomas
+				misma % para tener sino no hay una recombinación solo tendremos 1 gameto posible
+					esto produciría una desviación respecto la proporciones esperadas
+						si no es independiente
+							ligamiento, el hecho que dos alelos se encuentre en el mismo cromosoma
+								es el simple hecho que 2 genes se encuentra en el mismo cromosoma, como consecuencia de ello la segregación de estos dos genes no será independiente
+		Bateson+Saunders+Punnet
+			podría haberse utilizado como argumento en contra la teoría de mendel pq es una contradicción
+				eran grandes defensores de Mendel
+					y era una época que se desarrollaba la teoría cromosómica
+						observaban el color+grano de polen no eran las esperadas
+						![[Pasted image 20241125134102.png]]
+						el doble recesivo tenía 55 mayor de la esperada
+				Desviación de las proporciones bajo la hipótesis de segregación
+			Tmb se observa en drosophila
+				Estudio de mutantes autosómicos 
+					habia pares que no mostraban de segregación independiente, respecto su alelo salvaje
+						la mutación que provoca la longitud de ala vestigial
+					ambas mutaciones son recesivas→radiación de las moscas
+			Hya que distinugit la forma de ligamento
+				que alelo se encuentra del primer gen
+					Cis
+						en el mismo cromosoma tenemos los alelos recesivo del otro, en el parental tendrá un alelo dominante(no tendrá importancia) sino el  heterocigoto
+							la mutación tendrá que  estar en el mismo  cromosoma
+							En el otro cromosma heredado tendrá los 2 dominantes
+			El cruce es diferente con el que oobservaron el ligamento
+				el doble heterocigoto→no es un cruce heterocigoto
+				sino con un doble mutante recesivo
+					pq  de  esta forma es más  sencillo comparar la frecuencia esperado
+						si la segregación fuera dependiente
+							el resultado sería dependería de la meoisis del progenitor de la hembra
+								**los machos no recombinan intracromosómica**
+							Estos genes estaban en el mismo cromosoma al observar las dos, si la segregación fuese la  misma→sería un cuarto
+						2  clases fenotípicas respecto  otras  dos→parentales son las de los parentales,  es  decir, de los abuelos
+						↓ son las nuevas→recombinantes, son combinaciones nuevas diferentes a  las heredadas
+						decir que la %condicional es  diferente,nos permite definir que es independiente y dependiente
+						Cis
+			ha heredado un cromosoma  de ambos, los  2 mutantes están en el otro  cromosoma→solo es un cromosoma
+		TRans
+			los parentales son diferentes
+				ahora hay un parental que lleva una mutación, el otro lleva uno vestigial
+					cada uno lleva un mutación diferente
+					generan doble heterocigoto
+						al cruzarlos, tmb vemos que hay 2 
+							pero ahora la combinaciones parentales son diferentes
+							los abuelos tenía un alelo mutante y  el otro salvaje
+								los cromosmas originales tenían trams+recombinación→son los que traen 2 salvajes+2 mutantes
+							Distinguir entre  las dos conformacions
+								demuestran que os dos genes deben estar en el mismo cromosoma→cruzamiento  entre cromátida en la  meoisis  del  individuo del doble heterocigoto
+									un alelo de un gen cambia de cromosoma
+			para distninguir entre dobles heterocigotos→donde  se puedeproducir  la  recombinación intrasómica
+				son cromosomas recombinantes hay elegido el alelo en el otro gen→intercambio de alelos en los cromosomas homólogos
+				es más importante reconocer las clases fenotípicas  y deducir la fase de las cromosomas 
+Recombinación mieótica
+	importante en el examen, no se refiere únicamente al   cromosoma intracromsómica, cada vez que  se produce una combinación  a la que habia heredado los padres, es tmb recombinación
+		intracromsómica da lugar a la segregación independiente
+	Parental doble heterocgoto→tiene 2 combinaciones posibles que conforma el heterocigoto
+	si unos de los dos genes fuera homocigoto no podríamos verla pq se heredan el mismo
+	Intracromsómica se debe al cruzamiento de cromátida
+		ahora  hemos bajado  de  nivel→fenotípica que podemos observar en  la  descendencia sino  del mecanismo que produce  esa recombinación
+			sucede que literalmente se  corta con la meoisis con cruzamiento a partir del cual al identidad del  cromosoma cambia→centrómero  es el punto que se estiran+separan los cromosomas
+			lleva una parte final diferente ala parte que lleva el centrómero→se produce esa recombinación→entrecruzamiento→intercambio entre  cromátida homológas en la primera profase
+		Demostración
+			Maíz
+				existe un polimorfismo
+					en el cromosoma 9
+					↑  Longitud
+						se diferencian bajo el microscopio¡opio del ligamiento+longitud→2 mutaciones
+							se puede relacionar→observando frecuencias fenotípicas
+								si se cruzan estos dos individuos,llevan alelos diferentes+engrosamineto→lleva  un alelo que  provoca un color+cromosoma 9 corto alelo corto→semilla sin color(recesivo)
+						al cruzarlo conun doble homocigoto recesivo nos permite ver en la  descendencia la frecuencia  d  los no recombinante y sí
+							presencia de fenotipo
+							con estas observaciones→los recombinantes tenían cromosomas que tenían que haber partido, el  hecho de ser  uno corto, pero no tenía el engrosamiento+ruptura
+								relaciona los 2 niveles de recombinación→demostración fenotípicamente es debida al intercambio de fragmentos de cromátidas de homólogas
+								refuerza la teoría cromosómica que se puedan recombinar→es observable a nivel del microscopio
+				los puntos de entrecruzamiento→quiasmas→demostración  definitiva los  cromosomas se rompen para intercambiar→meoisis presente las 4 cromátidas
+					conceptos parecidos pero los hemos definido e diferntes lugares
+					entre→teoríco
+					quiasmas→práctico
+Detección del  ligamiento
+cruce doble heterocigotoxdoble homocigoto recesivo→solo se observa el efecto hetetoricgoto  no enmcascara
+test del chi→nula es la independiente.
+cruce prueba→a aparecido en otros para  averiguar el parental→del cual al manifestar los recesviso
+	cuando hablamos de un único gen con dominancia
+
+4-12-24
+TEMA9. Mapas génicos
+2 sesiones
+Introducción
+	Drosophila  represnetación de los genes, cromosomas y teoría cromosómica de l aherencia cada gen tienen una posición concreta en el genoma y las distanias se averigua mediante crucss prueba
+	las preguntas estńa motividas  con le mapa
+		doble heterocigoto * doble homocigoto→que proporción sería recombiantne
+		la arbitriedad  del punto cero, los designamos  el prinicpio del mapa
+		en sí tiene vlaor cuadno elaboramos estudiamos las mutaciones nos rsriven como hitoso marcadores lugares que podemos saber la distanic ay  comparrar otros genes
+		¿como hacemos?
+		si estos 
+		que es→3 mutantes  y queremos saber a que distnaica están las utaciones en elgenoma
+		obtener el triple
+		y  realizar curve prueba
+		contar los descendientes de cada fenotipo
+		un cruce entre un tripli para essas 3 mutaciones
+			la encomtramos en  el  mapa de la diapositiva anterior
+			lo imporntae  es utilziar lasmutaciones como marcadores
+			este triple triple* doble
+			el  tripl
+				puede ser  de  cualquiera 4  tipos →dos genes→dos posibles conformaciones entre cada par de genes en un doble pero ahora tenemos 3 pueden estar diferentes conformaciones
+					si conocemos cual es el cruce parental entonces no es ningun secreto podemos en que fase se encuentran los alelos
+		caso C
+			mutante a y a ha  debido heredar esa conformación
+gametos
+	si  no  se produce recombinación  los dos cromosmas a polos diferentes por tanto se formarán  gametos que trigan una combinación  parental→los 3  mutantes
+	![[Pasted image 20241204134429.png]]
+	mutante+salvajes
+		la recombinación entre el segundo y  primero
+		![[Pasted image 20241204134450.png]]
+		en una misma meoisis entreo dos 
+		![[Pasted image 20241204134501.png]]
+		a+b→doble recombinant
+			es un  tipo de gameto cuando hay recmobinación com en le  rpimero y primero ultimo
+Análisis de  la descendencia
+tablas→lo noral→recuento de los idividuos de cada fenotipo
+el fenotiop indica cual era el genotipo que ha heredado del triple heterocigtot
+	son los 8 gametos que peude producir
+2 recombiantnes, entre simples de un tipo
+el nº de individuos de cada cruce prubea→que combinación sone ntre cada par de genes por parejas
+los primeros son de parentale no  se tiene en cuenta
+280
+→recombinación→ ignoramos a, que traen una combinación de los aprentales→estos individuos cuentan como b-c→contar la frecuencia de recombinante en cada gen. De esta forma, calcular la frecuencia entre b-c→
+que define sea recombiantes→si es la combinación que aparecia en el aprental
+	en este gameto ya  no están juntos los mismo alelos que estaban juntos en las combinaciones parentales, entonces su punto de recombinación debe suceder entre a y b.
+	esos 3 genes están ligados
+saber identificar en que par de genes se ha producido
+con esta table, el nº de individuos en cada par de genes,e ntre ese par de genes, en la descendencia 
+22% de recombinantes→pq no  coincide con 25 cM→porque no se tiene en cuenta los dobles recombinantes,  pero  resulta los idnviduos no podemos contar como individuos enrte h-ry entro esos dos genes que  han dado lugar a los individuos no  uno sino  2 entrecruzamientos, por tanot, se debería contar  dosveces, la distancia no  debe ser la Fr sino la fracción/n1 esperados de entreccruzamiento de 100 mieoisis
+es independiente del  orden de los genes
+No  conocemos el orden de los genes
+
+el orden de  los genes no es necsario para rellenar la tabla
+![[Pasted image 20241204140900.png]]
+sino ser capaz los dobles recombinantes, cual es la fase de los parentles y dobles parentales→es el problema real
+	3 se identifican por el genotipo
+	que diferncia de los dobles y simples→la % es mucho menor que la primera, la clase fenotípica menor es la doble
+si sbaemos cual es el doble y  parental podemos saber cual es el gen del medio→paraproducir un gameto  de esa recombinación es  necesario hacer 2 recombinaciones
+mirar  con más detalle.
+
+10 individuos solo vemos 2 mutaciones
+9-12-24
+Diapositiva 12/37
+si en laguna especie uno de los dos sexos no experimentan  ninguna replicación el sexo aquiasmáticos siempre es el macho
+
+4 El fenómeno de la interferencia
+Si tenemos 3 genes a lo largo de un mismo cromosoma podemos predecir el nº de doble recombinantes en un cruce prueba
+en una meoisis produzca un entrecruzamiento + otro= la producto de la frecuencia del recombinantes del otro sitio
+En casos que fueran eventos independientes.
+en general vemos ↓ doble recombinante→interferencia , por  le hecho que le primer quiasma dificulta que se produzca otro cerca en la misma meoisis. Una limitación de las cromátidas.
+1. hasta que punto coinciden lo que observamos y esperamos
+	1. ![[Pasted image 20241209134233.png]]
+2. Coeficiente de interferencia
+Doble entrecruzamientos y funciones de mapas.
+no se contabiliza en los recombinantes.
+Corregir la distancia 
+↑ FR=↑ la subestimamos la real.
+Haldane 
+pregunta de examen función de los mapas génicos.
+6 Distancia a partir del dihíbrido
+para contar los fenotipos recombinantes
+![[Pasted image 20241209135629.png]]r²/4= la esperanza del doble mutante para las dos.
+FO ma=estimador de esa frecuencia /4
+cuando encuentras un nuevo mutante para obtener el doble mutante debes hacer el cruce dihíbrido
+sacará una pregunta de teoría
+esta frecuencia para 3 de referencia con cual de ellas está ligado→reconocer +cálculo de la r.
+0,05→no puede rechazar la segregación independiente esta en un cromosma diferente 
+en que cromosoma está?
+7 Análisis de ligamiento en genealogías
+estudiando familiar+observar 2 caracteres al mismo tiempo, en qué caso?
+X en que se pudo realizar esta observación
+los hombres son hemicigotos para X
+identificar las mujeres heterocigotas que lo sean
+cualquier pareja varón nos puede servir identificar las combinaciones parentales heredadas de la madre
+0,33→un error de la tasa de estándard→de que manera podemos asegurar que sea menor de 0,5?
+	↑ cruce
+		observando más familias que segreguen estos caracteres 
+		↓ datos
+			utilizar máxima verosimilitud 
+				es diferentes es otra aproximación filosófica
+				y compararlas cual de las dos tiene más soporte
+				calcular la verosimilitud una función de los L
+LOD=logaritmo de las % como una puntuación ↑ mayor tendrá respecto a la hipótesis de abajo.
+las fórmulas 
+si es positiva→indica que el denominador es menor que el numerador
+pero saber que el mismo marco teórico se puede cualquier hipótesis siempre que podemos sacar la %
+8 solo lo hemos dado hasta aquí
+el resot de putno se presta para puntos 

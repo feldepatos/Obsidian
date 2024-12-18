@@ -111,7 +111,7 @@ Modelo
 Los recursos son limitados
 Crecimiento logístico
 -factor de competencia en la fórmula
-	Hasta  llegar a k 
+	Hasta llegar a k 
 	La capacidad de carga→el n1 máximo de individuos  que puede sostenerse con los recursos 
 	Fórmula  logística
 	- k→cuantos me caben 
@@ -122,9 +122,9 @@ Crecimiento logístico
 Curvas logística y exponencial
 - Al principio n<0→tasa de crecimiento por capita=R
 - Pero a medida  que n sea mayor la contribución de un individuo a que las  siguientes generaciones de crezca llega al valor de 0 ,mi descendencia compensa otras muertes
-Competencia intrasespecífica y el  crecimiento logístico
+Competencia intrasespecífica y el crecimiento logístico
 De la misma especie
-Competencia que aumenta a mediad  que aumenta el nº de individuos que provoca la limitación en función de los recursos
+Competencia que aumenta a mediad que aumenta el nº de individuos que provoca la limitación en función de los recursos
 Consecuencias evolutivas
 Las poblaciones tendrán unas estrategias en función del ambiente que provoca la  evolución de rasgos que   provocan un aumento en la R.
 24-9-24
@@ -239,9 +239,9 @@ Lecture 1.3
 			- Los nidos abandonados de las aves
 			- Los búfalos mueven la tierra y  las aves aprovechan  eso para buscar gusanos
 Tema 2: Variabilidad genética y selección
-- ¿Cómo se  distribuye y se cuantifica?
+- ¿Cómo se distribuye y se cuantifica?
 	-  Cambia en función de la latitud
-		- La frecuencia de un alelo cambie como  la latitud
+		- La frecuencia de un alelo cambie como la latitud
 			-  La temperatura del agua
 				- Si  vemos un cambio de  un carácter que va  ligado  con un parámetro que estas asociado a una menor o mayor de temperaturas
 	- ¿Cómo cuantificar la  variabilidad?
@@ -302,7 +302,7 @@ Tema 2: Variabilidad genética y selección
 								- 2pq
 								- es el producto de p*q →panmisia
 	- Genotipos de la siguiente generación
-		- Se representa con la misma letra pero con  una prima→'
+		- Se representa con la misma letra pero con una prima→'
 			- la misma fórmula de antes pero con una prima.
 				- p[2]+1/2pq*2
 					- p[2](p+q)→1
@@ -706,7 +706,7 @@ Selección→a favor o no
 	![[Pasted image 20241021143001.png]]
 		vale casi 1
 22-10-24
-El cambio de la frecuencia del A2 debido a la mutación es "mu"*frecuencia con la que están los alelos que mutan
+El cambio de la frecuencia del A2 debido a la mutación es "mu frecuencia con la que están los alelos que mutan
 ![[Pasted image 20241022113621.png]]
 El dividendo es la eficacia 
 Los delta de q  tienen signo diferente
@@ -716,7 +716,7 @@ Me interesa la situación donde delta de q=0
 		lo que ↑↓tienen q ser el mismo
 	La eficacia tiene un valor aprox 1
 	Para que todo esto se cumpla
-		"mu"*p=-sq²p
+		"mu"p=-sq²p
 	Al quitar el signo negativo podemos "tachar" la p
 		De tal manera que nos queda q²="mu"
 	Las expresiones que esta haciendo son los deltas que los iguala a 0.
@@ -735,7 +735,7 @@ Caso en caso de los  heretocigotos
 	h=0→A2 es sucesivo+selección en contra de él
 	h=1 es A2 dominante+selección en contra del dominante
 	h=1/2  herencia intermedia→pq  1-hs es la media entre 1/1-s
-	 0<h>1
+	 0< h >1
 		 Dominancia parcial→siempre que h sea ! a 1/2
 	Haploides llego a la misma situación
 The genetic load concept→Lastre genético
@@ -778,3 +778,674 @@ Recombinación y linaje
 La selección actúa sobre el fenotipo entonces ahora dará en dos genes
 	Epistasias
 equilibrio simultáneamente para los dos locis cuando tomo u individuo de un determinado locus es independiente de la %...
+12-11-24
+Cambio de frecuencia en haploides
+14-11
+Evolución de genes 
+la primera observación es un artículo que compara la diferencias de aa en la secuencias entre distintas vertebrados
+y el viene de detectra inicialmanete hay una relación aprox lineal entre nºde diferencias que separan las secuencias de las proteínas y el tiempo que evolutivamente divergieron de su ancestro común→teoría neutral
+Además de esta osbervación cuanod se analiza la secuncia de alpga y se compara la secuencia deaa nos encontramos la relación lineal se mantiene pero cambia la tasa de evolución 
+![[Pasted image 20241114113505.png]]
+la pendiente de la se ajusta rápidamente
+y otras que cambian rápidamnete
+podemos ver donde cambiar rápidamente 
+hasta 3 grados magnitud
+en esta época→variaicón que existe en las poblaciones naturales valorada en un nº importante de locis→la variabilidad se habia concentrado en unos pocos que genes que provocan cambios visualmente u otros que modifican la inmunología
+después se inventa la electroforesis y se extiende en un montón de organismos y se ve qye hay una proporción ↑ de locis q son polimorfismos sabesmo que la via +selección natural tiende a desaparecer
+Otra observación
+la cantidad de heterocigocidad en esta spoblaciones naturales
+de todos los procesos donde actúa la viabilidad a lo largo de la población a favor del heterocigoto como hbaia un lastre que aparece simeper que actía la selección natural a favor de eél
+cada vez que tenemos esa situación tenemos cigotos entre individuos heterocigotos
+solo lo hemos estyudao con un solo lpcus→el lastre no oslo se aplica a un solo locus
+↑ HETEROCIG por la selección→la suma del lastre es tan elevado es imposible que se mantiene en las poblaciones naturales
+Kimura+crow→mirar su artículo
+nos permite calcular la heteroicgodidad=deriva+ mutación
+Haldane
+la variación genética no depende de la selección sino que provoca lastre
+el lastre nos vuelve aparecer sustitucional tienen que ver con el coste que tienen para la población el que la población esté eliminado alelos por aparición de un alelo más favorable
+→se calcula de otra manera por un nuevo alelo que es favorable, es muy sencilla el nº de muertes es simplemente función de la frecuencia del mutante favorecido de la selección natural
+esto significa que produzca esta evolución que acaba de aparecer tienen que aparecer 30 veces el nº de individuos que compone la población
+como máximo en una población →se puede eliminar hasta un 10% en cada generación para evitar problemas deletéreos→solo fallece un 10% a nivel  genético si estos es así y tenemos el valor de 30
+necesitamos que transcurra 300 generaciones para que un alelo que ha aparecido alcance la fijación cuando solo actúa la selección natural→tiene sus margenes
+Cuando no actúa la selección
+KImura
+	la fijación depende de la deriva que la % depende de la frecuencia con la que está el alelo en la población 
+	la % que se genera nuevsa mutaciones vendrá dada por  la tasa de mutación + tamaño de la pobalción 
+	Luego la tasa de la mutación es le producto de la % con la que aparece la mutación con la % que se fija= 2Nu
+		nos queda u que la tasa de evolución en estas población depende exclusivamente de la tasa de mtuaaicón no de la población
+			en el caso que no actúala selección natural
+Cuando kimura aplica esdas deducciones al cálcula de la tasa de evolución
+	el calcula haciendo uso de
+	se debe producir un sustitución en el linaje humano cada dos años si tenemos en cuenta que se produzca ese cambio 
+	+haldane
+		s actúa la selección la sustitución cada 300 generaciones
+		en un humanos deberíamos observar sustituciones 1,8 años *30 generaciones cada 6 mil años  es una contraditación la selección natural no puede explicar las tasas de mutaciones de kimura
+			no se conocía la composición del genoma
+		Cuando tenemos estos datos actuales y  comparamos la evolución y la divergencia con los ratones
+		y tenmos que multplcar por 2 pq
+	+ las tasas en divergencia entre ambas epsecies n→la sustitución se produce cada mes , el problema es más grave
+	+ la selección antural no  explica este tipo de sustitución que se observa
+	+ el coste que  lleva asociado por laster sustitucional favorecido por la selcción naturla hay una contradicción + las  selección natural predice como tasa de mutación
+Viene a cuenta qur propone por seleccón natural
+	para él para prinicpal motor evolutivo a nivel molecular es lo que es llama→neutra de la evolución
+		nos dice que la mayor parte de la avariación genética que observamos es selectivamente neutra  que quiere decir que todos los alelos que observamos tienen la misma eficacia biológica
+			la variación no implica cambios en al eficacia 
+				no hay cambios no actúa la selección pero su hay evolución pq actúa la deriva en todas las poblaciones finitas que provoca cambio que en ocasiones llevará a la fijación pero frecuentemente  habra mezclas en los alelos
+				cuando analizamos la población alélica
+Tuvo mucho cuidado el específica aplica excluvs a variación a nviel molecular no niega que ahbra selección purificadora , que este no contradice que no se puede provocar cambios por selección dawrniste la selección adaptativo en caracteres de todos los tipos tienen una base genética sino  no sería posible explciar los cambios sino pq se heredan de progenitores a descendientes
+La selección positiva actúa de vez en cuanto pero la observable corresponde a la  neutra pq  la otra  aparece de manera puntual
+Recordad que hsy 3 tipos de  herencias 
+
+![[Pasted image 20241114115644.png]]
+Difieren en c cuando valor tienen los 3 componentes así para los dawnista y una  fracciónn  importante de mutación  ventajosas representadas por  esas ventajas 
+La teoría neutral →variación deletérea pero en cuanto frecuencia pero no para le evolución
+las mutaciones ventajosas sería que existen este tipo de 3 mutaciones
+las dos teorías difieren en la importancia relativa
+hace una  seria de predicciones→ecuaciones de difusión pero aplicadas a la biología 
+las unidades de tiempo de pérdida son medidos en  generaciones que depende del tamaño de la población en la deriva
+el tiempo  que transcurre en la sustitución de un alelo por la  siguiente
+	las mutaciones son contínuas
+$$
+\frac{1}{u}
+$$
+Pero si tengo al gen en todo el genoma los mutantes son constantes
+4n tiempo  que tarda un alelo que aparece en la población en fijarse
+La teoria tiene como consecuencia tasa evolución=mutación
+depende de las restricción podemos aplicar el reloj molecular , la formilización la cantidad de cambio evolutivo es contínuamente constante 
+esto se aplica de forma contínua
+Hay que tener en cuenta el efecto de sustitución nucleotida sobre el aa→genes que codifican proteínas
+sabemos que hay 2 tipos fundamentales de sustitución
+	transiciones
+	transversiones
+sustituciones sinonimas o no si afectan  a la eficacia biológica con quefrecuencia sustituciones pq las sinónimas o cambian el aa en principio no cambian el aa pero  si es no sinomina→cambia el  aa→la función que empeña el aa en esa proteína puede ser diferente
+la sinónima nos marca la  neutralidad
+is la selección actúa de forma purificadora7negativa
+Si tenemos los mimos valores→neutral
+↑ no sinónimas→selección darwinista
+![[Pasted image 20241114121519.png]]
+las diferencias en las tasas por las tasas→constricción funcional hay proteínas que cualquier aa que cambie hay otras donde no ocurrirá
+![[Pasted image 20241114121842.png]]
+el reloj molecular en tiempo, en la gráfica está medido en  millones de añs
+cuando comparamos las tasas de mutaciones en diferentes organismos donde l tiempo de generación es muy corto, lo que cabría esperar tal como hemos dicho esas tasas de evolución cayense en esa zona, sin embargo, el tiempo que transcurre es muy distinto en una generación humana caben 200 generaciones de tiempo si el t de cambio de mutación tendríamos diferencias en las tasas de mutación en tiempo de la generación y debería caer en la zona sombreada y se calcula para un par de especies pues parece que la explicación no se cumple pero si se cumple el reloj referido al tiempo
+consistencia→kimira revisión de la teoría neutral→casi neutral del modelo molecular
+que las mutaciones no son solo positivas, negativa y neutras hay que tener en cuenta el tamaño dela población+ intensidad de las mutaciones=nuevo grupo de mutaciones ligeramente deletéreos no tiene eficacia 1 es ligeramente menor a 1
+→la idea que dependiende en que población aparezca una mutacón tendrá más papel la deriva genetica o selección
+	la deriva actúa esencialemtnes osbre su destino →su coeficiente de selección es menor que la inversa del temaño de la población
+	si s/t> la selección actuará
+
+una misma mutación que aprezca en una  ↓ población no será afectara por la sleección natural
+deletéra→eliminará la selección natural
+pero no nos explica la observación pq hay una diferencia entre genraciones cortas y largos
+93→chao
+analizaron el tiempo de generación + tamaño poblacional→es inversa
+estos dos valores se compensen →el resultado cuando actúa la deriva actúa de forma diferente según el tiempo de generación por el tamaño de generaciones de tal manera podemos dependiendo del valor relativo del tamaño poblacional + s=actúa preferentemente selección natural/deriva genética
+19-11-24
+4.3 
+selección purificadora→no sinónima/purificadora
+	perjudican
+Selección positiva,adaptativa+darwmiana
+Diferentes maneras de estimar
+la estima de omega→nos da información a niveles diferentes
+	en los años ochenta uno de los primeros estudios, nos compara en proteínas implicadas en respuestas inmunitaria en humano o ratones
+		lo remarcado para algunas de estas proteínas en las regiones reconocimiento de Ag y el resto de proteínas
+			la sustitución no sinónima son comparativas y estadística mayores que las sinónimas
+				nos indica ↑ tasa no sinónimas, sin embargo sucede en menor escala en las regiones que no están implicadas en esa función
+				Sometidas a selección positiva→reina roja de Alicia de las maravillas
+		Ahora los menos a nivel molecular
+			Enfoque filogenético
+				analizar los cambios en las tasas a lo largo de una filogenia, lo tenemos incorporar al cálculo→el resultado de analizar las tasas de sustitución en un exon de un gen relacionado en un cáncer de mama, por razones que se nos escapa la tasa de evolución no sinónima>1 en el resto son menores de 1
+					este gen tienen una región que tiene una adaptación
+Yang
+	Desarrollaron un método estadístico→no analizamos la tasa global de un gen sino en cada codón de tal manera nostros podemos analizar como es la acción de la selección natural de codón a codón→lo hace tmb con los coeficientes dado para cada codón , lo hace para grupos y permite especificar que codón entra en cada grupo
+		3 tipos de codones
+			rojos→evolucionan bajo + selección
+			verde→ selección bajo neutralidad
+			Azules→ selección negativa
+	Que tipo de patrón
+		↑ diversidad 
+			en el centro ↑ adaptativa, amino terminal casi todo encontramos purificadora
+				la proteína discriminar para cada tipo cada zona, si está evolucionando de x manera→afinar el análisis sobre la estructura inferida de la protéina
+					A partir de la estructura primaria nos permite conocer la 3D mediante programas
+Corresponden al análisis entre especies→nos interesa ver que sucede en una especie
+	polimorfismo
+		los métodos no aplican a los polimorfismo
+			Es necesario nuevos métodos
+		Polimorfismo intrínsecos vs mutación
+			según a estemos analizando a otro→deriva genética 
+Kimura
+	nos demostró la tasa de evolución neutral vs polimorfismo esperado se estima→nos tiene que dar el mismo valor
+		Si estrictamente neutral z debe valer lo mismo
+			s/a_1 debe ser distinto
+	Test de
+		0→neutralidad
+		+→efectos sobretodo de selección purificadora
+		-→ posibilidad de que haya selección positiva
+			varios procesos→demográficos
+Diferencias entre diferentes especies
+	equiparables a las diferencias
+		HKA TEST
+			![[Pasted image 20241119135101.png]]
+			interespecífico
+		En este caso comparan los niveles de un locus dentro de una especies respecto otra→establecen una manera de relacionar
+Comparando dos especies→McDonald
+	comparamos las tasas de evoluión no sinonimas y si
+		alcohol-deshidrogenasa→proteína
+			en este caso hay acción de la selección
+				Aplicando estos métodos en la actualidad se han identificado han actuado la selección natural, en muchos de ellos actúa en algunas posiciones concretas del gen , el resto son neutro o están sometidos a selección purificadora
+					en un gen sino en muchos la mayor parte, son deletéreos y la selección purificadora se encarga de eliminarlos
+					Pueden variar en función de la función del gen y la selección actuará favorecerá el cambio o no
+					Los primeros candidatos serán los relacionados con la inmunidad+reproducción
+4.4 Evolución del genoma
+	no hay un tamaño que corresponda con complejidad de los organismo
+		representaciones del genoma para demostrar la relación no se cumple
+			↑ genomas son los protozoos→x100 más grande que el humano
+				si analizamos por grupos taxonómicos→hay grande variaciones del tamaño genómico
+					es una escala logarítmica
+			una medida de la información genética
+	Contenido de la información genética reflejada en el nº de genes que contiene un genoma
+		el nº de genes medido en el nºde adn que codifica adn
+			correlación
+				↑ genoma=↑ nº de genes
+				en un punto el tamaño ↑ pero el nº de genes permanece aprox.
+Mecanismos de formación de genes
+	la ↓ del tamaño
+		es respecto algo precedente→delección
+			a nivel de genoma un grupo de genes, si es esencial + carece de copia→efecto deletéreo
+				los organismos descendientes no cumplen sus funciones+ selección natural se encarga de eliminarlos
+				Resumen de 11 mecanismos diferentes
+					Barajeo
+						de un gen que se codifique por error se introduzca un dominio a otra proteína
+	↑ 
+		DUplicación+ introducción que provenga de otros individuos
+Si lo pensamos en general vendrá dado por equilibrio de procesos de ganancia+predicción
+Procariotas
+	funcionan a un ritmo mucho más elevado tanto adquisición
+		transformación, t
+			diferentes grandes del tamaño de genoma incluso en bacterias de una misma cepa
+		Bacterias parásitas intrecelulares
+			en otras células
+				el que se pierda, no tiene efecto porque no afecta a la funcionalidad
+					↓ tamaños parásitos intracelulares
+					Asociadas a la pategonidad+resistencia a los antibióticos
+						muy frecuentemente en plásmidos+ moviles genéticos
+							↑ dispersión entre especies, sean espectaculares
+21-11-24
+Tema 5. Niveles de selección y evolución
+Niveles de selección
+Tradicionalmente al individuo como objeto de la evolución que se basa en la genética de la población
+	el focus será las frecuencia de alelos
+Que el grupo es la unidad de selección
+	Descendiente de hombre
+	En general en tema de evolución porqeu era bastante más polémico→conceptos de selección de grupo, la cooperación, tienen que ver con el bien del grupo y no del individuo
+
+La visión contraria aquella que esta enfocada del gen y su libro más conocido es El gen egoista, desde el punto de vista lo que se hereda son los genes
+	el organismo es un vehiculo transitorio y una combinación de genes que pueden ser epsitáticos
+Selección de grupo
+	se retomó en los años 60 y de nuevo que se quería explicar la cooperación + la existencia de casta estériles
+	eso hay casos donde la selección actúa sobre grupos que están enfrentados
+	esa extrapolación del concepto a grupo puede dar a lugar problemas
+Selección multiniveles
+gen-células-individuos
+Requesitos→Fisher
+	Tiene que haber una variación
+	Ser heredable
+	Estar asociada a diferentes eficacia biológica es objeto de la selección natural
+Problemas de selección de grupo
+	Organismos tramposos, no cooperadores que se aprovechan de los beneficios de estar en el grupo
+	Puede ser supervisión+castigo respecto a los no cooperadores o transmisión cultural
+	Hemos de tener en cuenta el concepto de herencia+ organismos tramposos se ve comprometido
+Kin selection
+Social interaction
+Si ambos se benefician se habla de cooperación mutua
+si el que ejerce el acto y se perjudica y beneficia a otro→altruismo
+si el actor se beneficia a costa de perjudicar a otro→selfish
+La teoría de juegos
+	hay valores para cada una de las casillas si va a prevalecer
+Altruismo
+	la situación más compleja, se da en la naturaleza pero hay un coste
+	en ayudar a dos individuos emparentados
+	son diferentes conceptos para ayudar para que existe el altruismo
+	La eficacia extendida a otros individuos→nos ayuda a explicar los caracteres
+	a individuos que tienen parentesco→coeficiente de endogamia
+Se formalizó mediante la regla de Hamilton
+	la inclusiva es el beneficio de un comportamiento multiplicado por un parentesco - el coste que implica ese comportamiento
+	↑ frecuencia de altruismo de individuos respecto los no emparentados 
+		el concepto de insectos sociales→↑ coeficientes de endogamia
+		![[Pasted image 20241121125905.png]]
+		porque solamente se necesita que ese compartimiento suceda en individuos emparentados, si eres capaz de reconocer a tu prole pero si comparten rasgos físicos parecidos
+			↑ dispersión en las hembras que abandonan el grupo, la cooperación es más frecuente con los machos que las hembras
+		Ardillas
+			mamífero muy social→las hembras suelen moverse menos se reproducen de donde han nacido+diferentes sonidos en función del estímulo
+			entonces el que realmente se ve como acto cuando vienen mamíferos aquellos que emiten el sonido son más frecuentemente atacados.
+			las acciones altruistas no son aleatoria mente son realizados más por hembras y más cuando hay in familiar cerca del peligro
+			la línea azul sería lo esperado
+				cuando el que está cerca si es un familiar hay más ↑ que haya ese comportamiento
+		Pájaro
+		criar a la descendencia, de hecho con frecuencia alguna cría se queda en el nido para ayudar a la siguiente tanda de cría
+		en general proliferar el concepto de parentesco de ayudar a la descendencia debería ocurrir en individuos más emparentados
+		Nonbreeders
+			↑ si los individuos han nacido en ese clan, que los que no son nativos
+		Eficacia inclusiva relacionado con la evolución de parentesco
+		no es necesario que haya un reconocimiento del individuo pero este sí ↑ el altruismo y hay formas de reconocer a individuos parentesco por contacto/comportamiento por la vista
+	Eusocialidad
+		no se reproducen pq son estériles de nacimiento, ocurre en abejas
+			para que ha evolucionado múltiples veces
+		Eficacia sería =0 
+		los haplodiploides y las hembras diploides tienen una consecuencia en el coeficiente de endogamia
+			la reina madre del grupo tendrá uno de 0.5 pero entre sí los miembros tendrán mayor entre sí que con su madre pq los machos un cromosoma X el mismo
+				entre las hermanas tiene un 0.7→0.5 madre + 0.25 padre
+				pero en casos de poligamia tendrá un r menor por otro lado hay unc aso que no tienen este mecanismo de herencia no haploidevs diploide
+					hongos
+comportamiento social→que modifica desde el punto de vista que modifica la eficacia de todos los individuos
+caso de las abejas
+machos estériles→
+haploidiploidea →0.75 de su genoma pq comparten el 100% del padre y 50% de la madre(la madre tiene 2 cromosomas)
+Recíproco no es kin selection
+esto si hablas con gente experta del campo no es considerado altruista, porque al final me beneficia a mi pq mi eficacia biológica no ↓, no es necesario el concepto de eficacia altruista
+si los dos se beneficia sería recíproca
+	cooperación vs altruismo recíproco
+		el tiempo y es un ejemplo de una cooperación mutua
+Más estatus social /Prestigio
+	↑ elevado que suele ayudar →↑ el altruismo a nivel de población
+Distinguir entre altruismo recíproco y selección parentesco
+los jóvenes no consiguen alimentarse de sangre pero viven en colonias grandes
+comparten sangre pero cuando hay mucho fluctuación de alimento, entonces se puede dar el caso en donar a individuos emparentados , este comportamiento kin selección o altruismo?
+Cómo distinguir?
+1. Asociaciones suficiente largas→↑ de una interacción→los grupos son estables
+2. % de regurgitar de ayudar a otro individuo se puede predecir como se han comportado en el pasado
+	1. Los roles de donantes y beneficios→los beneficios a corto plazos es mayor al coste
+	2. los tramposos sean fácilmente expulsados
+Los individuos emparentados tienen a estar más unidos 
+la distribución de un índice de parentesco + asociación física de los individuos
+no sabemos que si ayudan es porque son familiares o porque viven muy juntos
+relatedness→es r
+c→hamilton→es el coste del comportamiento altruista
+asociación es el espacial
+5.4 Selección sexual
+veremos como puede entrar en contradicción con los caracteres de la eficacia biológica
+
+28-11-24
+Tema 5.5 Micro y macro evolución
+	Radios de la evolución
+		Filogenético
+			NO involucre cambios en la especies→anagénesis
+		Taxonómico
+		Formación de nuevos clados contabilizaran los nuevos taxones aparecidos menos los q han perdido→tasa de diversificación
+	micro hace referencia a una escala pequeño menor a poblaciones especies a escala humana y por encima de especies a escalas geológicas
+Diferencias entre anagenesis y cladogenesis
+se van poco acumulando. no hay una separación de los grupos que aparezcan, a escala menor pero donde hay un único linaje que va evolucionando con le tiempo sin que se produzca la separación
+
+Gradualismo filético
+Derivado de la visión de Darwin
+1. La formación de diferentes taxones es gradual +prolongación de la micro
+	1. aquellos que están involucrados es una población extrapoladoas a escala
+2. Dentro de la familia aparecerá nuevas especies que se convierten en géneros de abajo a arriba, no es más que la acumulación de divergencia que ha habido de abajo
+3. El gradualimso
+↑ especies podrá tmb tener mayor diversificación +↑ especies ; que tienen muchas variantes pq habitan diferentes ambientes dará lugar a géneros ,  2 familias hace millones de años era 2 especies
+Más tradicional
+Ejemplo
+	Evolución de los équidos
+		en que se diferencian de las ancestrales+actuales
+		el aptrón el aumento del tamaño aunque nos sea una tendencia monótona
+		la parte de las partes traseras si hubo un cambio cada vez más grandes que volvió a reducir le tamaño, no que sea una línea sencilla a la aparición de nuevas formas, la parte de la derecha la longitud de las patas como indicador corporal
+		EL porque
+			en diferente grupos taxonomicos de largas evolutivas esa tendnecia de tamaño→regla de cope
+				cuales entender los mecanismos
+					presión de los depredores+cambios climáticos+agilidad+pero conforme los 50 mil años con menor vegetación +zonas praderas se adaptaron a esa habitas
+					forma de las muelas
+						dos dimensiones de las muelas→la  altura 
+						ambos aumentan pero hacen mayor medida en el paracona molares más altos, relacionado con la dieta paso de ser hojas a hierbas que son más abrasivas que generan mayor desgaste en los molares
+Formas de medir la escala de evolución
+	si tenemos un carácter que podemos medir
+		entonces un valor positivo→↑ de evolución.
+		Se ha calculado para diferentes rasgos
+			![[Pasted image 20241128124906.png]]
+			el valor de D en intervalos de tiempo diferentes valores de tiempo desde fenómenos cercanos y alejados y la media de esos índices.
+				La tasa cuando se mide experimentalmente
+					se observa una tasa de evolución muy alta coloniza nueva hábitat+registro fósil vemos que las tasas son menores, es decir, una correlación entre la escala temporal y la velocidad que ocurre
+						los pinzones de darwin que fueron a las isla galápagos iban cambiando en una escala de décadas .
+						Evolución ŕapida pero si lo vemos a escala temporal alta, la vemos que no es así y la extrapolase al pasado esperaría que hubiera ↑cambios
+							la evolución no es unidirreccional, hay fluctuaciones de los caracteres veré menor cambios que espera.
+			natural vs experimental=↑ experimental porque lo forzamos
+			Escala temporal cerca o millones: a corto plazo=↑ darwins pero a millones la tasa será más pequeñas, esta diferencia es lo q vamos a explicar., entre dentro del modelo gradualista, ocurre todo el tiempo, en unidades de darwins no es constante puede ser no promovido por una dirección, fluctuaciones .
+Equilibrio puntuado: 
+	antecedentes
+		la evolución no ocurre de manera continua sino a saltos
+			problemas de desarrollo de fenotipo deformadidaes, uno de cada mil es adaptativo 
+	Solo en la especialización en la cladogénesis ,  aparece  dos especies mientras que el gradual esas dos especies son las culminación  de divergencia que ha empezado anteriormente
+	Contraste de ideas y modelos
+		Heckel curiosidad
+Especialización elevada de la gradual
+Puntuacionista puede haber una tasa in que haya apenas cambios entre las especies
+De evolución gradual
+de estasis, tenemos el cangrejo herradura, habiendo que hay evolución
+Si vemos esa morfología vemos que es igual, hace 7 millones  hay una aparición súbita, combinada con la cladogenesis. Tmb hay ejemplos en los moluscos , la profundidad del registro fósil y lagunas presentes hace 4 o  5millones  siguen en la actualidad.
+EL problema es macro evolutiva, a lo  meho no es tan estasis si tenemos en cuenta que hablamos millones de años, hay movimiento q nos tnemos ningun registro y puede durar decenas de años.
+Tenga un problema pq esté incompleto no queda claro si  el puntualista es real sino un artefacto de como es el registro fosil
+Extinción de fondo
+	vida media de diferentes especies de los nautiloidea y ciervos
+		viven más años 
+			después de millones  de años.
+				va depender de factores 
+					Nacimiento y muerto de especie=dispersión geográfica
+Radiaciones y extinciones
+	La aparición súbdita→cámbrico+ordovícico
+		aparecen muchos filum, ha de dado de lugar a filum actuales
+5.6 Teorías sobre el tempo y modo de la evolución
+	diferentes conceptos de evolución
+		al origen lo primero hay que diferenciar el fijismo y evolutionismo
+		ahora se llama el creationismo→fijismo
+		![[Pasted image 20241128132113.png]]
+		neutralismo no niega a la selección natural
+			se diferencia en que solo acepta la negativa a molecular principalmente esta dominada por la deriva genética
+		La e. por selección natura
+		puncutaionismo a matizar acerca  de las mutaciones y como se asocia  las mutaciones, como se generan las especies
+No todo es selección natural u optomización
+	programa adaptacionista
+		hay que matizarlos, a veces hay limites de adaptaciones
+			se muestran pegonias que el tamaño del sepaló=↑ =↑ polizinadores pero una mayor sépalo complica la formación de flores
+				heterosis→anemia caliciforme
+					un rasgo que es beneficio requiere resistencia a una enfermedad pero anemia, sea resistente al parásito el funcionar peor.
+			Cualquier tipo de forma
+				describió que espacio ocupó de todas 
+			Limitación
+				la propia historia evolutiva
+					carácter+fitness→es posible que no q las formas sean menos eficaces que los extremos pero es un pico local pero no se alcanzan pq han de pasar por un valle adaptativo que es menor eficaz de lo que tienen.
+Saltanismo es un caso extremo de la evolución rápida→aqui apenas transcurre el tiempo.
+	como antecedente de equilibrio puntual del  embriologo
+
+Clase 3-12-24
+Tema 6. Evolución del sexo
+Existen  las dos alternativas si una se ha impuesto significa que tendrá alguna ventaja
+	Asexual→rotiferos con huevos de resistencia+plantas
+	Sexual
+		Pulgones→sexual o asexual pq produce machos
+		Volvox
+		Mamíferos
+		La variación ocurre dentro de taxones y que por tanto tenemos que estudiar que beneficios y que  coste conlleva
+Se puede pensar es un proceso ques para combinar de rasgos genéticos de machos y hembras→producción de gametos o recombinación`segregacoón de cromosomas
+La eliminación del desequilibrio de ligamiento→cuando hay recombinación ese desequilibrio se equilibra
+	Podemos identificar costes asociados a la reproducción
+		machos+hembras↓ tasa de crecimiento es menor
+			+ el coste de búsqueda que está implícito 
+		+ En la descendencia será menor parecido a sus progenitores
+		+ La evolución social
+			+ riene a favorecer menos rasgos como la cooperación
+			Puede haber mayor riesgo de patógeno
+				4 tipos de coste asociados a la reproducción  sexual
+Beneficios
+	El coste doble de sexo
+		donde tenemos una población izquierda machos y hembra→la fecundidad es 4 descendientes que a su vez se agrupan en  2 parejas para producir otros 4 descendientes→ en 2 generaciones generamos 8 
+		Pero si fuera asexual→de 1 a 4 hijos de 4 a 16 hijos
+		la  tasa de fecundidad es el doble
+			la tasa de supervivencia es igual en los individuos
+	Paradoja del sexo de M-Smith
+		Es una forma de ilsutar el coste
+			el organismo se produce de forma sexual
+			¿Cómo sería en caso que fuera asexual?
+				se pone una coloración que se produce de forma normal frente  otra que reemplazar individuos de una generación a otra.
+				Simulamos lo  que sería los clones en cada generación y lo marcamos
+					expresión de un gen que les otorga una coloración
+					están expuestos a distinta coloraciones que son las líneas que se representa en la gráfica→es una computación y la proporción  de individuos
+						el rojo se impone más rápido cuanto más simplicidad 
+					La coloración negra →se impone 3 veces
+Recombinación y adaptación
+	Es un  experimento donde se intenta proveer algún  tipo de rasgo en concreto se ve la respuesta de la selección en la población y como se modifica la  tasa de recombinación
+		sugiriendo conforme vamos proveniente por selección artificial estamos colateralmente proviniendo una mayor recombinación que permita acelerar el proceso evolutivo
+			cuando estas aplicando una selección artificial a un organismo estas colateralmente aumento la recombinación sea un mecanismo que permite aumentar la capacidad de adaptación
+Relación tasa de evolución de secuencias codificantes y recombinación
+cuanto más lejos esté dos genes más difícil sea  pero la  tasa de recombinación puede  equilibrarse
+Entonces vemos la secuencia de dos genes que está más propenso a recombinar tmb suelen  tener una tasa de recombinación no  sinónima conforme aumenta la correlación
+	Tienes 2 especies +2 genes→comparación su convergención
+		Tasa sinónima se observa  la tasa de recombinación puedes ver una correlación genética.
+		Se aprecia que  hay cierta asociación
+Ventaja de la adaptación del sexo en grande poblaciones
+tenemos dos cajas a y b→es asexual el b
+de ambos partes partimos de un genotipo ab→el wt
+el beneficioso es el A y B que se acaba imponeindoe pero en la grafica de arriba hay recombinación+reproducción
+pero en la de abajo no→la rapidez de imposición de la AB
+necesitamos que ocurran evento independientes→vemos que aparece el B mayúsculas al mismo tiempo de A eso haplotipos vana  competir y quien tenga más fitness pero no se podrán recombinar habrá que volver a generar 
+	dos variantes beneficiosas interfieren entre ellos pq se requiere 3 mutaciones para obtener el AB→efecto hill-robertonr
+		Segunda explicación
+			diferencia de adaptabilidad entre poblaciones sexuales o asexuales a que en al  asexual existe una coexistencia de mutaciones beneficiosa que no pueden combinarse en el mismo individuos y una se impondrá.
+				perdida de adaptabilidad 
+¿Donde ocurre?
+E.coli
+	el eje de las x  es la cantidad de mutaciones que aparece con el tiempo y depende de la tasa de mutación y el tamaño de la población
+		se producirá la clonal interference
+		↑ la  adaptabilidad 
+		conforme ↑ la mutación existe en un  aumento  de adaptabilidad que sealcanza un techo→un límite de adaptabilidad pq existe interferencia clonal cuanto más mutaciones pongo sugiriere que no se obtiene 
+VSV
+	Estos virus no se recombinan→se comporta como asexual no habia una relacióne ntre el tamaño de mutación y la población
+		esto sucede en  el momento  que alcanza u techo
+	se ha hecho experimentos 
+Ventajas
+	carrera hospedador
+		promueve la evolución  rápida
+			hay una variante  del parásito
+			esa vuelta se da  mucho más rápida por recombinación que por mutación que trabajan se puede recombinar entre sí  para producir a,b 
+Correlación  entre  individuos 
+	en caracoles  su capacidad para reproducirse→son hermafroditas pero pueden reproducirse de forma asexual o pueden dar lugar a machos→sexual
+		se observa el porcentaje de machos en la población→tenemos que asumir que la reproducción es asexual→si solo hembras
+		pero si hay ambos→sexual
+		el% de machos nos  indica que modelo de reproducción se ha elegido.
+Estos caracoles tienen un parásito a correlacionar entre  los nematodos
+el x→en cada población hay 66 puntos de individuos infectados
+y→% de machos de la población→asexual o  sexual
+	↑ infestación del parásito=↑ machos hay en la población
+		permite una mayor población mejor adaptabilidad en poblaciones sexuales
+	↑densidad de  población
+		los caracoles pueden un coste de búsqueda elevado,  si la población es muy poca, si produce machos no renta
+			pero a su vez tiene mayor % de transmitirse los parásitos , no causa efecto sino hay  un elemento en común subyacente  de la densidad de población .
+	Las dos  posibilidades son viables pq los datos pueden tener más de una explicación
+		imagina  una población con pco y otra muchos
+		poco→aquellos de forma sexual  deben encontrarse con  machos y  hembras→↑ el coste será elevada, por tanto, al sexual es más fácil de tolerar en poblaciones más densas
+		Si hay un parásito directa de densidad y  su capacidad de transmitirse
+		luego representados la infección con la tasa de machos estarán  correlacionados por la densidad de población.
+Recombinación+deriva genética
+	Muller
+		este proceso será más grave en las  que no sean capaces de  recombinar
+		nº individuos vs nº  de deletéreos
+			recombinación!→habrá fluctuaciones de la frecuencia 
+				quizá por azar se pierda algún individuo que pierda esas mutaciones es un proceso irreversible a excepción que la mutación reversa
+				una vez estropeado→la reversión es una única mutación
+				es  más acumularla que recuperar las
+				esto será incapaz de mantener los individuos no mutantes
+		Si hay recombinación si se junta por la descendencia
+			por ella pueden tener descendencia con una mutación deletéreo o con ambas o ninguna
+				nos permite hacer mejor en la acumulación de mutaciones deletéreas
+	en cada población existe la deriva y selección 
+		↑ población=↓ deriva
+Muller existe?
+	hay un cuello de botella
+		tiene una dinámica  que funda la colonia y otra vez un batacazo demográfico→donde la población va de uno a millones genera una grande deriva genética donde su población efectiva es cerca de 1
+Tmb existe de forma natural como en los endosimbiontes→
+se transmite de padres a hijos→o  algunas capacidades
+AT es la mutación más habitual
+acumulación de mutaciones que se toleran mejor,permitiendo ser mantenido se
+van a ser más difíciles de asumir 
+
+5-12-24
+Desarrollo de la evolución
+la especie es el taxón es le objecto  estudios dela biología de dearrollo→esa discontinuidad entre diferentes poblaciones es un tema complejo y se estudiará mas en adelante todo nivel completo es el filum u corresponde a estructuras corporales distintas es decir formas de organizarse le organismos
+	los filum se originaron durente  el cambrioco, debido a sur rapidez implica dificultades parea establecer relaciones .
+el modelo del  cono invertido se intenta transmitir si partimos una célula inicial  las mutaciones que afectan al  estadio de desarrollo será mayor
+o solo genes que afectan a las senescencia tendrá menor impacto evolutivo que quizás no hay sido sometido a la evolución 
+Modelo de Fisher
+que se muestra en la línea continua es todo aquello genotipo que se encuentra a la misma distancia del óptico en cuanto a cambio genético.
+si es pequeño equiparable que mejores cuanto más cerca sea el criculo más lejo estemos del optimo.
+ilustra que hay 2 factores que una mutación sea beneficio el tamaño de la mutación, cuanto mayor sea más perjudicial y cuanto  mas cerca estemos del optimo peor sera
+las mutaciones que afectan al desarrollo solo podría tolerables seria en individuos poco desarrollos pero  a medida que se optimizan los  individuos pocos serán tolerables a las mutaciones producidas en la epoca embrionaria
+VON BAER
+	pueden aparecer antes, ocurre que las características generales aparecen primero, porque son compartidas definieron el desarrollo  y  sobre ella han ido añadiendo debidas modificaciones 
+relación entre onogni→caractres ancestrales sueñen ser los que estan antes en el desarrollo
+RELACIONES ALOMÉTRICAS
+Puede ocurrir las diferentes partes del cuerpo no vayan a desarrollarse mismo tiempo que otra.
+la cabeza crece igual de rápido que el cuerpo→tendríamos el cuerpos del la izquierda→alometría es el estudio de la velocidad del desarrollo las partes del cuerpo
+si se modifican esas pueden generar dos especies diferentes.
+TIPOS DE HETEOCRONÍA
+Pedamorfosis→la especie derivada tiene un adulto tiene un juvenil a la especie ancestral
+Peramorfosis
+	tiene un aspecto que va más allá que la especie ancestral, aparecen nuevos rangos .
+Alojotes vs salamandras→de neotenia
+son larvas donde no ha habido al metamorfosis pero esos animales se reproducen alcanzan la madurez sexual con un aspecto de larva debido a una malformación del tiroides falta la tiroxina pero el animal el viable pq es maduro sexualmente
+Un ejemplo más cercano es le de los  humanos
+	neotenia
+	nos parecemos a los juveniles chimpancé que los adultos es una peramorfosis
+Neotenia puede haber sido favorecida por la selección a rasgos juvenles de la hembra
+	las hembra más jóvenes sea más fértiles y tienda a exagerar la fijación alas jóvenes
+Base genética del desarrollo
+el ovulo→presenta una hetericigodidad los genes que sea da en el futuro del aparte anterior  del cuerpo→lo que determina que tengas la presencia de estos mRNA por  la madre en elcigoto+cascadad de regulación que da lugar a un mononton de genes stripes.
+hay un promotor reprimido por hunchback y kruppel
+el concepto un gen de expresión materna+como se genera la polaridad del embrión+existe una caddcada complea de regulación+gen homeotico+HOX 
+en función que gen toques tendraś diferentes situaciones tendras un gap, en el desarrollo
+eliminano kruppe→lo del medio no se desarrolla
+
+inversión de la estructura→no es necesario saberlo
+estando arriba genes maternos+cigoticos como gap+regla partes afectan si estan afetcado a todos los segemntos iuglaes+
+![[Pasted image 20241205141243.png]]
+	dicen que hay que hacer no cómo
+	estructura inicial→materno
+	cascada de regulación reguladapor los amtenro→cigótico
+	segmentos→en cada segmento habrá dado por un  gen homéotico  dirá que fabricar tal como y lo que realizan esa función son los genes realizadores
+
+9-12-24
+6.3 La longevidad es un carácter variable
+Asociada a la eficacia
+$$
+w
+$$
+![[Pasted image 20241209101257.png]]
+Definción desde el punto de la vista biológica
+	↓ de la eficacia de las últimas etapas de la vida del individuo
+	componentes de la eficacia→supervivencia+fertilidad
+	Ciervos
+		los machos viven menos tiempo que las hembras
+			Se explica por una base genética→de modo general
+			invierten más en el apareamiento
+			por selección sexual
+				en un momento dado de la fertilidad de los machos decae antes a edades avanzadas.
+	Teoría del ritmo de vida
+		¿Qué es?
+			es un fenomeno inevitable no hay evolución ni selección detrás
+			: el envejecimiento es fruto del daño inevitable a los tejidos.
+				por su uso se van estropeando
+				para contrarrestar para ver si se cumple
+					Predicción 1:
+						Los organismos deberían
+						tener un gasto energético
+						aproximadamente
+						constante a lo largo de la
+						vida.
+						el gasto energético a lo largo de la vida, no es constante como los quiroptera, su vuelo es menos eficientes en comparación de las aves, cosa que les obliga a consumir grandes cantidades de energía.
+							deberían vivir poco tiempo pero no de hehco pueden vivir década depende de las especies.
+								existen más de 1000sp
+					Predicción 2
+					rasgo de la fisiología , no debería ser fácil ↑ la longevidad  por la selección artificial
+						drosophila
+							tu selecionas a los individuos
+							sobre la edad sobre los que se desarrollan tardío versus las precoces.
+								aumento casi el doble pero no aplicamos la selección 
+						En contra porque la selección ha favorecido a la tardía
+							tasa metabólica más lenta que las precoces si que cuadra
+								↓  pero  no suficientemente disminuida para compensar .
+Puede tener algo  de verdad pero no todo
+se puede examinar a escala molecular →duración de Hematíes de diferentes mamíferos, se observa que a nivel del  organismo tiene algo que ver como se comportan las células
+La cuestión de los telómeros.
+cuestiona la teoría de la vida pero hay un coste que si estamos replicando de manera infinita →tumores.
+p53→guardian del genoma
+Diferentes mutantes
+	pérdida de funcionalidad
+	↑ de la  funcionalidad
+si existe unos compromisos o reparas mucho+mitosis e ↑ longevidad
+Primera teoría adaptativa del envejecimiento
+Para dejar espacio a las siguientes generaciones
+	el cuello de la jirafa →selección sexual.
+	porque las generaciones sean diferentes y sean más capaces de adaptarse mejor a los ambientes.
+
+Envejecimiento y sexo
+Medusas
+	
+Salmón
+relación entre la complejidad de los tejidos con la reproducción
+Contraejemplo
+E.COLI
+	los polos viejos les cuesta más dividirse, selección a favor de las células jóvenes.
+Teoría de la acumulación de mutaciones
+	Peter Medawar
+		extrínseca
+			causado por factores externos.
+				falta de alimentación
+				depredación
+				accidentes
+				lucha con otros individuos
+		Intrínseca
+			por envejecimiento
+				no hay selección sobre las mutaciones deletéreas de que tienen efecto en  las últimas etapas. 
+Experimento
+acortar la vida de los adultos
+↑ la extrínseca solo durante 4 días
+	que debe ocurrir?
+	 ↑ de mutaciones 
+		 pero no hubo diferencias entre poblaciones grandes y pequeñas, en contra de lo esperado.
+		 la selección debería haber actuado más  en poblaciones más pequeñas.
+↑ heterocigocidad
+poner a los recesivos deletéreos para manifestarlos , se midió la pérdida de la eficacia
+	esos efectos delétereos tenían lugar en fase tardías de  la vida
+	la mayoría de los alelos recesivos que estaban presentes son los esperados al haber estado acumulandose de manera neutral y se manifiesta en fases tardías de la vida
+	
+Teoría de la pleiotropía antagonista
+↑ extrínseca favorece a los caracteres que ↑ la eficacia temprana
+es similar solo que asume que los alelos que aumentan esa eficacia suelen tener un coste en la fase tardías
+Fertilidad del papamoscas de cuello blanco (
+![[Pasted image 20241209105011.png]]
+las hembras se reproduce más tarde→↑ pretendientes+  puesta de huevos→en  color azul
+la derecha es más un coste fisiológica que genético, al ↑ puesta de huevos hay un desgaste por ↓ su eficacia en sus siguientes años.
+El gen age-1 de C. elegans
+	↑ de edad
+	se mantiene constante+se mantiene una frecuencia+ condiciones de falta de alimentos+ carezca ese alelo se convierte en deletéreo.
+		mutación que cumple la pleitropía 
+Soma desechable
+a mayor ↑ intrínseca  no  tiene  que ver con el efecto pleitropico+ con la asignación de los recursos.
+Ejemplo: historia de vida de la zarigüeya
+ ↓ depredación+competencia= tardía reproducción
+
+TEMA 7. El origen de las especies→10-12-24
+ignora la selección presente en la evolución
+Definición cladista→tiene problemas porque dentro de una especie hay clados→subespecies
+podemos tener una nidad evolutiva  que no llega a alcanzar nivel de  especies
+heterosis a escala deun  gen
+depresión híbrida→todo el genoma
+epistasia→interacción de dos alelos de diferentes  cromosomas
+son equivalente a  nivel evolutivo
+↓ pequeña más rápido  actúa la deriva, entonces quizás esa relajación de la selección que tienen que ver con la neutralidad
+Ne→porque puede que las poblaciones no sean ideales, diferencias entre machos y hembras, fluctuaciones de poblaciones, es el tamaño que  importa de la deriva
+Ne por S>1→ pesa más selección
+en caso contrario predominará la deriva.
+
+12-12-24
+Práctica de informática
+¿Puede mantenerse el polimorfismo indefinidamente?
+No, debido a la presencia de la deriva que con el tiempo suficiente se acabará fijando un alelo
+¿De qué depende la probabilidad de fijación del alelo?
+De la frecuencia del alelo
+¿De qué depende el tiempo hasta la fijación del alelo?
+↑N=↓T
+
+Segunda actividad
+0,25
+Tercera actividad
+al final del alelo se acaba fijando
+roja→ teorica
+azul→real
+verde→ f total
+A
+![[Pasted image 20241212100455.png]]
+B
+![[Pasted image 20241212100530.png]]
+
+C
+→Primer caso
+![[Pasted image 20241212100556.png]]
+→Segundo caso
+![[Pasted image 20241212100634.png]]
