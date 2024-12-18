@@ -40,6 +40,7 @@ Planteamiento
 								2. Tendrá el valor complementario
 									1. I=1-CC
 				3. Si la hipótesis es correcta, es decir, que hay una segregación independiente de los genes, indica que no ha ligamiento, por tanto, se ha terminado el problema.
+			2. ![[Pasted image 20241218135504.png]]
 - Directo
 	1. Cruce di-híbrido
 		1. Nos proporciona datos del ligamiento entre dos genes, 
@@ -51,6 +52,7 @@ Planteamiento
 			2. Cálculo de parentales
 				1. N-nº de recombinantes
 					1. La mitad corresponderá a cada parental
+		3. ![[Pasted image 20241218135536.png]]
 	2. Cruce tri-híbrido
 		1. Datos que nos dan
 			1. Distancias genéticas
@@ -75,6 +77,7 @@ Planteamiento
 					3. Parentales
 						1. N-RI-RII-DR
 							1. La mitad serán de cada uno de los tipos de parentales posibles.
+	1. ![[Pasted image 20241218135625.png]]
 Problemas con más de 3 genes
 - Se debe subdividir los datos  en  grupos de 3 genes, cada uno de los cuales se como el tri-híbrido.
 - Tras eso, se reunen los datos de todos los genes
