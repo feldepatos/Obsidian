@@ -28,6 +28,7 @@ se forma los blastomeros por debajo se encuentra la cavidad subgerminal
 	pelotas→islotes 
 
 Gastrulación Xenopus
+
 	2 horas antes ya comienza los movimientos de rotación del endodermo
 		formación del  
 			labio dorsal
