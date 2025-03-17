@@ -4,6 +4,7 @@ diferencias entre el huevo y el oocito
 10 años antes de la menopausia la mujer ya he perdido su capacidad reproductivo como norma pero existen excepción
 	se sabe que las hembra de mamíferos en al etapa adulta todavía podemos producir nuevos oocitos a partir de la túnica albugínea porque presentan unas células madres 
 		hay  discusión respeto la existencia de  estas  células
+
 Explica el mecanismo molecular empieza durante la etapa fetal a diferencia delos  machos que inicia en la pubertad
 	mesonefro  
 		Hembras
@@ -14,6 +15,7 @@ Explica el mecanismo molecular empieza durante la etapa fetal a diferencia delos
 			mitad de la gestación →21 días de gestación  en los ratones
 				síntesis de RA pero la enzima Cry26(solo en la embrionaria que bloquea el RA) por tanto no estimula la Stra8
 					la capacidad de inhibición del Cr26 es menor en comparación del nano2
+
 # Espermatogénesis →todo el proceso
 1 testículo 
 	el nº de lóbulos puede variar
@@ -29,7 +31,8 @@ Es diferente en cada especie
 	ratón presenta un mayor nº de células germinales
 	Macaco
 		B1→2 B2→2 B3→ 2 B4
-			última espermatogonia que se divide mitóticamente porque la siguiente división entran por meiosis da lugar a dos espermatocitos primarios
+			última espermatogonia que se divide mitóticamente porque la siguiente división entran por meiosis da lugar a dos espermatocitos primarios.
+
 ## Mamíferos
 Espermatida le  sale un rabo y un acrosoma
 a medida de la formación del acrosoma se forma la cola en dirección contraria.
@@ -37,6 +40,7 @@ a medida de la formación del acrosoma se forma la cola en dirección contraria.
 		va rotando para que al final el acrosoma se quede mirando la parte más interna mientras la cola  a la luz.
 La disgregación de los nucleosomas,y de las histonas a proteínas básicas nucleares espermáticas que presentan una  ↑  [adenina +], con ↑ compactar el DNA
 espermatidas+espermatozoides son capaces de transcribir alrededor de un 10%, donde el DNA está laxo. En esas regiones se une ADN repetitivo de reprosomes que son ADN que procede de ARNm cuartenario. Son regiones altamente activas en la transcripción.  Las mitocondrias que presentan ribosomas, son capaces de traducir transcriptos nucleares y mitocondriales. Por tanto, son capaces de traducir 
+
 ## Aves
 ![[Pasted image 20250129090211.png]]
 los tubulos  seminíferos es igual que los mamíferos
@@ -54,6 +58,7 @@ Carece de prostata
 		en caso  de no tener un falo→beso/yuxtaposición
 	Las hembras solo tienen el oviducto izquierdo funcional de manera que a  la hora de copular su "pene" se tuerce a la izquierda
 la forma de erección es mediante el uso del sistema linfático.
+
 ## Reptiles
 presentan septos pero mínimo al punto que apenas son visibles
 	pero hay algunas especies serpientes que si que presentan septos verdaderos
@@ -70,10 +75,12 @@ el orden histológico es igual que los mamíferos pero el desarrollo de las cél
 **La inmensa de las espermatogonias estan sincronizadas y  entran en meiosis  al mismo tiempo.**
 	de tal forma que cuando eyacular hay kilos de espermatozoides hacia la luz, con lo cual que provoca la inflamación de los túbulos→ahoga a la hembra
 Los reptiles tienen alfo de mamíferos→estructura pero el desarrollo similar al  de los peces
+
 ## Peces
 esquema de un túbulo de un anfibio
 ![[Pasted image 20250129091807.png]]
 las espermatogonia estan en la pared, cada una de ellas se  rodea de células de Sertoli cuando entran en meiosis y comienza a multiplicarse la espermatogonia→dando lugar espermatogonias unidas por puentes citoplasmáticos→todas entran en meiosis al mismo tiempo.→Desarrollo hasta el espermatocisto y a medida que maduran a convertirse en espermatozoides se rompen la pared de Sertoli.
+
 Tipos de testículos
 - tubular anastomosados
 	- especies basales→ancestrales (nomenclatura del pasado)
@@ -95,6 +102,7 @@ Tipos de testículos
 				- la parte  superior esta comunicada con el exterior.
 		- Espermatogonias no restringidas
 			- hay lóbulos pero las espermatogonia no estan en la parte más distal sino que igual que los anastomosado, por tanto, comparten el mismo funcionamiento.
+
 ## Anfibios
 Urodelos
 	presentan lóbulos es igual que los peces
@@ -111,6 +119,7 @@ Anuros
 		![[Pasted image 20250129093636.png]]
 modifican  sus  aletas para formar estructuras semejantes a un falo que les sirve de puente  para la introducción de los espermatozoides a la hembra. les permite una fecundación interna **es el paso previo a la viviparidad.**
 	suele ser  las aletas pélvicas.
+
 ### Órgano copulatorio
 anuros→carecen 
 	fecundación externa
@@ -132,6 +141,7 @@ SALTAMONTES
 		unidos por las cabezas porque en esa area se deposita una capucha mucopolisacáridos.
 			+ actividad enzimática
 			+ vesículas seminales secretan sustancias nutritivas, hacen una parada en las vesiculas en su camino hacia el exterior desde la salidas de los túbulos.
+
 GRILLOS
 bolsas espermatoforo donde acumulan los espermatozoides y en su cloaca se rompen y entran en la espermateca de la hembra 
 SALTAMONTES
@@ -149,6 +159,7 @@ nos encontramos especies de erizos del mar que presentan miles de ovogonias que 
 	las hembras de mamíferos en etapa adulta si presentamos ovogénesis
 El nº de gametos que originan
 	porque la primera división el huso acromático se desplaza a la periferia
+
 # Ovogénesis
 ## Diferencias entre vertebrados e invertebrados en la ovogénesis
 puentes intercelulares se desmantelan en la paquitene, mientras que los invertebrados perduran todo el proceso.

@@ -9,7 +9,10 @@ Conjunto de todos los metabolitos de bajo peso molecular (intermediarios metabó
 - Tiene una enorme importancia en medicina
 	- Enfermedades metabólicas son de origen de mortalidad.
 	- Enzimas metabólicas y sus reguladores se están convirtiendo en dianas para fármacos viables.
-	- 
+	- Tiene una enorme importancia en Biotecnologia
+		- Producción eficiente de productos.
+	- Es el 'network'  celular que mejor se conoce.
+		- El metabolismo  es  el conjunto  de las  reacciones químicas que ocurren en un organismo(interconexión, regulación)
 ## Tipos de metabolismo
 ## Funciones del metabolismo
 ## Rutas y redes metabólicas

@@ -191,6 +191,7 @@ Sigue las cel cresta dorsal y cuando se cierra la tuberia sufren una transformac
 	cosas que forman 
 		no preguntará
 	pluripotentes →del ectodermo y mesodermo según a donde lleguen.
+
 ## Especificación de las células de la cresta neural
 el ectodermo da lugar 3 tipo: epidermis+placoda+neural
 	el inicial por los mensaje paracrinos que le llega 
