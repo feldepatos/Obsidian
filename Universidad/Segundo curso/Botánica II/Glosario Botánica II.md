@@ -1,0 +1,6 @@
+poiquilohidria
+Homeohidria
+Esporangio
+Esporófito
+Isospória
+Heterospória

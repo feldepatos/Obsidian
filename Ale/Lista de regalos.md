@@ -26,4 +26,8 @@
 - Llavero hecho a mano
 - Sin ideas
 	- Peluches ya no por falta de espacio
-	- 
+Tinystrawberry
+	Figuras de dinosaurios
+		15€
+			![[Pasted image 20250307130329.png]]
+		

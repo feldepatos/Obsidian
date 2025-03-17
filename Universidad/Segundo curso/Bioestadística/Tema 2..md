@@ -1,0 +1,1 @@
+Finalizado la clase  anterior→25-2-25
