@@ -35,7 +35,7 @@ moluscos
 			capacitación→es el nombre que recibe el proceso
 # Mecanismo molecular de capacitación espermática.
 - eliminación de la capa protectora
-	- - membrana del espermatozoides de antes y después
+	- membrana del espermatozoides de antes y después
 	- ![[Pasted image 20250131091739.png]]
 - ↑ de la act [adenilato ciclasa]
 - ↑ estabilidad nuclear 

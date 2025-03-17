@@ -1,5 +1,6 @@
 # Tipos de movimientos celulares durante la gastrulación
 aunque cada uno presente un patrón propio pero es común la clase de movimiento que hay
+
 1. Plegamiento de una región celular
 2. Giro
 3. Migración

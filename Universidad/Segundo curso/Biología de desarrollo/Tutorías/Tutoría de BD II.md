@@ -1,15 +1,15 @@
 Gastrulación del erizo de mar
 
-	ensanchamiento del polo vegetal en la blástula(cel  derivados de los micro)
-	ingresión  de las celulas  del mesenquima prmiarui→para que eso suceda debe suceder transición epitelio-mesenquima→↑ uniones GAP morfología tubular con muchas uniones→anclada no nos podemos mover
-	
-	habrá una perdida de las unoines en laparte hialina y dentro la laḿina basal→cambio en la morfología tubular a botella
-	
-	estrangulamiento de cualquier  adhesión e ingresar dentro →↑ capacidad de migrar dentro del blastocelo.
-	
-	Aparece la primera curvatura→placa vegetal sufren un cambio de morfología en cel. botella del polo vegetal.Además de un ↑ de la curvatura debido liberación del proteoglucano, que es muy hidroscopico(se hidrata rápidamente) . Se quedan en los lados
-	
-	filipodios→espículas  calcáreas que la hendidura formará el arquenterón se formara el mesenquima secundario buscará señales para encontrar donde se formará la boca→estirar del  arquenterón en formación  hacia la boca 
+ensanchamiento del polo vegetal en la blástula(cel  derivados de los micro)
+ingresión  de las celulas  del mesenquima prmiarui→para que eso suceda debe suceder transición epitelio-mesenquima→↑ uniones GAP morfología tubular con muchas uniones→anclada no nos podemos mover
+
+habrá una perdida de las unoines en laparte hialina y dentro la laḿina basal→cambio en la morfología tubular a botella
+
+estrangulamiento de cualquier  adhesión e ingresar dentro →↑ capacidad de migrar dentro del blastocelo.
+
+Aparece la primera curvatura→placa vegetal sufren un cambio de morfología en cel. botella del polo vegetal.Además de un ↑ de la curvatura debido liberación del proteoglucano, que es muy hidroscopico(se hidrata rápidamente) . Se quedan en los lados
+
+filipodios→espículas  calcáreas que la hendidura formará el arquenterón se formara el mesenquima secundario buscará señales para encontrar donde se formará la boca→estirar del  arquenterón en formación  hacia la boca 
 
 Gastrulación Aves
 

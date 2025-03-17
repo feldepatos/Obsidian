@@ -14,7 +14,13 @@ Conjunto de todos los metabolitos de bajo peso molecular (intermediarios metabó
 	- Es el 'network'  celular que mejor se conoce.
 		- El metabolismo  es  el conjunto  de las  reacciones químicas que ocurren en un organismo(interconexión, regulación)
 ## Tipos de metabolismo
+![[Pasted image 20250318005239.png]]
 ## Funciones del metabolismo
+- El metabolismo tiene dos funciones principales:
+	- Suministros de energía y materiales.
+- Obtener energía del entorno
+	- Luz solar
+	- Moléculas inorgánicas y orgánicos
 ## Rutas y redes metabólicas
 ## Red metabólica
 ### *Aeropyrum pernix*
