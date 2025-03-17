@@ -11,7 +11,9 @@ Aparece la primera curvatura→placa vegetal sufren un cambio de morfología en 
 filipodios→espículas  calcáreas que la hendidura formará el arquenterón se formara el mesenquima secundario buscará señales para encontrar donde se formará la boca→estirar del  arquenterón en formación  hacia la boca 
 
 Gastrulación Aves
+
 Segmentación de aves
+
 la mancha→blastodisco→núcleo+orgánulos
 se forma los blastomeros por debajo se encuentra la cavidad subgerminal
 	multicapa(las puntas de los dedos queda como monocapa) a monocapa→los laterales 
