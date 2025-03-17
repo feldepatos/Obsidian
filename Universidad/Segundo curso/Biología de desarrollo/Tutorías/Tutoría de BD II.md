@@ -3,9 +3,13 @@ ensanchamiento del polo vegetal en la blástula(cel  derivados de los micro)
 ingresión  de las celulas  del mesenquima prmiarui→para que eso suceda debe suceder transición epitelio-mesenquima→↑ uniones GAP morfología tubular con muchas uniones→anclada no nos podemos mover
 
 habrá una perdida de las unoines en laparte hialina y dentro la laḿina basal→cambio en la morfología tubular a botella
+
 estrangulamiento de cualquier  adhesión e ingresar dentro →↑ capacidad de migrar dentro del blastocelo.
+
 Aparece la primera curvatura→placa vegetal sufren un cambio de morfología en cel. botella del polo vegetal.Además de un ↑ de la curvatura debido liberación del proteoglucano, que es muy hidroscopico(se hidrata rápidamente) . Se quedan en los lados
+
 filipodios→espículas  calcáreas que la hendidura formará el arquenterón se formara el mesenquima secundario buscará señales para encontrar donde se formará la boca→estirar del  arquenterón en formación  hacia la boca 
+
 Gastrulación Aves
 Segmentación de aves
 la mancha→blastodisco→núcleo+orgánulos
@@ -22,6 +26,7 @@ se forma los blastomeros por debajo se encuentra la cavidad subgerminal
 				intercalación medio-lateral produce un alargamiento→extensión convergente
 				ahora aparece la línea primitiva→formación del nódulo de Hssen+surco primitivo→migración de cel y formación del mesodermo
 	pelotas→islotes 
+
 Gastrulación Xenopus
 	2 horas antes ya comienza los movimientos de rotación del endodermo
 		formación del  
@@ -37,6 +42,7 @@ Gastrulación Xenopus
 					estructura circular→se  debe alarga (mesodermo)naranja tenemos intercalación mediolateral y extensión convergente
 					externamente→intercalación radial , habría una migración  hacia arriba+capas mas delgada que sea más fácil de involucionar. Simultáneamente se debe producir ese alargamiento→mesodermo pero 
 			Labio ventral
+
 Extensión convergente en metazoos
 	gastrula unos corte para sacer un explante→rojo notocorda(extensión)+rosa mesodermo ()+
 	ranura de brackett →matriz que facilita  la migración 
