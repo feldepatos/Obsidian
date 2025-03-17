@@ -1,4 +1,5 @@
 Gastrulación del erizo de mar
+
 ensanchamiento del polo vegetal en la blástula(cel  derivados de los micro)
 ingresión  de las celulas  del mesenquima prmiarui→para que eso suceda debe suceder transición epitelio-mesenquima→↑ uniones GAP morfología tubular con muchas uniones→anclada no nos podemos mover
 
