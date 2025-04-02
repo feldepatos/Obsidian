@@ -423,3 +423,30 @@ Regulación génica por RNAs.
 	2. Regulación del inicio de la traducción
 		1. ↑ Fe→↑ afinidad por esa proteína+liberación de la región→inaccesible
 Tema 20.
+24-3-25
+
+Tema 21. Genética del cáncer
+de las células somáticas
+Causa→alguna pérdida del control de la expresión génica
+células tumorales que pierden esa capacidad→propiedades de ese crecimiento descontrolado +difusión de las células cuando llega a la etapa de metastasis
+masa de céluas que se multiplica→ inicialmente tenemos tumor benignos.
+El efecto combinado de una serie de efectos que aparecen secuancialemnte
+hoy en día de la secuenciación masiva→tratar de identificar que tipo de cáncer→
+	de manera muy general hay una serie de funciones implicadas→reparación del DNA+diferenciación...+interacciones físicas
+A favor→que hay relaciones entre presencia de alteraciones cromosómicas+familias donde hay componente hereditario
+
+El modelo de cáncer en etapa
+	retinoblastoma
+		2 mutaciones
+	hay 2 tipos
+	tumor en uno de los ojos o en ambos
+	al analizar las genealogias→que tenían en un ojo inicialmente hbaria producico una mutación y en algun momento dado ocurria la segunda mutación.
+	2 ojos→ya habían heredado la mutación
+INICIO DEL CÁNCER
+promueve ↑ de multiplicación.
+
+SEÑAS DE IDENTIDAD
+- división descontroladas
+CDKs no varían de concentración→está regulado por la presencia de las ciclinas
+
+es algo categórico→

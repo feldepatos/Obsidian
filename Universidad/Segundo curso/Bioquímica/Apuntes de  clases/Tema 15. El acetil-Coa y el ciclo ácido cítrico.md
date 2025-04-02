@@ -10,7 +10,6 @@ compuesta por un nucleotido/residuo de él
 - grupo fosfato
 se une al ácido pantonénico→B5
 - que necesitamos  para obtener energía.
-
 # Procedencias y destinos del Acetil-coA.
 sirve para formarlos →metabolito entrecruzada
 - la  única  que es unidireccional es el del piruvato a CoA.             
@@ -25,6 +24,7 @@ nos transforma el piruvato↑oxidada
 			- si sitúan uno en  diferentes partes →macromplejos que presenta cada 
 		- e1→actividad PDH
 		- e3→re oxidar el cofactor.
+
 ## Coenzimas del complejo PDH
 ![[Pasted image 20250221125701.png]]
 - E1
@@ -42,11 +42,14 @@ nos transforma el piruvato↑oxidada
 				- oxidada será la que interviene la transferencia del grupo acetilo
 			- ![[Pasted image 20250221130004.png]]
 				- reducida
-	- e3
+	- E3
 		- se reoxida en su estado normal 
 		- para ello utiliza un cofactor que se pueda reducir→FADH2.
 		- aceptor de e→NAD
-# Estrategia genearl  del ciclo ácido cítrico→CAC
+![[Pasted image 20250323204740.png]]
+
+# Estrategia general  dBalance del ciclo del ácido cítrico
+
 ## Regulación del complejo piruvato deshidrogenasa
 ![[Pasted image 20250221131113.png]]
 - e1
@@ -61,4 +64,3 @@ nos transforma el piruvato↑oxidada
 - los productos finales son inhibdores→activnado el inhibidor de la enzima.
 - Ca regula podrá ser activador de las 2?No porque una esta inhibiendo a una.
 - macrocomplejo que van actuando+cofactores
-
