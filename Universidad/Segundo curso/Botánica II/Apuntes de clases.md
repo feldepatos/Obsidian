@@ -735,3 +735,25 @@ racimo +pedúnculo
 espiga pendula→amento
 espiga con eje grueso→espádice+bractea→espeta→una flor modificada
 eje de la inflorescia ensanchado+grueso→capítulo
+
+2-4-25
+## 9.8 Diversidad y evolución
+
+si nos cargamos todo el  floema matamos el árbol.
+	el floema esta por la parte externa, que es la parte viva que es la q tiene los vasos conductores→los haces conductoras→floema+cambium 
+	la parte central del xilema no es funcional pero la elaborada solo va por la periférica. Una incisión de 1 cm.
+no daremos vegetación→geobotánica
+Origen y filogenia
+
+la zonas áridas es donde se originan las angiospermas.
+en el cretácico tardío en todos los biomas habían ya angiospermas fueron como una plaga.
+	la banda verde+radiación evolutiva de una serie de insectos(diptéros↑ explotar la radiación) rojo (coleopteros).
+		Al mismo tiempo o después del a radiación→principales polinizadores de estas plantas→parte de la clave del  éxito. Ha tenido que ver mucho con la relación mutualista desde  el inicio con los insectos las angiospermas.
+
+Parece evidente la utilización de las flores llamativas para atraer insectos+flores hermafroditas+acabo siendo que ambos grupos prosperasen de esta manera.
+
+Otras claves del éxito.
+↑ aparato digestivo =↑ capacidad de adaptarse a cualquier tipo+conducción de la saba(elaborada+sucia)+vasos conductores+ evitar daños  en las etapas  duras+↑ cantidad de compuestos defensivos (herbívoros vs angiospermas) +ciclo vital rápido.
+
+Sí o sí estudiar→los  2 grandes grupos  de angiospermas
+![[Pasted image 20250402131604.png]]

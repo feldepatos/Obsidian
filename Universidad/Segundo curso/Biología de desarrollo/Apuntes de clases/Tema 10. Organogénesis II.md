@@ -65,6 +65,7 @@ Las células de Paneth→porque digamos que estas células secretan peptidos+pro
 →termina de diferenciarse el tejido intestinal→por el contacto del bebe con la madre
 En esas cripta si hubiese alguna rotura del tubo digestivo se renovarían por la presencia de estas mismas.
 
+---
 ### Hígado, vesícula biliar y pancreas
 #### Desarrollo del hígado, vesículo biliar y páncreas
 hacia la región caudal.
@@ -87,3 +88,27 @@ Dorso-ventral→distintas de FOX
 es un derivado de la placa precordal(el que entra detrás del endodermo anterior de la farínge por involución)
 toda la musculatura+cráneo procede de este mesodermo+células de la cresta neural
 secretas distintas proteínas al resto del cuerpo+propiedades distintas→enfermedades distintas.
+De células mesodérmicas
+A través del tubo neural son células de la cresta neural migran hacia la parte ventral. A aprtir de esos bloques esféricos se forman los somitas.
+
+ Formación de los somitas
+ Periodicidad y separación de los somitas en el embrión del pollo
+  siempre se fragmento antero-posterior
+	  se esta formando los somitas alrededor de la notocorda→en la cabeza tenemos un eje que llega al nivel de los oídos.
+	  Los bloques son esféricos y ahora se tienen q separar y formar en somitas.
+
+Dependiendo de cada especie tienen un nº determinado.
+Entre la semana 6-8 tenemos cola se retrae y se pierde→pérdida de somitas 
+
+Epitelialización de los somitas→→Importante
+
+---
+NO explica que ya esta→ruta molecular→solo es de curiosidad.
+
+---
+Especificación axial de los somitas en el embrión de pollo
+
+son estos bloques estructura transitorias de la capa embrionaria
+Un ej son las costillas que solo aparecen en el torax
+Pero es esa especificación+determinación se realiza en momentos muy tempranos del desarrollo antes de formar somitas→mesodermo presomitico→si cojemos ese mesodermo de la región de torax y la transplantamos a un individuo más joven le saldrán costillas  en el cuello, en el lado donde le pones el tejido.
+Pero eso no ocurre dentro de los somitas, la especificación+determinación se producen por recepción y envio de factores paracrinos que son la comunicación del somita y el tejido vecino(un  tubo neural+notocorda+epidermis+mesodermo interno).

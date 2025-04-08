@@ -1,0 +1,40 @@
+Metabolismo
+- 6.20
+	- las proteínas que intervienen en la cadena de transporte forman parte de  ellos de las proteínas transportadoras entonces al carecer el medio de ellas, no se produce entonces pasamos a la fermentación
+- 6.21
+	- por la fermentación láctica producida en el músculo.
+		- porque están en anaerobiosis parcial→donde no llega el suficiente O2 al ritmo que se esta consumiendo.
+- 6.22
+	- regenerar el FAD+
+		- la fermentación no es esencial porque regenera los cofactores en forma reducida.
+- 6.23
+	- !!!
+	- porque solo los hepatocitos tienen los receptores para el glucagon, ya que el hígado es el responsable de la regulación de los niveles de glucosa.
+	- ↓-2,6-BPP=Inibición de la glucolisis+↑ gluconeogénesis
+- 6.24
+	- tenemos una deficiencia  de la 6-p Hepática porque los transportadores la deben sacar fosfarilada.
+- 6.25→Importante
+	-  como se entra en coma etílico.
+		- acetaldehído+NADH consume cantidades enormes de NAD+
+		- Hay varias reacciones que necesiten NAD+
+		- lactato→piruvato→no ocurre ya qu esta desplazada o parada porque tenemos ↑ NADH+↓ nad+ .
+		- Por tanto, tenemos una competencia de reacciones
+		- ↓ glucosa el hígado no responde porque esta haciendo la dextoxificación.
+			- el comer es para evitar la hipoglucemia.
+- 6.28
+	- ↓ATP
+		- defecto en la piruvato deshidrogenasa entran en Acetil-CoA →ciclo de Krebs para seguir el metabolismo aerobio.
+	- ↑ de lactato+Alanina debido que ↑ piruvato que se convierte en lactato+alanina.
+		- gluconneogénesis= oxidación de las grasas
+- 6.29
+	- carece del transportador adecuado entonces el uso es localmente.
+- 6.31
+- 6.33→cayó el año pasado del examen.
+	- a
+		- PKA no activada entonces no se fosforila la fosforilasa quinasa . 
+	- b
+		- PP-1 siempre activo porque carece de inhibidor→gluconeogénesis!
+	- c
+		- PPK ↑actividad entonces la fosforilada quinasa se degrada más glucógeno.
+	- D
+		- se para la producción de glucosa.
