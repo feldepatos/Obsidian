@@ -69,7 +69,7 @@ Un objetivo fundamental  en paleoecología es la reconstruacción de los ambient
 ## Sedimentología
 Es la rama de la  geología que se encarga de estudiar los procesos de formación, transporte y deposición de material que se acumula como sedimento en ambientales continentales y marinos, que finalmente forman rocas sedimentarios. Trata de interpretar y reconstruir los ambientes sedimentarios del  pasado.
 Las facies son un conjunto de rocas con características determinadas, ya sean paleontológicas (fósiles) o litolóficas (composición mineral, estructuras sedimentarias, geometría,ect), que ayudan a reconocer los ambientes sedimentarios o metamórficos, respectivamente, en los que se formó la roca.
-# Asociaciones fósiles
+##  Asociaciones fósiles
 Las asociaciones fósiles son el conjunto de fósiles que se encuentran en un estrato dado.
 Importantes en paleoecología:
 - Asociaciones en medios:

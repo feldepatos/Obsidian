@@ -45,3 +45,10 @@ EJERCICIO 3
  ![[Pasted image 20250404102521.png]]
  hemos obtenido un solo grupo
 	 5-4
+Test de levenne→vale tanto media como mediadas→pero de  normal es media 
+
+test para muestras independientes 
+	así no vamos a Welch
+		aceptar tendremos el test  para cuando utilizamos Wlch para dos grupos porque anova es para más de 2 grupos.
+
+

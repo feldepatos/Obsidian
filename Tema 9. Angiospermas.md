@@ -1,5 +1,3 @@
-
-# Tema 9. Espermatófitos II. Angioespermas
 ## Importancia y características
 ## Características vegetativos
 Modificaciones

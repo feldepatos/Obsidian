@@ -22,7 +22,7 @@ La terminología es obsoleta porque  mucho antes que  tenga lugar ocurre muchas 
 	- ectodermo+endodermo
 		- las cel ectodermo se  transforman en mesodermo
 			- ![[Pasted image 20250305114411.png]]
-				- en unos factores paracrinos que en el endoermo  que provocaban la inducción al mesodermo.Se ne  cuentran en  e l polo vegetal, la másventral forman tejidos mesodermo ventral  o lateral  pero en cambio   la  parte del ectpdermo más dorsal vieron que se convertíaen mesodermo dorlsa y la notocorda(es el eje  principal) a  este centro lo llamaron  el rosita el  centro de Niewkoop, ya hay inducciones el mal llamado  el  primario.
+				- en unos factores paracrinos que en el endodermo  que provocaban la inducción al mesodermo.Se encuentran en  el polo vegetal, la más ventral forman tejidos mesodermo ventral  o lateral  pero en cambio   la  parte del ectodermo más dorsal vieron que se convertían en mesodermo dorsal y la notocorda(es el eje  principal) a  este centro lo llamaron  el rosita el  centro de Niewkoop, ya hay inducciones el mal llamado  el  primario.
 
 ## Mecanismos moleculares de la formación de los ejes en anfibios
 
@@ -36,7 +36,7 @@ Ahora  les llega una señal que les indique q tiene  q ser el mesodermo dorsal�
 
 Smad+Pi→activación→Smad2→que es el que se une con otros factores de transcripción como Twin→ de los genes de organizador→es la misma ruta 
 - ![[Pasted image 20250305115335.png]]
-- Dorlsa
+- Dorsal
 	- la de abajo es la ventral
 - Porque las cel vegetal del centro de N no se dorsalizan y forman mesodermo→eso es porque en la fase de ovocito en la corteza vegetal dle polo, hay acumulación de factores de transcripción  Vg1 + impiden que las cel del blastoporo se expresen en el centro, fuera del organizador , inhibe la expresión de los genes del organizador→activan a varios  genes Sox 17 que es importante que activen que especifican genes de endodermo
 - activan genes que codifican factores paracrinos Nodal

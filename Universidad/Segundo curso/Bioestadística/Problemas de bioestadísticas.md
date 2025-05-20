@@ -52,3 +52,8 @@ $$
 	3. p-valor de la gráfica 3 es la mitad del segundo porque solo nos interesa un valor.
 1. se trabaja con la mediana>0 o es menor o igual→nula
 A hacer 4,5,6 ,2,3
+
+C→función bino.test
+p→solo lo pondriamos→si a mi me preguntan resuelve el siguien contraste es igual que la $$
+\mu
+$$
