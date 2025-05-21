@@ -18,6 +18,7 @@ En eucariotas, la cadena de transporte electrónico y la fosforilación oxidativ
 - Contiene los complejos I-IV, ATP sintasa(complejo V), orientada hacia la matriz, ATP-ADP translocasa y otras proteínas transportadoras.
 - En el espacio intermembrana se acumulan los H+ bombeados por la cadena.
 - ![[Pasted image 20250308213755.png]]
+*Mitocondria está compuesta por doble membrana*
 ### Origen endosimbionte de la mitocondria 
 ![[Pasted image 20250308213815.png]]
 ![[Pasted image 20250308213827.png]]
