@@ -41,7 +41,7 @@ $$
 NADH+H^{+}+\frac{1}{2}O_{2}\rightarrow NAD^{+}+H_{2}O
 $$
 Esta reacción es suma de dos semireacciones
-*este intercambio de e- es una reacción oxi-red. estos serían los 2  pares de e- como  ecuación global. Sin embargo esta reacción no ocurre así sino con muchos  pasos intermedios y finalmente los transfiere al O2 y termodinámicamente lo importante es la ecuación global y  no el nº de pasos
+*este intercambio de e- es una reacción oxi-red. estos serían los 2  pares de e- como  ecuación global. Sin embargo esta re                                                                                                                              acción no ocurre así sino con muchos  pasos intermedios y finalmente los transfiere al O2 y termodinámicamente lo importante es la ecuación global y  no el nº de pasos
 ¿Cómo averiguar quién es el oxidante o el reductor? Nos fijamos en el nº de oxicación utilizas moléculas pequeñas habrá que utilizar la  estructura del compuesto
 En los pasos intermedios se utiliza los transportadores.*
 $$
@@ -123,23 +123,23 @@ van dando saltos de pequeño a grandes pero no están solos.
 Diapositiva 33.
 ### Organización de los complejos mitocondriales
 en un diagrama es el potencial redox+deltaG están conectado 
-- porque el deltadepende del potencial del incremento del redox
+- porque el delta depende del potencial del incremento del redox.
 deltaG negativo desde los pares redox con un potencial↓ hasta que van a ser positivos
 - Introducción
 	- I
 		- Se reciben del NADH que se va pares ↑ reductores a oxidantes
 		- salto de delta g se genera un trabajo porque el incremento debe ser positiva
 	- II
-		- desde el complejo II vemos el  succionato cede e- luego va ahber otros transportadores y finalmente e- al coenzima Q, la diferencia entre ambos delta e →0, NO se genera energía con esa transferencia →no hay bombeo de e-
+		- desde el complejo II vemos el succionato cede e- luego va haber otros transportadores y finalmente e⁻ al coenzima Q, la diferencia entre ambos delta e →0, NO se genera energía con esa transferencia →no hay bombeo de e-
 		- Coenzima Q→III
 	- III
 			- hay un salto de delta e positivo→delta negativo
-				- transferencia de matriz a espacio intermembrana
+				- **transferencia de matriz a espacio intermembrana**
 	- IV
 		- un salto de energía de los e- cobre+etc→último acepto a O2 se traduce en bombeo de e- se consume la energía 
 - I+II
 	- Complejo I
-		- se nombran con con la molécula que cedelos electrones y  a quien los da→NADH-ubiquinona oxidorreductasa/NADH deshidrogenasa
+		- se nombran con con la molécula que cede los electrones y  a quien los da→NADH-ubiquinona oxidorreductasa/NADH deshidrogenasa
 			- hace la reacción global la siguiente reacción
 				- hay un salto de energía →tenemos energía para bombear 4H+→por  cada par de e- en contra de gradiente.
 				- complejo grande

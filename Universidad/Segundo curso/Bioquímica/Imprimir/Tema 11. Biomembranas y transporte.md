@@ -27,7 +27,7 @@ Membranas biológicas como barrera semipermeables
 	Las membranas están polarizadas eléctricamente
 		como consecuencia de su impermeabilidad a los iones, la cantidad de cargas  no está igualmente  distribuida a ambos lados de  la membrana, siendo el interior más negativo que el exterior. La membrana posee un potencial transmembrana, ∆Ψ
 Potencial eléctrico transmembrana
-	Las membrnas están polarizadas eléctricamente
+	Las membranas están polarizadas eléctricamente
 		diferencia de potencial eléctrico transmembrana
 			∆Ψ=Ψ_i-Ψ_e
 			![[Pasted image 20250309142616.png]]
@@ -72,7 +72,9 @@ $$
 $$
 Fuerza\ motriz(\Delta p)(unidades\ de\ potencial\ eléctrico,\ voltios)=\frac{\Delta \mu}{F}=\frac{RT}{F}\ln  \frac{[A]_{i}}{[A]_{e}}+z \Delta \Psi
 $$
+
 Mecanismos para el transporte a través de membranas
+
 - Difusión simple o transporte no mediado
 	- Características
 		- La molécula atraviesa la membrana impulsada por el gradiente osmótico

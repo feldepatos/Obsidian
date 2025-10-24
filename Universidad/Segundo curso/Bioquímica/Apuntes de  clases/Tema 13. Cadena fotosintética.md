@@ -52,10 +52,10 @@
 PSII
 - Se trata de un complejo en la membrana compuesto por 2 proteínas clorofilas+caretenoides que captan la E sola
 	- la clorifila ene l centro P680* excitada→reductora y cede los electrones 
-	- h+ oasan a una feofitina como un
+	- H+ pasan a una feofitina como un
 	- clorofila con carga positiva tiene capacidad de atraer electrones  
-	- los electrones despues'de pasa feoftina pasan a una plastoccianina
-		- que forman grupos alcohol tenemos el epaso de la excitación de la clorofila, conversión en reductoras +perdida de e + plastocianina es soluble entonces se mueve
+	- los electrones despues'de pasa feoftina pasan a una plastoquinona
+		- que forman grupos alcohol tenemos el paso de la excitación de la clorofila, conversión en reductoras +perdida de e⁻+ plastocianina es soluble entonces se mueve.
 		- ahora tenemos un hueco electrónico.
 - Complejo productor  de O
 	- cede los electrones asociados al PSII, con varios componentes
@@ -65,7 +65,7 @@ PSII
 	- tenemos los electrones en la plastoquinona contacta con el Citocromo B_6f
 - Citocromo B_6f
 	- cede los  electrones a los citocromos
-	- oxidando la plastiquinona que finalmente lo dan la plastocianina
+	- oxidando la **plastiquinona** que finalmente lo dan la **plastocianina**
 - Plastocianina
 	- molécula que esta asociada al citocromo puede contactar de manera temporal. Esta a lado del lumen del tilacoide.
 	- esta en ese lado
@@ -82,9 +82,9 @@ PSI
 	- ![[Pasted image 20250213135519.png]]
 		- esra formado 3 proteínas subunidades +1 que esta en el lado de estroma que conecta con el siguiente complejo
 - Ferredoxina  y ferrodozina-NAPD+ reductasa
-	- p700 se excita+reduce+oxida a hierros que finalmente de los da a la ferrrodoxina, soluble en  el estroma
+	- p700 se excita+reduce+**oxida a hierros** que finalmente de los da a la ferrrodoxina, soluble en el estroma
 	- coge los electrones de la plastocianina(que esta mirando al  lumen)+asociadas a proteínas transmembranes a la membrana
-	- pasa a la flavoproteína, porque pasa los electrones al NADP+ reduciendola hay un paso intermedio utilizadnola FADH2 como cofactor.
+	- pasa a la **flavoproteína**, porque pasa los electrones al NADP+ **reduciendola** hay un paso intermedio utilizadnola FADH2 como cofactor.
 ## Estructura de los complejos fotosintéticos
 ciclos fútil 
 - Ecuación global  de la fase luminosa de la fotosintésis en plantas
@@ -99,7 +99,7 @@ ciclos fútil
 # Balance de la fotofosforilación
 #  Fotofosforilación cíclica
 a la síntesis de la energia de la luz se queda con le gradiente que permite la síntesis de ATP.
-generamos atp sin producir NADH solo utiliza el PSI , donde los electrones lo pierde la clorofila 680 a ferrodoxina al citocromo b-6f que lo devuelve a las 680 no se forma NADH pero si que hay bombeo de H+
+**generamos ATP sin producir NADH solo utiliza el PSI** , donde los electrones lo pierde la clorofila 700 a ferrodoxina al citocromo b-6f que lo devuelve a las 700 no se forma NADH pero si que hay bombeo de H+
 aunque no genere poder reductor pero si de protones, 
 genera menos  pq no tenemos el complejo formador  de O2.
 ignorar la imagen

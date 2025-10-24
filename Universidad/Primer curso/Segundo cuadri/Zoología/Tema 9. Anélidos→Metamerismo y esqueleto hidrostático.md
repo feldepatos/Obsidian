@@ -278,7 +278,7 @@
 					- Diferencias entre los poliquetos
 						- Presencia  de glándulas calíferas
 							- Prolongaciones laminares
-								- Presentan glándulas que absorbenel alimento que lo transformaraá en calcita, la cual no se absorbe y será expulsaada en sus heces.
+								- Presentan glándulas que absorben el alimento que lo transformaraá en calcita, la cual no se absorbe y será expulsaada en sus heces.
 								- Estas glándulas cumple la función de regulador de pH, porque regula la concentración del Ca dentro del celoma.
 						- En un corte transversal
 							- El typhosole

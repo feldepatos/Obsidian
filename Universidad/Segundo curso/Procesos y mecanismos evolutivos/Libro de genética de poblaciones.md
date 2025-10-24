@@ -1,5 +1,4 @@
-# Tema 3. Los genes en las poblaciones
-# Tema  4. La deriva genética en poblaciones finitas
+
 # Tema 5. Selección: bases generales
 ## Conceptos claves
 
@@ -416,4 +415,4 @@ Como ocurre con otros parámetros también la mutación puede llevar a un equili
 $$
 q=\frac{u}{v+u}
 $$
-## 9.3 La teoría neutra de la evolución molecular
+

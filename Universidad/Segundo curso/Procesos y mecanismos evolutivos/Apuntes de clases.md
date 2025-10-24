@@ -800,22 +800,25 @@ solo lo hemos estyudao con un solo lpcus→el lastre no oslo se aplica a un solo
 ↑ HETEROCIG por la selección→la suma del lastre es tan elevado es imposible que se mantiene en las poblaciones naturales
 Kimura+crow→mirar su artículo
 nos permite calcular la heteroicgodidad=deriva+ mutación
+
 Haldane
 la variación genética no depende de la selección sino que provoca lastre
 el lastre nos vuelve aparecer sustitucional tienen que ver con el coste que tienen para la población el que la población esté eliminado alelos por aparición de un alelo más favorable
 →se calcula de otra manera por un nuevo alelo que es favorable, es muy sencilla el nº de muertes es simplemente función de la frecuencia del mutante favorecido de la selección natural
 esto significa que produzca esta evolución que acaba de aparecer tienen que aparecer 30 veces el nº de individuos que compone la población
-como máximo en una población →se puede eliminar hasta un 10% en cada generación para evitar problemas deletéreos→solo fallece un 10% a nivel  genético si estos es así y tenemos el valor de 30
-necesitamos que transcurra 300 generaciones para que un alelo que ha aparecido alcance la fijación cuando solo actúa la selección natural→tiene sus margenes
-Cuando no actúa la selección
-KImura
+como máximo en una población →se puede eliminar hasta un 10% en cada generación para evitar problemas deletéreos→solo fallece un 10% a nivel  genético si estos es así y tenemos el valor de 30.
+necesitamos que transcurra 300 generaciones para que un alelo que ha aparecido alcance la fijación cuando solo actúa la selección natural→tiene sus margenes.
+
+
+
+Tema 4.
+Kimura
 	la fijación depende de la deriva que la % depende de la frecuencia con la que está el alelo en la población 
 	la % que se genera nuevsa mutaciones vendrá dada por  la tasa de mutación + tamaño de la pobalción 
 	Luego la tasa de la mutación es le producto de la % con la que aparece la mutación con la % que se fija= 2Nu
 		nos queda u que la tasa de evolución en estas población depende exclusivamente de la tasa de mtuaaicón no de la población
 			en el caso que no actúala selección natural
 Cuando kimura aplica esdas deducciones al cálcula de la tasa de evolución
-	el calcula haciendo uso de
 	se debe producir un sustitución en el linaje humano cada dos años si tenemos en cuenta que se produzca ese cambio 
 	+haldane
 		s actúa la selección la sustitución cada 300 generaciones
@@ -879,6 +882,8 @@ pero no nos explica la observación pq hay una diferencia entre genraciones cort
 93→chao
 analizaron el tiempo de generación + tamaño poblacional→es inversa
 estos dos valores se compensen →el resultado cuando actúa la deriva actúa de forma diferente según el tiempo de generación por el tamaño de generaciones de tal manera podemos dependiendo del valor relativo del tamaño poblacional + s=actúa preferentemente selección natural/deriva genética
+
+
 19-11-24
 4.3 
 selección purificadora→no sinónima/purificadora
@@ -970,6 +975,7 @@ Procariotas
 						muy frecuentemente en plásmidos+ moviles genéticos
 							↑ dispersión entre especies, sean espectaculares
 21-11-24
+
 Tema 5. Niveles de selección y evolución
 Niveles de selección
 Tradicionalmente al individuo como objeto de la evolución que se basa en la genética de la población
@@ -1065,6 +1071,7 @@ asociación es el espacial
 veremos como puede entrar en contradicción con los caracteres de la eficacia biológica
 
 28-11-24
+
 Tema 5.5 Micro y macro evolución
 	Radios de la evolución
 		Filogenético
@@ -1266,12 +1273,16 @@ acumulación de mutaciones que se toleran mejor,permitiendo ser mantenido se
 van a ser más difíciles de asumir 
 
 5-12-24
+
 Desarrollo de la evolución
+
 la especie es el taxón es le objecto  estudios dela biología de dearrollo→esa discontinuidad entre diferentes poblaciones es un tema complejo y se estudiará mas en adelante todo nivel completo es el filum u corresponde a estructuras corporales distintas es decir formas de organizarse le organismos
-	los filum se originaron durente  el cambrioco, debido a sur rapidez implica dificultades parea establecer relaciones .
-el modelo del  cono invertido se intenta transmitir si partimos una célula inicial  las mutaciones que afectan al  estadio de desarrollo será mayor
-o solo genes que afectan a las senescencia tendrá menor impacto evolutivo que quizás no hay sido sometido a la evolución 
+	los filum se originaron durente  el Cámbrico, debido a sur rapidez implica dificultades parea establecer relaciones .
+**el modelo del cono invertido se intenta transmitir si partimos una célula inicial  las mutaciones que afectan al  estadio de desarrollo será mayor
+o solo genes que afectan a las senescencia tendrá menor impacto evolutivo que quizás no hay sido sometido a la evolución**
+
 Modelo de Fisher
+
 que se muestra en la línea continua es todo aquello genotipo que se encuentra a la misma distancia del óptico en cuanto a cambio genético.
 si es pequeño equiparable que mejores cuanto más cerca sea el criculo más lejo estemos del optimo.
 ilustra que hay 2 factores que una mutación sea beneficio el tamaño de la mutación, cuanto mayor sea más perjudicial y cuanto  mas cerca estemos del optimo peor sera
@@ -1292,10 +1303,11 @@ son larvas donde no ha habido al metamorfosis pero esos animales se reproducen a
 Un ejemplo más cercano es le de los  humanos
 	neotenia
 	nos parecemos a los juveniles chimpancé que los adultos es una peramorfosis
-Neotenia puede haber sido favorecida por la selección a rasgos juvenles de la hembra
-	las hembra más jóvenes sea más fértiles y tienda a exagerar la fijación alas jóvenes
+Neotenia puede haber sido favorecida por la selección a rasgos juveniles de la hembra
+	las hembra más jóvenes sea más fértiles y tiende a exagerar la fijación alas jóvenes
+
 Base genética del desarrollo
-el ovulo→presenta una hetericigodidad los genes que sea da en el futuro del aparte anterior  del cuerpo→lo que determina que tengas la presencia de estos mRNA por  la madre en elcigoto+cascadad de regulación que da lugar a un mononton de genes stripes.
+el ovulo→presenta una hetericigodidad los genes que sea da en el futuro del aparte anterior  del cuerpo→lo que determina que tengas la presencia de estos mRNA por  la madre en el cigoto+cascada de regulación que da lugar a un mononton de genes stripes.
 hay un promotor reprimido por hunchback y kruppel
 el concepto un gen de expresión materna+como se genera la polaridad del embrión+existe una caddcada complea de regulación+gen homeotico+HOX 
 en función que gen toques tendraś diferentes situaciones tendras un gap, en el desarrollo
@@ -1409,6 +1421,7 @@ Soma desechable
 a mayor ↑ intrínseca  no  tiene  que ver con el efecto pleitropico+ con la asignación de los recursos.
 Ejemplo: historia de vida de la zarigüeya
  ↓ depredación+competencia= tardía reproducción
+
 
 TEMA 7. El origen de las especies→10-12-24
 ignora la selección presente en la evolución

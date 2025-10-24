@@ -286,6 +286,7 @@ La dominancia  no  importa
 el apereamiento no cambia no cuestiona  estas conclusiones
 La pregunta de hardy→ en que condiciones p² será igual a p
 14-10-24
+
 Tema 6. 
 Definición del equilibrio de Hardy-Weinberg
 selección natural no afecta a ese locus
