@@ -288,7 +288,7 @@ La comprobación se realiza mediante la prueba del x².
 $$
 x^{2}=\sum_{i} \frac{(o_{i}-e_{i})^{2}}{e_{i}}
 $$
-Por lo tanto, los grados de libertad a utilizar en la prueba son: «número de clases» – «número de parámetros libres en el modelo».
+Por lo tanto, los grados de libertad a utilizar en la prueba son: «número de clases» – «número de parámetros libres en el modelo». Es el número de sumandos del estadísiticos menos uno, menos el total de parámetros independientemente a partir  de la muestra.
 ¡ATENCIÓN! Debemos comparar este valor con un χ2 con 1 gl, ya que hemos utilizado 2 parámetros de la muestra (N y p) para calcular los valores esperados.
 
 ## Equilibrio de Hardy-Weinberg con >2 alelos o poliploides
@@ -304,7 +304,7 @@ $$
 (p_{1}+p_{2}+p_{3})^{2}=p^{2}+p^{2}_{2}+p^{2}_{3}+2p_{1}p_{2}+2p_{1}p_{3}+2p_{2}p_{3}
 $$
 y las frecuencias alélicas no cambiaran de generación en generación.
-
+En conclusión el  HWE no puede aplicarse a más de un locus porque el equiibrio en cada locus individual no implica el equilibrio de las frecuencias genotípicas. Los distintos loci no recombinan libremente si están ligados en el mismo cromosomas y su independencia depende de la recombinación (que a su vez depende de la distancia física citogenética).
 ## Equilibrio HWE y heterozigosidad
 
 La heterozigosidad es máxima cuando p=q=0.5
@@ -336,7 +336,8 @@ $$
 Una diferencia importante con los genes autosómicos es que el equilibrio no se alcanza en una sola generación.
 Cambio en las frecuencias de alelos y genotipos en hombres y mujeres.
 
-Ejemplo numérico
+En este caso el equilibrio no se obtiene en la primera generación, sino que el sistema asciende asintóticamente  a dicho equilibrio. Para ello debemos  partir desde individuos heterozigotos 
+### Ejemplo numérico
 ![[Pasted image 20251026202721.png]]
 Aunque el equilibrio no se alcanza inmediatamente, sólo se necesitan unas pocas generaciones (8-10).
 ## Conclusiones
@@ -395,22 +396,26 @@ $$
 p^{2}w_{11}+\frac{pqw_{12}}{\bar{w}}
 $$
 Para el alelo *A2*: los individuos *A2A2* contribuyen con 
+
 $$
 \frac{2pqw_{12}}{\bar{w}}
 $$
 gametos, todos los cuales son *A2*; los individuos *A1A2* contribuyen con 
+
 $$
 \frac{q^{2}w_{22}}{\bar{w}}
 $$
 gametos, la mitad de los cuales son *A2*. Por ello, la nueva frecuencia de *A2* es
+
 $$
 pqw_{12}+\frac{q^{2}w_{22}}{\bar{w}}
 $$
 
 De esta forma confirmamos que las nuevas frecuencias de *A1* y *A2* suman 1.
 Es instructivo calcular el cambio en la frecuencia del alelo *A1* de una generación a la siguiente. 
+
 $$
-\text{Este valor,} \vartriangle p,\text{es igual a la nueva generación del alelo A1, menos su frecuencia anterior}.
+\text{Este valor,}\vartriangle p,\text{es igual a la nueva generación del alelo A1, menos su frecuencia anterior}.
 $$
 $$
 \begin{align}
@@ -423,16 +428,54 @@ $$
 La expresión final es útil porque muestra que el cambio en la frecuencia del alelo *A1* es proporcional a (pw11+pw12-w).
 La expresión(*pw11+qw12-w*) es igual a la eficacia media del alelo *A1* cuando se une al azar con otros alelos (pw11+qw22) menos la eficacia media de la población(w). En otras palabras, si los individuos que llevan *A1* tienen una eficacia superior a la media, entonces el alelo *A1* aumentara en frecuencia.
 El cambio en la frecuencia del alelo *A2* de una generación a la siguiente es:
+
 $$
 \begin{align}
 \vartriangle q=\frac{pqw_{12}+q^{2}w_{22}}{\bar{w}}-p \\
 =\frac{p}{\bar{w}}(pw_{12}+qw_{22}-\bar{w})
 \end{align}
 $$
+Por tanto las características serán:
+- Un locus = A
+- Dos alelos = A1 y A2
+- El alelo antiguo es A1, el nuevo es A2
+- Tres genotipos posibles = A1A1, A1A2 y A2A2
+- Cada genotipo tiene una aptitud relativa diferente (w11, w12, w22)
+- Nos interesa el destino del nuevo alelo A2
+- La aptitud del genotipo antiguo (A1A1) se establece en 1.
+- La aptitud relativa de los dos nuevos genotipos posibles (A1A2 y A2A2) se define comparativamente como 1 + s o 1 + t, donde s y t son los coeficientes de selección.
+- En comparación con el alelo antiguo (A1), el nuevo (A2) puede ser perjudicial, neutral o ventajoso, dependiendo del efecto sobre la aptitud del portador.
+![[Pasted image 20251027085030.png]]
+![[Pasted image 20251027085043.png]]
+$$
+\begin{align}
+\vartriangle p=p'-p=\frac{p^{2}(w_{11}+pqw_{12})}{\bar{w}}-p=\frac{p^{2}w_{11}+pqw_{12}-p\bar{w}}{\bar{w}} \\
+\vartriangle p\bar{w}=p^{2}w_{11}+pqw_{12}-p^{3}w_{11}-2p^{2}qw_{12}-pq^{2}w_{22} \\
+\vartriangle p\bar{w}=w_{11}(p^{2}-p^{3})+w_{12}(pq-2p^{2}q)-pq^{2}w_{22} \text{como p²-p³=p²q} \\
+\vartriangle p\bar{w}=p^{2}w_{11}+pqw_{12}-p^{3}w_{11}-2p^{2}qw_{12}-pq^{2}w_{22} \\
+\vartriangle p\bar{w}=pq[pw_{11}+w_{12}(1-2p)qw_{22}]\text{y como 1-2p=q-p} \\
+\vartriangle p\bar{w}= pq(pw_{11}+qw_{12}-pw_{12}-qw_{22}) \\
+\vartriangle p\bar{w}= pq[w_{11}-w_{12}+q(w_{12}-w_{22})]
+\end{align}
+$$
 
-## Ejemplo numérico
+$$
+\begin{align}
+\vartriangle q\bar{w}=q'-q=\frac{q^{2}w_{22}+pqw_{12}}{\bar{w}}-q=\frac{q^{2}w_{22}+pqw_{12}-q\bar{w}}{\bar{w}} \\
+\vartriangle q\bar{w}= q^{2}w_{22}+pqw_{12}-q(p^{2}w_{11}+2pqw_{12}+q^{2}w_{22})\\
+\vartriangle q\bar{w}=q^{2}w_{22}+pqw_{12}-p^{2}qw_{11}-2pq^{2}w_{12}-q^{3}w_{22} \\
+\vartriangle q\bar{w}=(q^{2}-q^{3}w_{22})+(pq-2pq^{2}w_{12})-p^{2}qw_{11} \text{como q²-q³=pq²} \\
+\vartriangle q\bar{w}= pq[qw_{22}+(1-2p)w_{12}-pw_{11}]\text{como 1-2q=p-q}\\
+\vartriangle q\bar{w}=pq(qw_{22}+pw_{12}-qw_{12}-pw_{11})\\
+=-pq[p(w_{11}-w_{12}+q(w_{12}-w_{22}))] \\
+\vartriangle q\bar{w}=pq[p(w_{11}-w_{12})+q(w_{12}-w_{22})]
+\end{align}
+$$
 
-Todo esto implica cambios en las frecuencias alélicas debido a la selección. Partimos que la población tiene individuos tienen locus B que afecta a la probabilidad de supervivencia. Supongamos, como que la frecuencia B1 en el conjunto de genes es de 0'6, y la frecuencia del alelo B2 es 0'4. Después del apareamiento al azar, obtenemos unas frecuencias genotípicas para B1B1, B1B2 y B2B2 de 0'36,0'48 y 0'16. El resto de nuestros cálculos serán más simples si damos a la población de zigotos un tamaño definido, por lo que imaginemos que hay 1000 zigotos:
+
+### Ejemplo I
+
+Todo esto implica cambios en las frecuencias alélicas debido a la selección. Partimos que la población tiene individuos tienen locus B que afecta a la probabilidad de supervivencia. Supongamos, como que la frecuencia B1 en el conjunto de genes es de 0'6, y la frecuencia del alelo B2 es 0'4. Después del apareamiento al azar, obtenemos unas frecuencias genotípicas para B1B1, B1B2 y B2B2 de 0'36,0'48 y 0'16. El resto de nuestros cálculos serán más simples si damos a la población de zigotos un tamaño definido, por lo que imaginemos que hay 1000 zigotos: 
 
 | B1B1 | B1B2 | B2B2 |
 | ---- | ---- | ---- |
@@ -450,6 +493,7 @@ En los adultos, las frecuencias de los 3 genotipos serán:
 | ------------ | ------------ | ---------- |
 | 360/800=0'45 | 360/800=0'45 | 80/800=0'1 |
 Cuando estos adultos produzcan gametos, la frecuencia del alelo *B1* en el nuevo conjunto de genes será igual a la frecuencia de *B1B1* entre los adultos que sobrevivem más la mitad de la frecuencia de *B1B2*. Este cálculo y el de la frecuencia para el alelo *B2* son como sigue:
+
 $$
 \begin{align}
 B_{1}→0'45+\left( \frac{1}{2} \right)0'45=0'675 \\
@@ -458,6 +502,114 @@ B_{2}→\left( \frac{1}{2} \right)0'45+0'1=0'325
 $$
 La frecuencia del alelo *B1* ha aumentado en un porcentaje del 7'5. La frecuencia del alelo *B2* ha disminuido en  la misma cantidad.
 La selección ha dado lugar a que no se cumpla la conclusión 1 del análisis de HWE. La población ha evolucionado en respuesta a la selección.
+
 Utilizamos una selección fuerte para insistir en nuestro ejemplo numérico. En la naturaleza, las diferencias en supervivencia raramente son tan elevadas como para ocasionar cambios importantes en las frecuencias alélicas en una sola generación. Sin embargo, si la selección continúa actuando durante muchas generaciones, incluso pequeños cambios en las frecuencias de un largo período. En la figura 5.10 se presentan cambios acumulativos en frecuencias alélicas que se pueden obtener por selección. 
 ![[Pasted image 20251027021020.png]]
 La figura se basa en un modelo poblacional similar al utilizado en los ejemplos numéricos procedentes, excepto en que las frecuencias alélicas iniciales son 0'01 para *B1* y 0'99 para *B2*. La línea amarilla presenta el cambio en frecuencias alélicas cuando las tasas de supervivencia son del 100% para *B1B1*, del 90% para *B1B2* y del 80% para *B2B2*. La frecuencia del alelo *B1* pasa en menos de 100 generaciones de 0'01 a 0'99. Con esquemas de selección más débiles, la frecuencia de *B1* varía más lentamente, pero de manera inevitable.
+
+## Ejemplo II
+Douglas Cavener y Michael Clegg (1981) documentaron el cambio acumulativo en fre-
+cuencias alélicas a lo largo de muchas generaciones en un experimento de selección natural en el laboratorio con la mosca de la fruta (Drosophila melanogaster). La mosca de la fruta, como muchos otros animales, sintetiza una enzima que degrada el etanol, el ingrediente activo venenoso de la cerveza, del vino y de la fruta en putrefacción. Esta enzima se denomina alcohol deshidrogenasa, o ADH. Esta población tenía en el locus de la ADH tenían dos alelos Adh^f y el ADH^s.
+Separaron las moscas en función del tipo de alimento que le daban: unas reciban alimento rociado con etanol y otras alimento normal. La elección de los padres fueron al azar para simular la selección natural. Además utilizaron ambientes diferentes.
+
+Tras unas pocas generaciones apenas hubo algún cambio notable a largo plazo en la población de control, por otro lado, en  la  población  experimental se observó  un descenso de la frecuencia del ADHŝ.
+
+La única diferencia entre los dos tipos de población es que las experimentales tienen etanol en su alimento. Esto sugiere que es la ausencia de selección la condición que no se cumple en las poblaciones experimentales. Las moscas con el alelo AdhF parece que tienen mayor éxito reproductivo (mayor eficacia) que las moscas con el alelo AdhS cuando hay etanol en el alimento. 
+
+Cavener y Clegg advirtieron que este resultado está de acuerdo con el hecho de que extractos del alcohol deshidrogenasa de homozigotos AdhF degradan el etanol dos veces más rápido que los extractos del alcohol deshidrogenasa de homozigotos AdhS. No está claro si las moscas con el alelo AdhF tiene una mayor eficacia porque tiene una mayor tasa de supervivencia o porque dan lugar a más descendencia.
+En conclusión, la eficiencia de la selección depende de las frecuencias iniciales y de los valores de aptitud relativos.
+![[Pasted image 20251027124633.png]]
+
+## Selección sobre alelos dominantes y recesivos
+En estos casos la frecuencia del heterozigoto tiende a estar en medio de la frecuencia de los homozigotos, cosa que puede cambiar la tasa de evolución pero no el final, ó sea, la fijación de un alelo. Pero cuando la selección favorece al heterozigoto los resultados son más variados.
+Para ello, utilizaron progenitores que presentaban alelos en homozigosis viables o letales, entonces, emplearon a individuos heterozigotos. Tras 15 generación, el alelo viable aumentó  considerablemente pero a medida que se acercaba al valor 1, empezó a  estabilizarse, cosa que ocurrió con el valor 0'79.
+Repitieron el experimento con diferente  frecuencia alélica inicial del alelo viable con un 0'975. Al contrario de lo esperado, su frecuencia no aumentó, al contrario disminuyó hasta alcanzar el valor de 0'79, tal como sucedió en el caso anterior.
+En la población se daba la superdominancia, la superioridad del heterozigoto, ya que el heterozigoto presenta una mayor eficacia enfrente a los homozigotos.
+En el equilibrio, la ventaja selectiva que posee el alelo letal cuando está en heterozigosis  se equilibra exactamente con la desventaja que tiene cuando está en homozigosis. Sólo de esta forma se pueden mantener la presencia de ambos alelos en la población.
+### Selección sobre el alelo recesivo
+Coeficiente de selección(*s*) indica la fuerza de la selección sobre los homozigotos o heterozigotos relativa a los otros genotipos.
+
+| *WAA* | *WAa* | *Waa* |
+| ----- | ----- | ----- |
+| 1     | 1     | 1+s   |
+Los valores positivos  de *s*  indican selección a favor del alelo recesivo; los  valores negativos de *s* indican selección en contra del alelo recesivo.
+Es necesario la ecuación de la siguiente generación de la frecuencia *q*, es decir, *q'*.
+$$
+q'=\frac{pqw_{Aa}+q^{2}w_{aa}}{\bar{w}}=\frac{pqw_{Aa}+q^{2}w_{aa}}{p^{2}w_{AA}+2pqw_{Aa}+q^{2}w_{aa}}
+$$
+Sustituyendo los valores de eficacia y (1-p) por *p* y simplificando, obtendremos
+$$
+q'=\frac{q(1+sq)}{1+sq^{2}}
+$$
+Si *a* es un letal recesivo, entonces *s* es igual *a-1*. Sustituyendo este valor en la ecuación anterior tendremos
+$$
+q'=\frac{q(1-q)}{1-q^{2}}=\frac{q(1-q)}{(1-q)(1+q)}=\frac{q}{(1+q)}
+$$
+
+### Selección sobre el alelo dominante
+
+| *WAA* | *WAa* | *Waa* |
+| ----- | ----- | ----- |
+| 1+s   | 1+s   | 1     |
+En este caso la selección favorece al alelo *A*, por tanto, afecta tanto a los individuos en homozigosis *AA* así como los heterozigotos *Aa* respecto al homozigoto *aa*.
+$$
+p'=\frac{p^{2}w_{AA}+pqw_{Aa}}{\bar{w}}=p^{2}w_{AA}+\frac{pqw_{Aa}}{p^{2}w_{AA}+2pqw_{Aa}+q^{2}w_{aa}}
+$$
+Lo mismo que en el caso  anterior  se sustituye *q* por (1-*p*) y simplificando se obtiene:
+$$
+p'=\frac{p(1+s)}{1+2sp-sp^{2}}
+$$
+Si **A* es letal dominante**, *s* es igual a  -1. Sustituyendo  este  valor en la ecuación anterior se ve  que el letal dominante **se elimina de la población en una sola generación.**
+
+### Selección sobre los alelos recesivos en comparación  con la selección sobre los alelos dominantes.
+El alelo no favorecido por la selección se esconde en los individuos heterozigotos. Pero tras 100  generaciones se observa un ligero cambio de frecuencias, como el aumento de la frecuencia de homozigotos no favorecidos. Una vez se acelera el ritmo de la evolución, los alelos favorecidos por la selección acabará fijandose en la población.
+![[Pasted image 20251027133512.png]]
+## Ejemplo numérico
+Tenemos una población de gorgojos del trigo que tienen dos alelos: *+ y l*. El alelo *l* en homozigosis es letal recesivo. De nuevo se inició el experimento con individuos heterozigotos cuya frecuencia inicial era de 0'5 en las dos poblaciones. Como 
+En  un inicio la frecuencia de los alelos *l* disminuyó y aumentó *+*. Tras hacer predicciones cuantitativas del curso de la evolución. Luego dejó que sus poblaciones evolucionaran durante unas doce generaciones, midiendo en cada generación las frecuencias de los alelos.
+Los resultados coincidian con sus predicciones teóricas. Al principio, la frecuencia del alelo letal recesivo disminuye rápidamente. En la segunda generación ya ha bajado del 0'5 casi  un 0'25. Pero a medida que avanza la evolución, esa reducción se vuelve más lenta. Entre las generaciones 10 y 12 la frecuencia no disminuyó  nada. Mediante el experimento de Dawson demuestra que la teoría de la genética de poblaciones, nos  permite predecir con bastante exactitud el curso de la evolución, bajo condiciones controladas en el laboratorio.
+También demuestra que la dominancia y la frecuencia alélica interactúan para determinar la tasa de evolución. Cuando el alelo recesivo es frecuente, la evolución por selección natural es rápida. En el  caso del  alelo recesivo es raro y el  alelo dominante abundante, la evolución por selección natural es lenta.
+
+Esta situación se explica mediante HWE donde partimos alta frecuencia genotípica del 0'9025 mientras que el *AA* de 0'0025, que aunque simulemos el experimento mil y unas veces, los individuos que sean homozigotos *AA* son tan pocos que no provocan un cambio de frecuencia. De esta forma, se acaba fijando el alelo *a* en la población 
+## Equilibrio estable con superioridad del heterozigoto y equilibrio inestable con inferioridad del heterozigoto
+$$
+\begin{align}
+\vartriangle p=\frac{p}{\bar{w}}(pw_{11}+qw_{12}-\bar{w}) \\
+=\frac{p}{\bar{w}}(pw_{11}+qw_{12}-p^{2}w_{11}-2pqw_{12}-q^{2}w_{22})
+\end{align}
+$$
+Por definición, la frecuencia del  alelo A1,  estará en equilibrio  cuando
+$$
+\vartriangle p=0
+$$
+Para tener esta condición es necesario  que *p o q*=0, cuando desaparece un alelo de la población. Hay otra situación
+$$
+w_{12}+w_{11}-qw_{11}-2pw_{12}-qw_{22}=0
+$$
+Tenemos que sustituir  *q*  por *(1-p)* y despejando *p* tendremos,
+$$
+\hat{p}=w_{22}-\frac{w_{12}}{w_{11}-2w_{qw}+w_{22}}
+$$
+donde p es la frecuencia del alelo A1 en el equilibrio. 
+
+| *A1A1* | *A1A2* | *A2A2* |
+| ------ | ------ | ------ |
+| 1+s    | 1      | 1+t    |
+Si *s o t* tienen valores positivos significa que están en contra del heterozigoto mientras que los negativos estarían a favor.  
+Al final al fórmula se queda :
+$$
+\hat{p}=\frac{t}{s+t}
+$$
+Los siguientes  suceden  porque el incremento de la frecuencia alélica en la siguiente generación depende de la *p*, es decir del alelo no dominante.
+Sí el valor de *p* es mayor que el equilibrio el incremento *p* será negativo, por tanto, en las siguientes generaciones habrá un descenso de sus frecuencias alélicas. Por el contrario, *p* es menor que el incremento será positivo y se mantendrá el equilibrio.
+$$
+\begin{align}
+↓ \text{Frecuencia aleĺica si} \vartriangle p<0\  \\
+\text{Equilibrio del alelo si} \vartriangle p>0
+\end{align}
+$$
+En el caso que sea selección en contra del heterozigoto, si el valor de un alelo aumenta, este  aumentará hasta alcanzar el valor de 1. Sucede algo similar en caso que su valor disminuya que llegará hasta el valor 0. Por tanto, el  equilibrio interno para un locus con inferioridad del heterozigoto es inestable.
+Además si la eficacia media será mínima cuanto más se acerque el valor del alelo *A1* al  equilibrio  inestable y será mayor cuanto más se aleje el valor  de las  frecuencias del *A1 y A2*. No podemos asumir que la selección aumentará la eficacia de manera global, cabe la posibilidad con que  se fije un alelo cosa que establecería el equilibrio o la pérdida de un alelo.
+![[Pasted image 20251027161618.png]]
+
+

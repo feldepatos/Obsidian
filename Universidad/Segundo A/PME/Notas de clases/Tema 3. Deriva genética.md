@@ -1,4 +1,4 @@
-Tema 3.
+
 24-10-25
 3.4 Mutación selección equilibrio
 lo que se gana por mutación se pierde por selección

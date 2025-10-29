@@ -1,5 +1,4 @@
-20-10
-Tema 4. Naturaleza de las enzimas
+# Naturaleza química de  las enzimas
 no hay diferencia entre los proteicos y los de ácido desorribonucleico
 sin sufrir modificaciones hasta que llegue al pto de equilibrio
 son catlizadores potentes en más de 1000 veces
@@ -91,4 +90,71 @@ ka→capacidad de la enzima tras ser unido al S,  transformarlo en producto.
 		![[Pasted image 20251024102758.png]]
 			↑ =↑ mejor enzima ya que su resultado será alto.
 			es de segundo orden
-				
+
+27-20-25
+repaso de la clase anterior
+km→relacionado con la eficiencia l
+las reacciones ocurren en dos etapas:
+1. unión del S al En influenciado por la cte km 
+2. transformación de P
+↓km ↑ eficacia de  la enzima 
+es una cte de segundo orden mismas unidades de las reacciones cinética de segundo ordden
+$$
+A+B→C+D
+$$
+si la velocidad de la reacción es proporcional a las [A][B] 
+donde v=k[A] [B]
+estas reacciones depend de la energia de activación por tanto mmás lenta sera pero la frecuencia de reacción es otro factor a tener en cuenta.
+de como las colisiones eficientes→es decir→son aquellas que se producen en moleculas de reactivos con la sufiente energía que le spermite pasar al estado de activación pero tampoco es suficiente depende dle factor de orientación→todo eso esta incluido en la cte k.
+la velocidad es proporciona  la enzima libre y sustrato libre es como si la reacción catalizada de una enzima fuese
+![[Pasted image 20251027094214.png]]
+que  ese cociente incluye la frecuencia de colisión y la frecuencia de colisión eficiente depende de la ley de difusión .
+el valor máximo que puede adquirir  esa cte/cociente→es del orden de 10⁸-9 M⁻1S⁻1
+son enzimas llamados  perfectos ya que su velocidad de su reacción no pueden ser aumentados pq han reducido su energía  de reacción 0  como triosa fosfato isomerasa.
+cte de especifida→pq si comparamos para  dos sustratos que pueden ser utilizados es mejor sustratos.
+
+cómo se determina experimentalmente estos parámetros
+se diseñan experimentos con concentraciones crecientes con la misma concentración de enzimas y se determina como varia la [producto] respecto al tiempo
+pero como estamos segurod que la velocidad es la máxima?
+	con la ecuación  de MM la  velocidad máxima es cuando la [e] es  infinitas
+	transformación que la convierten en  lineación →dedobles invernos
+	se puede extrapolar hasta donde me pegue l a ganas y deducir  la velocidad con precisión.
+	los  valores  de concentración+velocidad se obtiene  los invernos .
+	donde obtenemos una gráfica lineal.
+	cuanto valo 1/[S]=0 →infinito
+
+Inhibición enzimática
+bloqueando la catálisis ↓la reacción
+uniéndose a  la enzima sin producir desnaturalización
+pueden  ser irreversible unión muy fuerte covalente de tal forma que la disociación de la enzima no se produce y queda inactivo permanente.
+en el  centro activo tienen  un residuo ruptura(un aa que esta implicado en la  catálisis) que participa en la ruptura de enlaces de cisteína, y puede ser inactivado con el iodoacetato, 
+reversible→interacciones  febles o una combinación de estas
+estableciendo un equilibrio del inhibidor libre y el complejo EI es inactivo por tanto, no funciona mediante disolución o diálisis.
+subtipos se diferencian con el análisis cinético,
+ayudan a comprender el comportamiento en le metabolismo, interés comercial (terapéuticas, es decir, medicinas).
+- competitivo
+	- unión  a la enzima libre pero no se une al ES
+	- es mutuamente excluyente
+	- desaparece al ↑S
+	- estructura muy similar al del sustrato he ahi la competencia al centro activo.
+	- no modifican la  velocidad máxima pero  si aumenta la  km 
+		- cambia es igual a km(1+[i]/kic) donde  la kmcompetitivos>km
+- acompoetitivo
+	- es aquel que se puede uni ES para formar uno terniari que es incompente para realizar la reacción.
+	- requiere la unión previa del sustrato para que se una el inhibidor.
+	- en los casos la velocidad apartene es inferior al  llegar a un  determinado concentración de sustrato.
+	- ↓velocidad como km 
+	- genera más complejo terniari 
+- mixto
+	- los  dos fenómenos se dan lugar al mismo  tiempo
+	- todos ↓la vleocidad máximapero la km puede ↓ o ↑ o invariable 
+	- depende de quien de los  efectos predominan
+
+Clase 29-10-25
+El efecto de las temperatura y el ph
+en general cuando se presenta variación de la actividad→curva de campana el máximo de la actividad →ph optimo este varia en función de cada enzima
+muchas veces de la función del lugar donde debe trabajar 
+al modificar le ph se modifica el estado de ionización de los grupos funcionales implicado en la unión o proceso catalítico . Puede latera la unión del sustrato de los grupos residuales q pertenecen a grupos de unión pero tmbién  al modificar el estado de iionización de residuos catalicos osea romper enlaces . En definitva la modiicar km, kcat o los dos 
+
+Tempeartura
+campana→↑velocidad pero al contrario que las no catalizadas, llega un momento en que la velocidad comienza a disminuir originado esas curvas con forma de campana la velocidad de reacción no catalizada aumenta indefinidamente pero en catalizadas por enzimas aumenta la velocidad de reacción pero hasta que se estabilice hasta el valor 0, pq la curva de variación de la actividad es consecuencia de la suma del incremento de la T y la desnaturlizacón de la enzima. El máximo sería temperatura optima y es variable para cada enzima en función del lugar donde viven.
