@@ -3,6 +3,7 @@
 		- Tardan mínimo un mes
 - Oyazumi pun pun
 	- No requiere más de una semana pero su envío esta en continuo cambio
+	- El tomo 3 llega para mediados de diciembre mientras que el tomo 4 para el 9 de noviembre, solo tarda una semana en comparación al otro q tarda alrededor de 1 mes.
 - Bubusbook→animal crossing
 	- Llavero de pochita→5€
 	- Orden kit autocultivo+regadera elefante ACNH
@@ -20,8 +21,8 @@
 		- Imanes de nevera→4.95€
 		- Pins→9€
 		- Pin de pato→15€
+		- sudadera de Stardew valley
 - Otro mundo ceramica
-	- 
 - Ilustración de flores
 - Llavero hecho a mano
 - Sin ideas

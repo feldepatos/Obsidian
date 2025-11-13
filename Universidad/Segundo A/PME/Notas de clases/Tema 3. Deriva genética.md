@@ -35,7 +35,8 @@ L=w_{opt}-w_{mediana}
 $$
 sobredomincancia→
 
-Efectos  de la migración del flujo genético
+
+Efectos de la migración del flujo genético
 continente isla 
 población grande y pequeña(isla)
 el efecto de individuos de la pequeña a la grandes es mínimo al punto  de  ser despreciable pero  en caso contrario cambia las frecuencias

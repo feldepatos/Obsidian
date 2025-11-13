@@ -156,5 +156,5 @@ en general cuando se presenta variación de la actividad→curva de campana el m
 muchas veces de la función del lugar donde debe trabajar 
 al modificar le ph se modifica el estado de ionización de los grupos funcionales implicado en la unión o proceso catalítico . Puede latera la unión del sustrato de los grupos residuales q pertenecen a grupos de unión pero tmbién  al modificar el estado de iionización de residuos catalicos osea romper enlaces . En definitva la modiicar km, kcat o los dos 
 
-Tempeartura
+Temperatura
 campana→↑velocidad pero al contrario que las no catalizadas, llega un momento en que la velocidad comienza a disminuir originado esas curvas con forma de campana la velocidad de reacción no catalizada aumenta indefinidamente pero en catalizadas por enzimas aumenta la velocidad de reacción pero hasta que se estabilice hasta el valor 0, pq la curva de variación de la actividad es consecuencia de la suma del incremento de la T y la desnaturlizacón de la enzima. El máximo sería temperatura optima y es variable para cada enzima en función del lugar donde viven.

@@ -19,19 +19,20 @@ El pericondrio es un tejido conjuntivo denso irregular compuesto por células qu
 ### Hialino
 - ↑ abundante
 - Coloración blanquecina+azulada en fresca y translúcido.
-Ubicación
-	- Fetal
-		- Un molde para el esqueleto en desarrollo del feto
-	- Adultos
-		- Vías respiratorias
-		- Inserción de las costillas+esternón
-		- Reviste la superficie articular de las articulaciones sinoviales
-			- Forman  las placas epifisarias responsables del crecimiento en longitud de los huesos  largos.
-Se distingue por la matriz amorfa homogénea 
-	Tiene un aspecto vítreo
-	Es un tejido vivo complejo.
-	Participa en la lubricación de las articulaciones  sinoviales y distribuye las fuerza aplicadas al hueso subyacente.
-Su capacidad de reparación es limitada.
+- Ubicación
+- Fetal
+	- Un molde para el esqueleto en desarrollo del feto
+- Adultos
+	- Vías respiratorias
+	- Inserción de las costillas+esternón
+	- Reviste la superficie articular de las articulaciones sinoviales
+		- Forman  las placas epifisarias responsables del crecimiento en longitud de los huesos  largos.
+- Se distingue por la matriz amorfa homogénea 
+- Tiene un aspecto vítreo
+- Es un tejido vivo complejo.
+- Participa en la lubricación de las articulaciones  sinoviales y distribuye las fuerza aplicadas al hueso subyacente.
+- Su capacidad de reparación es limitada.
+
 La matriz es producida por los condrocitos y contienen 3 principales moléculas:
 - Moléculas de colágeno
 	- Proteína principal de la matriz
@@ -46,31 +47,34 @@ La matriz es producida por los condrocitos y contienen 3 principales moléculas:
 		- Presentan cargas negativas.
 - Glucoproteínas multiadhesivas/Proteínas no colágeno
 	- Influyen sobre las interacciones entre los condrocitos y las moléculas de la matriz.
+
 La matriz está muy hidratada para permitir la elasticidad y la difusión de metabolitos pequeños.
-	60-80%→agua intercelular
-	El agua está unida a aglomeraciones agrecano hialuronato(proteoglucanos)=↑presión osmática
-		Son responsables de impartir elasticidad al cartílago.
-		Las fibrillas de colágeno tipo II otorgan la capacidad de resistencia a la tensión+armazón para resistir la presión osmática.
-	Permite la difusión de metabolitos hacia los condrocitos y desde ellos.
-	↑ grado de hidratación+ movimiento son los factores que permiten a la matriz responder a cargas variables y contribuye a la capacidad del cartílago para soportar peso.
-		El cartílago sufre un contínuo remodelación pero está dependerá de la capacidad de los condrocitos de detectar los cambios en la composición matricial.
+
+- 60-80%→agua intercelular
+- El agua está unida a aglomeraciones agrecano hialuronato(proteoglucanos)=↑presión osmática
+	- Son responsables de impartir elasticidad al cartílago.
+	- Las fibrillas de colágeno tipo II otorgan la capacidad de resistencia a la tensión+armazón para resistir la presión osmática.
+- Permite la difusión de metabolitos hacia los condrocitos y desde ellos.
+- ↑ grado de hidratación+ movimiento son los factores que permiten a la matriz responder a cargas variables y contribuye a la capacidad del cartílago para soportar peso.
+	- El cartílago sufre un contínuo remodelación pero está dependerá de la capacidad de los condrocitos de detectar los cambios en la composición matricial.
+
 Los componentes de la matriz no están distribuidos de manera uniforme.
-	3 zonas:
-		La matriz capsular
-			Es un anillo de matriz localizada alrededor de condrocitos
-			Contiene fibrillas de colágeno tipo VI y fija los condrocitos a la matriz.
-		La matriz territorial
-			Más alejada dela zona condrocitos.
-			Contiene una distribución aleatoria de fibrillas de colágeno tipo II.
-		La matriz interterritorial
-			Región que rodea la matriz territorial
-			Ocupa el espacio que hay entre los grupos de condrocitos
+- 3 zonas:
+	- La matriz capsular
+		- Es un anillo de matriz localizada alrededor de condrocitos
+		- Contiene fibrillas de colágeno tipo VI y fija los condrocitos a la matriz.
+	- La matriz territorial
+		- Más alejada dela zona condrocitos.
+		- Contiene una distribución aleatoria de fibrillas de colágeno tipo II.
+	- La matriz interterritorial
+		- Región que rodea la matriz territorial
+		- Ocupa el espacio que hay entre los grupos de condrocitos
 #### Articular 
 Cubre las superficies articulares de las articulaciones móvile
 Es similar al cartílago hialino pero sin pericondrio.
 La renovación es muy lento
 Se divide en 4 zonas:
-	Superficial,Intermedia,profunda y calcificada
+- Superficial,Intermedia,profunda y calcificada
 
 |                               | Superficial                       | Intermedia                | Profunda                                         | Calcificada                                                                   |
 | ----------------------------- | --------------------------------- | ------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------- |
@@ -81,11 +85,11 @@ Se divide en 4 zonas:
 
 ### Elástico
 Se distingue por la presencia de elastina en la matriz cartilaginosa.
-	Contiene una red de fibras elásticas ramificadas+laminas interconectadas de material elástico.
+- Contiene una red de fibras elásticas ramificadas+laminas interconectadas de material elástico.
 El material elástico imparte :
-	Propiedades elásticas al cartílago+ distensibilidad+maleabilidad
+- Propiedades elásticas al cartílago+ distensibilidad+maleabilidad
 Se encuentran en el pabellón auricular, paredes del conducto auditivo externo,  tuba de Eustaquio y epiglotis de la laringe.
-	En estos lugares está rodeado por pericondrio parecido al hialino.
+- En estos lugares está rodeado por pericondrio parecido al hialino.
 NO  se calcifica con la edad.
 ### Fibroso
 Consiste en condrocitos y su material de la matriz en combinación con tejido conjuntivo denso.
@@ -93,7 +97,7 @@ Es una combinación de tejido conjuntivo denso modelado y cartílago hialino.
 Los condrocitos están disperson entre fibrillas de colágeno solos, en hilera.
 Carace de pericondrio
 Ubicación
-	discos intervertebrales, la sínfisis del pubis, los discos articulares de las articulaciones esternoclavicular y temporomandibular, los meniscos de la articulación de la rodilla, el complejo fibrocartilaginoso triangular de la muñeca y ciertos sitios en donde los tendones se insertan en los huesos.
+- discos intervertebrales, la sínfisis del pubis, los discos articulares de las articulaciones esternoclavicular y temporomandibular, los meniscos de la articulación de la rodilla, el complejo fibrocartilaginoso triangular de la muñeca y ciertos sitios en donde los tendones se insertan en los huesos.
 Presenta fibrillas de colágeno tipo I+II.
 
 | Características                       | Hialino                                                                                                                                                                                                                                                                                                                                                         | Elástico                                                                                      | Fibroso                                                                                                                                |
@@ -102,7 +106,7 @@ Presenta fibrillas de colágeno tipo I+II.
 | Función                               | Resistente a la compresión<br>Provee amortiguación, superficie lisa y de baja fricción para las articulaciones<br>Provee sosten estructural en el sistema respiratorio<br>Constituye el fundamento para el desarrollo del esqueleto fetal, la osificación endocondral y el crecimiento de los huesos largos.<br>Provee sostén flexible para los tejidos blandos | Provee sostén flexible para los tejidos blandos                                               | Resiste la deformación por fuerzas externas                                                                                            |
 | Presencia de pericondrio              | Si, a excepción en el articular                                                                                                                                                                                                                                                                                                                                 | Sí                                                                                            | No                                                                                                                                     |
 | Tipos celulares                       | Condroblastos+condrocitos                                                                                                                                                                                                                                                                                                                                       | Condroblastos+condrocitos                                                                     | Condroblastos+fibroblastos                                                                                                             |
-| Componentes de la matriz extracelular | Fibrillas de colaǵeno tipo II+ monómeros de agrecán                                                                                                                                                                                                                                                                                                             | Fibrillas de colágeno tipo II, fibras elásticas y monómeros de agrecán                        | <br>\|Fibras de colágeno tipo I+II<br>Monómeros de proteoglucano:agrecán y versicán                                                    |
+| Componentes de la matriz extracelular | Fibrillas de colaǵeno tipo II+ monómeros de agrecán                                                                                                                                                                                                                                                                                                             | Fibrillas de colágeno tipo II, fibras elásticas y monómeros de agrecán                        | \|Fibras de colágeno tipo I+II<br>Monómeros de proteoglucano:agrecán y versicán                                                        |
 | Sufre calcificación                   | Sí                                                                                                                                                                                                                                                                                                                                                              | No                                                                                            | Sí                                                                                                                                     |
 | Reparación                            | Capacidad muy limitada, en general forma una cicatriz con generación de fibrocartílago                                                                                                                                                                                                                                                                          | Capacidad muy limitada, en general forma una cicatriz con generación de fibrocartílago        | Capacidad muy limitada, en general forma una cicatriz con generación de fibrocartílago                                                 |
 | Representación                        | ![[Pasted image 20241030194931.png]]                                                                                                                                                                                                                                                                                                                            | ![[Pasted image 20241030194936.png]]                                                          | ![[Pasted image 20241030194939.png]]                                                                                                   |
@@ -110,30 +114,31 @@ Presenta fibrillas de colágeno tipo I+II.
 Se origina a partir del mesénquima durante la condrogénesis.
 Es el proceso de desarrollo del cartílago, comienza con la aglomeración de células mesenquimatosas condroprogenitoras para formar una masa densa de células redondeadas.
 El cartílago es capaz de realizar dos tipos de crecimiento :
-	Aposición
-		Proceso en el cual se forma cartílago nuevo **sobre** la superficie de un cartílago preexistente
-		Derivan de la capa interna del pericondrio circundante
-		Los condroblastos sintetizan la matriz cartilaginosas, incluidas la secreción  de colágeno tipo II.
-		La nueva matriz aumenta la masa de cartílago, mientras que al mismo tiempo se producen nuevos fibroblastos para mantener la población celular del pericondrio.
-	Intersticial
-		Proceso de formación de cartílago nuevo en el **interior** de un cartílago preexistente.
-		Surgen de la disivión de los condrocitos dentro de sus lagunas. 
-		Retienen la capacidad de dividirse y la matriz cartilaginosa circundante es distensible→permite la actividad secretora adicional.
-		Las células hijas de los condrocitos en división ocupan la misma laguna.
-			A medida que se secreta una matriz nueva, se forma una división entre células hijas; en este momento,  cada célula  ocupa su  propia laguna.
-		En crecimiento global del cartílago es el producto de la secreción intersticial del nuevo material de matriz por  los condrocitos  y  de la aposición de matriz secretada por los condroblastos recién diferenciados
+- Aposición
+	- Proceso en el cual se forma cartílago nuevo **sobre** la superficie de un cartílago preexistente
+	- Derivan de la capa interna del pericondrio circundante
+	- Los condroblastos sintetizan la matriz cartilaginosas, incluidas la secreción  de colágeno tipo II.
+	- La nueva matriz aumenta la masa de cartílago, mientras que al mismo tiempo se producen nuevos fibroblastos para mantener la población celular del pericondrio.
+- Intersticial
+	- Proceso de formación de cartílago nuevo en el **interior** de un cartílago preexistente.
+	- Surgen de la disivión de los condrocitos dentro de sus lagunas. 
+	- Retienen la capacidad de dividirse y la matriz cartilaginosa circundante es distensible→permite la actividad secretora adicional.
+	- Las células hijas de los condrocitos en división ocupan la misma laguna.
+		- A medida que se secreta una matriz nueva, se forma una división entre células hijas; en este momento,  cada célula  ocupa su  propia laguna.
+	- En crecimiento global del cartílago es el producto de la secreción intersticial del nuevo material de matriz por  los condrocitos  y  de la aposición de matriz secretada por los condroblastos recién diferenciados
 ## Reparación del tejido Cartílago
 Capacidad limitada para repararse.
-	Antes hay  que recordar que no esta vascularizado+inmovilidad de los condrocitos maduros para prolifera.
-	En caso de haber reparación será a causa de las células   progenitoras  pluripotenciales presentes en el pericondrio.
-	A nivel molecular, la reparación es un equilibrio  tentativo entre el depósito del  colágeno tipo I, en forma de  tejido cicatrizal y la restauración de la expresión de los colágenos.
-	En los adultos, en la zona lesionada tiende a vascularizarse, que estimula el desarrollo de tejido óseo en vez del cartilaginoso.
+- Antes hay  que recordar que no esta vascularizado+inmovilidad de los condrocitos maduros para prolifera.
+- En caso de haber reparación será a causa de las células   progenitoras  pluripotenciales presentes en el pericondrio.
+- A nivel molecular, la reparación es un equilibrio  tentativo entre el depósito del  colágeno tipo I, en forma de  tejido cicatrizal y la restauración de la expresión de los colágenos.
+- En los adultos, en la zona lesionada tiende a vascularizarse, que estimula el desarrollo de tejido óseo en vez del cartilaginoso.
+
 Cuando el cartílago se  calcifica, es reemplazado por el tejido óseo
-	Es la formación de cristales de fosfato de calcio que se depositan en la matriz.
-	¿Cuándo ocurre?
-		Articular en contacto con el tejido óseo en los  huesos encrecimiento y en el adulto, pero no en la superficial.
-		Ocurre cuanto el cartílago será sustituido por el óseo durante el período de crecimiento de una persona.
-		Envejecimiento
+- Es la formación de cristales de fosfato de calcio que se depositan en la matriz.
+- ¿Cuándo ocurre?
+	- Articular en contacto con el tejido óseo en los  huesos encrecimiento y en el adulto, pero no en la superficial.
+	- Ocurre cuanto el cartílago será sustituido por el óseo durante el período de crecimiento de una persona.
+	- Envejecimiento
 	
 Cuando la matriz se calcifica mucho, se impide la difusión y los condrocitos sufre tumefacción y mueren. La consecuencia final de este fenómeno es la degradación de la matriz calcificada y su reemplazo por su tejido óseo
 
@@ -155,7 +160,7 @@ Es un tejido conjuntivo especializado por una matriz extracelular mineralizada.
 
 | Sustancias                                           | Características                                            |
 | ---------------------------------------------------- | ---------------------------------------------------------- |
-| Proteoglucanos                                       | Otorga resistencia  a la compresión                        |
+| Proteoglucanos                                       | Otorga resistencia a la compresión                         |
 | Glucoproteínas                                       | Adhesión de las fibras y células a la matriz mineralizadas |
 | Proteona dependientes de vitamina K osteoespecíficas | Presentan osteoclacina+proteínas S                         |
 | Factores de crecimiento y citocinas                  | Proteínas morfogénicas→BMP                                 |
@@ -165,7 +170,7 @@ Es un tejido conjuntivo especializado por una matriz extracelular mineralizada.
 | Células                       | Ubicación                                                     | Función                                                                                                                                                             | Morfología  celular                                                                                                                                                                 | Células precursoras                              | Rasgos a destacar                                                                                  |
 | ----------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
 | Células osteoprogenitoras     | Médula ósea                                                   | Originan osteoblastos,fibroblastos+adipocitos+condrocitos+células madres; Secretar matriz ósea                                                                      | Comprenden las células periostio(capa interna del periostio)+endostio(revistan cavidades medulares, conductos osteonales(Havers) y perforantes(Volkman)); Aplanadas+núcleo alargado | Células madres mesenquimatosas de la médula ósea | Es una célula en reposo que puede  transformarse  en un osteoblastos→secretar matriz ósea          |
-| Osteoblastos                  | Superficie ósea; cono el cierre de los conductos de resorción | Secreta colágeno tipo I+proteínas de la matriz ósea, que constituyen la matriz no mineralizadas inicial→Osteoide; Responsable de la calcificación de la matriz ósea | Células mononucleares, cúbicas o poligonales;Citoplasma basófilos<br>Golgi→negativo\|                                                                                               | Célula osteoprogenitora                          | Es una célula secretadora versátil que conserva su capacidad de dividirse                          |
+| Osteoblastos                  | Superficie ósea; cono el cierre de los conductos de resorción | Secreta colágeno tipo I+proteínas de la matriz ósea, que constituyen la matriz no mineralizadas inicial→Osteoide; Responsable de la calcificación de la matriz ósea | Células mononucleares, cúbicas o poligonales;Citoplasma basófilos<br>Golgi→negativo                                                                                                 | Célula osteoprogenitora                          | Es una célula secretadora versátil que conserva su capacidad de dividirse                          |
 | Osteocitos                    | Lagunas y canalículos de la matriz ósea                       | Mantienen el tejido óseo+ produce una ↑ cantidad de matriz extracelular+ responden fuerzas mecánicas aplicadas al hueso                                             | Células mononuclear pequeña y ovalada<br><br>Citoplasma pálido<br><br>Procesos celulares extensos                                                                                   | Osteoblasto                                      | Es la célula madura y está rodeada por el osteoide                                                 |
 | Células de revestimiento óseo | En la superficie  externa(periosteo)+internas(endostio)       | Tapizan el tejido óseo que no se está remodelando del tejido óseo.                                                                                                  |                                                                                                                                                                                     | Osteblastos                                      | ↑ metabólicamente activas+multifuncionales                                                         |
 | Osteoclastos                  | Superficie ósea; cono de corte de conductos de resorción      | Resorción ósea                                                                                                                                                      | Célula multinuclear grande<br><br>Citoplasma acidófilo<br><br>Borde festoneado<br><br>Laguna de Howship subyacente                                                                  | Células hematopoyéticas→GMP,CFU-GM               | No relacionado con las osteoblastos+ 3 [[regiones especializadas]](Festoneado, clara, basolateral) |
@@ -177,12 +182,10 @@ Es un tejido conjuntivo especializado por una matriz extracelular mineralizada.
 | ----------- | --------------- | ------------------------ |
 | Largos      | ↑               | Diáfisis+epífisis(fémur) |
 | Cortos      | =               | Carpianos de mano        |
-| Planos      | Delgagos+anchos | Calota/bóveda craneal    |
+| Planos      | Delgados+anchos | Calota/bóveda craneal    |
 | Irregulares |                 | Vértebras                |
 
 ### Por su edad
-Inmaduro
-Maduro
 
 |                    | Inmaduro     | Maduro                                                         |
 | ------------------ | ------------ | -------------------------------------------------------------- |
