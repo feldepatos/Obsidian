@@ -212,6 +212,9 @@ Fenocopias→examen
 		- Como la penetración parcial 
 	- Determinismo genético
 - El  concepto de gen según Mendel
+
+---
+
 #Tema 4: Función génica y complementación
 - cuando el exceso de la tirosina no  es  capaz de metabolizarse completamente 
 - La falta de un  gen provoca recesivos
@@ -271,7 +274,9 @@ Preguntas de verdadero/falso temas 1-4
 10. ?
 Definir la complementación génica→próximo día
 Utilizar mal el término alelo
-Establece una relación entre 2 versiones de un gen y estamos hablando más de un gen y el individuo es homocigoto→es portador alelos a,b(es incorrecto)
+Establece una relación entre 2 versiones de un gen y estamos hablando más de un gen y el individuo es homocigoto→es portador alelos a,b(es incorrecto).
+
+---
 #Tema  6 Genética cuantitativa
 cuando el gen no está determinada por un solo gen
 genética de poblaciones
@@ -480,7 +485,10 @@ es la esperanza del producto de las diferencias entre el valor observado y esper
 				esto es solamente abstracción matemática que nos permite que existe una relación lineal entre el genotipo y le fenotipo
 					Desviación provocada por la dominancia→taulatoria
 						para poder  seguir utilizandouna simplificación lineal
+
+---
 24-10-24
+
 #Tema 5. Genética cuantitativa
 Término importante→regresión a la mediocridad
 Datos de ejemplos que podemos imaginar que pude poner una gallina en una año+genotipadas  en 3 genes
@@ -720,6 +728,7 @@ Preguntas de exámenes→
 no va  a preguntar ejercicios tipo demostraciones, pero sí del tipo de cuestiones
 que sepamos interpretar los conceptos y discutirlos→razonar
 
+---
 Tema 7. Cromosomas sexo y herencia
 Los descubrimientos que fueron claves para desarrollar la teoría cromosómica, saber que es la compensación de dosis
 Repasar algún concepto visto en temas anteriores
@@ -865,6 +874,7 @@ Bridges
 Clase perdida→segunda parte del tema 7
 
 
+---
 
 25-11-24
 
@@ -966,6 +976,8 @@ cruce doble heterocigotoxdoble homocigoto recesivo→solo se observa el efecto h
 test del chi→nula es la independiente.
 cruce prueba→a aparecido en otros para  averiguar el parental→del cual al manifestar los recesviso
 	cuando hablamos de un único gen con dominancia
+
+---
 
 4-12-24
 TEMA9. Mapas génicos

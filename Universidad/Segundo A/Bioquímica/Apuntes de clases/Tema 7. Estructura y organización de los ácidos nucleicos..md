@@ -152,3 +152,57 @@ la segunda se pone en ese esquema
 supernerollar puede provocar la separación
 supernerollamiento por delante debido a la seperación de las cadenas originano un estres pero las moléculas son tan larags que se comportan como extremos fijos 
 fenomenos de cintas fenomeno esencial en las enzimas topoimerasas forma parte del proceso de lectura 
+
+---
+17-11-25
+Diapositiva 14/20
+ genoma conjunto de genes se almacena en le interior de  los núcleos (eucariotas)
+ se encuentra 2 vces porque son complementarias y por alguna razon se rompe tenemos la otra para recuperarla.
+ organizado de DNA 
+ existen diversas moléculas desde una  a varias 
+ instrucciones instutituos pr genes seaprados de genes segmentos intergénicas
+ un gen es un connjunto de instrucciones para fabricar un componen celular secuencia una secuencia de arn o proteína.
+ es ese arn que hace la función al interior de la célula 
+secuencias reguladoras delante de genes que partician en la regulación de gen eno se convierten  de  arn o proteínas no son codificantes.
+un genoma dna que  contiene genes secunecias intergénica y secuencias reguladoras
+procariotas→en general el genoma formado por una molećula de adn ciruclar como el *E.coli*→cromosoma 4'5 m.o. de pares de bases 
+es frecuente que contenga plasmidios (pequeñas moleculade  dna circular en diversas copias que llevan información codificante para un pcos genes que ofrecena  la bacteria que lo lleva) pueden haber diversos o múltiples copias
+l
+genomas eucariotas son moléculas de DNA lineal se encuentra distruibdo en diversas moléculas en comrosomas. La cantidad de cormosmoas es variable en función de la especie y otros tienen varios
+hay una certa corrlación de la cnatiad de adn y su complejidad 
+pero hay excepción donde ↑ adn pero no se correlaciona con su complejidad como plantas 
+
+
+material genético de los virus
+puede ser culaquier ripo de acido nucleico tanto simple o circuñar o lineal
+nucleide es una región del interior del bacteria que se encontue formando enlacces super enrollados y esos lazos retenidos formado con la participamción de protéinas ácidos que le permite la  formación de lazos(HU)
+tmb tenemos secuencias reguladoras pero epqueñas
+todo eso hace que más del 95% de la seucneica sea codificador
+
+organismos procariotas no se encuentra repetidos o algunoc pocas veces genes  
+
+organizcaión de eucariotas
+comparativa de humano vs procariotas
+en los humanos hay 1,5% codificante
+100 veces del que sería suficiente para codificar todos los genes
+una parte del NDA repetitivo→47% 
+	no se sabe
+ligera rep son seucencias más largas hasta 1000 secuencias→provienen de elementos transponibles 
+
+37'5 genes no todo es codificador
+	estan interrumpidos
+		el gen esta formado por secuencias que son codificadoras pero separadas por secuencia no codificadoras y durante la transcripción
+			exones separados por intrones
+
+25000 pares de intrones solo 1300 para pr´teinas
+	durante la transcripción
+contribuyen a la enrome cantidad de DNA
+
+genoma oscuro que no conocemos su función
+
+teloméricas
+
+
+cromatina 
+	en el interio del nućuelo el dan se aloja a proteínas y arn formando la estructura de cromatina
+	nucleosoma la unidad báica→partícula con forma de disco o cilindro formado por un nucleo formado por histonas dos copias de cada una de ella formando un octámero de histonas(protéinas básicas con ↓ peso molecular, organizar le genoma ede las célula eucariotas en su núcleo. En ellos abundan a lisina y glicina) 	esas cagar interaccionan con las cargas negativas del DNA

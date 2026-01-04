@@ -79,3 +79,7 @@ llegada de un cuerpo extraño y los Ac→por sus dos pto de unión se unen a  do
 
 segundo caso
 celula con esutrcura propia y el linfocito lo toca y c lo chiva los macrofagos y aumentar su sensibildad y fagocitosis
+
+---
+17-11-25
+
