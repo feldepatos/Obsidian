@@ -59,7 +59,7 @@ Marcaron el ADN con fósforo-32 y las proteínas de la cápside con azufre-35, d
 
 **Alfred Gierer y Gerhard Schramm** inocularon plantas de tabaco con RNA puro del virus del mosaico del tabaco(TMV) y se desarrollo la patología.
 
-																																																																					**Heinz L. Fraenkel-Conrat i Beatrice B. Singer (1957)**: Publicaron otro tipo de experimento con el TMV. Estos científicos descubrieron que se podía aislar el núcleo del ARN de la cubierta proteica en TMV salvajes.
+**Heinz L. Fraenkel-Conrat i Beatrice B. Singer (1957)**: Publicaron otro tipo de experimento con el TMV. Estos científicos descubrieron que se podía aislar el núcleo del ARN de la cubierta proteica en TMV salvajes.
 
 En este experimento, se separaron y se aislaron el ARN y la cubierta(proteínas) TMV y  de otra cepa de este virus, el virus de la nerviación de Holmes. Al separar el ARN y las proteínas de 2 cepas distintas del virus con síntomas diferentes,  recombinar el ARN de una cepa con la cubierta proteica de la otra y usar estas partículas híbridas para infectar plantas, observándose que los síntomas  producidos correspondían siempre al tipo de ARN y no a la proteína, lo que llevó a la conclusión de que la información genética del TMV reside en el ARN y que las proteínas solo cumplen función estructural.
 
