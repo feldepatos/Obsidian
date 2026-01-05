@@ -45,9 +45,10 @@ Mendel, que no era conocido en los círculos científicos, no pudo corroborar su
 
 ---
 # El entrecruzamiento monohíbridos: Ley de segregación
+
 Entrecruzamientos entre variedades diferenciadas en una única característica fenotípica.
 
-Proceso experimental: serie de entrecruzaminetos orientados a obtener una descendencia que posteriormente era analizado y utilizada como a parentales del siguiente entrecruzamientos.
+Proceso experimental: serie de entrecruzamientos orientados a obtener una descendencia que posteriormente era analizado y utilizada como a parentales del siguiente entrecruzamientos.
 
 Conclusiones extraídas por Mendel:
 1. Cada carácter estaba determinado por factores discretos, que serían las unidades básicas de la herencia.
@@ -64,8 +65,9 @@ Después del cruzamiento se observó que las semillas solo presentaban una de lo
 Mendel autofecundó las semillas de la generación F1, lo cual produjo una segunda generación. Los dos rasgos de la generación P aparecieron en la generación F2.
 
 ¿Qué relevan los cruzamientos monohíbridos?
+
 - Factores en pareja
-	- *Los caracteres genéticos están controlados por factores que se encuentran es pares en cada organismo.*
+	- *Los caracteres genéticos están controlados por factores que se encuentran  pares en cada organismo.*
 		- En el cruce monohíbrido entre plantas altas y enanas cada carácter tiene un factor específico. Cada individuo diploide recibe un factor de cada padre.
 - Dominancia/recesividad
 	- *Cuando 2 factores distintos, responsables de un carácter dado, se encuentran en un individuo, uno de los factores domina sobre el otro, que se denomina recesivo*
@@ -82,19 +84,21 @@ Mendel autofecundó las semillas de la generación F1, lo cual produjo una segun
 *Entrecruzamiento prueba*
 
 Cuando un individuo presentan el fenotipo asociado a la acción de un alelo dominante, por simple análisis fenotípica no podemos saber si se trata de un individuo homozigoto o heterozigoto.
+
 Para ello necesitamos realizar un **entrecruzamiento prueba**: entrecruzando el individuo de genotipo desconocido con otro individuo de fenotipo recesivo. 
+
 El organismo de fenotipo dominante, pero de genotipo desconocido, se cruza con un individuo homozigoto recesivo.
 
 **Segunda ley de Mendel**
-Los dos grupos de caracteres se heredan independiente,entre uno del otro; es decir; la probabilidad de que cualquier *planta* tenga semillas amarillas o verdes no está en absoluto influenciada por la probabilidad de que esta planta tenga semillas redondas o rugosas.
+
+Los dos grupos de caracteres se heredan independiente, entre uno del otro; es decir; la probabilidad de que cualquier *planta* tenga semillas amarillas o verdes no está en absoluto influenciada por la probabilidad de que esta planta tenga semillas redondas o rugosas.
 
 Ya que los pares de caracteres alternativos se heredan independiente, podemos predecir las frecuencias de todos los posibles fenotipos de F2, aplicando la **ley del producto de probabilidad**
-- cuando se dan simultáneamente 2 sucesos independientes, la probabilidad conjunta resultante es igual al producto de las probabilidades de cada uno de ellos.
+- se dan simultáneamente 2 sucesos independientes, la probabilidad conjunta resultante es igual al producto de las probabilidades de cada uno de ellos.
 
+*En la formación de los gametos, los pares de factores que segregan se transmiten independientemente uno de otro.
 
-En la formación de los gametos, los pares de factores que segregan se transmiten independientemente uno de otro.
-
-Este principio estipula que la segregación de cualquier par de factores se da independientemente de cualquier otro. Recuerde que, como consecuencia de la segregación, cada gameto recibe uno de los miembros de cada par de factores. Para un par dado, cualquier factor que se reciba no influye en el resultado de la segregación de cualquier otro par. Por ello, de acuerdo con el principio de transmisión independiente, se formarán todas las posibles combinaciones de gametos en igual frecuencia.
+*Este principio estipula que la segregación de cualquier par de factores se da independientemente de cualquier otro. Recuerde que, como consecuencia de la segregación, cada gameto recibe uno de los miembros de cada par de factores. Para un par dado, cualquier factor que se reciba no influye en el resultado de la segregación de cualquier otro par. Por ello, de acuerdo con el principio de transmisión independiente, se formarán todas las posibles combinaciones de gametos en igual frecuencia.*
 
 En las fecundaciones F1xF1, cada zigoto tiene igual de probabilidad de recibir una de las 4 recombinaciones de cada padre. La proporción mendeliana del dihibridismo será 9:3:3:1 sobre 16. Esta es una proporción ideal basada en la probabilidad de las segregaciones implicadas, en la transmisión independientes y en la fecundación al azar. 
 
@@ -187,7 +191,7 @@ Patrones de herencia
 	- Igual distribución entre sexos.
 	- Presente en parejas endogámicas.
 	- 2 parentales afectados no puede tener descendencia no afectada.
-	- En caso de tener 1/4 hijo afectado  a partir de 2 parentales sanos.
+	- En caso de tener 1/4 hijo afectado a partir de 2 parentales sanos.
 - Autosómica dominante
 	- El carácter aparece a cada generación.
 	- Igual distribución entre sexos.

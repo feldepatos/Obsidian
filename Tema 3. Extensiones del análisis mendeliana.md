@@ -21,10 +21,9 @@ Podemos representar las relaciones de dominancia entre los alelos AB0 de la sigu
 
 Se producen anticuerpos contra cualquier antígeno extraño.
 
-
-
 ---
 # Como establecer series de dominancia entre alelos
+
 Se establece haciendo encruzamientos recíprocos entre parejas de líneas puras y observando los fenotipos de la descencia.
 En la serie de dominancia, los alelos se escriben del más dominante hasta al más recesivo.
 - Dominancia de un alelo
@@ -51,7 +50,8 @@ Posibles situaciones:
 4. Alelo letal condicional: en algunos casos, según las condiciones ambientales, algunos genotipos se expresan como normales(condiciones permisivas) o manifestan el fenotipo letal(condiciones restrictivas).
 
 Ejemplo:
-Lucien Cuento(1905): Estudió el color del pelaje de ratones, que no segrega de acuerdo con las proporciones mendelianas.
+
+**Lucien Cuento**(1905): Estudió el color del pelaje de ratones, que no segrega de acuerdo con las proporciones mendelianas.
 1. NO podía obtener una línea pura de color amarillo.
 	- **P** x amarillo→F1 2/3 amarillo+ 1/3 no amarillo.
 2. NO tenía problemas con el pelaje "normal"
@@ -104,11 +104,10 @@ Tipos de genes
 - Genes supresores
 	- El mero hecho de existir anula al otro efecto de mutaciones→puede restaurar el fenotipo normal.
 
-
-
 ---
 # Epistasis
-Es la acción no alélica de un gen sobre otro de forma que el efecto de este último quedará oculto o anulado.
+
+**Es la acción no alélica de un gen sobre otro de forma que el efecto de este último quedará oculto o anulado.**
 
 Para identificar los diferentes tipos, tenemos que buscar el fenotipo del doble mutante y observar si es igual al mutante 1, al mutante 2 o todos dos, si ambos son también iguales.
 
@@ -157,7 +156,10 @@ Para identificar los diferentes tipos, tenemos que buscar el fenotipo del doble 
 
 ---
 # Penetrancia y expresividad
-**Penetrancia**: porcentaje o frecuencia de individuos con un genotipo concreto que presentan el fenotipo asociado a este genotipo (concepto poblacional).
+**Penetrancia**: *porcentaje o frecuencia de individuos con un genotipo concreto que presentan el fenotipo asociado a este genotipo (concepto poblacional).*
+
+Es la proporción o porcentaje de individuos que poseen un determinado genotipo y **expresan efectivamente el fenotipo** asociado a ese gen.
+
 - Completa
 - Incompleta
 Depende de factores genéticos y ambientales.
@@ -167,7 +169,7 @@ Ejemplos de penetrancia incompleta en enfermedades humanas:
 - Mutaciones del gen BRCA2: cáncer de ovarios(10%)+ de mama(40%).
 
 
-**Expresividad**: grado en que un genotipo penetrante se expresa a nivel fenotípico.
+**Expresividad**: *grado en que un genotipo penetrante se expresa a nivel fenotípico.*
 Ejemplos:
 - Mutación eyeless en Drosophila: las moscas homozigoticas para el gen mutado recesivo eyeless generan fenotipo que van desde de la presencia de ojos normales a una reducción parcial de su tamaño, o la ausencia completa de 1 o 2 ojos.
 
@@ -178,37 +180,37 @@ Ejemplos:
 ---
 #  Influencia del ambiente en la expresión génica
 
-- Factores
-	- Internos
-		- Edad
-			- Muchos genes solo expresan a partir de cierto momento específico del desarrollo.
-			- Muchas mutaciones solo se manifestan a partir de cierta edad.
-	- Externos
-		- Temperaturas
-			- Mutación condicional: siameses, la melanina se produce solo en las partes mas frías del cuerpo.
-		- Luz
-			- Síntesis de 
-				- Clorofila en las plantas.
-				- Vitamina D.
-			- Manifestación deficiencias en sistemas de reparación de DNA.
-				- Xeroderma pigmentosa: necesidad de evitar las radiaciones UV.
-		- Nutrición
-			- En humano
-				- Fenilcetonúria
-				- Diabetes
-				- Intolerancia a la lactosa
-					- Edad:  ↑ lactasa los primeros años.
-					- Etnia: ↓ [nivel enzimático] más rápido en algunas etnias. 
-		- Relaciones maternas
-			- Secuencia de sucesos que provocan la anemia hemolítica debido al factor Rh:
-				- Primer embarazo con hijo RH+
-					- Sensibilización de la madre.
-				- Segundo embarazo con hijo Rh+
-					- Anemia hemolítica de un hijo Rh+ a causa de los anticuerpos de la madre sensibilizadora.
+Factores:
+
+- Internos
+	- Edad
+		- Muchos genes solo expresan a partir de cierto momento específico del desarrollo.
+		- Muchas mutaciones solo se manifestan a partir de cierta edad.
+- Externos
+	- Temperaturas
+		- Mutación condicional: siameses, la melanina se produce solo en las partes mas frías del cuerpo.
+	- Luz
+		- Síntesis de 
+			- Clorofila en las plantas.
+			- Vitamina D.
+		- Manifestación deficiencias en sistemas de reparación de DNA.
+			- Xeroderma pigmentosa: necesidad de evitar las radiaciones UV.
+	- Nutrición
+		- En humano
+			- Fenilcetonúria
+			- Diabetes
+			- Intolerancia a la lactosa
+				- Edad:  ↑ lactasa los primeros años.
+				- Etnia: ↓ [nivel enzimático] más rápido en algunas etnias. 
+	- Relaciones maternas
+		- Secuencia de sucesos que provocan la anemia hemolítica debido al factor Rh:
+			- Primer embarazo con hijo RH+
+				- Sensibilización de la madre.
+			- Segundo embarazo con hijo Rh+
+				- Anemia hemolítica de un hijo Rh+ a causa de los anticuerpos de la madre sensibilizadora.
 
 
 ---
-
 # Fenocopias
 - El fenotipo modificado por los efectos ambientales es idéntico a un efecto fenotípico de origen genético.
 - Una fenocopia **es un producto ambiental**. Por tanto, su fenotipo **no es heredable**

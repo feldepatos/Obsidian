@@ -15,7 +15,9 @@ Cada uno de ellos:
 
 Evidencia experimental que si que pudo demostrar(similar a una epistasia de doble dominantes pero la intensidad del color es variable).
 
-Consistió en un estudio de variedades de trigo con granos de coloración roja y blanca para poder comprobar el concepto que el efecto acumulativo de alelos múltiples loci daba lugar al rango de fenotipos que se observa en los caracteres cuantitativos.
+> [!WARNING]
+> Consistió en un estudio de variedades de trigo con granos de coloración roja y blanca para poder comprobar el concepto que el efecto acumulativo de alelos múltiples loci daba lugar al rango de fenotipos que se observa en los caracteres cuantitativos.
+
 - F1
 	- Observación de un color rosado intermedio, dando a entender una dominancia incompleta/intermedia.
 - F2
@@ -53,6 +55,7 @@ La norma de reacción es el conjunto de relación fenotipo-ambiente que se estab
 Los diferentes papeles que juegan tanto el genotipo como el ambiente sobre el genotipo tienden a provocar efectos drásticos en la distribución fenotípica, tanto si esta es reflejo de la acción de un solo par génico, y por lo tanto hace falta esperarla discontinua, como sí lo es de la acción de los diferentes pares génicos que regulan un rasgo genético cuantitativo y en principio la esperamos continua.
 
 Entre las principales modificaciones que podemos encontrar de la distribución fenotípica destacamos los siguientes:
+
 - Efecto ambiental
 	- **Un efecto ambiental grande puede hacer continúa la distribución fenotípica debido a un solo par génico.
 		- Como consecuencia del medio, puede haber cambios fenotípicos esperados en cualquier generación.
@@ -72,6 +75,7 @@ Entre las principales modificaciones que podemos encontrar de la distribución f
 Un caracter cuantitativo es todo aquello que presenta variación contínua y/o o manifieste pocas clases fenotípicas y este controlado por muchos genes.
 
 ## Conclusiones
+
 - Además de haber variación discontinua, hay contínua.
 - La variación de los fenotipos pueden ser explicados con genética mendeliana.
 - Además, hay otra posible hipótesis de los factores múltiples
@@ -83,12 +87,14 @@ Un caracter cuantitativo es todo aquello que presenta variación contínua y/o o
 		- ↑ más grande sea el número total de genes implicados, más contínua aparece la distribución de fenotipos.
 
 ## Otras consideraciones
+
 - El ambiente pueden jugar un papel importante:
 	- Un caracter puede aparecer como continua a causa de la variación ambiental.
 - Los diferentes alelos pueden contribuir de forma asimétrica al fenotipo.
 - Se pueden dar diferentes relaciones de dominancia entre los alelos de un gen.
 - Pueden existir interacciones entre los diferentes alelos de los diferentes genes implicados.
 - Pueden existir caracteres poligénicos cuantitativos que produzcan fenotipos discontinuos a causa de la existencia de un umbral.
+
 ---- 
 # Varianza fenotípica
 
@@ -217,6 +223,7 @@ V_{F}=V_{G}+V_{A}
 $$
 
 ### Heredabilida en sentido estricto(h²)
+
 - Mide la proporción de la varianza fenotípica atribuible únicamente a la varianza genética aditiva(V_A).
 - Los efectos aditivos son los que permiten predecir el fenotipo de la descendencia a partir del fenotipo de los padres.
 - El análisis de regresión entre padres e hijos hace exactamente esto:
@@ -229,6 +236,7 @@ $$
 ![[Pasted image 20260102192852.png]]
 
 La figura muestra **tres gráficos hipotéticos** donde se representan los valores promedio de un rasgo en los padres (eje x) versus los valores en la progenie (eje y). La idea es que la **pendiente de la recta de regresión (b)** indica el grado de **heredabilidad en sentido estricto (h²)**, que es qué tanto la variación del rasgo en los hijos se debe a la genética de los padres.
+
 1. Gráfica A
 	- Pendiente = 1→heredabilidad completa.
 	- Los valores de los hijos dependen totalmente de los padres.
