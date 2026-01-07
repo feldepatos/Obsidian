@@ -1,4 +1,5 @@
 # Introducción
+
 Las proporciones mendelianas son predicciones teóricas basadas en los supuestos del modelo.
 1. Cada carácter hereditario está determinado para un par génico.
 2. Cada alelo es o dominante o recesivo.
@@ -8,6 +9,7 @@ Las proporciones mendelianas son predicciones teóricas basadas en los supuestos
 6. No considera el efecto del ambiente.
 
 ## Alelos múltiples
+
 Si bien puede haber más de 2 alelos presentes dentro del grupo de organismos, el genotipo de cada organismo individual diploide está formado solo por 2 alelos.
 
 La herencia de características codificadas por múltiples alelos no es diferente de la herencia de características codificadas por 2 alelos, excepto que hay mayor variedad de genotipos y fenotipos posibles.
@@ -25,6 +27,7 @@ Se producen anticuerpos contra cualquier antígeno extraño.
 # Como establecer series de dominancia entre alelos
 
 Se establece haciendo encruzamientos recíprocos entre parejas de líneas puras y observando los fenotipos de la descencia.
+
 En la serie de dominancia, los alelos se escriben del más dominante hasta al más recesivo.
 - Dominancia de un alelo
 	- El fenotipo de la F1 se corresponde con el alelo dominante.
@@ -38,6 +41,7 @@ En la serie de dominancia, los alelos se escriben del más dominante hasta al m�
 # Letalidad
 
 El producto de algunos genes es esencial para la supervivencia del organismo.
+
 Posibles situaciones:
 1. Alelo letal recesivo: el heterozigoto sobrevive.
 	- El homozigoto muere. 
@@ -49,7 +53,9 @@ Posibles situaciones:
 	- Tanto letal dominante como recesivos.
 4. Alelo letal condicional: en algunos casos, según las condiciones ambientales, algunos genotipos se expresan como normales(condiciones permisivas) o manifestan el fenotipo letal(condiciones restrictivas).
 
-Ejemplo:
+
+> [!EXAMPLE] Alelo letal recesivo de Lucien Cuento
+> Contents
 
 **Lucien Cuento**(1905): Estudió el color del pelaje de ratones, que no segrega de acuerdo con las proporciones mendelianas.
 1. NO podía obtener una línea pura de color amarillo.

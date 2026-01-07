@@ -16,12 +16,18 @@ Basándose en estas conclusiones, Garrod hipotenizó que la información heredit
 
 Sólo unos pocos genéticos, entre los que estaba **Bateson, conocían el experimento**. Y sus ideas encajaban bien con la creencia de Bateson de que las condiciones hereditarias estaban cauasadas por la falta de alguna sustancia sustancial. En 1909, Bateson publicó "Los principios de la Herencia de Mendel", en el que relacionaba a los fermentos con la herencia. Sin embargo, durante casi 30 años, la mayoría de los genéticos no vieron las relaciones entre genes y enzimas. **Garrod y Bateson, como Mendel, se adelantaron a su tiempo.**
 
+
+> [!SUCCESS] Conclusiones
+> La información hereditaria controla las reacciones químicas del organismo, y que las enfermedades genéticas son el resultado de estas.
+
 ---
 # Inicio de la genética bioquímica
 ## Beadle y Ephrussi
 
-Trabajaban con los pigmentos oculares de *Drosophila*
+Trabajaban con los pigmentos oculares de *Drosophila*.
+
 Desarrollaban una técnica de transplante de discos imaginales(de ojos en este caso) en larvas.
+
 Confirmaron que se puede relacionar a genes mutantes que alteran el color de los ojos de la mosca de la fruta con errores bioquímica que implica la pérdida de la función enzimática. 
 
 Animado por estos descubrimientos, Beadle colaboró entonces con Tatum, para investigar mutaciones nutricionales del moho rosa del pan *Neurospora crassa*. Esta investigación condujo a la hipótesis de un gen: una enzima.
@@ -29,6 +35,11 @@ Animado por estos descubrimientos, Beadle colaboró entonces con Tatum, para inv
 - Conclusiones
 	- 2 reacciones bioquímicas consecutivas son responsables de la síntesis del pigmentos marrón.
 	- Todos 2 reacciones generan productos difusibles.
+
+
+> [!SUCCESS] Conclusiones
+> Demostraron que los genes no actúan directamente sobre los rasgos, sino que **regulan pasos concretos de rutas bioquímica**
+
 
 ## Beadle y Tatum
 
@@ -38,12 +49,15 @@ Este hongo es autosuficiente para su desarrollo normal, si tenía las fuentes b�
 
 Para identificar el tipo de mutación se hace una serie de cultivos que iban desde los completos a mínimos donde añadían un factor concreto para excluir si era el necesario para el correcto crecimiento de las cepas.
 
-**Concluyeron que el suplemento que restablecía el crecimiento era la molécula que la cepa mutante no podía sintetizar.**
-
 Características:
 - Parte vegetativa haploide: permite la detección de mutaciones recesivas.
 - Fácil de complementar las mutaciones recesivas en genes del metabolismo(auxotrófas) añadiendo la sustancia al medio.
 - Se puede inducir la aparición de mutaciones la exposición de los rayos X.
+
+
+> [!SUCCESS] Conclusiones
+> **Concluyeron que el suplemento que restablecía el crecimiento era la molécula que la cepa mutante no podía sintetizar.**
+
 
 ### Mutantes de *Neurospora crassa* para la arginina
 
@@ -56,7 +70,7 @@ La ruta metabólica fue la siguiente:
 
 ![[Pasted image 20251230165422.png]]
 
-Si las mutantes *arg 4-7* pueden crecer si se les suministra *ornitina/citrulina/arginina* al medio mínimo, por tanto, las mutaciones provocan un bloqueo metabólico antes de la participación de la *ornitina/citrulina/arginina*. Podemos concluir que estas dos compuestos están implicados en la formación de la  arginina.
+Si las mutantes *arg 4-7* pueden crecer si se les suministra *ornitina/citrulina/arginina* al medio mínimo, por tanto, las mutaciones provocan un bloqueo metabólico antes de la participación de la *ornitina/citrulina/arginina*. Podemos concluir que estas dos compuestos están implicados en la formación de la arginina.
 
 Por otro lado *arg 2-3* crecen si les da *citrulina* pero no la *ornitina*. Por lo tanto, la ornitina debe participar en la ruta antes del bloqueo. Sin embargo, la citrulina carece de este bloqueo, es decir, que debe estar implicada más allá del bloqueo anterior.
 
@@ -69,6 +83,10 @@ Finalmente, se puede concluir que *arg 1*  representa la mutación que evita la 
 - Sustancias 
 	- que permiten su crecimiento: posteriores al punto del bloqueo.
 	- Producidas hacia el final de la ruta pueden ser utilizadas por un ↑ nº de mutantes.
+
+
+> [!SUCCESS] Conclusiones
+> Determinó la ruta metabólica parcial de la síntesis de la arginina, porque nos permitió conocer en que punto la ruta se bloqueaba y no era capaz de pasar a la siguiente hasta la formación de la arginina.
 
 ---
 # La anemia falciforme: cada gen codifica un polipéptido
@@ -84,6 +102,12 @@ Sus manifestaciones clínicas son consecuencia que los glóbulos rojos se adhier
 Además, los pacientes son anímicos debido que viven menos tiempo que los normales. Para poder compensar esta disminución de eritrocitos, la eritropoyesis aumenta y el trabajo cardíaco. Esto conduce a un tamaño y a una forma anormal  de los huesos y a la dilatación del corazón.
 
 **En 1949, James Neel y E. A. Beet demostraron que la enfermedad se hereda como un carácter mendeliano.**
+ Tras el estudio de muchos pedigrees humanos.
+ 
+
+> [!SUCCESS] Conclusiones
+> **Muchos trastornos hereditarios raros son recesivos** y se manifiestan con mayor frecuencia cuando existe **consanguinidad**
+
 
 Los individuos normales y afectados son consecuencia de los genotipos HbAHbA y HbSHbS, respectivamente
 
@@ -97,11 +121,13 @@ Investigaciones realizadas entre 1954 y 1957 por Vernon Ingram demostró que el 
 
 ---
 # La complementación génica
+
 Dos mutantes recesivos independientes con el mismo fenotipo:
 - ¿Dos alelos del mismo gen?
 - ¿Dos alelos implicados en la misma función?
 
 ## Prueba de alelismo o de complementación
+
 1. Confirmar que las 2 mutaciones son recesivas.
 	- 2 mutaciones de alas cortas c1 y c2 obtenidas de forma independiente.
 2. Cruzar los 2 mutantes homozigotos recesivos.

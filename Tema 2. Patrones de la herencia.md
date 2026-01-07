@@ -166,6 +166,7 @@ Por consiguiente, *n=s+t*
 
 ---
 # El estudio y cálculo de probabilidad en genealogias
+
 El estudio de la herencia está limitado  por:
 - Imposibilidad de controlar los encruzamientos genéticos.
 - Tiempo de generación prolongados.

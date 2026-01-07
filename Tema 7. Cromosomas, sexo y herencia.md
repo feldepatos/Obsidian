@@ -73,6 +73,7 @@ Herencia **pseudoautosómica** o parcialmente ligada al sexo.
 ---
 
 # Compensación de dosis
+
 Mecanismo biológico mediante el cual la dosis efectivas de los genes situados en el segmento diferencial del cromosoma X se iguala en aquellas especies que presentan un número diferente de cromosoma X en machos o hembras.
 
 Caso 1. Inactivación de uno de los cromosomas X
@@ -129,6 +130,7 @@ Un ejemplo sería la calvicie, ya que es más común en hombres que en mujeres.
 ## Herencia limitada por el sexo
 
 Hay ciertos caracteres determinados por genes autosómicos, la expresión de los cuales se limita a uno de los 2 sexos.
+
 Por ejemplo el plumaje de las gallinas/gallos donde domina el plumaje de las gallina(H)  respecto al del gallo(hh), por tanto, los heterozigotos tendrán plumaje de gallina.
 ## Herencia citoplasmática
 

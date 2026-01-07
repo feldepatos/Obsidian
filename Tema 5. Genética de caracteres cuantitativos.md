@@ -27,8 +27,8 @@ Examinaron las tonalidades obtenidas y concluyeron que había 4 tipos de rojos d
 
 Pero los resultados de la F2 llamaron la atención, ya que parecía como si 2 genes, cada uno con alelos, controlaba el fenotipo y segregaban independientemente uno del otro de un modo mendeliano.
 
-Ante esta situación se planteó, que cada gen presenta un potencial alelo aditivo que contribuye a la coloración rojicea del grano y otro potencial no aditivo.
-- En P los padres tuvieron que ser homozigotos, con 2 alleosm con potencial aditivio o no.
+Ante esta situación **se planteó, que cada gen presenta un potencial alelo aditivo que contribuye a la coloración rojicea del grano y otro potencial no aditivo.**
+- En P los padres tuvieron que ser homozigotos, con 2 alelos con potencial aditivio o no.
 - En la F1, aparecen los individuos heterozigotos con 2 alelos(A y B) y no aditivos(a y b), obteniendo la coloración rosácea.
 - Por otro lado, la F2 los descendientes pueden llegar a tener de 0 a4 alelos aditivos:
 	- 0→color blanco
@@ -36,7 +36,11 @@ Ante esta situación se planteó, que cada gen presenta un potencial alelo aditi
 	- 4→color rojo
 - A ↑ nº de alelos aditivos, mayor es la intensidad de rojo porque cada alelo contribuye de la misma cantidad acumulativa de pigmento.
 
-En conclusión, demostraron cómo la variación continua podía explicarse de modo mendeliano, con **alelos aditivos** en múltuples loci influyendo en el fenotipo de una manera cuantitativa, pero segregando cada alelo de acuerdo con las leyes mendelianas.
+
+> [!SUCCESS] Comclusiones
+> Demostró cómo la variación continua podía explicarse de modo mendeliano, con alelos aditivos en múlitples locis influyendo en el fenotipo de manera cuantitativa pero segregando cada alelo de acuerdo con las leyes mendelianas.
+
+
 ## Edward M. East
 
 Estudió los efectos ambientales y la herencia poligénica de diferentes cruces endogámicos de *Nicotina longiflora* con diferentes longitudes de colora. Observó como la F1 presentaron mayor variación fenotípica, dando a entender, que los padres no serían enteramente homozigotos pero en la F2 se incrementa esa variación, porque presenta un mayor o menor número de alelos aditivos. Producirían 9 clases fenotípicas con 4 parejas génicos, 11 con 5 parejas génicas, etc.
@@ -46,6 +50,11 @@ La F3 parciales(no mostradas) proporcionan resultados diferentes porque los prog
 Ninguno de sus descendientes recuperó la longitud original de los parentales.
 
 Esta situación se explica mediante la hipótesis de los factores múltiples basada en factores mendelianos.
+
+
+> [!SUCCESS] Conclusión Herman Nilsson-Ehle
+> La variación continua observada en muchos rasgos puede explicarse por la **acción conjunta de varios genes mendelianos**
+
 
 ---
 # Norma de reacción y distribución fenotípica
@@ -69,7 +78,7 @@ Entre las principales modificaciones que podemos encontrar de la distribución f
 - Existencia de umbrales
 	- **Los rasgos genéticos cuantitativos pueden dar lugar a fenotipos de distribución discontinua.
 		- ¿Pueden los rasgos genéticos cuantitativos(genes cuantitativos, genes de efecto aditivo) controlar los rasgos genéticos con una distribución fenotípica discontinua?
-			- Si, porque la representación fenotípica es consecuencia que el valor genético del individuo supera un umbral de lo contrario el individuo no presentará esa característica pero sí que contendrá genes que si codifican para esa característica solo que no los suficientes.
+			- Si, porque **la representación fenotípica es consecuencia que el valor genético del individuo supera un umbral de lo contrario el individuo no presentará esa característica pero sí que contendrá genes que si codifican para esa característica solo que no los suficientes.**
 	- Para poder demostrarlo se estudió **Polidactilia** de conejos donde cruzó como a un individuo normal con uno afectado donde la F2 obtuvo una proporción de 3:1. Pero a medida que realizaba nuevos retrocruzamientos la proporción de individuos que tenía la condición aumentaba. Determinó que era de herencia poligénica de 4 parejas génicas y solo los individuos de más de 5 alelos manifestarían la condición
 
 Un caracter cuantitativo es todo aquello que presenta variación contínua y/o o manifieste pocas clases fenotípicas y este controlado por muchos genes.
@@ -153,7 +162,7 @@ Separar la varianza genotípica en sus componentes permite **saber cuánto de la
 ---
 # Heredabilidad
 
-Es la proporción de variación fenotípica de una población que se debe a diferencias genéticas entre los individuos.
+**Es la proporción de variación fenotípica de una población que se debe a diferencias genéticas entre los individuos.**
 
 Permite distinguir la contribución relativa de las varianza genética y ambiental, indicando qué parte de la variabilidad observada es atribuible a los genes y cuál a factores ambientales.
 
@@ -180,6 +189,7 @@ $$
 Se centra más en uno de los subcomponentes de varianza fenotípica, la varianza aditiva, ya que nos permite precedir con mayor precisión el fenotipo de la descendencia a partir del fenotipo parental.
 
 Resulta importante cuando se pretende realizar selección artificial: responde de forma predictible, y en consecuencia, **es la heredabilidad en sentido estricto la que nos proporciona información sobre como puede evolucionar un rasgo genético determinado.** 
+
 Presenta una serie de limitaciones:
 1. **No nos indica el grado en que un rasgo hereditario es genético**
 	- Mide la contribución genética a la variación entre individuos de una población, pero no indica si un rasgo es "genético" en sí mismo ni cuanto depende de los genes en cada individuo.

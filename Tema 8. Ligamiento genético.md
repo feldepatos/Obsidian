@@ -17,9 +17,10 @@ Al parecer, el color púrpura no dependía de un solo gen, sino de 2 genes disti
 
 Además, en otros cruces que ciertos caracteres no se heredaban de manera independiente, como las leyes mendelianas. Observaron que algunas combinaciones de rasgos aparecían juntas con mayor frecuencia de lo esperado. A este fenómeno lo llamaron inicialmente "acoplamiento" cuando 2 caracteres se heredaban juntos, y "repulsión" cuando tendían a separarse.
 
+
 **Morgan**
 
-Explicaría que estos genes estaban ligados físicamente en el mismo, dando  origen al concepto del ligamiento génico.
+**Explicaría que estos genes estaban ligados físicamente en el mismo, dando  origen al concepto del ligamiento génico.**
 
 Estudió la herencia de rasgos en la *Drosophila melanogaster* . El quería ver si todos los genes se heredaban de manera independiente, como decía Mendel.
 
@@ -56,6 +57,7 @@ Pares génicos en configuración *trans*
 Importancia
 
 La configuración determina qué combinaciones de alelos son más frecuentes en la descendencia.
+
 La frecuencia de recombinación permite estimar la distancia entre los genes en el cromosoma: cuanto más cerca estén, menos recombinación ocurre; cuanto más lejos, más recombinación ocurre.
 
 ---
@@ -77,7 +79,7 @@ Recombinación intracromosómica
 
 ## Harriet Creighton y Barbara McClintock
 
-Antes de este experimento, los genetistas sabían que los  genes podían recombinarse, pero no había evidencia directa de que esto implicara un cambio físico en los cromosomas. Creighton y McClinctock querían conectar la herencia genética con la estructura física de los cromosomas.
+Antes de este experimento, **los genetistas sabían que los genes podían recombinarse, pero no había evidencia directa de que esto implicara un cambio físico en los cromosomas. Creighton y McClinctock querían conectar la herencia genética con la estructura física de los cromosomas.**
 
 Trabajaron con maíz *Zea mays* porque algunas variedades tenían marcas visibles en los cromosomas, lo que permitía identificar cambios físicos bajo el microscopio. Además, los genes responsable de ciertos rasgos del maíz podían seguirse fenotípicamente.
 
@@ -104,6 +106,10 @@ Estos cromosomas también contenían genes rastreables por el fenotipo, de modo 
 - Esto proporcionó evidencia directa de que los genes están ubicados en los cromosomas.
 - Además, mostró que el crossing-over es un mecanismo físico que explica cómo los genes ligados pueden separarse.
 - Este experimento fue fundamental para confirmar la teoría cromosómico de la herencia.
+
+
+> [!SUCCESS] Conclusión
+> Demostraron que los genes se encuentran en los cromosomas.
 
 ## Entrecruzamiento
 
@@ -146,8 +152,11 @@ En resumen, el ligamiento se detecta cuando las recombinaciones parentales apare
 
 ## Alfred Stuvevant
 
-Estudiante de Morgan que trabajaba con la *Drosophila Melanogaster* y se interesó por entender cómo estaban organizados los genes dentro de los cromosomas. En ese momento ya se sabía que algunos genes estaban ligados y que la recombinación durante la meiosis podía separarlos, pero no se conocía su orden ni su posición relativa. Stuvevant propuso que los genes están dispuestos de forma lineal a lo largo del cromosoma y que la frecuencia de recombinación entre 2 genes depende de la distancia que los separa. Para comprobarlo, analizó datos de cruzamientos en los que se observaban descendientes parentales y recombinantes y calculó el porcentaje de recombinación entre distintos pares de genes. 
-Observó que los genes que recombinaban poco debían estar más alejados. Comparando varias frecuencias de recombinación, pudo ordenar los genes en una secuencia lógica que explicaba todos los resultados experimentales. De este modo construyó el primer mapa genético, en el que las distancias entre genes se expresaban como unidades de recombinación, más tarde llamadas centimorgan, eqiuvalentes a un uno por ciento de recombinación. Este trabajo demostró que los genes tienen un orden fijo en los cromosomas y que la recombinación puede usarse para medir distancias genéticas, sentando las bases de  la cartografía genética moderna.
+Estudiante de Morgan que trabajaba con la *Drosophila Melanogaster* y se interesó por entender cómo estaban organizados los genes dentro de los cromosomas. En ese momento ya se sabía que algunos genes estaban ligados y que la recombinación durante la meiosis podía separarlos, pero **no se conocía su orden ni su posición relativa**. Stuvevant propuso que los genes están dispuestos de forma lineal a lo largo del cromosoma y que la frecuencia de recombinación entre 2 genes depende de la distancia que los separa. Para comprobarlo, analizó datos de cruzamientos en los que se observaban descendientes parentales y recombinantes y calculó el porcentaje de recombinación entre distintos pares de genes. 
+
+Observó que los genes que recombinaban poco debían estar más alejados. 
+
+Comparando varias frecuencias de recombinación, pudo ordenar los genes en una secuencia lógica que explicaba todos los resultados experimentales. De este modo construyó el primer mapa genético, en el que las distancias entre genes se expresaban como unidades de recombinación, más tarde llamadas centimorgan, eqiuvalentes a un uno por ciento de recombinación. Este trabajo demostró que los genes tienen un orden fijo en los cromosomas y que la recombinación puede usarse para medir distancias genéticas, sentando las bases de  la cartografía genética moderna.
 
 **Fundamento**
 - El entrecruzamiento entre 2 cromátidas se produce al azar, con la misma probabilidad a lo largo del cromosoma.
@@ -159,10 +168,16 @@ Observó que los genes que recombinaban poco debían estar más alejados. Compar
 - La FR máxima detectable es 0'5.
 
 
+> [!SUCCESS] Conclusión
+> Demostró  que **la recombinación puede usarse para determinar el orden y la distancia de los genes en un cromosoma**.
+
+
 ---
 # Recombinación mitótica
 
 ## Curl Stern
 
 Experimentó *Drosophila Melanogaster* para demostrar que la recombinación genética observada en los descendientes se debe a un intercambio físico de segmentos de cromosomas, confirmando en animales lo que Creighton y McClintock habían demostrado antes en plantas. Stern trabajó con cromosomas X que presentaban marcas citológicas visibles, como fragmentos duplicados o translocados, lo que permitía distinguirlos al microscopio. Utilizó hembras heterozigotas con 2 cromosomas X diferentes: uno con ciertas mutaciones genéticas y una marca cromosómica visible, y el otro con mutaciones distintas y otra marca estructural diferente. Estas hembras fueron cruzadas con machos normales. 
-Al analizar la descendencia, Stern observó que cuando aparecían combinaciones nuevas de genes, los cromosomas X correspondientes mostraban también un intercambio físico de las marcas cromosómicas. Cuando no había recombinación genética, tampoco había intercambio visible de segmentos cromosómicos. Esto demostró que la recombinación genética está directamente asociada al crossing-over físico entre cromosomas homólogos durante la meiosis. El experimento de Stern proporcionó una evidencia citológica directa en animales que los genes están localizados en los cromosomas y que la recombinación se produce por intercambio real de material cromosómico.
+Al analizar la descendencia, Stern observó que cuando aparecían combinaciones nuevas de genes, los cromosomas X correspondientes mostraban también un intercambio físico de las marcas cromosómicas. Cuando no había recombinación genética, tampoco había intercambio visible de segmentos cromosómicos. Esto demostró que la recombinación genética está directamente asociada al crossing-over físico entre cromosomas homólogos durante la meiosis. 
+
+El experimento de Stern proporcionó una evidencia citológica directa en animales que los genes están localizados en los cromosomas y que la recombinación se produce por intercambio real de material cromosómico.

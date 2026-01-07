@@ -100,7 +100,7 @@ La frecuencia de cotransformación es inversamente proporcional en la distancia 
 
 Demostraron que las bacteria sufren conjugación, un proceso mediante el que la información genética de una bacteria se transfiere y recombina con la de otra bacteria. Como en el entrecruzamiento meiótico en eucariotas,**este proceso de recombinación en bacterias proporcionó las bases para el desarrollo de metodologías de cartografía cromosómica**. Cabe destacar que en bacterias y fagos, da lugar  **a la sustitución de uno o más genes presentes en una cepa por los que una cepa genéticamente distintas** y no es un intercambio recíproco.
 
-Realizaron el experimento iniciales de Lederberg y Tatum, se realizaron con 2 cepas auxótrofas(bacteria que necesita nutrientes suplementarias para crecer) múltiples (mutantes nutricionales) de la cepa de *E.coli K12*. La cepa A requería metionina y biotina para poder crecer mientras que la cepa B requería treonina, leucina y tiamina. Ninguna de las 2 cepas podría crecer en un medio mínimo. Las 2 cepas se sembraron primero separadamente en un medio suplementado, y luego se mezclaron células de ambas cepas y se hicieron crecer juntas durante varias generaciones. Posteriormente se sembraron en un medio mínimo.
+Realizaron el experimento iniciales de Lederberg y Tatum, se realizaron con 2 cepas auxótrofas(bacteria que necesita nutrientes suplementarias para crecer) múltiples (mutantes nutricionales) de la cepa de *E.coli K12*. La cepa A requería metionina y biotina para poder crecer mientras que la cepa B requería treonina, leucina y tiamina. Ninguna de las 2 cepas podría crecer en un medio mínimo. Las 2 cepas se sembraron primero separadamente en un medio suplementado, y luego se mezclaron células de ambas cepas y **se hicieron crecer juntas durante varias generaciones.** Posteriormente se sembraron en un medio mínimo.
 
 Cualquier células bacteriana que creciera en el medio mínimo sería protótrofa. Es muy probable que cualquiera de las células con 2 o 3 genes mutantes hubiera sufrido mutaciones espontáneas simultáneamente en los  2 o 3 loci, dando lugar a células híbridas/silvestres. Por consiguientes, los investigadores asumieron que cualquier **protófrofo nuevo debía haber surgido como consecuencia de alguna forma de intercambio genético y recombinación entre las 2 cepas.**
 
@@ -109,6 +109,11 @@ En este experimento se recuperaron protótrofos con una frecuencia aproximada de
 Los controles de este experimentos fueron sembrar por separado células de las cepas A y B en un medio mínimo. No se obtuvieron protótrofos. 
 
 Basándose en estas observaciones, **Lederberg y Tatum propusieron que, aunque el fenómeno era realmente raro**, había ocurrido recombinación.
+
+
+> [!SUCCESS] Conclusión de Lederberg y Tatum
+> Demostración de la conjugación bacteriana, donde se observa como bacterias auxotrofas se transforman en protofrofos tras convivir varias generaciones juntos. Es un suceso poco frecuente.
+
 ## Experimento del tubo de Davis
 
 **La conjugación no se produce por intercambio de sustancias difusibles**.
@@ -125,9 +130,15 @@ Posteriormente, se constató que el contacto entre las células era esencial par
 Las células F⁺ situaron a un lado del filtro y las F⁻ al otro. El medio se desplazaba a un lado y otro del filtro, por lo que las células bacterianas compartían esencialmente un medio común durante la incubación. **Davis sembró muestras en ambos lados del tubo con un medio mínimo, pero no se recuperaron protótrofos**. 
 Concluyó que el contacto físico es esencial para la recombinación. Actualmente que está interacción física es la fase inicial del proceso de conjugación y se realiza un tubo de conjugación denominado pili. 
 
+> [!SUCCESS] Conclusión de Berbard Davis
+> Es necesario el contacto físico para que suceda la conjugación, ya que si las cepas estaban separadas no ocurría la conversión de auxótrofas a protofrofos.
+
 Más tarde, se obtuvo evidencia de que las células **F⁺** poseen un **factor de fertilidad**, que les confiere la capacidad de **donar parte de su cromosoma durante la conjugación**. En experimentos realizados por **Joshua y Esther Lederberg** y por **William Hayes y Luca Cavalli-Sforza**, se demostró que, bajo ciertas condiciones ambientales, el **factor F podía perderse** en células previamente fértiles. Sin embargo, si estas células “no fértiles” se cultivaban junto con células donantes F⁺, **el factor F podía recuperarse**.
 
-La conclusión de que **el factor F es un elemento móvil**, se confirmó posteriormente por la observación de que, después de la conjugación, las células receptores F⁻ se convertían en F⁺. Así, además del caso raro de transferencia de genes del cromosoma bacteriano, el factor F pasa a todas las células receptores. De acuerdo con esto los cruces iniciales de Lederberg y Tatum.
+
+> [!SUCCESS] Conclusiones  de  **Joshua y Esther Lederberg** y por **William Hayes y Luca Cavalli-Sforza**
+> El  factor F es un elemento móvil, confirmado mediante la observación de que, después de la conjugación, las células receptores F⁻ se convertían en F⁺. Además, el factor F pasa a todas las células receptores. De acuerdo con esto los cruces iniciales de Lederberg y Tatum.
+
 
 En resumen, las células de *E.coli* pueden o no contener el factor F. Cuando está presente, la célula es capaz de formar un pilus sexual y actuar potencialmente como dadora.
 
@@ -139,6 +150,8 @@ En resumen, las células de *E.coli* pueden o no contener el factor F. Cuando es
 - Se tardó 2 décadas en demostrar que el factor F consistía en un plasmidio.
 - Se replica de manera coordinada con el cromosoma mediante el mecanismo de  un círculo rodante.
 - Conjugación F⁺xF⁻. El mismo mecanismo le permite pasar una copia a la bacteria receptora.
+
+
 
 ## Recombinación en cruces F⁺xF⁻: revisión
 
@@ -155,11 +168,16 @@ El punto (variable) de integración del Factor F en el cromosoma determina el pu
 
 **Bacterias Hfr y mapas de cromosomas**
 
-En 1950, Cavalli-Sforza trató a una cepa F⁺ de *E.coli* con gas mostaza, que induce mutaciones.
+En **1950**, **Luca Cavalli-Sforza** realizó experimentos con **E. coli F⁺** para estudiar la **conjugación bacteriana y el factor de fertilidad F**. Mostró que bajo ciertas condiciones ambientales, algunas células F⁺ podían **perder el factor F** y volverse F⁻, perdiendo la capacidad de donar genes. También demostró que si estas F⁻ se ponían en contacto con células F⁺ donantes, podían **recuperar el factor F** y volver a ser fértiles. Estos hallazgos confirmaron que el **factor F es dinámico** y determina la capacidad de una bacteria para **formar pilus sexual** y participar en la **transferencia genética durante la conjugación**.
 
-De estas células tratadas recuperó una cepa bacteriana donante sufría una tasa de recombinación con ↑ o ↓ más frecuente que las cepas F⁺originales. 
 
-En 1953, William Hayes aisló otra cepa que presentaban una elevada frecuencia similar de recombinación. Ambas cepas se designaron Hfr, o con alta frecuencia de recombinación.
+> [!SUCCESS] Conclusiones de **Luca Cavalli-Sforza**
+> Probó que el **factor F es transferible, reversible y responsable de la fertilidad bacteriana**, y sentó las bases para entender la conjugación, las cepas Hfr y la transferencia direccional de genes.
+
+
+En **1953, William Hayes** aisló otra cepa que presentaban una elevada frecuencia similar de recombinación. Ambas cepas se designaron Hfr, o con alta frecuencia de recombinación.
+
+ A través de cruces entre cepas de _E. coli_, observó que la transferencia genética ocurre **siempre desde una célula donadora hacia una receptora**, y no en ambos sentidos. Hayes estableció que las células **F⁺ actúan como donadoras** y las **F⁻ como receptoras**, y que solo las donadoras poseen el **factor F**, responsable de la formación del pilus sexual y del inicio de la transferencia de ADN. Este trabajo fue clave para comprender la polaridad de la conjugación y sentó las bases para el posterior uso de cepas Hfr en la cartografía genética bacteriana.
 
 Además, de la elevada frecuencia de recombinación, se advirtió otra diferencia importante entre las cepas Hfr y las cepas F⁺ originales. Si la cepa donantes es Hfr, las células receptoras, aunque a veces presentan recombinación, nunca se convierten en Hfr, es decir, permanecen como F⁻. Como consecuencia que el factor F del Hfr está integrado dentro de su genoma y no en forma de plásmido como en las F⁺ originales.
 
@@ -168,6 +186,10 @@ Comparándolas, tendremos
 ![[Pasted image 20260104211743.png]]
 
 Las cepas Hfr es la naturaleza de la recombinación. En cualquier cepa Hfr dada ciertos genes recombinan más frecuentemente que otros, y algunos no lo hacen en absoluto. **Se demostró que este patrón de transferencia de genes no es aleatorio sino que variaba de una cepa Hfr a otra.** Hayes los interpretó diciendo que había ocurrido alguna alteración fisiológicos del factor F, dando lugar a la producción de cepas Hfr de *E.coli*.
+
+
+> [!SUCCESS] Resultados de William Hayes
+> Demostró que la conjugación es un proceso direccional y acuñó el término Hfr(alta frecuencias de recombinación).
 
 ### Sexducción(F'-ducción)
 
@@ -183,6 +205,11 @@ Las cepas Hfr es la naturaleza de la recombinación. En cualquier cepa Hfr dada 
 En 1959, experimentos con cepas Hfr de *E.coli*, **Edward Adelberg** descubrió que el factor F podía perder su condición de integrado a la reversión al estado F⁺, como se ilustra en una serie de pasos. Adelberg denominó a esta situación **F' para distinguirla de la F⁺ y de la Hfr.**  Así F⁺, como Hfr, es otro caso especial de F⁺. Esta conversión se describe como una de Hfr a F'.
 
 La presencia de genes bacterianos en el factor citoplásmico F da lugar a una situación interesante. **Una bacteria F' se comporta como una célula F⁺**, e inicia la conjugación con células F⁻. Cuando esto ocurre, el factor F, que contiene genes cromosómicos, se transfiere a la células F⁻. En consecuencia, cualquier gen cromosómico que forma parte del factor F se encuentra ahora presente en duplicado en la célula receptora debido a que la receptora todavía tiene un cromosoma completo. Esto origina una célula parcialmente diploide, llamada **merozigoto**. Se puede establecer cultivos puros de merozigotos F⁺. Han sido extremadamente útiles en el estudio de la regulación genética bacteriana.
+
+
+> [!SUCCESS] Conclusiones **Edward Adelberg**
+> Explicó como los cruces Hfr generan recombinantes sin cambiar el estado F del receptor, o sea la formación de F'.
+
 
 
 > [!DANGER] F⁺ vs Hfr vs F'
@@ -230,6 +257,11 @@ Cuando el DNA donador penetra en la célula huésped.
 
 El experimento de **Lederberg y Zinder** se realizó para estudiar la transferencia genética entre bacterias y utilizó dos cepas auxótrofas diferentes de _Salmonella typhimurium_ que no podían crecer en medio mínimo; las cepas se colocaron en un tubo en forma de U de Davis separado por un filtro que permitía el paso de virus pero no de bacterias, de modo que no podía haber contacto celular directo, aun así aparecieron bacterias protótrofas en uno de los compartimentos, lo que descartó la conjugación y la transformación, y llevó a la conclusión de que la transferencia genética ocurrió mediante bacteriófagos producidos por una de las cepas que transportaron fragmentos de ADN bacteriano a la otra cepa, demostrando así el proceso de **transducción** como un nuevo mecanismo de recombinación genética bacteriana.
 
+
+> [!SUCCESS] Conclusiones  **Norton Zinder y Joshua Lederberg**
+> Demostración de la transducción.
+
+
 ## Transducción especializada
 
 Es un tipo de transferencia genética bacteriana mediada por bacteriófagos temperados en la que, durante la escisión incorrecta del profago integrado en el cromosoma bacteriano, se transfieren **solo genes bacterianos específicos** que se encuentran adyacentes al sitio de inserción del fago, los cuales son empaquetados junto con el ADN viral y llevados a otra bacteria donde pueden recombinarse con su cromosoma
@@ -254,6 +286,12 @@ El cálculo de las frecuencias de constraducción entre 2 o más marcadores es u
 La **recombinación intragénica** es el intercambio de material genético que ocurre **dentro de un mismo gen**, entre diferentes mutaciones del mismo locus, dando lugar a **la recuperación de un alelo funcional**, lo que demuestra que un gen está compuesto por múltiples unidades más pequeñas susceptibles de recombinarse.
 
 El experimento de **Seymour Benzer** se realizó con el bacteriófago T4 para demostrar la **recombinación intragénica**, utilizando múltiples mutantes del gen **rII** que producían placas pequeñas y no podían crecer en cepas específicas de _E. coli_; al coinfectar una bacteria con dos mutantes distintos del mismo gen rII, Benzer observó la aparición de algunos fagos silvestres funcionales, lo que solo podía explicarse por recombinación dentro del gen, y mediante **el análisis de la frecuencia de recombinantes pudo mapear el gen rII** con una resolución muy fina, demostrando que los genes no son unidades indivisibles sino estructuras lineales con múltiples sitios recombinables. Hay que recordar que la **frecuencia con que ocurría la recombinación entre dos mutaciones** estaba relacionada con la **distancia física entre ellas dentro del gen**. Entonces fue probando diferentes combinaciones de mutaciones para cuantificar la distancia entre los genes.
+
+
+> [!SUCCESS] Resultados de Seymour Benzer
+> Demostró que pueden ocurrir mutaciones y recombinación dentro de un mismo gen, permitiendo mapear mutaciones con bastante resolución. Por tanto, los genes están formados por una secuencia continua de unidades más pequeñas y que la frecuencia
+> 
+
 
 La **prueba de complementación** es un método genético que permite determinar si dos mutaciones que producen un mismo fenotipo están en **el mismo gen o en genes distintos**, basándose en que dos mutaciones en genes diferentes pueden compensarse entre sí cuando están presentes en la misma célula, mientras que **dos mutaciones en el mismo gen no lo hacen**; si al combinar ambas mutaciones se recupera el fenotipo silvestre hay complementación y las mutaciones están en genes distintos, y si el fenotipo mutante persiste no hay complementación y las mutaciones pertenecen al mismo gen. 
 

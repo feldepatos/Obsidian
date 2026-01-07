@@ -20,7 +20,7 @@ El experimento de **Frederick Griffith (1928)** **demostró** el fenómeno de la
 > S muertas x R vivas→ratón muerto
 
 
-> [!SUCCESS] Resultados
+> [!SUCCESS] Conclusión **Frederick Griffith
 > Confirmación  de "una sustancia transformante" que permite la transformación de una cepa no virulenta a virulenta.
 
 ## Oswald T. Avery, Colin M. MacLeod i Maclyn McCarthy
@@ -28,7 +28,7 @@ El experimento de **Frederick Griffith (1928)** **demostró** el fenómeno de la
 El experimento de **Avery, MacLeod y McCarty (1944)** identificó al **ADN como la sustancia transformante** responsable de la transformación observada por Griffith; tomaron extractos de _Streptococcus pneumoniae_ S (virulenta) y trataron estos extractos con **enzimas que destruían proteínas, ARN o ADN**, luego mezclaron los extractos con bacterias R (no virulentas) y observaron que solo al destruir el **ADN** se **perdía la capacidad de transformar** a las R en S, demostrando que **el ADN es el material genético que transmite información hereditaria**.
 
 
-> [!SUCCESS] Resultados
+> [!SUCCESS] Conclusión de Oswald T. Avery, Colin M. MacLeod i Maclyn McCarthy
 > El ADN es "la sustancia transformante" descrita por F. Griffith, ya que su eliminación evita la transformación de una cepa no virulenta a virulenta, permaneciento como no virulenta. Pero experimentando dentro de  bacterias transformadas.
 
 ## A. Hershey y Marta Chase
@@ -50,14 +50,12 @@ Parecía que algún componente molecular del fago, ya sea el ADN o la proteína 
 Marcaron el ADN con fósforo-32 y las proteínas de la cápside con azufre-35, dejaron que los virus infectaran las bacterias, luego agitaron la mezcla para separar las cápsides y centrifugaron para separar las células de los restos virales, encontraron que la mayor parte del fósforo-32 estaba dentro de las células y la mayor parte del azufre-35 permanecía afuera, lo que demostró que el ADN entra en la célula y contiene la información genética, mientras que las proteínas solo forman la cápside.
 
 
-> [!SUCCESS] Resultados
+> [!SUCCESS] Conclusión ## A. Hershey y Marta Chase
 > El ADN es el material genético
 
 
 ---
 # El ARN es el material genético hereditario de algunos virus.
-
-**Alfred Gierer y Gerhard Schramm** inocularon plantas de tabaco con RNA puro del virus del mosaico del tabaco(TMV) y se desarrollo la patología.
 
 **Heinz L. Fraenkel-Conrat i Beatrice B. Singer (1957)**: Publicaron otro tipo de experimento con el TMV. Estos científicos descubrieron que se podía aislar el núcleo del ARN de la cubierta proteica en TMV salvajes.
 
@@ -67,9 +65,18 @@ Es decir, intercambiaron el ARN entre las 2 plantas así como sus proteínas de 
 Tras infectar las plantas, observaron los fenotipos, es decir, las manifestaciones clínicas de la planta propias del ARN donador y no la de la cubierta/cápside. 
 
 
+> [!SUCCESS] Conclusión  **Heinz L. Fraenkel-Conrat i Beatrice B. Singer 
+> Demostraron que el ARN por sí solo es suficiente  para iniciar la infección, enfatizando la función genética activa del ARN, sin necesidad de la cápside.
+
+**Alfred Gierer y Gerhard Schramm**(1967): Estudiaron el virus del mosaico del tabaco (TMV) para determinar si la información genética residía en el ARN o en la proteína de la cápside. Para ello, aislaron partículas completas de TMV y separaron el ARN viral de la cápside proteica, obteniendolos por separado. Luego inocularon plantas de tabaco con solo ARN viral, solo cápside proteica y con mezclas de ARN viral con cápside de otra cepa del virus. Observaron que las plantas tratadas con el ARN aislado desarrollaban los síntomas característicos del mosaico, mientras que las tratadas con solo cápside no se infectaban. 
+En las mezclas de ARN con cápside de otra variante, los síntomas correspondían al ARN original y no a la cápside, demostrando que la información genética estaba determinada por el ARN y no por la proteína. Así, el experimento confirmó que en TMV el ARN es suficiente para transmitir la información genética y que la cápside solo tiene función estructural y protectora, reforzando los hallazgos previos de Fraenkel-Conrat y Singer.
+
+> [!SUCCESS] Conclusión **Alfred Gierer y Gerhard Schramm**
+> Reforzaron las conclusiones del experimento de Heinz L. Fraenkel-Conrat i Beatrice B. Singer realizados hará una década anterior.
+
 
 ---
-# Interacciones entre  el ADN y las proteínas
+# Interacciones entre el ADN y las proteínas
 
 ¿Por qué conocerla?
 - Descifrar la estructura del DNA 
