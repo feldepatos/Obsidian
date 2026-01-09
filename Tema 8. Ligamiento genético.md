@@ -108,7 +108,7 @@ Estos cromosomas también contenían genes rastreables por el fenotipo, de modo 
 - Este experimento fue fundamental para confirmar la teoría cromosómico de la herencia.
 
 
-> [!SUCCESS] Conclusión
+> [!SUCCESS] Conclusión Harriet Creighton y Barbara McClintock
 > Demostraron que los genes se encuentran en los cromosomas.
 
 ## Entrecruzamiento
@@ -168,7 +168,7 @@ Comparando varias frecuencias de recombinación, pudo ordenar los genes en una s
 - La FR máxima detectable es 0'5.
 
 
-> [!SUCCESS] Conclusión
+> [!SUCCESS] Conclusión  Alfred Stuvevant
 > Demostró  que **la recombinación puede usarse para determinar el orden y la distancia de los genes en un cromosoma**.
 
 

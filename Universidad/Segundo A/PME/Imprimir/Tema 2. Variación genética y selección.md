@@ -1,84 +1,4 @@
-# Variación genética en poblaciones naturales
-![[Pasted image 20251024092234.png]]
-J. G. Oakeshott y sus colegas (1982) estudiaron la variabilidad alélica del locus de la ADH de la mosca de la fruta. Degrada el etanol, el ingrediente tóxico activo en el vino, la cerveza y, lo más importante para las moscas de la fruta, en los frutos en descomposición. Hay dos alozimas de la ADH que se distinguen electroferáticamente: Adh^F y ADH^S. F y S son abreviaturas de "fast" y "slow", la velocidad a la que los alelos enzimáticos se mueven en el gel de electroforesis. Oakeshott y sus colegas determinaron la frecuencia de los dos alelos de la ADH en 34 poblaciones de moscas australianas. Este análisis demostró que casi todas las poblaciones eran polimórficas para el locus. Es decir, en casi todas las poblaciones se encontraban los dos alelos. El mapa de la figura 4.16 también revela un patrón que se repite en Europa y en América del Norte: en general, ADHŝ se encuentra en frecuencias más elevadas en las altitudes bajas, mientras que la ADH^F se encuentra en mayor frecuencia en las latitudes altas. El significado de esta distribución no está claro, aunque puede estar relacionado con el hecho de que ADHŝ es más estable a temperaturas elevadas.
-Dennis Powers y sus colegas (1991, 1998), estudiaron la diversidad alélica del locus de lactato deshidrogenasa B en poblaciones de un ciprinodóntido, un pez de unos 5 a 10 cm de longitud que vive en ensenadas, bahías y estuarios a lo largo de las costas Atlántica de América del Norte. La lactato deshidrogenasa B, es una enzima que convierte la lactato en piruvato; es importante tanto en la producción de glucosa como en el metabolismo aerobio. Hay dos alelos enzimáticos de la Ldh-B, diferenciables electroforéticamente: Ldh-Bâ y LDH-B^n. Powers y sus colegas determinaron las frecuencias de los alelos de la LDH-B en poblaciones de dicho ciprinodóntido desde Maine a Georgia. Este análisis demostró que la mayoria de las poblaciones eran polimórficas. Además, como muestra la gráfica de la figura 4.16b, hay un patrón muy influenciable geográficamnte: Ldh-B^b está elevada frecuencia en las poblaciones del norte, mientras que la otra está en poblaciones del sur. Esta distribución tienen sentido porque la LDH-B^B tiene mayor eficacia catalítica a temperatura baja, mientras que ldh-Bâ la tiene a temperatura elevada.
-Para deducir conclusiones generales de estudios parecidos a los revidadsos en los dos párrafos anteriores, necesitamos resumir los datos sobre la diversidad alélica del loci en poblaciones. Hay dos estadísticos que se usan normalmente: la heterozigosidad media y el porcentaje de loci polimórficos. La heterozigosidad media se puede interpretar de dos maneras equivalentes: como la frecuencia promedio de los heterozigotos en el conjunto de los loci, o como la fracción de loci que son heterozigotos en el genotipo del individuo promedio. El porcentaje de loci polimórficos es la fracción de loci de una población que tiene al menos dos alelos,
-Los estudios electroforéticos de enzimas han demostrado que la mayor parte de las poblaciones naturales albergan sustancial variación genética. La figura 4.17 resume datos sobre heterozigosidad medias de  invertebrados, vertebrados y plantas. Como caso general, en una población natural típica, entre el 33% y el 50% de los loci enzimáticos son polimórficos y el individuo promedio es heterozigotos para el 4 y al 15% de sus locis.
-Los métodos que examinan directamente el DNA de los alelos son incluso más efica-
-ces para revelar la diversidad genética. Esto es así porque no cualquier cambio en las
-secuencias del DNA de un locus da lugar a una proteína detectable electroforéticamente.
-Entre los loci más intensamente estudiados hasta la fecha se encuentra el gen responsable de la fibrosis quística en humanos. Este locus, en el cromosoma 7, codifica una proteína llamada el regulador de la conductancia transmembrana de la fibrosis quística (CFTR). La CFTR es una proteína de la superficie celular que se expresa en el revestimiento mucoso de la membrana de los intestinos y pulmones. Gerald Pier y sus colegas (1997) demostraron que una de las funciones clave de la CFTR es capacitar a las células de la superficie pulmonar para ingerir y destruir a la bacteria Pseudomonas aeruginosa. Los individuos homozigotos para mutaciones de pérdida de función del gen de la CFTR tienen fibrosis quística. Sufren una infección crónica por Pseudomonas aeruginosa, lo que finalmente produce graves daños en los pulmones. Los genéticos moleculares han examinado la secuencia del DNA de los alelos de la CFTR en más de 15.000 pacientes con fibrosis quística, con un total de más de 30.000 copias de alelos para la enfermedad. Han descubierto unas
-500 mutaciones diferentes de pérdida de función en este locus (Figura 4.18).Volveremos al gen de la CFTR en el Capítulo 5.
 
-![[Pasted image 20251024092314.png]]
-
-Cuando Watson y Crick (1953) dedujeron la naturaleza y la estructura del material hereditario, los mismos autores observaron que la complementariedad de las bases nitrogenadas proporcionaba un mecanismo tanto para la replicación como para la mutación.
-![[Pasted image 20251024092411.png]]
-Los alelos son versiones del mismo gen que difieren en sus secuencias de nucleótidos. 
-Los nuevos alelos aparecen como consecuencia de mutaciones en la secuencia de nucleótidos del alelo ancestral. 
-Estas mutaciones se generan por errores aleatorios introducidos durante la replicación o reparación del genoma.
-
-Sustituciones de un solo nucleótido
-![[Pasted image 20251024092428.png]]
-Un cambio de un solo nucleótido en el ADN que codifica el gen de la β-globina (CTC a CAC)
-conduce a la alteración de un codón del ARNm (GAG a GUG) y a la inserción de un aminoácido diferente (Glu a Val), lo que produce una versión alterada de la proteína β-globina, causante de la anemia de células falciformes.
-
-
-¿Por qué hay  poblaciones  diferentes  genéticamente?
-
-Como advertimos al comienzo de esta sección, el punto de vista clásico de la diversidad genética, que esperaba poca diversidad en la mayoría de las poblaciones, era claramente erróneo. ¿Cómo podemos explicar la sustancial diversidad presente en la mayoría de las poblaciones? Dos explicaciones han reemplazado en la actualidad a la teoría clásica.
-De acuerdo con la teoría del equilibrio, o seleccionista, la diversidad genética se man-
-tiene por selección natural, favoreciendo a los individuos raros, a los heterozigotos o a
-alelos diferentes en diferentes sitios y momentos. De acuerdo con la teoría neutralista,
-la mayoría de los alelos de muchos loci polimórficos son funcional y selectivamente
-equivalentes. En efecto, la diversidad genética se mantiene debido a que no es elimina-
-da por selección. Consideraremos las teorías seleccionista y neutralista con mayor detalle en los Capítulos 5, 7 y 18.
-
----
-# Fuentes de la variación genética
-
-¿Con qué frecuencia se forman nuevos alelos? Muchos de nuestros mejores datos sobre las tasas de mutación se refieren a una clase de cambios conocidos con el nombre de mutaciones de pérdida de función. En estos tipos de mutaciones, la pérdida de un producto proteico normal da lugar a un fenotipo fácilmente reconocible. Por ejemplo, los investigadores pueden rastrear una amplia población humana y contabilizar la incidencia de un síndrome autosómico dominante como la acondroplasia (enanismo) o de una enfermedad recesiva ligada al X como la hemofilia A (en la que la coagulación sanguínea está alterada). La idea es elegir un carácter que sea fácil de detectar y cuya transmisión genética permita a los investigadores detectar nuevas mutaciones. Por ejemplo, un individuo con acondroplasia, en el que ninguno de sus padres presenta la anomalía, debe de tener una mutación nueva. De datos similares, un investigador puede deducir tasas de mutación en unidades por gen y por generación
-
-El problema de este método es que las mutaciones de pérdida de función se producen
-por cualquier proceso que inactive a un gen. Como se muestra en la Figura 4.6, los genes pueden perder su función por la sustitución de un par de bases, que dé lugar a un codón de terminación de cadena o a una secuencia aminoacídica no funcional.También pueden perder su función por la inserción de un elemento genético móvil, por una reordenación cromosómica o por la alteración de la pauta de lectura de los codones, ocasionada por la adición o deleción de una o dos pares de bases (éstas se denominan mutaciones del corrimiento de la pauta de lectura).Además, muchas mutaciones interesantes (la mayoría de las sustituciones no sinónimas, por ejemplo) no son detectables cuando los investigadores determinan los fenotipos de los descendientes, ya que sus efectos son menos aparentes que los de pérdida de función. Debido a estas dificultades, la mayor parte de los datos actuales son estimas muy por debajo de la tasa real a la que ocurren las mutaciones.
-
-El origen de nuevos alelos es bastante directo, pero, ¿de dónde vienen los genes nuevos?
-
-Como con los alelos nuevos, varios tipos de mutaciones pueden dar lugar a genes nue-
-vos. Revisaremos sólo un subgrupo. La duplicación génica es, probablemente, la fuen-
-te más importante de genes nuevos. Las duplicaciones se producen como consecuencia de un fenómeno conocido con el nombre de entrecruzamiento desigual, esquematizado en la Figura 4.7. El entrecruzamiento desigual es un error aleatorio, ocasionado por las proteínas implicadas en dirigir la recombinación (entrecruzamiento) durante la meiosis.
-Como muestra la Figura 4.7, uno de los productos del entrecruzamiento desigual es un
-tramo de DNA redundante. El genoma tiene ahora una copia extra de la secuencia localizada en el segmento duplicado. Debido a que la copia original produce un producto normal, la secuencia redundante puede acumular mutaciones libremente sin consecuencias para el fenotipo. La nueva secuencia podría incluso cambiar de función con el tiempo y convertirse por ello en un nuevo locus. Éste es un punto importante.
-Debido a que la duplicación génica da lugar a DNA extra, es el primer mecanismo que hemos encontrado que da lugar a unas posibilidades totalmente nuevas para la función génica. La familia génica de la globina proporciona un estupendo ejemplo de cómo la duplicación génica permite la divergencia de función.
-
-Otros mecanismos para originar genes nuevos
-Además de la duplicación,hay otros mecanismos que pueden originar genes nuevos, o funciones radicalmente nuevas para genes duplicados. Un ejemplo, llamado sobreimpresión, se produce por mutaciones puntuales que dan lugar a nuevos codones de inicio y a nuevas pautas de lectura para la traducción. Paul Keese y Adrian Gibbs (1992) investigaron este fenómeno en los timovirus, los cuales provocan enfermedades de tipo mosaico en ciertos vegetales. El pequeño genoma de un timovirus, el virus del mosaico amarillo del nabo, consta de tres genes. Dos de ellos se solapan, lo que indica que se traducen a partir de diferentes pautas de lectura en el mismo fragmento de nucleótidos.
-
-## Cambios cromosómicos
-En la morfología de los cromosomas se puede producir una amplia variedad de cambios. Algunas de estas mutaciones afectan sólo al orden y organización de los genes; otras dan lugar a duplicaciones o deleciones que afectan a la cantidad global de material genético. Pueden también implicar a toda molécula de DNA o sólo a una parte. Aquí nos centraremos en dos tipos de alteraciones cromosómicas que son particularmente importantes en la evolución.
-
-Ligamiento 
-
-![[Pasted image 20251025191038.png]]
-El ligamiento es la tendencia de alelos de diferentes genes de segregarse juntos en la meiosis. Por razones obvias, los genes situados en el mismo cromosoma tienden a estar mas íntimamente ligados (es decir, es más probable que se hereden juntos) que los genes que se encuentran en cromosomas no homólogos. De igual manera, cuanto más juntos estén los genes en el mismo cromosoma, más fuerte será el ligamiento. Por otro lado, el entrecruzamiento en la meiosis rompe las combinaciones de alelos y reduce el ligamiento (véase el Capítulo 7).
-Debido a que las secuencias invertidas no se pueden alinear adecuadamente en la sinapsis con las homólogas no invertidas, un entrecruzamiento que tenga lugar dentro de una inversión da lugar a la duplicación o a la pérdida de segmentos cromosómicos y a la producción de gametos no funcionales. Cuando las inversiones están en heterozigosis es extremadamente raro que un entrecruzamiento tenga éxito. La consecuencia es que los alelos situados dentro de la inversión estén unidos tan íntimamente que se heredan como un único "supergen".
-
-Poliploidía
-
-En lugar de ser haploide (n) o diploide (2n), un organismo poliploide puede ser tetraploide (4n), octoploide (8n) o mayor.
-La poliploidía es frecuente en vegetales y rara en animales. Casi la mitad de las espe-
-cies de angiospermas (plantas con flores) son poliploides, como también la mayoría de los helechos. Pero en animales la poliploidía es rara. Se da en grupos como en las lombrices de tierra y en algunos platelmintos, en donde los individuos tienen tanto gónadas masculinas como femeninas y pueden autofecundarse (estas especies se denominan hermafroditas autocompatibles). También se encuentra en grupos que pueden dar lugar a descendientes sin fecundación, mediante un proceso llamado partenogénesis. En algunas especies de escarabajos, cochinillas, polillas, camarones, carpas doradas y salamandras, se puede dar cierto tipo de partenogénesis que dé lugar a la duplicación de los cromosomas.
-En los vegetales, la poliploidía puede originarse a partir de varios fenómenos distintos.
-Quizá los más frecuentes sean los errores en la meiosis, que dan lugar a gametos diploides (Ramsey y Schemske 1998). Cuando los vegetales producen gametos diploides, pueden suceder dos cosas. Si los individuos que producen gametos diploides tienen estructuras reproductivas tanto masculinas como femeninas y se autofecundan, puede aparecer descendencia tetraploide (4n)(véase la Figura 4.13a). Si este descendiente se autofecunda cuando alcanza la madurez, o si se cruza con un hermano tetraploide que produce gametos diploides, puede quedar establecida una población tetraploide.
-
-La **poliploidía es importante porque puede dar lugar a que se formen especies nuevas.**
-Para entender el porqué, imaginemos la descendencia de los cruces entre individuos de una población tetraploide, establecida por uno de los mecanismos descritos más arriba, y la población diploide de donde procede. Si los individuos de las dos poblaciones se cruzan, su descendencia triploide será semiestéril. Pero si los individuos tetraploides continúan autofecundándose o se cruzan entre ellos, se producirá descendencia tetraploide totalmente fértil. De este modo, la selección natural favorecerá a los poliploides que quedan reproductivamente aislados de sus poblaciones parentales. Si las poblaciones diploides y tetraploides quedan genéticamente aisladas, se deberán considerar como especies distintas.
-Es también importante reconocer que las dotaciones cromosómicas duplicadas, como
-la duplicación de genes concretos que analizamos anteriormente en este capítulo, quedan libres para obtener nuevas funciones como consecuencia de la mutación y de la selección.
-La poliploidía es una fuente importante de variación genética, ya que da lugar a cientos
-o miles de loci duplicados.
-
----
 ## Cuantificación de la variación genética
 
 - La forma más sencilla de analizar las estructuras genéticas de poblaciones es mediante la estimación de las frecuencias de los alelos presentes en los individuos de una población.
@@ -133,7 +53,10 @@ donde h_i, es la heterozigosidad esperada para el locus i, y n es el número de 
 ---
 
 # Poblaciones genéticas
-el origen de la genética de poblaciones es una disciplina científica que surgió entre finales del siglo XIX y principios del siglo XX. En ese periodo existían dos teorías fundamentales en biología. La primera era una teoría que proponía que los organismos heredan rasgos de sus progenitores mediante unidades discretas que se transmiten de generación en generación. Esta teoría explicaba cómo se mantiene la información genética y cómo pueden reaparecer características en descendientes aunque no se expresen en los padres. La segunda era la teoría de la evolución por selección natural, que planteaba que en la naturaleza existen variaciones entre los individuos y que aquellos con características más favorables para sobrevivir tienden a dejar más descendencia, provocando cambios graduales en las poblaciones a lo largo del tiempo.
+
+## El origen de la genética de población
+
+El origen de la genética de poblaciones es una disciplina científica que surgió entre finales del siglo XIX y principios del siglo XX. En ese periodo existían dos teorías fundamentales en biología. La primera era una teoría que proponía que los organismos heredan rasgos de sus progenitores mediante unidades discretas que se transmiten de generación en generación. Esta teoría explicaba cómo se mantiene la información genética y cómo pueden reaparecer características en descendientes aunque no se expresen en los padres. La segunda era la teoría de la evolución por selección natural, que planteaba que en la naturaleza existen variaciones entre los individuos y que aquellos con características más favorables para sobrevivir tienden a dejar más descendencia, provocando cambios graduales en las poblaciones a lo largo del tiempo.
 
 Inicialmente, estas dos teorías parecían incompatibles. Algunos pensaban que la herencia era demasiado rígida para permitir cambios evolutivos importantes, mientras que otros creían que la evolución ocurría de forma continua sin necesidad de comprender la genética. Sin embargo, durante las primeras décadas del siglo XX, varios científicos demostraron que la herencia y la evolución no solo eran compatibles, sino que juntas podían explicar de manera precisa cómo y por qué cambian las poblaciones biológicas. Esta unión de ideas dio lugar a lo que se conoce como la síntesis moderna. La síntesis moderna integró la teoría de la herencia genética con la teoría de la selección natural, creando un marco científico que explica la evolución mediante cambios en las frecuencias de genes dentro de una población.
 
@@ -156,6 +79,7 @@ Las fuerzas evolutivas son:
 ---
 # Equilibrio Hardy-Weinberg
 ## Perspectiva histórica
+
 El primer biológo que abordó un ejemplo numérico, siguiendo las frecuencias de los alelos mendelianos de una generación a la siguiente en una población ideal, fue G.Ydny Yule en 1902. Comenzó con un conjunto de genes en el que las frecuencias de los dos alelos eran 0'5 y 0'5 y demostró que en el conjunto de genes de la siguiente generación las frecuencias alélicas eran todavia 0'5 y 0'5.
 
 Como nosotros, Yule concluyó que las frecuencias de los alelos en su población ideal estaban en equilibrio. La conclusión de Yule tan novedosa como correcta, pero la tomó de una forma demasiado literal. Había desarrollado un único ejemplo, y creyó que las frecuencias alélicas de 0'5 y 0'5, representaban el único estado de equilibrio posible para un sistema de dos alelos. Por ejemplo, Yule creía que si aparecía un alelo A por mutación en una población cuyo conjunto de genes era sólo de *a*, entonces la frecuencia del alelo A aumentaría automáticamente hasta construir la mitad del conjunto de genes. Yule arguyó esta idea durante la discusión que siguió a una charla dada por R.C. Punnet. Punnet creía que Yule no tenía razón, pero no supo cómo probarlo.
@@ -169,6 +93,7 @@ A partir de entonces, esta demostración se conoció como el equilibrio de Hardy
 
 Los estadounidenses adoptaron el nombre de Hardy-Weinberg-Castle, ya que en 1903 el genetista estadounidense William E. Castle publicó un artículo que planteaba una conclusión similar utilizando ejemplos numéricos.
 ## Hardy-Weinberg
+
 El equilibrio de Hardy-Weinberg (EH), también conocido como ley de Hardy-Weinberg, solo se cumple en poblaciones ideales (irreales), ideales en el mismo sentido que las leyes de la física, por lo que es imperativo comprender sus limitaciones.
 
 Consideraremos una población ideal para comprender el EH:
@@ -235,12 +160,13 @@ Características del equilibrio HWE
 6. Ausencia de migración.
 7. Se puede asumir que la mutación es irrelevante.
 8. La selección natural no actúa sobre el gen considerado.
+
 Por tanto, las frecuencias de alelos y genotipos en generaciones consecutivas están relacionadas según las expresiones:
 $$
 P=p^{2}; Q=q^{2};H=2pq
 $$
 y permanecerán constantes después de la generación hasta que cambien las condiciones.
-## Ejemplo numérico
+### Ejemplo numérico
 
 Hay que considera que en el proceso de apareamiento al azar ocurre de la siguiente manera: tomamos todos los óvulos y esperma que producen todos los adultos de la población y los mezclamos en un "barril", al cual llamaremos *gene pool* (conjunto de genes). Cada espermatozoide se desplaza hasta colisionar al azar con un óvulo para producir un zigoto.
 En nuestro ejemplo los organismos son diploides, por lo que cada uno tiene en el locus A dos alelos. Pero los adultos producen sus óvulos y esperma por meiosis.
@@ -284,16 +210,21 @@ $$
 q=\sqrt{Q}; p=1-p; P=p^{2}; H=2pq
 $$
 ## Comprobación del equilibrio HWE
+
 La comprobación se realiza mediante la prueba del x².
 $$
 x^{2}=\sum_{i} \frac{(o_{i}-e_{i})^{2}}{e_{i}}
 $$
 Por lo tanto, los grados de libertad a utilizar en la prueba son: «número de clases» – «número de parámetros libres en el modelo». Es el número de sumandos del estadísiticos menos uno, menos el total de parámetros independientemente a partir  de la muestra.
-¡ATENCIÓN! Debemos comparar este valor con un χ2 con 1 gl, ya que hemos utilizado 2 parámetros de la muestra (N y p) para calcular los valores esperados.
+
+
+> [!DANGER] Grados de libertad
+> Debemos comparar este valor con un χ2 con 1 gl, ya que hemos utilizado 2 parámetros de la muestra (N y p) para calcular los valores esperados.
+
 
 ## Equilibrio de Hardy-Weinberg con >2 alelos o poliploides
 
-Imagina un locus con varios alelos. Podemos denominar a los alelos *Ai, Aj, Ak*, y así sucasivamente y podemos representar sus frecuencias en el conjunto de genes con las variables *pi,pj,pk* y así sucesivamente. La formación de un zigoto con genotipo *Ai,Aj* precisa de la unión de un óvulo *Ai* y un espermatozoide *Aj*. Así, la frecuencia de cualquier genotipo homozigoto *AiAi* será pi².
+Imagina un locus con varios alelos. Podemos denominar a los alelos *Ai, Aj, Ak*, y así sucesivamente y podemos representar sus frecuencias en el conjunto de genes con las variables *pi,pj,pk* y así sucesivamente. La formación de un zigoto con genotipo *Ai,Aj* precisa de la unión de un óvulo *Ai* y un espermatozoide *Aj*. Así, la frecuencia de cualquier genotipo homozigoto *AiAi* será pi².
 La formación de un zigoto con genotipo *AiAj* requiere bien la unión de un óvulo *Ai* con un esperma *Aj*, o de un óvulo *Aj* con un esperma. Así, la frecuencia de cualquiera genotipo heterozigoto *AiAj* es 2*pipj*.
 Por ejemplo, si hay 3 alelos con frecuencias *p1,p2 y p3*, de tal manera que
 $$
@@ -304,7 +235,30 @@ $$
 (p_{1}+p_{2}+p_{3})^{2}=p^{2}+p^{2}_{2}+p^{2}_{3}+2p_{1}p_{2}+2p_{1}p_{3}+2p_{2}p_{3}
 $$
 y las frecuencias alélicas no cambiaran de generación en generación.
-En conclusión el  HWE no puede aplicarse a más de un locus porque el equiibrio en cada locus individual no implica el equilibrio de las frecuencias genotípicas. Los distintos loci no recombinan libremente si están ligados en el mismo cromosomas y su independencia depende de la recombinación (que a su vez depende de la distancia física citogenética).
+
+Un locus con n alelos de frecuencias Ai. Las frecuencias genotípicas se derivan del polinomio y, en consecuencia, las frecuencias genotípicas son:
+
+$$
+\begin{align}
+\left( \sum ^{n}_{i=1} \right)f(A_{i})^{2} \\
+f(A_{i}A_{i})=f(A_{i})^{2} \ y \ f(A_{i}A_{j})=2f(A_{i})f(A_{j})
+\end{align}
+$$
+
+K-ploidía con n alelos de frecuencias Ai. Las frecuencias del genotipo se derivan del polinomio:
+
+$$
+\begin{align}
+\ \left( \sum ^{n}_{i=1} \right)f(A_{i})^{k}
+\end{align}
+$$
+
+
+> [!SUCCESS] HW en poliploides
+>  El HWE no puede aplicarse a más de un locus porque el equiibrio en cada locus individual no implica el equilibrio de las frecuencias genotípicas. 
+>  Los distintos loci no recombinan libremente si están ligados en el mismo cromosomas y su independencia depende de la recombinación (que a su vez depende de la distancia física citogenética).
+
+
 ## Equilibrio HWE y heterozigosidad
 
 La heterozigosidad es máxima cuando p=q=0.5
@@ -315,7 +269,9 @@ $$
 \pi=\sum_{i\neq j}2p_{i}p_{j}=1-\sum_{i}p^{2}=E(H)
 $$
 
+![[Pasted image 20260109122257.png]]
 ## Caso especial de genes ligados al sexo
+
 Consideremos un gen en el cromosoma X con dos alelos A y a, con frecuencias p y q respectivamente.
 En equilibrio, las frecuencias del genotipo femenino son:
 $$
@@ -340,18 +296,22 @@ En este caso el equilibrio no se obtiene en la primera generación, sino que el 
 ### Ejemplo numérico
 ![[Pasted image 20251026202721.png]]
 Aunque el equilibrio no se alcanza inmediatamente, sólo se necesitan unas pocas generaciones (8-10).
-## Conclusiones
 
-- La genética de poblaciones es el resultado de la fusión del mendelismo y el darwinismo a principios del siglo XX.
-- El equilibrio de Hardy-Weinberg es una hipótesis nula sobre las frecuencias genotípicas y puede comprobarse estadísticamente.
-- Las frecuencias alélicas pueden calcularse cuando se conocen las frecuencias genotípicas.
-- Las frecuencias genotípicas solo pueden deducirse a partir de las frecuencias alélicas si se asume el equilibrio de Hardy-Weinberg.
-- El equilibrio de Hardy-Weinberg puede extenderse a más de dos alelos y a organismos con cualquier valor de ploidía.
-- Para los genes autosómicos, el equilibrio se alcanza en una sola generación.
-- Para los genes ligados al sexo, la función es asintótica, pero rápida.
+
+
+> [!SUCCESS] Conclusiones de HW 
+> La genética de poblaciones es el resultado de la fusión del mendelismo y el darwinismo a principios del siglo XX.
+El equilibrio de Hardy-Weinberg es una hipótesis nula sobre las frecuencias genotípicas y puede comprobarse estadísticamente.
+Las frecuencias alélicas pueden calcularse cuando se conocen las frecuencias genotípicas.
+Las frecuencias genotípicas solo pueden deducirse a partir de las frecuencias alélicas si se asume el equilibrio de Hardy-Weinberg.
+El equilibrio de Hardy-Weinberg puede extenderse a más de dos alelos y a organismos con cualquier valor de ploidía.
+Para los genes autosómicos, el equilibrio se alcanza en una sola generación.
+Para los genes ligados al sexo, la función es asintótica, pero rápida.
+
 
 ---
 # Selección natural: Modelo solo un locus
+## Introducción
 
 ### Aptitud biológica o darwiniana
 
@@ -360,11 +320,20 @@ Aunque el equilibrio no se alcanza inmediatamente, sólo se necesitan unas pocas
 - La aptitud es una propiedad, no de un individuo, sino de una clase de individuos. Por lo tanto, el «número esperado de descendientes» se refiere al número promedio, no al número producido por un solo individuo.
 - La aptitud absoluta (W) de un genotipo se define como el cambio proporcional en la abundancia de ese genotipo a lo largo de una generación, atribuible a la selección.
 - La aptitud relativa (w o ω) de un genotipo indica el cambio en la frecuencia de un genotipo en relación con otro. Se elige un genotipo como referencia y su aptitud relativa se establece en 1, y las aptitudes de los genotipos restantes se miden en relación con esta referencia.
+
+> [!NOTE] Eficacia 
+> Es la medida del **éxito reproductivo de un individuo o genotipo**, es decir, su capacidad para **sobrevivir y dejar descendencia viable** que contribuya a la siguiente generación en comparación con otros individuos de la población.
+
 ### Coeficiente de selección
 - El coeficiente de selección (s, t…) mide hasta qué punto la selección natural actúa para reducir la contribución relativa de un genotipo dado a la siguiente generación con respecto al genotipo de referencia (con aptitud 1). Por consiguiente, la aptitud de este genotipo dado es w = 1 + s.
 - Por ejemplo, una población con tres genotipos AA, Aa y aa con aptitudes relativas wAA, wAa y waa, respectivamente. El genotipo AA es la referencia, wAA = 1; por lo tanto, wAa = 1 + s y waa = 1 + t, donde s, t… miden la ventaja de aptitud (s, t… > 0) o desventaja (s, t… < 0) de Aa y aa con respecto a AA.
-## Selección
-## Caso general
+
+> [!NOTE] Coeficiente de selección
+> Es una medida que indica **cuánto se reduce la eficacia biológica de un genotipo en comparación con el genotipo más apto** de la población.
+
+## Selección: modelos de locus dialélico único
+### Caso general
+
 En una población tiene un conjunto de genes en el que alelo *A1* tiene una frecuencia *p* y el alelo *A2* una frecuencia *q*. Permitimos que los gametos se unan al azar para formar los zigotos, con genotipos *A1A1,A1A2 y A2A2*, y en las frecuencias *p²,2pq y q²* respectivamente.
 Incorporamos la selección imaginando que los zigotos *A1A1* sobreviven hasta la madurez con una tasa *w11*, los zigotos *A1A2* sobreviven con una tasa *w12* y los zigotos *A2A2* sobreviven con una tasa *w22* . Todos los individuos que sobreviven dan lugar al mismo número de descendientes. Por consiguiente, la tasa de supervivencia de un genotipo es proporcional al éxito reproductivo durante la vida del genotipo, o eficacia. Por ello, nos referimos a la tasa de supervivencia como de eficacia. La eficacia media para el conjunto de la población, que se obtiene por la expresión:
 $$
@@ -376,10 +345,11 @@ $$
 \begin{align}
 A_{1}A_{1}=\frac{p^{2}w_{11}}{\bar{w}} \\
 A_{1}A_{2}=\frac{2pqw_{12}}{\bar{w}} \\
-A_{2}A_{2}=\frac{1^{2}w_{22}}{\bar{w}}
+A_{2}A_{2}=\frac{q^{2}w_{22}}{\bar{w}}
 \end{align}
 $$
 (En cada caso hemos dividido por la eficacia media para asegurarnos que las nuevas frecuencias todavía sumen 1.)
+
 Finalmente, dejamos que los adultos se crucen y calculamos las frecuencias alélicas en el conjunto de genes:
 Para el alelo *A1*: los individuos *A1A1* contribuyen con 
 $$
@@ -425,8 +395,10 @@ $$
 p=\frac{p}{\bar{w}}(pw_{11}+qw_{12}-\bar{w})
 \end{align}
 $$
-La expresión final es útil porque muestra que el cambio en la frecuencia del alelo *A1* es proporcional a (pw11+pw12-w).
-La expresión(*pw11+qw12-w*) es igual a la eficacia media del alelo *A1* cuando se une al azar con otros alelos (pw11+qw22) menos la eficacia media de la población(w). En otras palabras, si los individuos que llevan *A1* tienen una eficacia superior a la media, entonces el alelo *A1* aumentara en frecuencia.
+La expresión final es útil porque muestra que el cambio en la frecuencia del alelo *A1* es proporcional a *(pw11+qw12-w(total)).*
+
+La expresión*(*pw11+qw12-w*)* es igual a la eficacia media del alelo *A1* cuando se une al azar con otros alelos *(pw11+qw22)* menos la eficacia media de la población(w). En otras palabras, si los individuos que llevan *A1* tienen una eficacia superior a la media, entonces el alelo *A1* aumentara en frecuencia.
+
 El cambio en la frecuencia del alelo *A2* de una generación a la siguiente es:
 
 $$
@@ -473,14 +445,15 @@ $$
 $$
 
 
-### Ejemplo I
+### Añadiendo la selección al análisis de HW: Cambios en las frecuencias alélicas
 
-Todo esto implica cambios en las frecuencias alélicas debido a la selección. Partimos que la población tiene individuos tienen locus B que afecta a la probabilidad de supervivencia. Supongamos, como que la frecuencia B1 en el conjunto de genes es de 0'6, y la frecuencia del alelo B2 es 0'4. Después del apareamiento al azar, obtenemos unas frecuencias genotípicas para B1B1, B1B2 y B2B2 de 0'36,0'48 y 0'16. El resto de nuestros cálculos serán más simples si damos a la población de zigotos un tamaño definido, por lo que imaginemos que hay 1000 zigotos: 
+Todo esto implica cambios en las frecuencias alélicas debido a la selección. Partimos que la población tiene individuos tienen locus *B* que afecta a la probabilidad de supervivencia. Supongamos, como que la frecuencia *B1* en el conjunto de genes es de 0'6, y la frecuencia del alelo B2 es 0'4. Después del apareamiento al azar, obtenemos unas frecuencias genotípicas para *B1B1, B1B2 y B2B2* de 0'36,0'48 y 0'16. El resto de nuestros cálculos serán más simples si damos a la población de zigotos un tamaño definido, por lo que imaginemos que hay 1000 zigotos: 
 
 | B1B1 | B1B2 | B2B2 |
 | ---- | ---- | ---- |
 | 360  | 480  | 160  |
 Estos zigotos están representados por un gráfico de barras en la figura. Seguiremos a los individuos que se desarrollan a partir de estos zigotos hasta que lleguen adultos. Aquéllos que sobrevivan se cruzarán para producir el conjunto de genes de la generación siguiente.
+
 ![[Pasted image 20251027020951.png]]
 Incorporamos la selección estipulando que los genotipos difieren en sus tasas de supervivencia. Todos los individuos *B1B1* sobreviven, y también lo hacen el 75% de los individyos *B1B2* y el 50% de los *B2B2*. Como se muestra en la siguiente imagen, en la población hay ahora 800 adultos:
 
@@ -501,13 +474,15 @@ B_{2}→\left( \frac{1}{2} \right)0'45+0'1=0'325
 \end{align}
 $$
 La frecuencia del alelo *B1* ha aumentado en un porcentaje del 7'5. La frecuencia del alelo *B2* ha disminuido en  la misma cantidad.
-La selección ha dado lugar a que no se cumpla la conclusión 1 del análisis de HWE. La población ha evolucionado en respuesta a la selección.
+
+**La selección ha dado lugar a que no se cumpla la conclusión 1 del análisis de HWE. La población ha evolucionado en respuesta a la selección.**
 
 Utilizamos una selección fuerte para insistir en nuestro ejemplo numérico. En la naturaleza, las diferencias en supervivencia raramente son tan elevadas como para ocasionar cambios importantes en las frecuencias alélicas en una sola generación. Sin embargo, si la selección continúa actuando durante muchas generaciones, incluso pequeños cambios en las frecuencias de un largo período. En la figura 5.10 se presentan cambios acumulativos en frecuencias alélicas que se pueden obtener por selección. 
-![[Pasted image 20251027021020.png]]
+
 La figura se basa en un modelo poblacional similar al utilizado en los ejemplos numéricos procedentes, excepto en que las frecuencias alélicas iniciales son 0'01 para *B1* y 0'99 para *B2*. La línea amarilla presenta el cambio en frecuencias alélicas cuando las tasas de supervivencia son del 100% para *B1B1*, del 90% para *B1B2* y del 80% para *B2B2*. La frecuencia del alelo *B1* pasa en menos de 100 generaciones de 0'01 a 0'99. Con esquemas de selección más débiles, la frecuencia de *B1* varía más lentamente, pero de manera inevitable.
 
-## Ejemplo II
+### Investigaciones experimentales sobre el cambio de las frecuencias alélicas por selección
+
 Douglas Cavener y Michael Clegg (1981) documentaron el cambio acumulativo en fre-
 cuencias alélicas a lo largo de muchas generaciones en un experimento de selección natural en el laboratorio con la mosca de la fruta (Drosophila melanogaster). La mosca de la fruta, como muchos otros animales, sintetiza una enzima que degrada el etanol, el ingrediente activo venenoso de la cerveza, del vino y de la fruta en putrefacción. Esta enzima se denomina alcohol deshidrogenasa, o ADH. Esta población tenía en el locus de la ADH tenían dos alelos Adh^f y el ADH^s.
 Separaron las moscas en función del tipo de alimento que le daban: unas reciban alimento rociado con etanol y otras alimento normal. La elección de los padres fueron al azar para simular la selección natural. Además utilizaron ambientes diferentes.
@@ -518,16 +493,89 @@ La única diferencia entre los dos tipos de población es que las experimentales
 
 Cavener y Clegg advirtieron que este resultado está de acuerdo con el hecho de que extractos del alcohol deshidrogenasa de homozigotos AdhF degradan el etanol dos veces más rápido que los extractos del alcohol deshidrogenasa de homozigotos AdhS. No está claro si las moscas con el alelo AdhF tiene una mayor eficacia porque tiene una mayor tasa de supervivencia o porque dan lugar a más descendencia.
 En conclusión, la eficiencia de la selección depende de las frecuencias iniciales y de los valores de aptitud relativos.
+
+![[Pasted image 20251027021020.png]]
+
+
+> [!SUCCESS] Frecuencias alélicas bajo el peso de la selección
+> Cambios en la frecuencia del alelo ADHF del gen de la alcohol deshidrogenasa (el otro alelo es ADHS) en cuatro poblaciones experimentales de *Drosophila melanogaster.*
+En las poblaciones cuya alimentación se complementó con etanol, la frecuencia del alelo F aumentó.
+Por el contrario, en las poblaciones control (sin etanol añadido), la frecuencia del alelo F oscila alrededor del valor inicial, f (ADHF) = 0,35, f (ADHS) = 0,65.
+
+### Cálculo de las frecuencias genotípicas
+
+Los cálculos y el ejemplo que acabamos de discutir demuestran que la selección puede dar a lugar que las frecuencias alélicas cambien a lo largo de las generaciones. La selección invalida la  conclusión 1 del análisis de HW. Consideremos ahora de qué manera la selección afecta a la conclusión 2 del análisis de HW. En un población sometida a selección,¿podemos todavía calcular las frecuencias genotípicas multiplicando las frecuencias alélicas?
 ![[Pasted image 20251027124633.png]]
 
-## Selección sobre alelos dominantes y recesivos
-En estos casos la frecuencia del heterozigoto tiende a estar en medio de la frecuencia de los homozigotos, cosa que puede cambiar la tasa de evolución pero no el final, ó sea, la fijación de un alelo. Pero cuando la selección favorece al heterozigoto los resultados son más variados.
-Para ello, utilizaron progenitores que presentaban alelos en homozigosis viables o letales, entonces, emplearon a individuos heterozigotos. Tras 15 generación, el alelo viable aumentó  considerablemente pero a medida que se acercaba al valor 1, empezó a  estabilizarse, cosa que ocurrió con el valor 0'79.
-Repitieron el experimento con diferente  frecuencia alélica inicial del alelo viable con un 0'975. Al contrario de lo esperado, su frecuencia no aumentó, al contrario disminuyó hasta alcanzar el valor de 0'79, tal como sucedió en el caso anterior.
-En la población se daba la superdominancia, la superioridad del heterozigoto, ya que el heterozigoto presenta una mayor eficacia enfrente a los homozigotos.
-En el equilibrio, la ventaja selectiva que posee el alelo letal cuando está en heterozigosis  se equilibra exactamente con la desventaja que tiene cuando está en homozigosis. Sólo de esta forma se pueden mantener la presencia de ambos alelos en la población.
+A menudo no podemos hacerlo. Como antes, que usamos una población con 2 alelos en un locus que afecta a la supervivencia: *B1 y B2*. Supongamos que las frecuencias iniciales de cada alelo en el conjunto es de 0'5. Después del apareamiento al azar, las frecuencias genotípicas de *B1B1, B1B2 y B2B2* son 0'25, 0'5 y 0'25, respectivamnete. El resto de nuestros cálculos serán más simples si damos  a la población de zigotos un tamaño dado, por lo que imaginemos que hay 100 zigotos.
+
+| B1B1 | B1B2 | B2B2 |
+| ---- | ---- | ---- |
+| 250  | 500  | 250  |
+Estos zigotos están representados en un gráfico de barras en la figura. Seguiremos a los individuos que se desarrollan de estos zigotos hasta el estado adulto. Aquellos que sobrevivan se cruzarán para producir el conjunto de genes de la siguiente generación.
+Incorporamos la selección estipulando que los genotipos se diferencian en sus tasas de supervivencia. El 50% de los individuos *B1B1* sobrevive, todos los individuos *B1B2* sobreviven y el 50% de los *B2B2* sobrevive. Como se muestra en la siguiente imagen, ahora habrá 750 adultos en la población:
+
+| B1B1 | B1B2 | B2B2 |
+| ---- | ---- | ---- |
+| 125  | 500  | 125  |
+La frecuencia de los 3 genotipos será la siguiente:
+
+| B1B1  | B1B2  | B2B2  |
+| ----- | ----- | ----- |
+| 0'167 | 0'667 | 0'167 |
+Cuando estos adultos produzcan, las frecuencias de los 2 alelos en el nuevo conjunto de genes será:
+
+
+| B1  | B2  |
+| --- | --- |
+| 0'5 | 0'5 |
+![[Pasted image 20260109125222.png]]
+A pesar de la fuerte selección en contra de los homozigotos, la frecuencia de los alelos no ha cambiado; **la población no ha evolucionado**
+
+Sin embargo, advierta que la selección *ha dado lugar* a que no se cumpla la conclusión 2 del análisis de HW. **Ya no podemos calcular las frecuencias genotípicas de los adultos supervivientes multiplicando las frecuencias de alelos.**
+
+
+> [!SUCCESS] Efectos de la selección a las frecuencias alélicas y genotípicas
+>Bajo la selección una población la 2 conclusión de HW se rompe pero rara vez la selección provoca grande cambios en las frecuencias y en tal caso, en una generación de apareamiento al azar devolverá inmediatamente a los genotipos al equilibrio HW.
+
+## Selección sobre alelos recesivos y dominantes
+
+Los datos recogidos por Peter Dawson son un ejemplo de cómo la recesividad y la dominancia afectan al curso de la evolución. Dawson había estudiado una colonia de laboratorio del gorgojo del trigo(*Tribolium castaneaum*), y había identificado un gen,
+que llamaremos locus 1. Este locus tenía dos alelos: y l. Los individuos con genotipos
+/ y /l eran fenotípicamente normales, mientras que los individuos con genotipo l/l
+no sobrevivían. En otras palabras, l es un alelo letal recesivo.
+Dawson recogió heterozigotos de su colonia de gorgojos del trigo y los utilizó para
+establecer dos nuevas poblaciones experimentales.Ya que todos los fundadores eran heterozigotos, la frecuencia inicial de los dos alelos era 0,5 en las dos poblaciones.Ya que los individuos l/l tienen una eficacia cero, Dawson esperaba que su población evolucionara hacia frecuencias cada vez más bajas del alelo l y más altas del alelo . Dawson utilizó las ecuaciones derivadas en el Cuadro 5.3 y el método descrito en el Cuadro 5.6 para hacer predicciones cuantitativas del curso de la evolución. Luego dejó que sus poblaciones evolucionaran durante unas doce generaciones, midiendo en cada generación las frecuencias de los dos alelos.
+Los resultados aparecen en la Figura 5.14. Los datos de Dawson están muy de acuerdo con sus predicciones teóricas. Al principio, la frecuencia del alelo letal recesivo disminuye rápidamente (Figura 5.14a). En la segunda generación ya ha bajado del 0,5 a, aproximadamente, el 0,25. Sin embargo, a medida que la evolución progresaba, la reducción en frecuencia del alelo letal se hizo más lenta. Entre las generaciones 10 y 12 la frecuencia no disminuyó en absoluto. 
+
+![[Pasted image 20260109123248.png]]
+ 
+El equilibrio de Hardy-Weinberg explica el porqué. Imagine primero un alelo recesi-
+vo que es frecuente: su frecuencia es, por ejemplo, 0,95.Así, el alelo dominante tiene una frecuencia del 0,05. Multiplicando las frecuencias alélicas podremos calcular las frecuencias genotípicas:
+
+| *AA*   | Aa    | aa     |
+| ------ | ----- | ------ |
+| 0'0025 | 0'095 | 0'9025 |
+Casi un 10% de los individuos de la población tienen fenotipo dominante, mientras que
+el 90% restante tienen fenotipo recesivo. Ambos fenotipos están razonablemente bien
+representados y si se diferencian en eficacia, las frecuencias alélicas de la siguiente generación pueden ser sustancialmente distintas. Imaginemos ahora que el alelo recesivo es raro: su frecuencia es 0,05. Así, el alelo dominante tiene una frecuencia de 0,95. Las frecuencias genotípicas son
+
+| *AA*   | Aa    | aa     |
+| ------ | ----- | ------ |
+| 0'9025 | 0'095 | 0'0025 |
+
+Prácticamente el 100% de la población tiene el fenotipo dominante, mientras que el fenotipo recesivo está casi ausente.Aunque los fenotipos se diferencien mucho en eficacia, hay tan pocos de los fenotipos minoritarios que habrá muy poco cambio en frecuencias alélicas en la generación siguiente. En una población con apareamiento al azar, la mayoría de las copias del alelo recesivo raro se encuentran escondidas fenotípicamente en los individuos heterozigotos. Para un tratamiento algebraico de la selección sobre los alelos recesivos y dominantes véase el Cuadro 5.7(Tratamiento algebraico de la selección sobre alelos recesivos y dominantes)
+
+![[Pasted image 20260109141837.png]]
+
+> [!SUCCESS] Experimento de Dawson
+> Demuestra que la teoría de la genética de poblaciones, a pesar de sus suposiciones simplificadas, nos permite predecir con mucha exactitud el curso de la evolución, al menos en las condiciones controladas del laboratorio.
+
 ### Selección sobre el alelo recesivo
-Coeficiente de selección(*s*) indica la fuerza de la selección sobre los homozigotos o heterozigotos relativa a los otros genotipos.
+
+> [!NOTE] Coeficiente de selección
+> Indica la fuerza de la selección sobre los homozigotos o heterozigotos relativa a los otros genotipos
+
 
 | *WAA* | *WAa* | *Waa* |
 | ----- | ----- | ----- |
@@ -541,7 +589,8 @@ Sustituyendo los valores de eficacia y (1-p) por *p* y simplificando, obtendremo
 $$
 q'=\frac{q(1+sq)}{1+sq^{2}}
 $$
-Si *a* es un letal recesivo, entonces *s* es igual *a-1*. Sustituyendo este valor en la ecuación anterior tendremos
+Si *a* es un letal recesivo, entonces *s* es igual *a-1*. 
+Sustituyendo este valor en la ecuación anterior tendremos
 $$
 q'=\frac{q(1-q)}{1-q^{2}}=\frac{q(1-q)}{(1-q)(1+q)}=\frac{q}{(1+q)}
 $$
@@ -555,34 +604,119 @@ En este caso la selección favorece al alelo *A*, por tanto, afecta tanto a los 
 $$
 p'=\frac{p^{2}w_{AA}+pqw_{Aa}}{\bar{w}}=p^{2}w_{AA}+\frac{pqw_{Aa}}{p^{2}w_{AA}+2pqw_{Aa}+q^{2}w_{aa}}
 $$
-Lo mismo que en el caso  anterior  se sustituye *q* por (1-*p*) y simplificando se obtiene:
+Lo mismo que en el caso  anterior  se sustituye *q* por *(1-p)* y simplificando se obtiene:
 $$
 p'=\frac{p(1+s)}{1+2sp-sp^{2}}
 $$
 Si **A* es letal dominante**, *s* es igual a  -1. Sustituyendo  este  valor en la ecuación anterior se ve  que el letal dominante **se elimina de la población en una sola generación.**
 
 ### Selección sobre los alelos recesivos en comparación  con la selección sobre los alelos dominantes.
-El alelo no favorecido por la selección se esconde en los individuos heterozigotos. Pero tras 100  generaciones se observa un ligero cambio de frecuencias, como el aumento de la frecuencia de homozigotos no favorecidos. Una vez se acelera el ritmo de la evolución, los alelos favorecidos por la selección acabará fijandose en la población.
-![[Pasted image 20251027133512.png]]
-## Ejemplo numérico
-Tenemos una población de gorgojos del trigo que tienen dos alelos: *+ y l*. El alelo *l* en homozigosis es letal recesivo. De nuevo se inició el experimento con individuos heterozigotos cuya frecuencia inicial era de 0'5 en las dos poblaciones. Como 
-En  un inicio la frecuencia de los alelos *l* disminuyó y aumentó *+*. Tras hacer predicciones cuantitativas del curso de la evolución. Luego dejó que sus poblaciones evolucionaran durante unas doce generaciones, midiendo en cada generación las frecuencias de los alelos.
-Los resultados coincidian con sus predicciones teóricas. Al principio, la frecuencia del alelo letal recesivo disminuye rápidamente. En la segunda generación ya ha bajado del 0'5 casi  un 0'25. Pero a medida que avanza la evolución, esa reducción se vuelve más lenta. Entre las generaciones 10 y 12 la frecuencia no disminuyó  nada. Mediante el experimento de Dawson demuestra que la teoría de la genética de poblaciones, nos  permite predecir con bastante exactitud el curso de la evolución, bajo condiciones controladas en el laboratorio.
-También demuestra que la dominancia y la frecuencia alélica interactúan para determinar la tasa de evolución. Cuando el alelo recesivo es frecuente, la evolución por selección natural es rápida. En el  caso del  alelo recesivo es raro y el  alelo dominante abundante, la evolución por selección natural es lenta.
 
-Esta situación se explica mediante HWE donde partimos alta frecuencia genotípica del 0'9025 mientras que el *AA* de 0'0025, que aunque simulemos el experimento mil y unas veces, los individuos que sean homozigotos *AA* son tan pocos que no provocan un cambio de frecuencia. De esta forma, se acaba fijando el alelo *a* en la población 
-## Equilibrio estable con superioridad del heterozigoto y equilibrio inestable con inferioridad del heterozigoto
+La selección sobre los alelos recesivos y la selección sobre los alelos dominantes son lados opuestos de la misma moneda. La selección en contra de un alelo recesivo es
+selección a favor del alelo dominante y viceversa.
+
+En la Figura 5.15a (izquierda) se muestran 100 generaciones de evolución en una población ideal sometida a selección contra un alelo recesivo y a favor del alelo dominante.Al principio, la frecuencia de los alelos cambia rápidamente. Sin embargo, a medida que el alelo recesivo se hace más raro, la tasa de evolución disminuye drásticamente. Cuando el alelo recesivo es raro, la mayoría de las copias se encuentran en los individuos heterozigotos de la población, en donde se encuentran realmente ocultos al efecto de la selección.
+La figura también muestra (derecha) la eficacia media de la población (véase el Cuadro 5.3) en función de la frecuencia del alelo dominante. A medida que el alelo
+dominante se va haciendo más frecuente, la eficacia media de la población aumenta. La eficacia media se maximiza cuando el alelo favorecido alcanza una frecuencia del
+100%. Las gráficas de la eficacia media en función de la frecuencia alélica se denominan a menudo paisajes adaptativos.
+
+La Figura 5.15b (izquierda) muestra 100 generaciones de evolución en una población ideal sometida a selección a favor del alelo recesivo y en contra del alelo dominante.
+Al principio la frecuencia de los alelos cambia lentamente. El alelo recesivo es raro, la mayoría de las copias presentes se encuentran en los heterozigotos y la selección no
+puede verlos. Sin embargo, a medida que los alelos recesivos se hacen lo bastante frecuentes como para que aparezca una fracción sustancial de homozigotos, la tasa de
+evolución aumenta espectacularmente. Una vez se acelera el ritmo de la evolución, los alelos recesivos favorables alcanzan rápidamente una frecuencia del 100%. Es decir, el
+alelo recesivo queda fijado en la población.
+La figura también muestra (derecha) la eficacia media de la población (véase el Cuadro 5.3) en función de la frecuencia del alelo recesivo. A medida que el alelo recesivo se va haciendo más frecuente, la eficacia media de la población aumenta. La eficacia media se maximiza cuando el alelo favorecido alcanza una frecuencia del 100%.
+
+> [!SUCCESS] Selección sobre los alelos recesivos  en comparación con la selección sobre los alelos
+> El alelo no favorecido por la selección se esconde en los individuos heterozigotos. Pero tras 100  generaciones se observa un ligero cambio de frecuencias, como el aumento de la frecuencia de homozigotos no favorecidos. Una vez se acelera el ritmo de la evolución, los alelos favorecidos por la selección acabará fijandose en la población.
+
+
+![[Pasted image 20251027133512.png]]
+### Selección dominante: selección que actúa sobre el fenotipo dominante
+![[Pasted image 20260109142535.png]]
+
+##  Selección sobre homozigoto y heterozigoto
+
+Cuando un alelo es recesivo y el otro es dominante, la eficacia de los heterozigotos es igual a la de uno de los dos homozigotos. Desde luego hay otras situaciones posibles.A menudo la eficacia de los heterozigotos se encuentra entre la de los dos homozigotos. Esto puede cambiar la tasa de evolución, pero no altera el resultado final.Al final, en la población queda fijado un alelo y el otro se pierde. En la Figura 5.10 se muestran varios ejemplos.
+También es posible que la eficacia de los heterozigotos sea superior o inferior a la de
+los dos homozigotos. La superioridad y la inferioridad de los heterozigotos dan lugar a
+resultados completamente distintos.
+
+Nuestro primer ejemplo viene de la investigación en poblaciones de laboratorio de la
+mosca de la fruta (Drosophila melanogaster) realizada por Terumi Mukai y Allan Burdick
+(1959). Al igual que Dawson, Mukai y Burdick estudiaron la evolución de un locus con
+dos alelos. Los homozigotos para un alelo eran viables mientras que los homozigotos para el otro alelo no lo eran. Los investigadores utilizaron heterozigotos como fundadores para establecer dos poblaciones experimentales con frecuencias alélicas iniciales de 0,5. Permitieron que las poblaciones evolucionaran durante 15 generaciones, midiendo en cada generación la frecuencia del alelo viable.
+Los resultados de Mukai y Burdick aparecen en la Figura 5.16, representados por los
+símbolos rojos. Como se esperaba, la frecuencia del alelo viable aumentó rápidamente en las primeras generaciones. Sin embargo, la tasa de evolución disminuyó mucho antes de que el alelo viable se aproximara a la frecuencia de 1,0. Por el contrario, parecía que el alelo viable alcanzaba un equilibrio, o un estado sin cambios, a una frecuencia de 0,79.
+
+Para profundizar más, Mukai y Burdick fundaron dos nuevas poblaciones experimentales, esta vez con una frecuencia inicial del alelo viable de 0,975. La evolución de estas poblaciones se representa en la Figura 5.16 por los símbolos azules. En lugar de aumentar hacia 1,0, la frecuencia del alelo viable bajo, alcanzando de nuevo un equilibrio cercano al 0,79.
+![[Pasted image 20260109133941.png]]
+Adviértase que una frecuencia de equilibrio de 0,79 para el alelo viable significa que
+el alelo letal tiene una frecuencia de equilibrio de 0,21. ¿Cómo puede mantener la selección natural un alelo letal a tan elevada frecuencia en esta población? Mukai y Burdick arguyeron que la explicación más probable era la superioridad del heterozigoto, también conocida como **superdominancia.** 
+
+
+
+> [!NOTE] Superdominancia 
+> Es un tipo de selección natural en el que el **genotipo heterocigoto tiene mayor eficacia biológica que ambos genotipos homocigotos**. Como consecuencia, se mantiene la variación genética en la población, ya que ninguno de los alelos se elimina. Un ejemplo clásico es el caso de la anemia falciforme, donde los heterocigotos tienen ventaja frente a la malaria.
+
+
+De acuerdo con esta hipótesis, los heterozigotos tienen mayor eficacia que cualquiera de los homozigotos. En el equilibrio, la ventaja selectiva que posee el alelo letal cuando está en heterozigosis se equilibra exactamente con la desventaja obvia que sufre cuando está en homozigosis. Las curvas roja y azul de la Figura 5.16 representan la evolución en una población ideal en la que la eficacia de los tres genotipos son las siguientes (V representa el alelo viable y L el alelo letal):
+
+
+| *VV*  | *VL* | *LL* |
+| ----- | ---- | ---- |
+| 0'735 | 1'0  | 0    |
+Las curvas teóricas se ajustan mucho a los datos. Manteniendo una población en un
+equilibrio en el que ambos alelos se encuentren presentes, la superioridad del heterozi-
+goto puede mantener diversidad genética. Para un tratamiento algebraico de la superioridad del heterozigoto, véase el Cuadro 5.8.
+
+Nuestro segundo ejemplo, del trabajo de G. G. Foster y sus colegas (1972), demuestra
+cómo evolucionan las poblaciones cuando los heterozigotos tienen menor eficacia que
+cualquiera de los dos homozigotos. Foster y sus colegas utilizaron moscas de la fruta con cromosomas compuestos. Los cromosomas compuestos son cromosomas homólogos que han permutado brazos completos, de tal manera que un homólogo tiene dos copias de un brazo y el otro homólogo tiene las dos copias del otro brazo (Figura 5.17a,b). En la meiosis, los cromosomas compuestos pueden segregar o no. Por ello se producen cuatro tipos de gametos en igual número: gametos con ambos cromosomas homólogos, gametos con sólo uno de los brazos del par, gametos con sólo el otro brazo del par y gametos sin cromosomas del par (Figura 5.17c). Cuando se cruzan dos moscas con cromosomas compuestos, la cuarta parte de sus zigotos tiene cada uno de los brazos cromosómicos en la dosis correcta y son viables. Los otros tres cuartos tienen o demasiadas copias o demasiado pocas de uno o de los dos brazos cromosómicos y son inviables (Figura 5.17d). Cuando una mosca con cromosomas compuestos se cruza con una mosca con cromosomas normales, ninguno de los zigotos que se forma es viable (Figura 5.17e).
+Foster y sus colegas establecieron poblaciones de laboratorio en las que algunos de los fundadores tenían cromosomas segundos compuestos [C(2)] y otros tenían cromosomas segundos normales [N(2)]. Para el análisis podemos tratar cada cromosoma como si fuera un único alelo. Así, los fundadores son homozigotos C(2)C(2) y homozigotos N(2)N(2).
+Basándonos en la viabilidad de los homozigotos que acabamos de describir, las eficacias de los genotipos en la población mezcla son:
+
+| C(2)C(2) | C(2)N(2) | N(2)N(2) |
+| -------- | -------- | -------- |
+| 0'25     | 0        | 1        |
+![[Pasted image 20260109134407.png]]
+En otras palabras, los genotipos presenta una fuerte desventaja del heterozigoto(**infradominancia**).
+
+> [!NOTE] Infradominancia
+> Es un tipo de selección natural en el que el **genotipo heterocigoto tiene menor eficacia biológica que ambos genotipos homocigotos**. Esto genera una selección en contra del heterocigoto y puede provocar que uno u otro alelo se fije en la población, dependiendo de sus frecuencias iniciales.
+
+El análisis *Equilibrio estable con superioridad del heterozigoto y equilibrio inestable con inferioridad del heterozigoto* que será descrito a continuación, predice que una población mezclada estará en equilibrio, con los 2 alelos presentes, cuando la frecuenica de *C(2)* sea exactamente 0'8. Sin embargo, este equilibrio **es inestable**. Si la frecuencia de *C2* sube ligeramente por encima de 0'8, entonces aumentará rápidamente hasta 1'0. De igual manera, si la frecuencia de *C(2)* baja ligeramente de 0'8 rápidamente bajará hasta cero.
+
+Intuitivamente, la razón de esta predicción es la siguiente. **Los heterozigotos son inviables, por lo que los adultos de la población serán todos homozigotos.**
+
+Imaginemos primero que los individuos *C(2)C(2)* son corrientes y los *N(2)N(2)* raros. Si las moscas se cruzan al azar, casi todos los cruces se darán entre moscas *C(2)C(2)*, o entre moscas *C(2)C(2)* y *N(2)N(2)*. Sólo raramente se cruzarán moscas *N(2)N(2)* entre si. Por ello, la mayoría de las moscas *N(2)N(2)* tendrán un éxito reproductivo nulo, y la frecuencia de *C(2)* subirá hasta 1,0. Imaginemos ahora que hay bastantes moscas *N(2)N(2)* y que un número apreciable de ellas se cruza entre sí. Estos cruces producirán cuatro veces más descendientes que los cruces entre moscas C(2)C(2). Por ello la frecuencia de N(2) subirá hasta 1,0 y la frecuencia de C(2) caerá hasta cero.
+
+Foster y sus colegas fundaron 13 poblaciones mezcladas, con frecuencias de C(2) entre 0,71 y 0,96, y luego siguieron su evolución durante cuatro generaciones. Los resultados aparecen en la Figura 5.17f. Cuantitativamente, el resultado está perfectamente de acuerdo con las predicciones teóricas. En las poblaciones con las frecuencias iniciales de C(2) más elevadas, aumenta rápidamente hasta la fijación, mientras que en poblaciones con frecuencias iniciales bajas, C(2) se pierde rápidamente. La situación exacta del punto de equilibrio inestable es, aproximadamente 0,9 en lugar de 0,8. Foster y sus colegas advierten que
+sus moscas C(2)C(2) llevaban marcadores genéticos recesivos que los biólogos introducen para permitir una fácil identificación. Sugieren que estos marcadores reducen la eficacia relativa de las moscas C(2)C(2) por debajo del valor de 0,25, deducido exclusivamente en función de sus cromosomas compuestos. El experimento de Foster y colegas demuestra que la inferioridad de los heterozigotos da lugar a la perdida de diversidad genética en las poblaciones. Sin embargo, llevando a la fijación a alelos diferentes en poblaciones distintas, la inferioridad del heterozigoto puede ayudar a mantener la diversidad genética en el conjunto de las poblaciones.
+
+### Equilibrio estable con superioridad del heterozigoto y equilibrio inestable con inferioridad del heterozigoto
 $$
 \begin{align}
 \vartriangle p=\frac{p}{\bar{w}}(pw_{11}+qw_{12}-\bar{w}) \\
 =\frac{p}{\bar{w}}(pw_{11}+qw_{12}-p^{2}w_{11}-2pqw_{12}-q^{2}w_{22})
 \end{align}
 $$
-Por definición, la frecuencia del  alelo A1,  estará en equilibrio  cuando
+Sustituyendo *p* por (1-*q*) en los términos primero y tercero de la expresión entre paréntesis, tendremos,
+
+$$
+\vartriangle p=\frac{p}{\bar{w}}[(1-q)w_{11}+qw_{12}-(1-q)^{2}w_{11}-2pqw_{12}-q^{2}w_{22}]
+$$
+Después de simplificar y despejar *q*, tendremos,
+
+$$
+\vartriangle p=\frac{pq}{\bar{w}}(w_{12}+w_{11}-qw_{11}-2pqw_{12}-qw_{22})
+$$
+
+Por definición, la frecuencia del alelo A1,  estará en equilibrio  cuando
 $$
 \vartriangle p=0
 $$
-Para tener esta condición es necesario  que *p o q*=0, cuando desaparece un alelo de la población. Hay otra situación
+Para tener esta condición es necesario  que *p o q*=0. **Estos dos equilibrios son triviales**. Se dan cuando desaparece un alelo de la población. La ecuación también tiene una tercera situación de equilibrio, que es cuando,
 $$
 w_{12}+w_{11}-qw_{11}-2pw_{12}-qw_{22}=0
 $$
@@ -590,7 +724,7 @@ Tenemos que sustituir  *q*  por *(1-p)* y despejando *p* tendremos,
 $$
 \hat{p}=w_{22}-\frac{w_{12}}{w_{11}-2w_{qw}+w_{22}}
 $$
-donde p es la frecuencia del alelo A1 en el equilibrio. 
+donde p^ es la frecuencia del alelo A1 en el equilibrio. Finalmente, sea la eficacia de los genotipos la siguiente:
 
 | *A1A1* | *A1A2* | *A2A2* |
 | ------ | ------ | ------ |
@@ -598,18 +732,59 @@ donde p es la frecuencia del alelo A1 en el equilibrio.
 Si *s o t* tienen valores positivos significa que están en contra del heterozigoto mientras que los negativos estarían a favor.  
 Al final al fórmula se queda :
 $$
-\hat{p}=\frac{t}{s+t}
-$$
-Los siguientes  suceden  porque el incremento de la frecuencia alélica en la siguiente generación depende de la *p*, es decir del alelo no dominante.
-Sí el valor de *p* es mayor que el equilibrio el incremento *p* será negativo, por tanto, en las siguientes generaciones habrá un descenso de sus frecuencias alélicas. Por el contrario, *p* es menor que el incremento será positivo y se mantendrá el equilibrio.
-$$
 \begin{align}
-↓ \text{Frecuencia aleĺica si} \vartriangle p<0\  \\
-\text{Equilibrio del alelo si} \vartriangle p>0
+ \hat{p}=\frac{t}{s+t} \\
+ \hat{q}=\frac{s}{s+t} 
 \end{align}
+
 $$
-En el caso que sea selección en contra del heterozigoto, si el valor de un alelo aumenta, este  aumentará hasta alcanzar el valor de 1. Sucede algo similar en caso que su valor disminuya que llegará hasta el valor 0. Por tanto, el  equilibrio interno para un locus con inferioridad del heterozigoto es inestable.
-Además si la eficacia media será mínima cuanto más se acerque el valor del alelo *A1* al  equilibrio  inestable y será mayor cuanto más se aleje el valor  de las  frecuencias del *A1 y A2*. No podemos asumir que la selección aumentará la eficacia de manera global, cabe la posibilidad con que  se fije un alelo cosa que establecería el equilibrio o la pérdida de un alelo.
-![[Pasted image 20251027161618.png]]
+
+> [!SUCCESS] Equilibrio polimorfico
+> Se puede alcanzar un equilibrio polimórfico en ambos casos;  cuando la selección favorece al heterocigoto (w12 > w11 y w12 > w22, por lo tanto, s y t < 0), lo que se denomina sobredominancia, heterosis o selección balanceadora. Y cuando la selección actúa en contra del heterocigoto (w12 < w11 y w12 < w22, por lo tanto, s y t > 0), lo que se denomina subdominancia o selección disruptiva.
+
+> [!QUESTION] ¿Por qué con sobredominancia conseguimos un equilibrio mientras que con infradominancia no?
+> En sobredominancia, el heterozigoto tiene ↑ eficacia que ambos homozigotos, por lo que hace que la selección favorezca a los individuos con alelos distintos y mantiene la variabilidad en la población. Esta situación genera un equilibrio estable, porque is la frecuencia de uno  de los alelos ↓, la producción de heterozigotos sigue siendo ventajosa y la selección lo vuelve a aumentar; por eso  el sistema tiende  a regresar  al equilibrio→Selección estabilizadora.
+> Por otro lado, en el  caso de infradominancia, el heterozigoto tiene menor ↓ eficacia, por tanto, la selección actúa en su contra. En este caso, el equilibrio en el que ambos alelos estén presentes es inestable, porque cualquier desviación en la frecuencia de un alelo reduce más la producción de heterozigotos y empuja a la población a la fijación de uno u otro alelo. Conduciendo a un  equilibrio inestable y no mantiene la variación genética.
 
 
+Por ejemplo, cuando s = –0,4 y t = –0,6, los heterozigotos tienen una mayor eficacia, y la frecuencia en el equilibrio para el alelo A1 es 0,6. Cuando s = 0,4 y t = 0,6, los
+heterozigotos tienen una menor eficacia y la frecuencia en el equilibrio para el alelo A1 es también 0,6.
+Otro método útil para analizar el equilibrio es representar el Δp en función de p. En la Figura 5.18a se muestra tal representación para los dos ejemplos numéricos que
+acabamos de calcular. En ambas representaciones se demuestra que el Δp = 0 cuando p = 0, p = 1 ó p = 0,6.
+
+Las curvas de la Figura 5.18a también nos permiten determinar si un equilibrio es estable o inestable. Observemos la curva roja; se refiere a un locus con superioridad
+del heterozigoto. Advierta que cuando **p es mayor de 0,6, el Δp es negativo**. Esto quiere decir que cuando la frecuencia del alelo A1 sea superior a su valor de equilibrio,
+la población retrocederá hacia el equilibrio en la generación siguiente. De igual manera, cuando **p* sea menor que 0,6, el Δp será positivo**. Cuando la frecuencia del alelo A1 se encuentra por debajo de su valor de equilibrio volverá hacia el equilibrio en la generación siguiente. El equilibrio “interno” de un locus con superioridad del heterozigoto es estable.
+
+La Figura 5.18b muestra un paisaje adaptativo para un locus con **superioridad del heterozigoto**. El gráfico representa la eficacia media poblacional en función de la frecuencia del alelo A1. La eficacia media es baja cuando no está A1 y relativamente baja cuando A1 se ha fijado. A medida que la frecuencia del alelo se desplaza desde ambos extremos hacia su equilibrio estable, la eficacia media poblacional aumenta hasta un máximo.
+![[Pasted image 20260109141448.png]]
+
+Miremos ahora a la curva azul de la Figura 5.18a. Se refiere a un locus con **inferioridad del heterozigoto. Si *p* aumenta, aunque sólo sea ligeramente, por enzima de 0,6**, seguirá aumentado hasta 1,0 en las generaciones siguientes; si *p* disminuye, aunque sólo sea ligeramente por debajo de 0,6, continuará disminuyendo hasta 0 en las generaciones siguientes. El equilibrio interno para un locus con inferioridad del heterozigoto es inestable.
+
+![[Pasted image 20260109141442.png]]
+
+
+> [!QUESTION] ¿Cómo diferenciar entre sobredominancia e infradominancia
+>Sobredominancia → si el heterozigoto con ↑ eficacia+ s<0 + t<0
+>Infradominancia→si el heterozigoto con ↓ eficacia +s >0 + t>0
+
+![[Pasted image 20260109143801.png]]
+> [!NOTE] Paisaje adaptativo
+> Es una representación conceptual que muestra la relación entre los **genotipos o fenotipos** de una población y su **eficacia biológica**. Se imagina como una superficie con **picos y valles**, donde los picos representan combinaciones genéticas con alta eficacia biológica y los valles combinaciones con baja eficacia. La selección natural tiende a mover a las poblaciones hacia los picos adaptativos, mientras que la deriva genética, la mutación y la recombinación pueden permitir que una población cruce valles y alcance picos diferentes.
+
+La Figura 5.18c muestra el paisaje adaptativo para un locus con **inferioridad del heterozigoto**. La eficacia media poblacional es mínima cuando la frecuencia del alelo A1 coincide con el equilibrio interno inestable. Cuando la frecuencia del alelo se aleja de este equilibrio en ambas direcciones, la eficacia media aumenta.
+Una comparación del paisaje adaptativo de la Figura 5.18c con los de las Figuras 5.18b y 5.15 ofrece una conclusión importante. Cuando una población evoluciona
+en respuesta a la selección, la eficacia media de los individuos de la población tiende a elevarse. Sin embargo, la selección no siempre maximiza la eficacia media en un
+sentido global. Dependiendo de las frecuencias alélicas iniciales, la población representada en la Figura 5.18c puede evolucionar bien hacia la fijación, bien hacia la
+pérdida del alelo A1. Si el alelo queda fijado, la población se situará en un equilibrio estable, pero la eficacia media de la población será sustancialmente menor que si el alelo se hubiera perdido.
+
+![[Pasted image 20260109141429.png]]
+
+
+> [!SUCCESS] Selección natural: Modelo de solo un locus
+> Es posible derivar una expresión matemática sencilla para describir la acción de la selección natural en un locus con dos alelos.
+Estas expresiones también pueden aplicarse a organismos haploides.
+La acción de la selección depende de la ventaja selectiva, la frecuencia inicial del alelo seleccionado y el modo de herencia (recesivo/dominante/codominante).
+Cuando la selección favorece al heterocigoto, este puede mantener un polimorfismo estable y puede asociarse a la selección estabilizadora.
+La selección contra el heterocigoto conduce a un polimorfismo inestable y puede asociarse a la selección disruptiva.
+Existen evidencias experimentales y observacionales que demuestran la validez de los modelos de selección estudiados (experimentos con insectos y datos de poblaciones humanas).

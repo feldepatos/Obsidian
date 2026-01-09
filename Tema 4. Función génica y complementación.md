@@ -17,7 +17,7 @@ Basándose en estas conclusiones, Garrod hipotenizó que la información heredit
 Sólo unos pocos genéticos, entre los que estaba **Bateson, conocían el experimento**. Y sus ideas encajaban bien con la creencia de Bateson de que las condiciones hereditarias estaban cauasadas por la falta de alguna sustancia sustancial. En 1909, Bateson publicó "Los principios de la Herencia de Mendel", en el que relacionaba a los fermentos con la herencia. Sin embargo, durante casi 30 años, la mayoría de los genéticos no vieron las relaciones entre genes y enzimas. **Garrod y Bateson, como Mendel, se adelantaron a su tiempo.**
 
 
-> [!SUCCESS] Conclusiones
+> [!SUCCESS] Conclusiones A. Garrod
 > La información hereditaria controla las reacciones químicas del organismo, y que las enfermedades genéticas son el resultado de estas.
 
 ---
@@ -37,7 +37,7 @@ Animado por estos descubrimientos, Beadle colaboró entonces con Tatum, para inv
 	- Todos 2 reacciones generan productos difusibles.
 
 
-> [!SUCCESS] Conclusiones
+> [!SUCCESS] Conclusiones Beadle y Ephrussi
 > Demostraron que los genes no actúan directamente sobre los rasgos, sino que **regulan pasos concretos de rutas bioquímica**
 
 
@@ -55,7 +55,7 @@ Características:
 - Se puede inducir la aparición de mutaciones la exposición de los rayos X.
 
 
-> [!SUCCESS] Conclusiones
+> [!SUCCESS] Conclusiones Beadle y Tatum
 > **Concluyeron que el suplemento que restablecía el crecimiento era la molécula que la cepa mutante no podía sintetizar.**
 
 
@@ -85,7 +85,7 @@ Finalmente, se puede concluir que *arg 1*  representa la mutación que evita la 
 	- Producidas hacia el final de la ruta pueden ser utilizadas por un ↑ nº de mutantes.
 
 
-> [!SUCCESS] Conclusiones
+> [!SUCCESS] Conclusiones **Adrian Srb y Norman Horowitz** 
 > Determinó la ruta metabólica parcial de la síntesis de la arginina, porque nos permitió conocer en que punto la ruta se bloqueaba y no era capaz de pasar a la siguiente hasta la formación de la arginina.
 
 ---

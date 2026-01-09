@@ -213,9 +213,10 @@ La presencia de genes bacterianos en el factor citoplásmico F da lugar a una si
 
 
 > [!DANGER] F⁺ vs Hfr vs F'
-> F⁺: la célula tiene el factor F como plásmido independiente, puede formar pilus sexual, donar solo el factor F completo a F⁻ y convertirla en F⁺.  
+>F⁺: la célula tiene el factor F como plásmido independiente, puede formar pilus sexual, donar solo el factor F completo a F⁻ y convertirla en F⁺.  
+> 
 Hfr: se forma cuando el factor F se **integra en el cromosoma** mediante recombinación homóloga en secuencias de inserción; la célula Hfr puede donar **genes cromosómicos en orden secuencial** a F⁻ (sexducción), pero generalmente la F⁻ **no se convierte en F⁺** porque no recibe el factor F completo.  
-F′: se forma cuando un Hfr excisa el factor F junto con genes cromosómicos adyacentes, la célula puede donar **el plásmido completo con genes extra** a F⁻, convirtiéndola en F′ pero se comportará como una F⁺, proviene del cruce Hfr x F⁻.
+>F′: se forma cuando un Hfr excisa el factor F junto con genes cromosómicos adyacentes, la célula puede donar **el plásmido completo con genes extra** a F⁻, convirtiéndola en F′ pero se comportará como una F⁺, proviene del cruce Hfr x F⁻.
 
 
 > [!DANGER] Cruces
@@ -264,7 +265,7 @@ El experimento de **Lederberg y Zinder** se realizó para estudiar la transferen
 
 ## Transducción especializada
 
-Es un tipo de transferencia genética bacteriana mediada por bacteriófagos temperados en la que, durante la escisión incorrecta del profago integrado en el cromosoma bacteriano, se transfieren **solo genes bacterianos específicos** que se encuentran adyacentes al sitio de inserción del fago, los cuales son empaquetados junto con el ADN viral y llevados a otra bacteria donde pueden recombinarse con su cromosoma
+Es un tipo de transferencia genética bacteriana mediada por bacteriófagos temperados en la que, **durante la escisión incorrecta del profago integrado en el cromosoma bacteriano, se transfieren **solo genes bacterianos específicos** que se encuentran adyacentes al sitio de inserción del fago, los cuales son empaquetados junto con el ADN viral y llevados a otra bacteria donde pueden recombinarse con su cromosoma
 
 
 > [!NOTE] Bacteriofago temperado

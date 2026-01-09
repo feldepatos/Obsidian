@@ -37,7 +37,7 @@ Ante esta situación **se planteó, que cada gen presenta un potencial alelo adi
 - A ↑ nº de alelos aditivos, mayor es la intensidad de rojo porque cada alelo contribuye de la misma cantidad acumulativa de pigmento.
 
 
-> [!SUCCESS] Comclusiones
+> [!SUCCESS] Conclusiones Herman Nilsson-Ehle
 > Demostró cómo la variación continua podía explicarse de modo mendeliano, con alelos aditivos en múlitples locis influyendo en el fenotipo de manera cuantitativa pero segregando cada alelo de acuerdo con las leyes mendelianas.
 
 
@@ -52,7 +52,7 @@ Ninguno de sus descendientes recuperó la longitud original de los parentales.
 Esta situación se explica mediante la hipótesis de los factores múltiples basada en factores mendelianos.
 
 
-> [!SUCCESS] Conclusión Herman Nilsson-Ehle
+> [!SUCCESS] Conclusión Edward M. East
 > La variación continua observada en muchos rasgos puede explicarse por la **acción conjunta de varios genes mendelianos**
 
 
@@ -74,7 +74,7 @@ Entre las principales modificaciones que podemos encontrar de la distribución f
 	- **Provoca distribuciones fenotípicas asimétricas**
 		- No todos los caracteres cuantitativos están causados por los efectos aditivos, ni los efectos de estos son siempre independientes entre ellos. En estos casos la curva de distribución fenotípicas pueden se pueden presentar asimétrica con una gran diferente de frecuencia correspondiente a un extremo de la distribución.
 		- Caso de la **dominancia**
-			- ↑ fitness a un homozigoto  cosa que no es tan visible en la F2 y que depende en gran medida del número de pares génicos involucrados en la herencia del carácter, de manera que si esta es grande puede, incluso, pasar desapercibida.
+			- ↑ fitness a un homozigoto  cosa que no es tan visible en la F2 y que **depende en gran medida del número de pares génicos involucrados en la herencia del carácter**, de manera que si esta es grande puede, incluso, pasar desapercibida.
 - Existencia de umbrales
 	- **Los rasgos genéticos cuantitativos pueden dar lugar a fenotipos de distribución discontinua.
 		- ¿Pueden los rasgos genéticos cuantitativos(genes cuantitativos, genes de efecto aditivo) controlar los rasgos genéticos con una distribución fenotípica discontinua?

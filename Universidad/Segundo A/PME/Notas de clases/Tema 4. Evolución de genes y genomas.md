@@ -18,16 +18,16 @@ incluso algunos autores se explicaba por selección
 
 cuando hacemos eso con otras proteínas como la tasa de cambio eran más altas respectos a las hb.
 a los años 50 Haldane se interesó de cara a la selección artificial cual era el tiempo era necesario para reemplazar a otro, es decir, aplicar selección artificial.
-	si este carácter es aditivo hay una respuesta de la selección ambiental y según la respuesta  la curva sea más grande o no
-		pero si queremos vacas más grandes con manchas y otro carácter más?
-			la subpoblación debe ser más pequeña.
-			con q velocidad queremos hacer selección?
-			llegó a la conclusión que el máximo que podríamos hacer era un reemplazamiento cada 300 bases.
-			un 50% q no tienen eficacia
-			si sobre un gen mueren el 50% si la selección actúa sobre 10% independiente la población moriría
+- si este carácter es aditivo hay una respuesta de la selección ambiental y según la respuesta  la curva sea más grande o no
+	- pero si queremos vacas más grandes con manchas y otro carácter más?
+		- la subpoblación debe ser más pequeña.
+		- con q velocidad queremos hacer selección?
+		- llegó a la conclusión que el máximo que podríamos hacer era un reemplazamiento cada 300 bases.
+		- un 50% q no tienen eficacia
+		- si sobre un gen mueren el 50% si la selección actúa sobre 10% independiente la población moriría
 # La teoría de la evolución neutral
 
-kimura coge las mismas ideas de haldane y ahce un calculo implica q la tasa de →implica la reemplazamiento cada 20 000 años 
+kimura coge las mismas ideas de haldane y ahce un calculo implica q la tasa de →implica la reemplazamiento cada 20 000 años .
 eso son los años de una proteína en ser aa
 suponiendo que el código genético es degenerado cada sustitución supone 1,8 años →cometió algunos errores→considerar q todo el genoma es codificante.
 coger el genoma del ratón y humano se calcula para ver las diferencias →cosa no se puede explicar por selección natural→al final se empieza a utilizar electroforesis
@@ -51,7 +51,7 @@ una pareja de droso darían lugar a un progenia de 4*10⁻20 para dar un inidivd
 # La teoría de la evolución neutral molecular II
 6-11-25
 Diapositivas 19-40
-a mayoría no es por selección sino deriva son mtuaciones neutrales que se estan fijando por deriva y seleccionando por selección. NO niega la selección  negativa
+a mayoría no es por selección sino deriva son mutaciones neutrales que se están fijando por deriva y seleccionando por selección. NO niega la selección  negativa
 
 Pero las mutaciones deletéreas son eliminados por selección purificadora, por tanto, los cambios no pueden ser negativos
 Tampoco niega  la selección positiva, afecta a  unos caracteres en un ambiente concreto osea unos pcos genes en situaciones determinadas.
@@ -154,6 +154,7 @@ Negativas
 
 ---
 11-11-25
+Diapositiva 40-
 ![[Pasted image 20251111082941.png]]
 
 al tiempo absoluto y no al relativo 

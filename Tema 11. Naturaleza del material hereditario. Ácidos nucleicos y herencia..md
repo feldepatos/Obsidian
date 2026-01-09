@@ -69,6 +69,7 @@ Tras infectar las plantas, observaron los fenotipos, es decir, las manifestacion
 > Demostraron que el ARN por sí solo es suficiente  para iniciar la infección, enfatizando la función genética activa del ARN, sin necesidad de la cápside.
 
 **Alfred Gierer y Gerhard Schramm**(1967): Estudiaron el virus del mosaico del tabaco (TMV) para determinar si la información genética residía en el ARN o en la proteína de la cápside. Para ello, aislaron partículas completas de TMV y separaron el ARN viral de la cápside proteica, obteniendolos por separado. Luego inocularon plantas de tabaco con solo ARN viral, solo cápside proteica y con mezclas de ARN viral con cápside de otra cepa del virus. Observaron que las plantas tratadas con el ARN aislado desarrollaban los síntomas característicos del mosaico, mientras que las tratadas con solo cápside no se infectaban. 
+
 En las mezclas de ARN con cápside de otra variante, los síntomas correspondían al ARN original y no a la cápside, demostrando que la información genética estaba determinada por el ARN y no por la proteína. Así, el experimento confirmó que en TMV el ARN es suficiente para transmitir la información genética y que la cápside solo tiene función estructural y protectora, reforzando los hallazgos previos de Fraenkel-Conrat y Singer.
 
 > [!SUCCESS] Conclusión **Alfred Gierer y Gerhard Schramm**
