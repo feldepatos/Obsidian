@@ -1,18 +1,10 @@
-26-11
-Diapositiva 34/60
-Músculo cardíaca
-parecida la musculo esquelético
-ubicación del túbulo T
-RE→tenemos una diada
-garantiza la fuere unión +estabilidad entre las células
-sincronización metabólica+eléctrica de la contracción de una célula o provocaba de la contracción de la célula siguiente
-acción iónica 
+# Músculos esquelético
 
-fibras cerca del RE cerca de la sangre, endocardio
-no es directo es necesario las células de transición→encargada de transferir desde las Purkinje a las celulas del miocardio
+---
+# Músculo liso
 
-la cel se modifca acortando su longitud en múltiples direcciones 
+---
+# Músculo cardíaco
 
-ptos equi de la línea Z de los sarcómeros.
-
-Inicio del tema 8 sistema nervioso
+---
+# Histogénesis

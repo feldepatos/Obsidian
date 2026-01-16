@@ -17,23 +17,25 @@ Molde de síntesis del esqueleto fetal
 El pericondrio es un tejido conjuntivo denso irregular compuesto por células que no pueden distinguirse de los fibroblastos.
 ## Tipos
 ### Hialino
+
+Características :
 - ↑ abundante
 - Coloración blanquecina+azulada en fresca y translúcido.
 - Ubicación
-- Fetal
-	- Un molde para el esqueleto en desarrollo del feto
-- Adultos
-	- Vías respiratorias
-	- Inserción de las costillas+esternón
-	- Reviste la superficie articular de las articulaciones sinoviales
-		- Forman  las placas epifisarias responsables del crecimiento en longitud de los huesos  largos.
+	- Fetal
+		- Un molde para el esqueleto en desarrollo del feto
+	- Adultos
+		- Vías respiratorias
+		- Inserción de las costillas+esternón
+		- Reviste la superficie articular de las articulaciones sinoviales
+			- Forman  las placas epifisarias responsables del crecimiento en longitud de los huesos  largos.
 - Se distingue por la matriz amorfa homogénea 
 - Tiene un aspecto vítreo
 - Es un tejido vivo complejo.
-- Participa en la lubricación de las articulaciones  sinoviales y distribuye las fuerza aplicadas al hueso subyacente.
+- Participa en la lubricación de las articulaciones sinoviales y distribuye las fuerza aplicadas al hueso subyacente.
 - Su capacidad de reparación es limitada.
 
-La matriz es producida por los condrocitos y contienen 3 principales moléculas:
+La **matriz es producida por los condrocitos** y contienen 3 principales moléculas:
 - Moléculas de colágeno
 	- Proteína principal de la matriz
 	- 4 tipos
@@ -69,10 +71,11 @@ Los componentes de la matriz no están distribuidos de manera uniforme.
 	- La matriz interterritorial
 		- Región que rodea la matriz territorial
 		- Ocupa el espacio que hay entre los grupos de condrocitos
+
 #### Articular 
-Cubre las superficies articulares de las articulaciones móvile
-Es similar al cartílago hialino pero sin pericondrio.
-La renovación es muy lento
+Cubre las superficies articulares de las articulaciones móviles.
+Es similar al cartílago hialino pero **sin pericondrio.**
+La renovación es muy lento.
 Se divide en 4 zonas:
 - Superficial,Intermedia,profunda y calcificada
 
@@ -90,7 +93,7 @@ El material elástico imparte :
 - Propiedades elásticas al cartílago+ distensibilidad+maleabilidad
 Se encuentran en el pabellón auricular, paredes del conducto auditivo externo,  tuba de Eustaquio y epiglotis de la laringe.
 - En estos lugares está rodeado por pericondrio parecido al hialino.
-NO  se calcifica con la edad.
+**NO  se calcifica con la edad.**
 ### Fibroso
 Consiste en condrocitos y su material de la matriz en combinación con tejido conjuntivo denso.
 Es una combinación de tejido conjuntivo denso modelado y cartílago hialino.
@@ -110,9 +113,13 @@ Presenta fibrillas de colágeno tipo I+II.
 | Sufre calcificación                   | Sí                                                                                                                                                                                                                                                                                                                                                              | No                                                                                            | Sí                                                                                                                                     |
 | Reparación                            | Capacidad muy limitada, en general forma una cicatriz con generación de fibrocartílago                                                                                                                                                                                                                                                                          | Capacidad muy limitada, en general forma una cicatriz con generación de fibrocartílago        | Capacidad muy limitada, en general forma una cicatriz con generación de fibrocartílago                                                 |
 | Representación                        | ![[Pasted image 20241030194931.png]]                                                                                                                                                                                                                                                                                                                            | ![[Pasted image 20241030194936.png]]                                                          | ![[Pasted image 20241030194939.png]]                                                                                                   |
+
+---
 ## Histogénesis del cartílago/Condrogénesis
+
 Se origina a partir del mesénquima durante la condrogénesis.
 Es el proceso de desarrollo del cartílago, comienza con la aglomeración de células mesenquimatosas condroprogenitoras para formar una masa densa de células redondeadas.
+
 El cartílago es capaz de realizar dos tipos de crecimiento :
 - Aposición
 	- Proceso en el cual se forma cartílago nuevo **sobre** la superficie de un cartílago preexistente
@@ -126,22 +133,25 @@ El cartílago es capaz de realizar dos tipos de crecimiento :
 	- Las células hijas de los condrocitos en división ocupan la misma laguna.
 		- A medida que se secreta una matriz nueva, se forma una división entre células hijas; en este momento,  cada célula  ocupa su  propia laguna.
 	- En crecimiento global del cartílago es el producto de la secreción intersticial del nuevo material de matriz por  los condrocitos  y  de la aposición de matriz secretada por los condroblastos recién diferenciados
+
 ## Reparación del tejido Cartílago
+
 Capacidad limitada para repararse.
 - Antes hay  que recordar que no esta vascularizado+inmovilidad de los condrocitos maduros para prolifera.
-- En caso de haber reparación será a causa de las células   progenitoras  pluripotenciales presentes en el pericondrio.
-- A nivel molecular, la reparación es un equilibrio  tentativo entre el depósito del  colágeno tipo I, en forma de  tejido cicatrizal y la restauración de la expresión de los colágenos.
+- En caso de haber reparación será a causa de las células  progenitoras  pluripotenciales presentes en el pericondrio.
+- A nivel molecular, la reparación es un equilibrio  tentativo entre el depósito del  colágeno tipo I, en forma de tejido cicatrizal y la restauración de la expresión de los colágenos.
 - En los adultos, en la zona lesionada tiende a vascularizarse, que estimula el desarrollo de tejido óseo en vez del cartilaginoso.
 
 Cuando el cartílago se  calcifica, es reemplazado por el tejido óseo
 - Es la formación de cristales de fosfato de calcio que se depositan en la matriz.
 - ¿Cuándo ocurre?
-	- Articular en contacto con el tejido óseo en los  huesos encrecimiento y en el adulto, pero no en la superficial.
+	- Articular en contacto con el tejido óseo en los huesos en crecimiento y en el adulto, pero no en la superficial.
 	- Ocurre cuanto el cartílago será sustituido por el óseo durante el período de crecimiento de una persona.
 	- Envejecimiento
-	
-Cuando la matriz se calcifica mucho, se impide la difusión y los condrocitos sufre tumefacción y mueren. La consecuencia final de este fenómeno es la degradación de la matriz calcificada y su reemplazo por su tejido óseo
 
+Cuando la matriz se calcifica mucho, se impide la difusión y los condrocitos sufre tumefacción y mueren. La consecuencia final de este fenómeno es la degradación de la matriz calcificada y su reemplazo por su tejido óseo.
+
+---
 #  Tejido óseo
 Es un tejido conjuntivo especializado por una matriz extracelular mineralizada.
 ## Funciones
@@ -212,20 +222,26 @@ Es un tejido conjuntivo especializado por una matriz extracelular mineralizada.
 
 |                      | Intramembranosa                                                                                                   | Endocondral                                                    |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| ¿Qué es?             | Formación de hueso es iniciado por la acumulación de células mesenquimatosas que se diferenciación a osteoblastos | Formación de hueso sin la intervención de un cartílago         |
+| ¿Qué es?             | Formación de hueso es iniciado por la acumulación de células mesenquimatosas que se diferenciación a osteoblastos | Formación de hueso con la intervención de un cartílago         |
 | Principal diferencia | No necesita tejido cartilaginoso                                                                                  | Requiere de un tejido cartilaginoso sirve como precursor óseo; |
 | Cuándo aparece       | 8  semanas de gestación                                                                                           | A partir de la semana 12                                       |
 
 ### Intramembranosa
+
 Acumulación de las células que inicia la osificación intramembranosa que se diferencian en células **osteoprogenitoras**, que secretan osteoide en el centro del nódulo, donde la mineralización del osteoide provoca el encerramiento de los osteoblastos que se vuelven en osteocitos. En el interior de la matriz se separan hasta formarse en naciones citoplasmáticas delgadas.
 ### Endocondral
+
 Comienza la proliferación+ acumulación de células mesenquimatosas en el sitio donde se desarrollará el hueso. Por la acción de los factores las células se diferencian en **condroblastos** que producen la matriz cartilaginosa. 
+
 Este será un cartílago hialino con la forma que tendrá el futuro hueso. Experimenta crecimiento intersticial y por aposición. La primera señal de osificación es la aparición de una cubierta de tejido óseo alrededor del modelo cartilaginoso. 
 Las células del pericondrio dejan de secretar condrocitos y forman células  formadoras de tejido óseo u osteoblastos. Por tanto ,deja de ser pericondrio a ser periostio. Y las células del periostio se diferencian en osteoblastos. Debido a estos cambios provocan la formación de una capa de tejido óseo alrededor del modelo cartilaginoso denominado collar óseo perióstico.
 En este collar los condrocitos presentes en la región media se hipertrofian y la matriz cartilaginosa se resorbe formando placas de cartílago irregulares(formación de la matriz calcificada). A causa de esta calcificación, las células en su interior mueren , degrandose la matriz pero las células en osteoblastos comienzan a sintetizar tejido óseo(osteoide).
 #### Crecimiento Endocondral
+
 Se inicia en el segundo trimestre de la vida fetal y continúa después del nacimiento hasta el principio de la vida adulta.
+
 En la osificación endocondral, el cartílago avascular se reemplaza por téjido óseo vascularizado.
+
 Se distinguen 4 regiones: zonas de cartílago de reserva, hipertrofia, calcificación de cartílago, resorción.
 
 | Zonas                       | Características                                                                                                                               |

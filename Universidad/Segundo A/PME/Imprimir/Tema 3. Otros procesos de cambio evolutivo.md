@@ -1,7 +1,9 @@
 # Desviaciones del apareamiento aletaorio
 
 ## Endogamia
+
 La endogamia es la reproducción entre parientes genéticos. Su efecto es aumentar la proporción de homozigosidad en comparación con lo esperados según HWE.
+
 Por consiguiente, la consanguinidad en si misma no es un mecanismo evolutivo. Sin embargo, como veremos, la consanguinidad puede tener consecuencias evolutivas importantes.
 ### Autofecundación
 
@@ -21,12 +23,24 @@ Si todos los individuos de la población se reproducen por autofecundación, los
 Si la población continúa autofecundandose durante dos generaciones más, entonces entre los 1000 individuos de la última generación habrá 468'75 de cada tipo y 62'5 heterozigotos. La frecuencia de los heterozigotos se habrá reducido a la mitad en cada generación y la frecuencia de los homozigotos se habrá incrementado.
 La conclusión 2 del análisis de HW no se cumple, ya que no podemos predecir las frecuencias genotípicas multiplicando las frecuencias alélicas. Advierta que en la generación tercera, las frecuencias alélicas para A1 y A2 son todavía 0'5.
 No obstante, la frecuencia de los heterozigotos está lejos de 2(0'5)(0'5). Comparando con las previciones de HW, hay un déficit de heterozigotos y un exceso de homozigotos. 
-¿Qué pasa con la conclusión 1 de HW?¿Han cambiado las frecuencias alélicas de una generación a la siguiente con consanguinidad? En nuestro ejemplo no ha ocurrido. Podemos comprobar el caso general calculando la frecuencia del alelo A1 en el conjunto de genes producidos por la población y que se muestra en la última fila de la tabla del caso general de autofecundación. La frecuencia del alelo A1 en el conjunto de genes es igual a la frecuencia de los adultos *A1A1* de la población más la mitad de la frecuencia de *A1A2*, lo que da:
+
+¿Qué pasa con la conclusión 1 de HW?¿Han cambiado las frecuencias alélicas de una generación a la siguiente con consanguinidad? En nuestro ejemplo no ha ocurrido. Podemos comprobar el caso general calculando la frecuencia del alelo A1 en el conjunto de genes producidos por la población y que se muestra en la última fila de la tabla del caso general de autofecundación. La frecuencia del alelo *A1* en el conjunto de genes es igual a la frecuencia de los adultos *A1A1* de la población más la mitad de la frecuencia de *A1A2*, lo que da:
 $$
 p²+\frac{15pq}{16}+\frac{1}{2}\left[ \frac{pq}{8} \right]
 $$
 ### Caso general de autofecundación
-La frecuencia del alelo A1 es *p* y la frecuencia del alelo A2 es *q*. Advierta que las frecuencias alélicas no cambian de generación en generación, sólo las frecuencias genotípicas. Según Crow(1983).
+
+La frecuencia del alelo A1 es *p* y la frecuencia del alelo A2 es *q*. Advierta que las frecuencias alélicas no cambian de generación en generación, **sólo las frecuencias genotípicas. Según Crow(1983).**
+
+
+> [!success] Experimento de Crow
+> Afirmaba que la autofecundación solo cambia las frecuencias genotípicas y no las alélicas porque este tipo de reproducción no introduce nuevos alelos ni elimina los existentes, sino que únicamente modifica la forma en que los alelos se combinan dentro de los individuos.
+
+Cuando ocurre la autofecundación, los gametos que se unen provienen del mismo individuo. Como consecuencia, los alelos presentes en la población siguen siendo los mismos y mantienen sus proporciones, por lo que las frecuencias alélicas permanecen constantes de una generación a otra.
+
+Sin embargo, la autofecundación sí afecta la estructura genotípica de la población. En cada generación disminuye la frecuencia de los heterocigotos y aumenta la de los homocigotos, tanto dominantes como recesivos. Esto se debe a que los alelos idénticos tienen mayor probabilidad de encontrarse al provenir del mismo genotipo.
+
+En ausencia de otras fuerzas evolutivas como mutación, migración, selección o deriva genética, la autofecundación por sí sola no puede cambiar las frecuencias alélicas. Por esta razón, Crow señalaba que su efecto se limita a alterar las frecuencias genotípicas, rompiendo el equilibrio de Hardy-Weinberg, pero sin modificar la composición alélica de la población.
 
 
 | Generación | A1A1         | Frecuencia de A1A2 | A2A2         |
@@ -37,9 +51,18 @@ La frecuencia del alelo A1 es *p* y la frecuencia del alelo A2 es *q*. Advierta 
 | 3          | p²+(7pq/8)   | pq/4               | q²(7pq/8)    |
 | 4          | p²+(15pq/16) | pq/8               | q²+(15pq/16) |
 
+> [!success] Consecuencias de la autofecundación
+> Cambio en las frecuencias genotípicas, NO alélicas
+
+
 ### Cálculo de la F (Grado de consanguinidad)
 
+> [!NOTE] Grado de consanguinidad
+> Es la forma de clasificar **qué tan cercanas son dos personas dentro de una misma familia**, según el número de generaciones que las separan de su antepasado común.
+
+
 Necesitamos genealogía, o sea un esquema que muestre las relaciones de parentesco de los individuos donde llega a una hembra que es hija de medios hermanos. 
+
 Hay dos vías por las que esta hembra puede recibir alelos que son idénticos por ascendencia. Una es que reciba dos copias del alelo "triángulo verde" de su abuela. Esto sucederá si la abuela pasa el alelo triángulo tanto a su hija como a su hijo y tanto la hija como el hijo lo pasen a la nieta.
 La otra vía sería que pueda recibir las dos copias del alelo "diamante azul" de su abuela. La probabilidad total de esto es 1/16. La probabilidad de que la hija de medios hermanos reciba dos alelos idénticos por ascendencia en cualquiera de los dos casos es 1/16+1/16=1/8.
 $$
@@ -47,19 +70,27 @@ F_{I}=\left( \frac{1}{2} \right)^{n-1}(1+F_{A})
 $$
 ### Coeficiente de parentesco
 
+
+> [!NOTE] Coeficiente de parentesco
+> Es un valor que cuantifica el grado de vínculo biológico entre dos individuos, indicando la probabilidad de que un gen tomado al azar en uno de ellos sea idéntico por descendencia a un gen tomado al azar en el otro, debido a que ambos proceden de un mismo antepasado.
+
 Supongamos una población de tamaño Ne donde, inicialmente, hay 2N alelos diferentes y, por lo tanto, el coeficiente de endogamia en la generación inicial (t = 0) es: F₁ = 0
 
 Todos los individuos contribuyen por igual al acervo genético de la población y, por lo tanto, aunque habrá muchos gametos que portarán el mismo alelo (como consecuencia del proceso de replicación que acompaña a la formación de estos gametos), cada alelo (o gametos) tendrá una frecuencia de 1/(2Ne) en la población.
 
-Imaginemos que tomamos un gameto al azar, ¿cuál es la probabilidad de que al extraer otro gameto al azar, este lleve exactamente el mismo alelo que el primero? La respuesta es 1/(2Ne).
+Imaginemos que tomamos un gameto al azar.
+
+> [!question] ¿Cuál es la probabilidad de que al extraer otro gameto al azar, este lleve exactamente el mismo alelo que el primero?
+> 1/(2Ne)
+
 
 Si 1/(2N) es la probabilidad de que dos gametos lleven alelos idénticos en la primera generación, por lo tanto: F₁ = 1/(2Ne)
 
 El cálculo de F en la segunda generación (F2) es más complejo porque, ahora, hay dos maneras en que pueden surgir homocigotos idénticos:
 
-1. como consecuencia de una nueva replicación génica
+1. Como consecuencia de una nueva replicación génica
 
-2. como consecuencia de una replicación de una generación anterior
+2. Como consecuencia de una replicación de una generación anterior
 
 De nuevo, la probabilidad de que en un cigoto se unan gametos que porten alelos idénticos de nueva replicación es 1/(2N).
 
@@ -89,16 +120,21 @@ $$
 > [!NOTE] Población efectiva
 > Es el número de individuos de una población ideal que **contribuirían genéticamente a la siguiente generación de la misma manera que lo hace la población real**. No coincide necesariamente con el tamaño real de la población,
 
+
+> [!TIP] Diferencias entre grado de consaguinidad y coeficiente de parentesco
+> El grado de consanguinidad indica **qué tan cerca están dos personas en el árbol familiar**, mientras que el coeficiente de parentesco indica **cuánto material genético comparten**
+
 ### Depresión por endogamia
 
-
 Esta situación se produce por la exposición de alelos recesivos deletéreos a la selección donde incluso puede haber una pérdida de función.
-Estos alelos son a menudo recesivos, ya que un solo alelo tipo silvestre puede producir, en muchos  casos, suficientes proteína funcional  como para dar  lugar al fenotipo normal. Aun cuando en heterozigosis  pueden no tener en absoluto consecuencias en la eficacia, las mutaciones de pérdida de función pueden ser letales en homozigosis. Al aumentar la proporción de individuos homozigotos en una población, la consaguinidad aumenta la frecuencia de aquellos recesivos deletéreos que afectan al fenotipo. 
+
+Estos alelos son a menudo recesivos, ya que un solo alelo tipo silvestre puede producir, en muchos  casos, suficientes proteína funcional  como para dar  lugar al fenotipo normal. Aun cuando en heterozigosis  pueden no tener en absoluto consecuencias en la eficacia, las mutaciones de pérdida de función pueden ser letales en homozigosis. Al aumentar la proporción de individuos homozigotos en una población, **la consaguinidad aumenta la frecuencia de aquellos recesivos deletéreos que afectan al fenotipo.**
+
 **La depresión consaguínea se refiere al efecto que estos alelos tienen sobre la eficacia media de los descendientes en una población.**
 
 Existen mecanismos que evitan la consanguinidad como la elección de la pareja, la autoincompatibilidad genéticamente controlada y la dispersión. Pero en ciertas circunstancias, la consanguinidad puede ser inevitable.
 
-En resumen, los aparemientos no aleatorios no alteran por sí mismos las frecuencias alélicas. Por consiguientes, no es un mecanismo evolutivo. Sin embargo, alteran las frecuencias genotípicas, por tanto, las frecuencias fenotípicas y alterar el patrón de selección natural y de evolución de la población. 
+
 
 > [!NOTE] Depresión por endogamia
 > Es la **reducción de la eficacia biológica** de una población como consecuencia del **apareamiento entre individuos emparentados**. Ocurre porque la endogamia aumenta la **homocigosidad**, lo que permite que se expresen **alelos recesivos deletereos** y reduce la ventaja del heterocigoto, provocando menor supervivencia, fertilidad o crecimiento de los individuos
@@ -112,20 +148,23 @@ En resumen, los aparemientos no aleatorios no alteran por sí mismos las frecuen
 
 > [!EXAMPLE] Huevos que no eclosian de herrerillos
 > Una clase de herrerillos existe una correlación entre el nivel de consanguinidad de la pareja y el número de huevos que no eclosionaban de una puesta.
-![[Pasted image 20251104120847.png]]
 
+> [!SUCCESS] Conclusiones de las desviaciones del apareamiento aleatorio
+> Los aparemientos no aleatorios no alteran por sí mismos las frecuencias alélicas. Por consiguientes, no es un mecanismo evolutivo. Sin embargo, alteran las frecuencias genotípicas, por tanto, las frecuencias fenotípicas y alterar el patrón de selección natural y de evolución de la población. 
 
 
 ---
 # Poblaciones finitas: deriva genética
 ## Introducción
 
-La variación generada por mutación es aleatoria  en el sentido de que cuando la mutación sustituye un aa por otro en una proteína, lo hace sin considerar si el cambio mejorará la funcionalidad de la proteína. Pero la selección natural en si misma no se produce al azar. Es precisamente la no aleatoriedad de la selección al escoger las mutaciones lo que da lugar a la adaptación.
+La variación generada por mutación es aleatoria en el sentido de que cuando la mutación sustituye un aa por otro en una proteína, lo hace sin considerar si el cambio mejorará la funcionalidad de la proteína. Pero la selección natural en si misma no se produce al azar. Es precisamente la no aleatoriedad de la selección al escoger las mutaciones lo que da lugar a la adaptación.
+
 Entre los mecanismos no selectivos de la evolución hay uno que es absolutamente aleatorio. Dicho mecanismo es la deriva genéica. La deriva genética no da lugar a adaptación, pero da lugar a cambios en las frecuencias alélicas. En el modelo de HW, la deriva genética se produce como consecuencia de que el tamaño de población infinito no se cumple.
 
 ## Modelo de deriva genética
 
 Es necesario imaginar una población ideal, similar a las que a las anteriores, pero de tamaño finito, de hecho, de pequeño tamaño. Como siempre nos fijamos en un solo locus con dos alelos, *A1* y *A2*. El conjunto de genes de la generación actual, el alelo *A1* tiene una frecuencia de 0'6 y el alelo *A2* de 0'4. Dejemos que los gametos de este conjunto de genes se combinen al azar para dar lugar exactamente 10 zigotos. Estos constituirán toda la población de la siguiente generación.
+
 Podemos simular la producción de 10 zigotos de nuestro conjunto de genes mediante un modelo físico. Una bolsa con 100 alubias representa el conjunto de genes. 60 de las alubias son negras y representan al alelo *A1* ; 40 son blancas y representan al alelo *A2*. Constituiremos cada zigoto agitando la bolsa, cerrando los ojos y sacando alubias. Primero sacaremos una alubia que represente al óvulo, anotaremos su genotipo y la devolveremos su genotipo y la devolvemos a la bolsa. Sacamos alubias de la bolsa y la vamos anotando. Los genotipos de los 10 zigotos son:
 
 | *A2A1* | *A1A1* | *A1A1* | *A1A1* | *A2A2* |
@@ -138,7 +177,7 @@ Hemos completado una generación en el ciclo de vida de nuestra población model
 
 
 > [!TIP] Primeras observaciones de la deriva genética
-> Las frecuencias alélicas han cambiado de una generación a la siguiente y no podemos calcular las frecuencias genotípicas  multiplicando las frecuencias alélicas. La razón de que nuestra población no haya cumplido el principio  de HW es simplemente porque es pequeña.
+> Las **frecuencias alélicas han cambiado** de una generación a la siguiente y no podemos calcular las frecuencias genotípicas  multiplicando las frecuencias alélicas. La razón de que nuestra población no haya cumplido el principio  de HW es simplemente porque es pequeña.
 
 
 > [!TIP] ¿Por qué ocurre?
@@ -146,16 +185,22 @@ Hemos completado una generación en el ciclo de vida de nuestra población model
 
 Cogimos alubias negras y alubias blancas no en la proporción exacta predicha de 0'6 y 0'4, sino en una proporción que resultó ser un poco mayor en alubias negras y un poco menor en alubias blancas. Debido a que se trata sólo del efecto acumulativo de sucesos aleatorios,**la deriva genética no puede dar lugar a adaptación.** Pero puede dar lugar, como hemos visto, a que las frecuencias alélicas no cambian. **La suerte ciega es, por sí misma, un mecanismo evolutivo.**
 
-> [!TIP] Nueva definición de la deriva genética
-> Las discrepancias aleatorias entre lo esperado teóricamente y los resultados reales se denominan error de muestreo. El error de muestreo en la formación de zigotos a partir del conjunto de genes se denomina deriva genética.
+> [!TIP] Nueva definición de la deriva genética→Error de muestro
+> Las discrepancias aleatorias entre lo esperado teóricamente y los resultados reales se denominan **error de muestreo**. El error de muestreo en la formación de zigotos a partir del conjunto de genes se denomina deriva genética.
 > Además, la deriva genética es un proceso puramente aleatorio, por tanto, no puede dar a la adaptación.
 
 
-A veces es difícil ver la diferencia entre deriva genética y la selección natural. En nuestro modelo de población pequeña, las copias del alelo *A1* tuvieron más éxito en pasar a la siguiente generación que las copias del alelo *A2*. El éxito reproductivo diferencial es selección¿ o no lo es? En este caso no lo es. Si hubiera sido selección, el éxito diferencial de los alelos de nuestra población modelo hubiera sido explicable en términos de los fenotipos que los alelos confieren a los individuos que los llevan. Los individuos con una o dos copias del alelo *A1* deberían haber sido mejores en supervivencia, en encontrar alimento en atraer a la pareja. Sin embargo, los individuos que llevan copias del alelo *A1* no fueron de hecho ninguna de esas cosas. Sólo tuvieron suerte;  dio la casualidad de que sus alelos se extrajeron del conjunto de genes más a menudo. La selección es éxito reproductio diferencial que sucede por alguna razón. La deriva genética es éxito reproductivo diferencial que simplemente sucede.
+A veces es difícil ver la diferencia entre deriva genética y la selección natural. En nuestro modelo de población pequeña, las copias del alelo *A1* tuvieron más éxito en pasar a la siguiente generación que las copias del alelo *A2*. El éxito reproductivo diferencial es selección¿ o no lo es? En este caso no lo es. Si hubiera sido selección, el éxito diferencial de los alelos de nuestra población modelo hubiera sido explicable en términos de los fenotipos que los alelos confieren a los individuos que los llevan. 
+
+Los individuos con una o dos copias del alelo *A1* deberían haber sido mejores en supervivencia, en encontrar alimento en atraer a la pareja. Sin embargo, los individuos que llevan copias del alelo *A1* no fueron de hecho ninguna de esas cosas. Sólo tuvieron suerte;  dio la casualidad de que sus alelos se extrajeron del conjunto de genes más a menudo. **La selección es éxito reproductio diferencial que sucede por alguna razón. La deriva genética es éxito reproductivo diferencial que simplemente sucede.**
 
 > [!QUESTION] ¿Cómo diferenciar entre deriva genética y la selección natural
 > Ambas cambian las frecuencias de los alelos de manera diferente. 
 > La deriva genética es aleatoria, causada por el azar, y tiene más efecto en poblaciones pequeñas; puede fijar alelos neutros o incluso deletéreos y reduce la diversidad genética al azar. La selección natural es no aleatoria, favorece alelos que aumentan la aptitud biológica, funciona en poblaciones de cualquier tamaño y tiende a aumentar la frecuencia de alelos beneficiosos y disminuir la de alelos perjudiciales de manera predecible. La deriva produce cambios impredecibles entre generaciones y entre poblaciones, mientras que la selección produce cambios consistentes según la ventaja adaptativa.
+
+
+> [!tip] Deriva genética
+> Es éxito reproductivo diferencial que simplemente sucede
 
 
 Otra  forma de ver que la deriva genética es diferente de la selección  es reconocer que las frecuencias alélicas y genotípicas en nuestros 10 zigotos fácilmente podrían  haber sido diferentes de lo que fueron. Para probarlo, podemos repetir el ejercicio extrayendo alubias de nuestra bolsa para formar 10 zigotos. Esta vez, los genotipos de los zigotos son:
@@ -184,15 +229,15 @@ Por lo tanto, la deriva es una condición suficiente para la evolución.
 El tiempo de espera hasta la fijación de un alelo aumenta con el tamaño de la población.
 La probabilidad de fijación de un alelo es igual a su frecuencia en ese momento.
 
-
 ## Efecto fundador
 
 Si queremos observar deriva genética en la naturaleza, el mejor sitio donde buscarla es
-en las poblaciones pequeñas. Las poblaciones son a menudo pequeñas cuando se acaban de fundar por un pequeño grupo de individuos, que se han desplazado, o han sido desplazados, a una nueva localidad. Las frecuencias alélicas en la nueva población son, probablemente, diferentes de las de la población de origen, simplemente por azar.A esto se denomina efecto fundador.
+en las poblaciones pequeñas. Las poblaciones son a menudo pequeñas cuando se acaban de fundar por un pequeño grupo de individuos, que se han desplazado, o han sido desplazados, a una nueva localidad. Las frecuencias alélicas en la nueva población son, probablemente, diferentes de las de la población de origen, simplemente por azar. A esto se denomina efecto fundador.
 
-**El efecto fundador es el resultado directo del error de muestreo.**
-Por ejemplo, si en una
-población continental de insectos hay 25 alelos diferentes en un locus, pero en un madero de una balsa que llega a una remota isla sólo se encuentran 10 individuos, hay una probabilidad cero de que la nueva población de la isla tenga todos los alelos presentes en el continente. Si por azar, algunos de los individuos fundadores son homozigotos, las frecuencias alélicas de la nueva población se diferenciarán incluso mucho más. En cualquier suceso fundador, es casi seguro que se producirá algún grado de diferenciación genética aleatoria entre las poblaciones nueva y vieja. En otras palabras, la fundación de una población por un pequeño grupo de individuos representa típicamente no solo el establecimiento de una nueva población sino también la evolución instantánea de diferencias entre la nueva y la vieja población.
+> [!tip] Rasgo diferencial del efecto fundador
+> **El efecto fundador es el resultado directo del error de muestreo.**
+
+Por ejemplo, si en una población continental de insectos hay 25 alelos diferentes en un locus, pero en un madero de una balsa que llega a una remota isla sólo se encuentran 10 individuos, hay una probabilidad cero de que la nueva población de la isla tenga todos los alelos presentes en el continente. Si por azar, algunos de los individuos fundadores son homozigotos, las frecuencias alélicas de la nueva población se diferenciarán incluso mucho más. En cualquier suceso fundador, es casi seguro que se producirá algún grado de diferenciación genética aleatoria entre las poblaciones nueva y vieja. En otras palabras, la fundación de una población por un pequeño grupo de individuos representa típicamente no solo el establecimiento de una nueva población sino también la evolución instantánea de diferencias entre la nueva y la vieja población.
 
 > [!NOTE] Efecto fundador
 > Es un fenómeno de genética de poblaciones que ocurre cuando una **pequeña parte de una población se separa y forma una nueva población**. Debido a que los fundadores representan solo una **muestra limitada de la variabilidad genética original**, la nueva población puede tener **frecuencias alélicas muy diferentes** de la población original y menor diversidad genética, lo que puede aumentar el efecto de la deriva genética y fijar alelos raros o incluso deletéreos
@@ -246,7 +291,7 @@ Las fluctuaciones en el tamaño de la población son universales y especialmente
 - Patógenos (las infecciones iniciales representan una reducción drástica del tamaño de la población).
 
 ### Ne con números desigual de machos y hembras
-Ne con números desiguales de machos y hembras
+
 El aumento de F en cada generación en una población con Fo = 0 es 1/2N.
 Si consideramos machos y hembras por separado, la probabilidad de que las dos copias de un gen en un individuo deriven del mismo progenitor es nula.
 Bajo panmixis, la probabilidad de que los dos abuelos de un individuo sean iguales es 1/Nm (la inversa del número de machos).
@@ -260,14 +305,14 @@ $$
 
 ## Fijación al azar de alelos y pérdida de heterozigosidad
 
-La deriva es incluso un mecanismo evolutivo más poderoso cuando sus efectos abarcan a muchas generaciones. Podemos investigar los efectos acumulativos de la deriva genética con el mismo modelo físico que utilizamos antes:
-una bolsa con alubias negras y blancas. De nuevo, iniciemos la bolsa con 60 alubias negras y 40 blancas, que representa un conjunto de genes en el que los alelos A1 y A2 se encuentran en las frecuencias de 0,6 y 0,4. A los padres que dan lugar a este conjunto de genes los llamaremos generación cero. Como hicimos antes, extraemos alubias de la bolsa para simular la producción de diez zigotos por apareamiento al azar. En ese momento, las frecuencias alélicas entre los zigotos recién formados resultó ser 0,5 para A1 y 0,5 para A2.
-Llamamos a estos zigotos generación uno.
+La deriva es incluso un mecanismo evolutivo más poderoso cuando sus efectos abarcan a muchas generaciones. 
+Podemos investigar los efectos acumulativos de la deriva genética con el mismo modelo físico que utilizamos antes:
+una bolsa con alubias negras y blancas. De nuevo, iniciemos la bolsa con 60 alubias negras y 40 blancas, que representa un conjunto de genes en el que los alelos A1 y A2 se encuentran en las frecuencias de 0,6 y 0,4. A los padres que dan lugar a este conjunto de genes los llamaremos generación cero. Como hicimos antes, extraemos alubias de la bolsa para simular la producción de diez zigotos por apareamiento al azar. En ese momento, las frecuencias alélicas entre los zigotos recién formados resultó ser 0,5 para A1 y 0,5 para A2. Llamamos a estos zigotos generación uno.
+
 Para continuar la simulación en otra generación, necesitamos iniciar una nueva bolsa
 con 50 alubias negras y 50 alubias blancas, que representa el conjunto de genes de la generación uno. Extrayendo alubias de este conjunto de genes, obtenemos los zigotos de la generación dos. Resulta que las frecuencias alélicas de la generación dos fueron 0,4 para A1 y 0,6 para A2.
 
-Iniciamos ahora una bolsa con 40 alubias negras y 60 blancas y formamos zigotos para
-obtener la generación tres. Las frecuencias alélicas en la generación tres son 0,45 para A1 y 0,55 para A2.
+Iniciamos ahora una bolsa con 40 alubias negras y 60 blancas y formamos zigotos para obtener la generación tres. Las frecuencias alélicas en la generación tres son 0,45 para A1 y 0,55 para A2.
 Ahora necesitamos una bolsa con 45 alubias negras y 55 blancas, y así sucesivamente.
 La ventaja de utilizar un computador para simular la extracción de las alubias queda clara enseguida.
 Los gráficos (a), (b) y (c) de la Figura 6.13 muestran los resultados de 100 generacio-
@@ -284,11 +329,12 @@ Advierta que si la deriva genética es la única fuerza evolutiva que actúa en 
 
 Como la frecuencia de cualquier alelo oscila entre 0 y 1, tarde o temprano el alelo encontrará un destino inevitable: su frecuencia alcanzará un extremo u otro. Si la frecuencia del alelo llega a 0, entonces el alelo se perderá para siempre (suponiendo que la mutación o la migración no lo reintroduzcan). Si la frecuencia del alelo alcanza 1, entonces se dice que el alelo se ha fijado, también para siempre. Entre las ocho poblaciones representadas en la Figura 6.13a, el alelo A1 se fija por deriva en cinco y se pierde en tres. Entre las ocho poblaciones representadas en la Figura 6.13b, el alelo A1 se fija por deriva en una y se pierde en tres. Es sólo cuestión de tiempo que el alelo A1 quede también fijado o perdido en las otras poblaciones. A medida que algunos alelos se fijan y otros se pierden por deriva, la variabilidad alélica de cada población disminuye.
 Imaginemos ahora una población finita en la que hay varios alelos presentes en un locus dado: *A1, A2, A3, A4*, y así sucesivamente. Si la deriva genética es el único mecanismo evolutivo que actúa, entonces finalmente uno de los alelos se fijará por deriva. En el mismo momento en que un alelo quede fijado, los otros alelos se perderán.
+
 Nos gustaría poder predecir qué destino alcanzará cada alelo. No podemos hacerlo con certeza, pero podemos dar probabilidades. Sewall Wright (1931) demostró que la probabilidad de que cualquier alelo de una población sea el que se fije por deriva es igual a la frecuencia inicial de dicho alelo (véase el Cuadro 6.3). Por ejemplo, si comenzamos con una población finita en la que A1, tiene una frecuencia de 0,73 y A2 una frecuencia de 0,27, hay un 73% de probabilidad de que el alelo que se fije por deriva sea el A1.
 
 ### Pérdida de heterozigosidad
 
-En una población finita, a medida que las frecuencias de los alelos se fija o se pierde por deriva, la frecuencia de los heterozigotos en la población disminuye. Los grádicos (d), (e) y (f) de la figura 6.13 muestran la disminución de la frecuencia de los heterozigotos en nuestras poblaciones simuladas.
+En una población finita, a medida que las frecuencias de los alelos se fija o se pierde por deriva, la frecuencia de los heterozigotos en la población disminuye. Los gráficos (d), (e) y (f) de la figura 6.13 muestran la disminución de la frecuencia de los heterozigotos en nuestras poblaciones simuladas.
 Para ver por qué la frecuencia de los heterozigotos disminuye, observe primero el inserto del gráfico (d). En el inserto se representa la frecuencia de los heterozigotos, calculada como 2(p)(1-p), en una población con apareamiento al azar en función de *p*, que es la frecuencia del alelo *A1*. La frecuencia de los heterozigotos tiene su valor más alto, 0'5. Como la frecuencia de *A1* disminuye hacia 0 ó aumenta hacia 1, la frecuencia de heterozigotos disminuirá. Y, desde luego, si la frecuencia de *A1* alcanza 0 ó 1, la frecuencia de heterozigotos caerá hasta 0.
 
 
@@ -296,7 +342,7 @@ Miremos ahora los gráficos (a), (b) y (c). En cualquier generación, la frecuen
 puede desplazarse hacia o lejos de 0,5 en una población dada (siempre y cuando A1 no se haya fijado o perdido). Así, la frecuencia de los heterozigotos de cualquier población puede aumentar o disminuir. Sin embargo, la tendencia global, en el conjunto de las poblaciones, es que las frecuencias alélicas se alejen por deriva de valores intermedios y hacia 0 ó 1. Por ello, la frecuencia promedio de los heterozigotos, en el conjunto de las poblaciones, tenderá a disminuir. Miremos ahora a los gráficos (d), (e) y (f). La línea gruesa azul de cada gráfico representa la frecuencia promedio de los heterozigotos a lo largo de las ocho poblaciones en cuestión. La frecuencia de los heterozigotos realmente tiende a disminuir, rápidamente en poblaciones pequeñas y lentamente en poblaciones grandes.
 Finalmente, uno u otro alelo quedará fijado en cada población y la frecuencia promedio
 de los heterozigotos caerá hasta 0.
-La frecuencia de los heterozigotos de una población se denomina a veces como la heterozigosidad poblacional. Nos gustaría poder predecir lo rápido que puede esperarse que disminuya la heterozigosidad en poblaciones finitas. Sewall Wright (1931) demostró que, promediando muchas poblaciones, la frecuencia de los heterozigotos obedece a la relación
+**La frecuencia de los heterozigotos de una población se denomina a veces como la heterozigosidad poblacional.** Nos gustaría poder predecir lo rápido que puede esperarse que disminuya la heterozigosidad en poblaciones finitas. Sewall Wright (1931) demostró que, promediando muchas poblaciones, la frecuencia de los heterozigotos obedece a la relación
 
 $$
 H_{g+1}=H_{g}\left[ 1-\frac{1}{2N} \right]
@@ -315,33 +361,33 @@ Para apreciar una de las implicaciones de la inevitable pérdida de heterozigosi
 las poblaciones finitas, imagine que es el responsable de la gestión de una población cautiva de una especie en peligro de extinción. Suponga que hay exactamente 50 adultos reproductores en los zoológicos de todo el mundo. Aunque pudiera disponer del traslado de los adultos o del semen para llevar a cabo un apareamiento aleatorio, todavía apreciaría una pérdida de heterozigosidad del 1% por generación debido a la deriva genética.
 ## Estudio experimental de la fijación o pérdida aleatoria de heterozigosidad
 
-Peter Buri (1956) estudió este fenómeno experimentalmente, en poblaciones pequeñas de laboratorio de la mosca de la fruta Drosophila melanogaster.Adoptando un esquema que había sido utilizado por Kerr y Wright (1954), Buri fundó 107 poblaciones de moscas, cada una de ellas a partir de ocho hembras y ocho machos.Todas las moscas fundadoras eran heterozigóticas para alelos de un gen para el color de los ojos llamado “brown”.Todas las moscas tenían el mismo genotipo: bw75/bw. Así, en las 107 poblaciones, la frecuencia inicial del alelo bw75 fue de 0,5. Buri mantuvo estas poblaciones durante 19 generaciones. En cada población y en cada generación, Buri mantuvo el tamaño poblacional en 16, extrayendo ocho hembras y ocho machos al azar como padres de la generación siguiente.
+Peter Buri (1956) estudió este fenómeno experimentalmente, en poblaciones pequeñas de laboratorio de la mosca de la fruta Drosophila melanogaster. Adoptando un esquema que había sido utilizado por Kerr y Wright (1954), Buri fundó 107 poblaciones de moscas, cada una de ellas a partir de ocho hembras y ocho machos.Todas las moscas fundadoras eran heterozigóticas para alelos de un gen para el color de los ojos llamado “brown”.Todas las moscas tenían el mismo genotipo: bw75/bw. Así, en las 107 poblaciones, la frecuencia inicial del alelo bw75 fue de 0,5. Buri mantuvo estas poblaciones durante 19 generaciones. En cada población y en cada generación, Buri mantuvo el tamaño poblacional en 16, extrayendo ocho hembras y ocho machos al azar como padres de la generación siguiente.
 ¿Qué resultados esperaríamos? Si ninguno de los dos alelos, bw75 y bw, confiere ventaja selectiva, entonces esperaríamos que la frecuencia del alelo bw75 oscilara al azar por deriva genética en cada generación. Diecinueve generaciones serían suficientes, en poblaciones con 16 individuos, para que muchas poblaciones quedaran fijadas para uno u otro alelo.
+
 Debido a que el alelo bw75 tiene una frecuencia inicial de 0,5 esperaríamos que este alelo se perdiera tan a menudo como se fijase.A medida que el alelo bw75 se fija o se pierde por deriva en cada población, esperaríamos la disminución de la heterozigosidad en el conjunto de las poblaciones. La tasa de disminución de la heterozigosidad seguirá la ecuación de Wright, dada en la sección anterior.
-Los resultados de Buri confirman estas predicciones. Cada uno de los pequeños gráfi-
-cos de la Figura 6.14 son histogramas que resumen las frecuencias alélicas de las 107 poblaciones en una generación concreta. El eje horizontal representa la frecuencia del alelo bw75, y el eje vertical representa el número de poblaciones en cada una de las frecuencias.
+Los resultados de Buri confirman estas predicciones. Cada uno de los pequeños gráficos de la Figura 6.14 son histogramas que resumen las frecuencias alélicas de las 107 poblaciones en una generación concreta. El eje horizontal representa la frecuencia del alelo bw75, y el eje vertical representa el número de poblaciones en cada una de las frecuencias.
+
 La frecuencia del alelo bw75 era 0,5 en la generación cero de todas las poblaciones, que no se muestran en la figura. Después de una generación de deriva genética, muchas poblaciones todavía presentan una frecuencia cercana a 0,5, aunque una de las poblaciones tenía una frecuencia alélica de 0,22 y otra de 0,69.A medida que la frecuencia del alelo bw75 aumenta en unas poblaciones y disminuye en otras, la distribución de las frecuencias alélicas se ensancha rápidamente. En la generación cuarta, la frecuencia de bw75 alcanza 1 por primera vez en una población. En la generación sexta la frecuencia de bw75 alcanza 0 por primera vez en una población.A medida que la frecuencia alcanza 0 ó 1 en más y más poblaciones, la distribución de las frecuencias adquiere una forma en U. Hacia el final del experimento, bw75 se había perdido en 30 poblaciones y se había fijado en 28.
-La proporción 30:28 de pérdida y fijaciones está muy próxima a la proporción 1:1 que habíamos predicho con deriva genética. Durante el experimento de Buri, hubo una evo-
-lución espectacular en casi todas las 107 poblaciones de moscas de la fruta, pero la selección natural no tuvo nada que ver con esto.
+
+**La proporción 30:28 de pérdida y fijaciones está muy próxima a la proporción 1:1 que habíamos predicho con deriva genética**. Durante el experimento de Buri, hubo una evolución espectacular en casi todas las 107 poblaciones de moscas de la fruta, pero la selección natural no tuvo nada que ver con esto.
 Las propiedades genéticas del locus “brown” eran tales que Buri podía identificar a los
 tres genotipos por sus fenotipos. Así pudo comprobar directamente la frecuencia de los
-heterozigotos de cada población. La frecuencia de los heterozigotos en la generación cero fue 1, por lo que la heterozigosidad en la generación uno fue 0,5.A partir de ese momento, Buri anotó en cada generación la frecuencia de los heterozigotos de cada población, obteniendo posteriormente la heterozigosidad media de las 107 poblaciones. En la Figura 6.15 se representan estos valores de heterozigosidad media a lo largo de las 19 generaciones del experimento. Observe primero los puntos rojos que representan los datos reales. De acuerdo con nuestras predicciones teóricas, la frecuencia promedio de los heterozigotos disminuye lentamente.
+heterozigotos de cada población. La frecuencia de los heterozigotos en la generación cero fue 1, por lo que la heterozigosidad en la generación uno fue 0,5. A partir de ese momento, Buri anotó en cada generación la frecuencia de los heterozigotos de cada población, obteniendo posteriormente la heterozigosidad media de las 107 poblaciones. En la Figura 6.15 se representan estos valores de heterozigosidad media a lo largo de las 19 generaciones del experimento. Observe primero los puntos rojos que representan los datos reales. De acuerdo con nuestras predicciones teóricas, la frecuencia promedio de los heterozigotos disminuye lentamente.
 Sin embargo, la concordancia entre la teoría y los resultados no es perfecta. La curva
-gris a trazos de la figura muestra la disminución en heterozigosidad pronosticada, utilizando la ecuación de Wright y una población de tamaño 16. La disminución real en heterozigosidad fue más rápida de lo esperado. La curva gris continua muestra la disminución pronosticada para una población de tamaño 9; encaja bien con los datos. Las poblaciones de Buri pierden heterozigosidad como si tuvieran sólo 9 individuos en lugar de 16. En otras palabras, el tamaño poblacional efectivo del experimento de Buri fue 9 (véase el Cuadro 6.4). Una de las explicaciones es que alguna de las moscas de cada población pudo haber muerto por accidente antes de reproducirse, o las hembras pudieron rechazar a algunos machos como pareja.
+gris a trazos de la figura muestra la disminución en heterozigosidad pronosticada, utilizando la ecuación de Wright y una población de tamaño 16. La disminución real en heterozigosidad fue más rápida de lo esperado. La curva gris continua muestra la disminución pronosticada para una población de tamaño 9; encaja bien con los datos. 
+
+Las poblaciones de Buri pierden heterozigosidad como si tuvieran sólo 9 individuos en lugar de 16. En otras palabras, el tamaño poblacional efectivo del experimento de Buri fue 9 (véase el Cuadro 6.4). Una de las explicaciones es que alguna de las moscas de cada población pudo haber muerto por accidente antes de reproducirse, o las hembras pudieron rechazar a algunos machos como pareja.
 ![[Pasted image 20260109163414.png]]
 
 
 > [!SUCCESS] Conclusiones del experimento de Buri
 > Demuestra que la teoría de la deriva genética nos permite hacer predicciones cualitativamente exactas y predicciones cuantitativas razonablemente exactas, acerca del comportamiento de los alelos en poblaciones finitas, al menos en el laboratorio. En la sección siguiente consideraremos pruebas sobre la fijación al azar de alelos y pérdida de heterozigosidad en poblaciones naturales.
 
-
-## Sampling effects: la distribución binomial
-![[Pasted image 20251113091004.png]]
-
 ## Fijación o pérdida aleatoria de heterozigosidad en poblaciones naturales
 
 Alan Templeton y sus colegas (1990) comprobaron las predicciones acerca de la fijación al azar de alelos analizando los resultados de un experimento natural en las montañas de Ozark de Missouri. Aunque cubiertas en la actualidad por un bosque de enzimas y nogales, la región de los Ozarks fue parte de un desierto durante un extenso período de clima cálido y seco que abarcó entre hace 8000 años hasta hace 4000 años. El desierto que engulló a los Ozark estaba junto al desierto de Norteamérica. Muchas especies del desierto del sudoeste ampliaron su distribución hacia el este en los Ozarks. Entre éstas se encuentra la lajartija con collar se retrajp de nuevo hacia el oeste y el bosque de encinas y nogales volvió a invadir los Ozarks. Sin embargo, en este bosque, en afloramientos recosos, hay pequeños restos de hábitat desértico llamados claros. Viviendo en algunos de estos claros hay poblaciones reliquia de lajartijas con collar. La mayoría de las poblaciones están lo suficientemente aisladas entre sí que hay poco o ningún flujo génico entre ellas. Las poblaciones reliquia son pequeñas; la mayoría tienen no más de unas docenas de individuos. Debido al pequeño tamaño de las poblaciones de los claros, Templeton y sus colegas predijeron que las lajartijas con collar de los Ozarks presentarían fuertes huellas de deriva genética. En cada población, la mayoría de los loci se habrían fijado para un solo alelo y la variación genética sería muy baja. Sin embargo, qué alelo se hubiera fijado en cada población en concreto sería una cuestión de azar, por lo que habría una considerable diversidad genética entre poblaciones.
 Templeton y sus colegas analizaron la variabilidad genética de varias  poblaciones de los claros. Los investigadores examinaron los genotipos de las lajartijas de una serie de loci enzimáticos, de sus genotipos del DNA ribosómico y de sus genotipos de DNA mitocondrial. Entre las lajartijas identificaron 7 genotipos multilocus distintos. Confirmando las consecuencias pronosticadas por el aislamiento y por el pequeño tamaño poblacional, la mayoría de las poblaciones de los claros estaban fijadas para un único genotipo multilocus, con genotipos diferentes fijados en distintas poblaciones.
+
 Andrew Young y sus colegas comprobaron las predicciones acerca del efecto del tamaño poblacional sobre la heterozigosidad con un estudio comparativo en plantas. Los investigadores reunieron datos de la bibliografía y representaron dos medidas de la diversidad genética global frente al tamaño poblacional en tres fanerógamas herbáceas y un árbol. La primera medida de variación genética fue de polimorfismo genético, el porcentaje de loci del genoma que tienen al menos dos alelos con frecuencia superior a 0'01. La segunda fue la riqueza de alelos, el número medio de alelos por locus. Ambas medidas están relacionadas con la heterozigosidad. Si un locus dado tiene más de un alelo, y si un sustancia número de individuos de la población son heterozigotos, entonces el locus contribuye mucho al polimorfismo y a la riqueza alélica. Por el contrario, si el locus está fijado para un único alelo y en la población no hay heterozigotos, entonces el locus empobrece el polimorfismo  poblacional y la riqueza alélica. Debido a  que la  deriva genética es más pronunciada en las poblaciones pequeñas que en las grandes y debido a que da lugar a la pérdida de heterozigosidad, Young y sus colegas predijeron que las poblaciones pequeñas tendrían un menor nivel de polimorfismo y de riqueza alélica. Las representaciones  de Young *ed al.* aparecen en la figura 6.17. De acuerdo con sus predicciones, en casi todos los casos las poblaciones pequeñas albergan realmente menos diversidad genética.
 
 > [!SUCCESS] Conclusiones de Templeton
@@ -356,10 +402,11 @@ La deriva genética puede derivar a las poblaciones remanentes de su potencial p
 
 La teoría y los experimentos que hemos discutido en esta sección establecen que el error de muestro puede ser un mecanismo importante de evolución. El último aspecto de  la deriva que consideraremos aquí es la tasa de evolución cuando la deriva genética es la única fuerza que actúa.
 
-Primero, necesitamos definir qué significa la tasa de evolución en un locus dado. Definiremos la tasa de evolución como la tasa a la que los nuevos  alelos originados por mutación son sustituidos por otros alelos ya presentes. En la figura 6.18 se ilustra el proceso de sustitución y se distingue la sustitución de la mutación. La figura muestra un conjunto de genes de 10 alelos durante 20 generaciones. Inicialmente todos los alelos son idénticos (círculos blancos). En la cuarte generación aparece un nuevo alelo (círculo naranja blancos). En la cuarta generación aparece un nuevo alelo (círculo naranja claro) por la mutación de uno de los alelos originales. Durante varias generaciones este alelo fluctúa hacia una frecuencia elevada. En la generación quince aparece un segundo alelo nuevo (círculo azul), originado por la mutación de un descendiente del primer alelo naranja claro. En la generación 19 se pierde el último de  los alelos blancos. En este punto podemos decir que el alelo blanco ha sustituido por el alelo naranja claro. Así pues, por sustitución evolutiva queremos indicar la fijación de una mutación nueva con o sin cambio mutacional adicional.
+Primero, necesitamos definir qué significa la tasa de evolución en un locus dado. Definiremos **la tasa de evolución como la tasa a la que los nuevos  alelos originados por mutación son sustituidos por otros alelos ya presentes.** En la figura 6.18 se ilustra el proceso de sustitución y se distingue la sustitución de la mutación. La figura muestra un conjunto de genes de 10 alelos durante 20 generaciones. Inicialmente todos los alelos son idénticos (círculos blancos). En la cuarte generación aparece un nuevo alelo (círculo naranja blancos). En la cuarta generación aparece un nuevo alelo (círculo naranja claro) por la mutación de uno de los alelos originales. Durante varias generaciones este alelo fluctúa hacia una frecuencia elevada. En la generación quince aparece un segundo alelo nuevo (círculo azul), originado por la mutación de un descendiente del primer alelo naranja claro. En la generación 19 se pierde el último de  los alelos blancos. En este punto podemos decir que el alelo blanco ha sustituido por el alelo naranja claro. Así pues, por sustitución evolutiva queremos indicar la fijación de una mutación nueva con o sin cambio mutacional adicional.
 
 Cuando el único mecanismo evolutivo que actúa es la deriva genética, la tasa de sustitución es simplemente igual a la tasa de mutación nueva con o sin cambio mutacional adicional.
 Cuando el único mecanismo evolutivo que actúa es la deriva genética, la tasa de sustitución es simplemente igual a la tasa de mutación. Esto es así independientemente del tamaño poblacional, ya que los dos efectos asociados con el tamaño poblacional se cancelan entre sí: en poblaciones grandes se producen más mutaciones, pero en una población grande cada nueva mutación tiene una menor probabilidad de fijarse por deriva. Con deriva genética las poblaciones grandes generan y mantienen más variación genética que las poblaciones pequeñas, pero todas las poblaciones, independientemente de su tamaño, acumulan sustituciones al mismo ritmo.
+
 Por supuesto, a menudo están actuando otros mecanismos evolutivos distintos de la deriva. Podemos permitir algo de selección natural nuestro modelo y obtener todavía resultados similares. Imaginemos que algunas mutaciones son deletéreas mientras que otras selectivamente neutras. Las mutaciones deletéreas serán eliminadas por selección natural y nunca podrán fijarse. La tasa de sustitución será entonces igual a la tasa a la que se producen las mutaciones neutras.
 
 Los biólogos evolutivos están divididos por la revelancia de estos cálculos en las poblaciones reales. Todos están de acuerdo en que se ha omitido un tipo de mutación y un tipo de selección. Algunas mutaciones son ventejosas selectivamente y se han fijado por selección natural con mayor seguridad y mucho más rápidamente que nunca lo hubieran hecho por deriva. Sin embargo, los biólogos evolutivos piensan de dos maneras sobre la frecuencia con la que sucede esto.
@@ -370,8 +417,7 @@ Los que apoyan la **teoría neutralista**, largo tiempo liderada por Motoo Kimur
 Los que apoyan la **teoría seleccionista**, principalmente liderada por John Gillespie
 (1991), mantienen que las mutaciones ventajosas son lo bastante corrientes como para que puedan ignorarse. Los seleccionistas predicen que para muchos genes en la mayoría de las poblaciones, la tasa de sustitución reflejará la acción de la selección natural sobre las mutaciones ventajosas.
 
-En resumen, la deriva genética no es un mecanismo adaptativo de evolución. Simple-
-mente, como consecuencia del error de muestreo, las frecuencias alélicas pueden cambiar de una generación a la siguiente. La deriva genética es muy potente en poblaciones pequeñas y cuando actúa sobre muchas generaciones. Finalmente, la deriva genética da lugar a la fijación de algunos alelos y a que otros se pierdan, y a una disminución global de la diversidad genética.
+En resumen, la deriva genética no es un mecanismo adaptativo de evolución. Simplemente, como consecuencia del error de muestreo, las frecuencias alélicas pueden cambiar de una generación a la siguiente. La deriva genética es muy potente en poblaciones pequeñas y cuando actúa sobre muchas generaciones. Finalmente, la deriva genética da lugar a la fijación de algunos alelos y a que otros se pierdan, y a una disminución global de la diversidad genética.
 
 
 > [!SUCCESS] Conclusiones de la deriva genética
@@ -387,6 +433,7 @@ La endogamia puede tratarse matemáticamente como deriva genética, ya que ambas
 # La mutación como fuerza evolutiva
 
 Por si misma la mutación, no es en general un mecanismo evolutivo potente. Para ver el porqué, volvamos a nuestro modelo de la población de ratones. Imaginemos un locus con 2 alelos, *A* y *a* , con frecuencia iniciales de 0,9 y 0,1. *A* es el alelo de tipo silvestre y *a* es una mutación recesiva de pérdida de función. Además, imaginemos que las copias de *A* se convierten por mutación en copias nuevas de *a*, a un ritmo de 1 copia cada 10.000 por generación. Ésta es una tasa de mutación muy elevada, pero se encuentra en el rango de tasas de mutación conocidas. Las mutaciones retrógadas, que restauran la función, por lo que ignoraremos las mutaciones que convierten en copias de *a* en *A*. Finalmente imaginemos que todas las mutaciones ocurren cuando los gametos se encuentran en el conjunto de genes.
+
 En la figura 5.22 sigue las frecuencias genotípicas y alélicas desde los adultos de una generación a través del conjunto de genes hasta los zigotos de la generación siguiente. Los genotipos de los adultos se encuentran en las proporciones de HW.
 
 
@@ -407,14 +454,17 @@ Ahora, una de cada 10.000 mil copias del alelo *A* se convierte en una copia del
 | 0'9-(0'0001)(0'9)=0'899991 | 0'1+(0'0001)(0'9)=0'10009 |
 Finalmente, cuando los gametos se combinan al azar para producir los zigotos; los genotipos tipos zigotos se encontrarán en las nuevas proporciones de HW.
 
-
 | AA      | Aa      | aa      |
 | ------- | ------- | ------- |
 | 0'80984 | 0'18014 | 0'01002 |
 Advierta que las nuevas frecuencias alélicas y genotípicas son casi idénticas a las anteriores. Como fuerza evolutiva, la mutación no tiene prácticamente efecto.
 ¿Podría la mutación de *A* hacia *a*, dándose a un ritmo de 1 copia cada 10.000 en cada generación durante muchas generaciones, dar lugar finalmente a un cambio apreciable en las frecuencias alélicas? El gráfico de la figura 5.23 nos proporciona la respuesta. Después de mil generaciones, la frecuencia del alelo *A* de nuestra población ideal será alrededor de 0'81. La mutación puede dar lugar a cambios sustanciales en las frecuencias alélicas, pero lo hace muy lentamente.
 
-En conclusión, la mutación por si sola es una fuerza evolutiva débil. Sin embargo, la mutación proporciona la variación genética que es la materia prima de la evolución. En algunos casos la aparición constante de nuevos alelos mutantes puede equilibrarse por la selección en contra de esos mismos alelos, y por consiguiente actuar manteniendo a las frecuencias alélicas en equilibrio.
+
+> [!SUCCEsS] Primeras conclusiones de la mutación como fuerza evolutiva
+> La mutación por si sola es una fuerza evolutiva débil. Sin embargo, la mutación proporciona la variación genética que es la materia prima de la evolución. En algunos casos la aparición constante de nuevos alelos mutantes puede equilibrarse por la selección en contra de esos mismos alelos, y por consiguiente actuar manteniendo a las frecuencias alélicas en equilibrio.
+
+
 ## Fórmulas 
 Incluso para tasas de mutación relativamente altas, generalmente se piensa que la mutación es un proceso evolutivo más lento que el resto.
 
@@ -436,15 +486,15 @@ $$
 \hat{q} = \sqrt{ \frac{\mu}{s} }
 $$
 
-en donde *mu* es la tasa de mutación y *s* el coeficiente de selección, un número entre 0 y 1 que expresa la fuerza de la selección contra el alelo. Esta ecuación capta con economía lo que la intuición nos dice acerca del equilibrio mutación-selección. Si el coeficiente de selección es pequeño y la tasa de mutación es elevada, entonces la frecuencia del alelo en el equilibrio será relativamente elevada. Si el coeficiente de selección es grande y la tasa de mutación baja, entonces la frecuencia del alelo en el equilibrio será baja.
+en donde *mu* es la tasa de mutación y *s* el coeficiente de selección, un número entre 0 y 1 que expresa la fuerza de la selección contra el alelo. Esta ecuación capta con economía lo que la intuición nos dice acerca del equilibrio mutación-selección. 
+Si el coeficiente de selección es pequeño y la tasa de mutación es elevada, entonces la frecuencia del alelo en el equilibrio será relativamente elevada. Si el coeficiente de selección es grande y la tasa de mutación baja, entonces la frecuencia del alelo en el equilibrio será baja.
 
 ![[Pasted image 20260109160501.png]]
 ## Enfermedades recesivas letales o subletales en humanos
 
 ### Atrofia muscular espinal
 
-La investigación de Brunhilde Wirth y sus colegas (1997) en pacientes con atrofia mus-
-cular espinosa proporciona un ejemplo. La atrofia muscular espinosa es una enfermedad neurodegenerativa que se caracteriza por la debilidad y desgaste de los músculos que controlan los movimientos voluntarios. Se produce por deleciones en un locus del cromosoma 5 llamado el gen de la supervivencia telomérica de la neurona motora (telSMN). En algunos casos la enfermedad puede agravarse por otras mutaciones en un gen cercano. La atrofia muscular espinosa es, después de la fibrosis quística, la segunda enfermedad autosómica recesiva letal más común en la raza blanca (McKusick et al. 1999).
+La investigación de Brunhilde Wirth y sus colegas (1997) en pacientes con atrofia muscular espinosa proporciona un ejemplo. La atrofia muscular espinosa es una enfermedad neurodegenerativa que se caracteriza por la debilidad y desgaste de los músculos que controlan los movimientos voluntarios. Se produce por deleciones en un locus del cromosoma 5 llamado el gen de la supervivencia telomérica de la neurona motora (telSMN). En algunos casos la enfermedad puede agravarse por otras mutaciones en un gen cercano. La atrofia muscular espinosa es, después de la fibrosis quística, la segunda enfermedad autosómica recesiva letal más común en la raza blanca (McKusick et al. 1999).
 
 En conjunto, los alelos de pérdida de función del telSMN tienen una frecuencia alrededor de 0,01 en poblaciones blancas.Wirth y sus colegas estiman que el coeficiente de selección es alrededor de 0,9. Con tan fuerte selección en contra, esperaríamos que los alelos que causan la enfermedad desaparecieran de la población lenta, pero inexorablemente. Entonces, ¿por qué persisten a una frecuencia del 1 por 100?
 Una posibilidad es que los alelos para la enfermedad se estén manteniendo en la población por el equilibrio entre la mutación y la selección. Si sustituimos la frecuencia alélica y el coeficiente de selección por q^ y s en la ecuación de la página 145 y despejamos μ, encontramos que este escenario requiere de una tasa de mutación de
@@ -650,7 +700,6 @@ Alelos deletéreos en haploides
 > [!SUCCESS] Principio de Haldane-Muller
 > La población puede soportar solo un número limitado de mutaciones deletéreas por generación sin que disminuya significativamente su viabilidad.
 
-## Conclusión
 
 > [!SUCCESS] Equilibrio mutación-selección y lastre genética
 > La mutación es un proceso físico-químico que puede producir diferentes tipos de cambios genéticos.
@@ -692,8 +741,8 @@ Hay diferentes modelos :
 
 ## Demostración de la migración como fuerza evolutiva(Continente isla)
 
-Sea la p1 la frecuencia del alelo A1 en una población de una isla. Y pc la frecuencia del alelo A1 en la población continental. Imagine que en cada generación un grupo de individuos se desplaza de la población continental a la isla, en donde constituyen la fracción *m* de la población de la isla. Queremos conocer cómo consecuencia de la migracón, y si hay una frecuencia de equilibrio para A1 que no cambie más incluso si continúa la migración.
-En primer lugar, habrá que obtener la expresión para *pI'*, la frecuencia de A1 en la isla en la generación siguiente. Una fracción *(1-m)* de los individuos de la generación siguiente ya está en la isla. En estos individuos de la generación siguiente viene del continente. En ellos la frecuencia de A1 es *pC*. Así, la nueva frecuencia de A1 en la población de la isla es el promedio ponderado de la frecuencia entre los residentes y la de los inmigrantes.
+Sea la *p1* la frecuencia del alelo *A1* en una población de una isla. Y *pc* la frecuencia del alelo *A1* en la población continental. Imagine que en cada generación un grupo de individuos se desplaza de la población continental a la isla, en donde constituyen la fracción *m* de la población de la isla. Queremos conocer cómo consecuencia de la migración, y si hay una frecuencia de equilibrio para *A1* que no cambie más incluso si continúa la migración.
+En primer lugar, habrá que obtener la expresión para *pI'*, la frecuencia de *A1* en la isla en la generación siguiente. Una fracción *(1-m)* de los individuos de la generación siguiente ya está en la isla. En estos individuos de la generación siguiente viene del continente. En ellos la frecuencia de *A1* es *pC*. Así, la nueva frecuencia de *A1* en la población de la isla es el promedio ponderado de la frecuencia entre los residentes y la de los inmigrantes.
 $$
 p'_{I}=(1-m)(p_{I})+(m)(p_{C})
 $$
@@ -719,10 +768,10 @@ Esta expresión muestra que la frecuencia de A1 permanecerá constante en la isl
 
  Este modelo explora los efectos de la migración sobre las dos conclusiones de análisis de HWE.
 
- Tenemos dos poblaciones, una en un continente y otra en una pequeña isla costera. Debido  a que la población de la isla es relativamente pequeña en relación con la poblcaión continental, cualquier suceso migratorio desde la isla al continente no tendrá consecuencias en las frecuencias alélicas y genotípicas del continente. Por ello, la migración y el flujo génico correspondiente, será efectivo sólo en una dirección, del continente a la isla. Pero, ¿puede la migración del continente  a la isla desplazar las frecuencias alélicas y genotípicas de la isla lejos del equilibrio de HWE?
+ Tenemos dos poblaciones, una en un continente y otra en una pequeña isla costera. Debido  a que la población de la isla es relativamente pequeña en relación con la población continental, cualquier suceso migratorio desde la isla al continente no tendrá consecuencias en las frecuencias alélicas y genotípicas del continente. Por ello, la migración y el flujo génico correspondiente, será efectivo sólo en una dirección, del continente a la isla. Pero, ¿puede la migración del continente  a la isla desplazar las frecuencias alélicas y genotípicas de la isla lejos del equilibrio de HWE?
 
- Para ello, debemos la frecuencia antes de la migración de A1 es de 0'1(o sea, esta fijado en la población).
- Cuando los gametos de un conjunto de genes en donde está fijado A1 se combina al azar para formar zigotos, las frecuencias genotípicas serán los siguientes:
+ Para ello, debemos la frecuencia antes de la migración de *A1* es de 0'1(o sea, esta fijado en la población).
+ Cuando los gametos de un conjunto de genes en donde está fijado *A1* se combina al azar para formar zigotos, las frecuencias genotípicas serán los siguientes:
 
 | A1A1 | A1A2 | A2A2 |
 | ---- | ---- | ---- |
@@ -756,9 +805,15 @@ Este caso sería un ejemplo de la migración actúa como fuerza evolutiva en opo
 ## La migración como fuerza evolutiva homogeneizadora entre las poblaciones
 
  Éste es el efecto general de la migración: tiende a homogeneizar las frecuencias alélicas a lo largo de las poblaciones. En las serpientes de agua, a esta homogeneización se opone la selección natural.
-¿Hasta dónde iría la homogeneización si no se opusiera la selección? El modelo anterior demuestra el flujo génico desde un continente a una isla, llevará finalmente las frecuencia alélicas de la isla a un valor exactamente igual al que hay en el continente. Es decir, si se permite que prosiga la migración sin oposición de cualquiera otra fuerza evolutiva, finalmente homogeneizará totalmente las frecuencias alélicas en las poblaciones.
+
+> [!question] ¿Hasta dónde iría la homogeneización si no se opusiera la selección? 
+>
+
+
+El modelo anterior demuestra el flujo génico desde un continente a una isla, llevará finalmente las frecuencia alélicas de la isla a un valor exactamente igual al que hay en el continente. Es decir, si se permite que prosiga la migración sin oposición de cualquiera otra fuerza evolutiva, finalmente homogeneizará totalmente las frecuencias alélicas en las poblaciones.
 
 ## Estructura población
+
 La migración tiene un efecto homogeneizador sobre las diferencias genéticas entre poblaciones.
 
 Sin embargo, cuando actúan mecanismos evolutivos diferentes y el flujo genético
@@ -767,7 +822,9 @@ se reduce o desaparece, cada población se vuelve genéticamente diferente, una 
 Como se observa, la deriva genética aleatoria conduce a una disminución de la heterocigosidad:
 
 ## Efecto Wahlund
+
 Es una reducción en la heterocigosidad observada en una población que ha sido subdividida en subpoblaciones con diferentes frecuencias alélicas.
+
 En la gráfica se observa como la heterozigosidad esperada bajo el HWE es la mitad(0'3) pero debido a la migración ese valor de heterozigosidad este ser verá incrementado o reducido.
 
 
@@ -805,6 +862,7 @@ Otra forma de ver las diferencias entre las dos poblaciones de la Figura 7.2 es 
 
 Los gráficos de barras de la Figura 7.2 proporcionan una representación visual de la
 diferencia entre las dos poblaciones. La anchura de las dos barras en cada gráfico representa la frecuencia de los cromosomas que llevan *A* respecto de los cromosomas que llevan *a*. Advierta que la anchura combinada de las dos barras debe de ser igual a 1, por lo que si una barra se hace más ancha la otra debe hacerse más estrecha. La parte sombreada respecto de la no sombreada de cada barra representa la frecuencia del alelo *B* respecto del alelo *b* en los cromosomas en cuestión. El gráfico de barras nos permite ver a simple vista lo que descubrimos mediante el cálculo en los párrafos anteriores. En la población de arriba la frecuencia de *B* es la misma en cromosomas *A* y en cromosomas a; en las dos barras está sombreada la misma fracción. En la población de abajo la frecuencia de *B* es menor en cromosomas *A* que en cromosomas *a*.
+
 ![[Pasted image 20260109165907.png]]
 
 > [!NOTE] Desequilibrio de ligamiento
@@ -825,7 +883,7 @@ el otro.
 
 Condiciones son ciertas para un par de loci y sólo lo son si están en equilibrio de ligamiento:
 1. La frecuencia de B en los cromosomas que lleven el alelo *A* es la misma que la frecuencia de *B* en los cromosomas que lleven el alelo *a*.
-2. La frecuenica de cualquier haplotipo cromosómico se puede calcular multiplicando las frecuencias de los alelos constituyentes. Por ejemplo, se puede calcular la frecuencia de los cromosomas AB multiplicando la frecuencia del alelo A por la del alelo B.
+2. La frecuencia de cualquier haplotipo cromosómico se puede calcular multiplicando las frecuencias de los alelos constituyentes. Por ejemplo, se puede calcular la frecuencia de los cromosomas AB multiplicando la frecuencia del alelo A por la del alelo B.
 3. La cantidad D, conocida como el coeficiente del desequilibrio de ligamiento, es igual a 0. *D* se calcula como
 $$
 \delta _{AB}\delta_{ab}-\delta_{Ab}\delta_{aB}
@@ -843,12 +901,14 @@ donde delta son las frecuencias de los cromosomas.
 
 Para ver cómo la selección sobre genotipos multilocus puede dar lugar a desequilibrio
 de ligamiento, comencemos con una población cuyo conjunto de genes se muestra en la Figura 7.2a. Los locus A y B se encuentran en equilibrio de ligamiento. Imagine que los gametos en este conjunto de genes se combinan al azar para producir los zigotos. En la parrilla de la Figura 7.3a aparecen los 10 tipos de zigotos producidos y sus respectivas frecuencias esperadas. Por ejemplo, ya que el 32% de los óvulos y el 32% de los espermatozoides son aB, predecimos que la frecuencia de los zigotos aB/aB será 0,32  0,32  0,1024. Dejemos ahora que los zigotos se desarrollen hasta adultos y asignemos fenotipos como sigue: los individuos con genotipo ab/ab tienen un tamaño de 10. En los otros genotipos, cada alelo A o B añade una unidad al tamaño del individuo. Por ejemplo, los individuos aB/aB tienen un tamaño de 12 y los individuos AB/Ab un tamaño de 13. Imagine, finalmente, que los predadores capturan y se comen a todos los individuos cuyo tamaño es menor que 13. Los supervivientes, que representan el 65,28% de la población original, aparecen en la parrilla de la Figura 7.3b.
+
 En el conjunto de los supervivientes, los loci A y B están en desequilibrio de ligamiento. Quizá la manera más fácil de verlo es calculando la frecuencia del alelo a y del b. Un modo de calcular la frecuencia de a es la siguiente: los individuos que llevan el alelo a constituyen una fracción (0,1536 + 0,1536)/0,6528 ⬇ 0,47 de los supervivientes. Así pues llevan el 47% de los alelos del locus A. La mitad de estos alelos serán a. Por consiguiente, la frecuencia de a entre los supervivientes es 0,5  0,47 ⬇ 0,24. La frecuencia de b es, aproximadamente, 0,09. Si nuestros dos loci estuvieran en equilibrio de ligamiento, entonces, de acuerdo con el criterio 2 de nuestra lista, la frecuencia de los cromosomas ab sería 0,24  0,09 ⬇ 0,02. De hecho, la frecuencia de los cromosomas ab es 0. Nuestros dos loci se encuentran en desequilibrio de ligamiento. Como ejercicio, el lector podría demostrar que los loci también se encuentran en desequilibrio de ligamiento de acuerdo con los criterios 1 y 3.
+
 ![[Pasted image 20260108115206.png]]
 
 **Deriva genética**
 
-cuando los sucesos clave parece que son la mutación y la selección. La razón es que el escenario, tal como lo describimos, sólo podría darse en una población finita. En una población infinita, la mutación que convierte al alelo A en el a se produciría no una sola vez, sino muchas veces en cada generación, tanto sobre los cromosomas AB como Ab. En ningún momento habría ausencia de cromosomas aB. La selección que favorece a a sobre A aumentaría simultáneamente la frecuencia de los cromosomas ab y aB. Los locus A y B nunca estarían en desequilibrio de ligamiento. Debido a que en nuestro escenario sólo se puede generar desequilibrio de ligamiento en una población finita, el mecanismo evolutivo decisivo que actúa es la deriva genética. Fue a causa de un error de muestreo lo que ocasionó que la mutación que dio lugar al alelo a, sucediera una sola vez y en un cromosoma Ab.
+Cuando los sucesos clave parece que son la mutación y la selección. La razón es que el escenario, tal como lo describimos, sólo podría darse en una población finita. En una población infinita, la mutación que convierte al alelo A en el a se produciría no una sola vez, sino muchas veces en cada generación, tanto sobre los cromosomas AB como Ab. En ningún momento habría ausencia de cromosomas aB. La selección que favorece a a sobre A aumentaría simultáneamente la frecuencia de los cromosomas ab y aB. Los locus A y B nunca estarían en desequilibrio de ligamiento. Debido a que en nuestro escenario sólo se puede generar desequilibrio de ligamiento en una población finita, el mecanismo evolutivo decisivo que actúa es la deriva genética. Fue a causa de un error de muestreo lo que ocasionó que la mutación que dio lugar al alelo a, sucediera una sola vez y en un cromosoma Ab.
 
 ![[Pasted image 20260108115108.png]]
 
@@ -891,7 +951,7 @@ mayor parte de las veces.
 El alelo CCR5-Δ32 en los Capítulos 4 y 5. Este alelo es una mutación de pérdida de función del locus CCR5. Protege a los homozigotos contra la transmisión sexual de cepas del VIH-1. Entre las cuestiones no resueltas de la discusión anterior se encuentran éstas: ¿de dónde viene el alelo Δ32? y, ¿por qué es frecuente sólo en Europa?
 J. Claiborne Stephens y sus colegas (1998) abordaron estas preguntas midiendo el desequilibrio de ligamiento entre el locus CCR5 y dos loci localizados cerca en el mismo cromosoma. Los loci cercanos son lugares con cortas repeticiones en tándem llamadas GAAT y AFMB. GAAT tiene tres alelos y AFMB cuatro. GAAT y AFMB no codifican nada y sus alelos parece que no tienen efecto sobre la eficacia. Stephens y sus colegas determinaron los haplotipos de 192 cromosomas de una muestra de europeos. Como muestra la Figura 7.9a, GAAT y AFMB están próximos a encontrarse en equilibrio de ligamiento. Las frecuencias de los distintos alelos del locus AFMB son casi las mismas en los cromosomas que llevan cualquiera de los alelos del locus GAAT que entre los cromosomas que llevan los otros alelos GAAT. Sin embargo, como muestran las Figuras 7.9b y 7.9c, el locus CCR5 se encuentra en fuerte desequilibrio de ligamiento tanto con el locus GAAT como con el locus AFMB. Casi todos los cromosomas que llevan el alelo Δ32 en CCR5 también llevan el alelo 197 en GAAT (Figura 7.9b) y el alelo 215 en AFMB (Figura 7.9c).
 
-**¿Cómo surgió el desequilibrio de ligamiento entre CCR5 y sus vecinos? Lo más probable que sea la selección sobre genotipos multilocus. **
+**¿Cómo surgió el desequilibrio de ligamiento entre CCR5 y sus vecinos? Lo más probable que sea la selección sobre genotipos multilocus.**
 
 Tanto GAAT y AFMB  son loci que no codifican nada y sus alelos parecer ser selectivamente neutros. La mezcla poblacional es también un candidato improbable ya que requeriría una población en la que la frecuencia del alelo Δ32 fuera mucho más elevada que en Europa, y tal población no existe. Esto nos lleva a la deriva genética. La mezcla poblacional es también un candidato improbable ya que requeriría una población en la que la frecuencia del alelo Δ32 fuera mucho más elevada que en Europa, y tal población no existe. Esto nos lleva a la deriva genética.
 Stephens y sus colegas creen que el desequilibrio de ligamiento entre CCR5 y sus vecinos surgió en un escenario similar al mostrado en la Figura 7.4. En un momento dado en el pasado, la población europea tenía sólo un alelo en CCR5, el CCR5-+. Luego, en un cromosoma con el haplotipo CCR5-GAAT-AFMB, +-197-215, se produjo una mutación que dio lugar al alelo Δ32. Por consiguiente, el antecesor de todos los alelos Δ32 fue un cromosoma con el haplotipo Δ32-197-215. Finalmente, el nuevo alelo Δ32 fue favorecido por selección natural. Se incrementó hasta frecuencias elevadas, arrastrando consigo a los alelos vecinos 197 y 215.
@@ -906,11 +966,15 @@ El alelo no se dio fuera de Europa bien porque la mutación que lo originó nunc
 dado en una población no europea, o porque cuando la mutación se dio fuera de Euro-
 pa, no fue favorecida por selección.
 
-Esta respuesta plantea, desde luego, nuevas preguntas. Por ejemplo, la selección que favoreció al alelo Δ32 en Europa debe de haber sido fuerte. Sabemos esto porque sólo la selección fuerte pudo haber llevado al alelo de una frecuencia prácticamente de cero a una frecuencia del 10 al 20% en sólo unos 700 años. ¿Cuál fue el agente selectivo responsable? La sospecha más obvia sería una enfermedad epidémica. Una intrigante posibilidad es la peste bubónica, responsable de la peste negra que asoló a Europa durante el siglo XIV, matando de la cuarta parte a la mitad de la población. La peste bubónica la provoca la bacteria Yersinia pestis. Quizá el alelo Δ32 protegió también contra la Yersinia pestis. Desde este trabajo, la hipótesis de la peste bubónica está siendo comprobada por los investigadores en el laboratorio de Stanley Falkow de la Universidad de Stanford. No se tienen todavía resultados definitivos. 
+Esta respuesta plantea, desde luego, nuevas preguntas. Por ejemplo, la selección que favoreció al alelo Δ32 en Europa debe de haber sido fuerte. Sabemos esto porque sólo la selección fuerte pudo haber llevado al alelo de una frecuencia prácticamente de cero a una frecuencia del 10 al 20% en sólo unos 700 años
 
-Recientemente,Alshad Lalani y sus colegas (1999) comunicaron que el
-mixoma, un virus de los conejos de la familia de los poxvirus, puede, al igual que el
-VIH-1, utilizar CCR5 para introducirse en las células huésped. Lalani y sus colegas especularon que la enfermedad responsable de la elevada frecuencia del alelo Δ32 en Europa podría haber sido la viruela.
+> [!question] ¿Cuál fue el agente selectivo responsable?
+> La sospecha más obvia sería una enfermedad epidémica como sería la peste bubónica.
+
+Una intrigante posibilidad es la peste bubónica, responsable de la peste negra que asoló a Europa durante el siglo XIV, matando de la cuarta parte a la mitad de la población. La peste bubónica la provoca la bacteria *Yersinia pestis*. Quizá el alelo Δ32 protegió también contra la *Yersinia pestis*. Desde este trabajo, la hipótesis de la peste bubónica está siendo comprobada por los investigadores en el laboratorio de Stanley Falkow de la Universidad de Stanford. No se tienen todavía resultados definitivos. 
+
+Recientemente,Alshad Lalani y sus colegas (1999) comunicaron que el mixoma, un virus de los conejos de la familia de los poxvirus, puede, al igual que el VIH-1, utilizar CCR5 para introducirse en las células huésped. Lalani y sus colegas especularon que la enfermedad responsable de la elevada frecuencia del alelo Δ32 en Europa podría haber sido la viruela.
+
 Si resulta que el agente selectivo que favoreció al alelo Δ32 en Europa fue la peste
 bubónica o la viruela, entonces cabría esperar que las mutaciones de pérdida de función en el gen CCR5 habrían sido favorecidas en otras partes del mundo que también hubieran padecido epidemias de estas enfermedades. De hecho, los investigadores han encontrado diversas mutaciones en CCR5. Entre éstas hay una mutación de pérdida de función con una frecuencia del 3 al 4% en poblaciones chinas y japonesas. No se ha determinado el origen y significado selectivo de este alelo.
 

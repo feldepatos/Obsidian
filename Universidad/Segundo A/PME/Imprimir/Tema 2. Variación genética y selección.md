@@ -1,7 +1,7 @@
 
 ## Cuantificación de la variación genética
 
-- La forma más sencilla de analizar las estructuras genéticas de poblaciones es mediante la estimación de las frecuencias de los alelos presentes en los individuos de una población.
+- La forma más sencilla de **analizar las estructuras genéticas de poblaciones es mediante la estimación de las frecuencias de los alelos presentes en los individuos de una población.**
 - Para ello, necesitamos determinar el genotipo de los individuos de la población (o al menos de una muestra representativa de individuos) en diferentes loci.
 - A partir de estas frecuencias genotípicas, podemos estimar las frecuencias alélicas (también llamadas frecuencias genéticas).
 - En el caso de individuos haploides, las frecuencias alélicas son iguales a las frecuencias genotípicas, que a su vez son iguales a las frecuencias fenotípicas.
@@ -16,8 +16,8 @@ f(A)=f(AA)+\frac{1}{2}f(Aa) \\
 f(a)=f(aa)+\frac{1}{2}f(Aa)
 \end{align}
 $$
-- Como se observa, en los haploides, las frecuencias alélicas se estiman directamente a partir de las frecuencias fenotípicas.
-- Sin embargo, en el caso de los diploides, las frecuencias genotípicas no siempre pueden estimarse directamente a partir de las frecuencias fenotípicas (depende del tipo de herencia).
+- Como se observa, en los **haploides, las frecuencias alélicas se estiman directamente a partir de las frecuencias fenotípicas.**
+- Sin embargo, en el caso de los **diploides, las frecuencias genotípicas no siempre pueden estimarse directamente a partir de las frecuencias fenotípicas** (depende del tipo de herencia).
 - Si la herencia no es dominante (intermedia, codominancia, dominancia parcial, etc.), donde cada genotipo muestra un fenotipo diferente, las frecuencias genotípicas pueden estimarse a partir de las frecuencias fenotípicas.
 - Sin embargo, cuando la herencia es dominante, no es posible:
 $$
@@ -64,7 +64,7 @@ A partir de esta integración nació la genética de poblaciones, una disciplina
 
 En la parte inferior de la imagen aparecen tres figuras históricas importantes para el desarrollo de esta disciplina. Estas personas no se identifican individualmente por nombre, sino por su rol como fundadores del campo. Aportaron teorías y modelos matemáticos que permitieron demostrar que la evolución puede estudiarse de manera cuantificable y predecible. Entre sus contribuciones destacan la forma en que se mantiene el equilibrio genético en una población, la influencia del azar en la evolución y la importancia de la interacción entre el ambiente y los genes. Gracias a sus trabajos, la evolución dejó de ser un concepto puramente descriptivo para convertirse en una ciencia basada en datos, ecuaciones y predicciones.
 
-En resumen, la genética de poblaciones nació de la unión entre el estudio de la herencia biológica y la teoría de la evolución. Esta combinación dio origen a una disciplina científica moderna que explica cómo cambian los organismos a lo largo del tiempo mediante procesos genéticos observables y medibles. La genética de poblaciones es hoy uno de los pilares de la biología evolutiva y nos permite entender temas como la adaptación, la biodiversidad y el origen de las especies desde una perspectiva genética y matemática.
+En resumen, **la genética de poblaciones nació de la unión entre el estudio de la herencia biológica y la teoría de la evolución**. Esta combinación dio origen a una disciplina científica moderna que explica cómo cambian los organismos a lo largo del tiempo mediante procesos genéticos observables y medibles. La genética de poblaciones es hoy uno de los pilares de la biología evolutiva y nos permite entender temas como la adaptación, la biodiversidad y el origen de las especies desde una perspectiva genética y matemática.
 
 - Objeto de estudio: La genética de poblaciones estudia la estructura de las características genéticas de las poblaciones de organismos, así como los procesos responsables de su cambio de generación en generación (evolución).
 - Población: comunidad reproductiva de individuos que comparten un conjunto común de genes (acervo genético).
@@ -201,8 +201,7 @@ $$
 ![[Pasted image 20251026183346.png]]
 Esto confirma que hemos tenido en cuenta a todos los gametos. En la figura 5.5. se muestra una representación geométrica de los mismos cálculos.
 ![[Pasted image 20251026183317.png]]
-Hemos cerrado el círculo y hemos llegado exactamente a donde comenzamos. Comen-
-zamos con frecuencias alélicas del 60% para A y del 40% para a en el conjunto de genes de la población. Seguimos a los alelos a través de los zigotos y de los adultos y en el conjunto de genes de la siguiente generación. Las frecuencias alélicas en el nuevo conjunto de genes es también el 60% y el 40%. Por ello, las frecuencias alélicas de A y de a se encuentran en equilibrio en nuestra población: no cambian de una generación a la siguiente. La población no evoluciona.
+Hemos cerrado el círculo y hemos llegado exactamente a donde comenzamos. Comenzamos con frecuencias alélicas del 60% para A y del 40% para a en el conjunto de genes de la población. Seguimos a los alelos a través de los zigotos y de los adultos y en el conjunto de genes de la siguiente generación. Las frecuencias alélicas en el nuevo conjunto de genes es también el 60% y el 40%. Por ello, las frecuencias alélicas de A y de a se encuentran en equilibrio en nuestra población: no cambian de una generación a la siguiente. La población no evoluciona.
 
 Con mucha frecuencia, se desconocen las frecuencias genotípicas. Cuando carecemos de información para derivar algunas frecuencias genotípicas debido a la dominancia, es decir, A > a, p(A) = p, p(a) = q, es posible invocar el equilibrio de Hardy-Weinberg si existen razones para que esto se cumpla; como la codominancia, herencia intermedia que alteran los fenotipos.
 
@@ -455,7 +454,7 @@ Todo esto implica cambios en las frecuencias alélicas debido a la selección. P
 Estos zigotos están representados por un gráfico de barras en la figura. Seguiremos a los individuos que se desarrollan a partir de estos zigotos hasta que lleguen adultos. Aquéllos que sobrevivan se cruzarán para producir el conjunto de genes de la generación siguiente.
 
 ![[Pasted image 20251027020951.png]]
-Incorporamos la selección estipulando que los genotipos difieren en sus tasas de supervivencia. Todos los individuos *B1B1* sobreviven, y también lo hacen el 75% de los individyos *B1B2* y el 50% de los *B2B2*. Como se muestra en la siguiente imagen, en la población hay ahora 800 adultos:
+Incorporamos la selección estipulando que los genotipos difieren en sus tasas de supervivencia. Todos los individuos *B1B1* sobreviven, y también lo hacen el 75% de los individuos *B1B2* y el 50% de los *B2B2*. Como se muestra en la siguiente imagen, en la población hay ahora 800 adultos:
 
 | *B1B1* | *B1B2* | *B2B2* |
 | ------ | ------ | ------ |
@@ -484,7 +483,7 @@ La figura se basa en un modelo poblacional similar al utilizado en los ejemplos 
 ### Investigaciones experimentales sobre el cambio de las frecuencias alélicas por selección
 
 Douglas Cavener y Michael Clegg (1981) documentaron el cambio acumulativo en fre-
-cuencias alélicas a lo largo de muchas generaciones en un experimento de selección natural en el laboratorio con la mosca de la fruta (Drosophila melanogaster). La mosca de la fruta, como muchos otros animales, sintetiza una enzima que degrada el etanol, el ingrediente activo venenoso de la cerveza, del vino y de la fruta en putrefacción. Esta enzima se denomina alcohol deshidrogenasa, o ADH. Esta población tenía en el locus de la ADH tenían dos alelos Adh^f y el ADH^s.
+cuencias alélicas a lo largo de muchas generaciones en un experimento de selección natural en el laboratorio con la mosca de la fruta *(Drosophila melanogaster)*. La mosca de la fruta, como muchos otros animales, sintetiza una enzima que degrada el etanol, el ingrediente activo venenoso de la cerveza, del vino y de la fruta en putrefacción. Esta enzima se denomina alcohol deshidrogenasa, o ADH. Esta población tenía en el locus de la ADH tenían dos alelos Adh^f y el ADH^s.
 Separaron las moscas en función del tipo de alimento que le daban: unas reciban alimento rociado con etanol y otras alimento normal. La elección de los padres fueron al azar para simular la selección natural. Además utilizaron ambientes diferentes.
 
 Tras unas pocas generaciones apenas hubo algún cambio notable a largo plazo en la población de control, por otro lado, en  la  población  experimental se observó  un descenso de la frecuencia del ADHŝ.
@@ -541,17 +540,17 @@ Sin embargo, advierta que la selección *ha dado lugar* a que no se cumpla la co
 ## Selección sobre alelos recesivos y dominantes
 
 Los datos recogidos por Peter Dawson son un ejemplo de cómo la recesividad y la dominancia afectan al curso de la evolución. Dawson había estudiado una colonia de laboratorio del gorgojo del trigo(*Tribolium castaneaum*), y había identificado un gen,
-que llamaremos locus 1. Este locus tenía dos alelos: y l. Los individuos con genotipos
+que llamaremos locus 1. Este locus tenía dos alelos: *y l*. Los individuos con genotipos
 / y /l eran fenotípicamente normales, mientras que los individuos con genotipo l/l
 no sobrevivían. En otras palabras, l es un alelo letal recesivo.
+
 Dawson recogió heterozigotos de su colonia de gorgojos del trigo y los utilizó para
 establecer dos nuevas poblaciones experimentales.Ya que todos los fundadores eran heterozigotos, la frecuencia inicial de los dos alelos era 0,5 en las dos poblaciones.Ya que los individuos l/l tienen una eficacia cero, Dawson esperaba que su población evolucionara hacia frecuencias cada vez más bajas del alelo l y más altas del alelo . Dawson utilizó las ecuaciones derivadas en el Cuadro 5.3 y el método descrito en el Cuadro 5.6 para hacer predicciones cuantitativas del curso de la evolución. Luego dejó que sus poblaciones evolucionaran durante unas doce generaciones, midiendo en cada generación las frecuencias de los dos alelos.
 Los resultados aparecen en la Figura 5.14. Los datos de Dawson están muy de acuerdo con sus predicciones teóricas. Al principio, la frecuencia del alelo letal recesivo disminuye rápidamente (Figura 5.14a). En la segunda generación ya ha bajado del 0,5 a, aproximadamente, el 0,25. Sin embargo, a medida que la evolución progresaba, la reducción en frecuencia del alelo letal se hizo más lenta. Entre las generaciones 10 y 12 la frecuencia no disminuyó en absoluto. 
 
 ![[Pasted image 20260109123248.png]]
  
-El equilibrio de Hardy-Weinberg explica el porqué. Imagine primero un alelo recesi-
-vo que es frecuente: su frecuencia es, por ejemplo, 0,95.Así, el alelo dominante tiene una frecuencia del 0,05. Multiplicando las frecuencias alélicas podremos calcular las frecuencias genotípicas:
+El equilibrio de Hardy-Weinberg explica el porqué. Imagine primero un alelo recesivo que es frecuente: su frecuencia es, por ejemplo, 0,95. Así, el alelo dominante tiene una frecuencia del 0,05. Multiplicando las frecuencias alélicas podremos calcular las frecuencias genotípicas:
 
 | *AA*   | Aa    | aa     |
 | ------ | ----- | ------ |
@@ -580,7 +579,7 @@ Prácticamente el 100% de la población tiene el fenotipo dominante, mientras qu
 | *WAA* | *WAa* | *Waa* |
 | ----- | ----- | ----- |
 | 1     | 1     | 1+s   |
-Los valores positivos  de *s*  indican selección a favor del alelo recesivo; los  valores negativos de *s* indican selección en contra del alelo recesivo.
+Los valores positivos de *s*  indican selección a favor del alelo recesivo; los  valores negativos de *s* indican selección en contra del alelo recesivo.
 Es necesario la ecuación de la siguiente generación de la frecuencia *q*, es decir, *q'*.
 $$
 q'=\frac{pqw_{Aa}+q^{2}w_{aa}}{\bar{w}}=\frac{pqw_{Aa}+q^{2}w_{aa}}{p^{2}w_{AA}+2pqw_{Aa}+q^{2}w_{aa}}
@@ -615,16 +614,18 @@ Si **A* es letal dominante**, *s* es igual a  -1. Sustituyendo  este  valor en l
 La selección sobre los alelos recesivos y la selección sobre los alelos dominantes son lados opuestos de la misma moneda. La selección en contra de un alelo recesivo es
 selección a favor del alelo dominante y viceversa.
 
-En la Figura 5.15a (izquierda) se muestran 100 generaciones de evolución en una población ideal sometida a selección contra un alelo recesivo y a favor del alelo dominante.Al principio, la frecuencia de los alelos cambia rápidamente. Sin embargo, a medida que el alelo recesivo se hace más raro, la tasa de evolución disminuye drásticamente. Cuando el alelo recesivo es raro, la mayoría de las copias se encuentran en los individuos heterozigotos de la población, en donde se encuentran realmente ocultos al efecto de la selección.
+En la Figura 5.15a (izquierda) se muestran 100 generaciones de evolución en una población ideal sometida a **selección contra un alelo recesivo y a favor del alelo dominante.** Al principio, la frecuencia de los alelos cambia rápidamente. Sin embargo, a medida que **el alelo recesivo se hace más raro, la tasa de evolución disminuye** drásticamente. Cuando el alelo recesivo es raro, la mayoría de las copias se encuentran en los individuos heterozigotos de la población, en donde se encuentran realmente ocultos al efecto de la selección.
+
 La figura también muestra (derecha) la eficacia media de la población (véase el Cuadro 5.3) en función de la frecuencia del alelo dominante. A medida que el alelo
 dominante se va haciendo más frecuente, la eficacia media de la población aumenta. La eficacia media se maximiza cuando el alelo favorecido alcanza una frecuencia del
-100%. Las gráficas de la eficacia media en función de la frecuencia alélica se denominan a menudo paisajes adaptativos.
+100%. Las gráficas de la eficacia media en función de la frecuencia alélica se denominan a menudo **paisajes adaptativos.**
 
-La Figura 5.15b (izquierda) muestra 100 generaciones de evolución en una población ideal sometida a selección a favor del alelo recesivo y en contra del alelo dominante.
+La Figura 5.15b (izquierda) muestra 100 generaciones de evolución en una población ideal sometida a **selección a favor del alelo recesivo y en contra del alelo dominante.**
 Al principio la frecuencia de los alelos cambia lentamente. El alelo recesivo es raro, la mayoría de las copias presentes se encuentran en los heterozigotos y la selección no
 puede verlos. Sin embargo, a medida que los alelos recesivos se hacen lo bastante frecuentes como para que aparezca una fracción sustancial de homozigotos, la tasa de
 evolución aumenta espectacularmente. Una vez se acelera el ritmo de la evolución, los alelos recesivos favorables alcanzan rápidamente una frecuencia del 100%. Es decir, el
 alelo recesivo queda fijado en la población.
+
 La figura también muestra (derecha) la eficacia media de la población (véase el Cuadro 5.3) en función de la frecuencia del alelo recesivo. A medida que el alelo recesivo se va haciendo más frecuente, la eficacia media de la población aumenta. La eficacia media se maximiza cuando el alelo favorecido alcanza una frecuencia del 100%.
 
 > [!SUCCESS] Selección sobre los alelos recesivos  en comparación con la selección sobre los alelos
@@ -637,7 +638,8 @@ La figura también muestra (derecha) la eficacia media de la población (véase 
 
 ##  Selección sobre homozigoto y heterozigoto
 
-Cuando un alelo es recesivo y el otro es dominante, la eficacia de los heterozigotos es igual a la de uno de los dos homozigotos. Desde luego hay otras situaciones posibles.A menudo la eficacia de los heterozigotos se encuentra entre la de los dos homozigotos. Esto puede cambiar la tasa de evolución, pero no altera el resultado final.Al final, en la población queda fijado un alelo y el otro se pierde. En la Figura 5.10 se muestran varios ejemplos.
+Cuando un alelo es recesivo y el otro es dominante, la eficacia de los heterozigotos es igual a la de uno de los dos homozigotos. Desde luego hay otras situaciones posibles. **A menudo la eficacia de los heterozigotos se encuentra entre la de los dos homozigotos**. Esto puede cambiar la tasa de evolución, pero no altera el resultado final. Al final, en la población queda fijado un alelo y el otro se pierde. En la Figura 5.10 se muestran varios ejemplos.
+
 También es posible que la eficacia de los heterozigotos sea superior o inferior a la de
 los dos homozigotos. La superioridad y la inferioridad de los heterozigotos dan lugar a
 resultados completamente distintos.
@@ -650,6 +652,7 @@ Los resultados de Mukai y Burdick aparecen en la Figura 5.16, representados por 
 símbolos rojos. Como se esperaba, la frecuencia del alelo viable aumentó rápidamente en las primeras generaciones. Sin embargo, la tasa de evolución disminuyó mucho antes de que el alelo viable se aproximara a la frecuencia de 1,0. Por el contrario, parecía que el alelo viable alcanzaba un equilibrio, o un estado sin cambios, a una frecuencia de 0,79.
 
 Para profundizar más, Mukai y Burdick fundaron dos nuevas poblaciones experimentales, esta vez con una frecuencia inicial del alelo viable de 0,975. La evolución de estas poblaciones se representa en la Figura 5.16 por los símbolos azules. En lugar de aumentar hacia 1,0, la frecuencia del alelo viable bajo, alcanzando de nuevo un equilibrio cercano al 0,79.
+
 ![[Pasted image 20260109133941.png]]
 Adviértase que una frecuencia de equilibrio de 0,79 para el alelo viable significa que
 el alelo letal tiene una frecuencia de equilibrio de 0,21. ¿Cómo puede mantener la selección natural un alelo letal a tan elevada frecuencia en esta población? Mukai y Burdick arguyeron que la explicación más probable era la superioridad del heterozigoto, también conocida como **superdominancia.** 
@@ -747,14 +750,14 @@ $$
 > Por otro lado, en el  caso de infradominancia, el heterozigoto tiene menor ↓ eficacia, por tanto, la selección actúa en su contra. En este caso, el equilibrio en el que ambos alelos estén presentes es inestable, porque cualquier desviación en la frecuencia de un alelo reduce más la producción de heterozigotos y empuja a la población a la fijación de uno u otro alelo. Conduciendo a un  equilibrio inestable y no mantiene la variación genética.
 
 
-Por ejemplo, cuando s = –0,4 y t = –0,6, los heterozigotos tienen una mayor eficacia, y la frecuencia en el equilibrio para el alelo A1 es 0,6. Cuando s = 0,4 y t = 0,6, los
-heterozigotos tienen una menor eficacia y la frecuencia en el equilibrio para el alelo A1 es también 0,6.
+Por ejemplo, cuando **s = –0,4 y t = –0,6, los heterozigotos tienen una mayor eficacia**, y la frecuencia en el equilibrio para el alelo A1 es 0,6. **Cuando s = 0,4 y t = 0,6, los
+heterozigotos tienen una menor eficacia y la frecuencia en el equilibrio para el alelo A1 es también 0,6.**
 Otro método útil para analizar el equilibrio es representar el Δp en función de p. En la Figura 5.18a se muestra tal representación para los dos ejemplos numéricos que
 acabamos de calcular. En ambas representaciones se demuestra que el Δp = 0 cuando p = 0, p = 1 ó p = 0,6.
 
 Las curvas de la Figura 5.18a también nos permiten determinar si un equilibrio es estable o inestable. Observemos la curva roja; se refiere a un locus con superioridad
 del heterozigoto. Advierta que cuando **p es mayor de 0,6, el Δp es negativo**. Esto quiere decir que cuando la frecuencia del alelo A1 sea superior a su valor de equilibrio,
-la población retrocederá hacia el equilibrio en la generación siguiente. De igual manera, cuando **p* sea menor que 0,6, el Δp será positivo**. Cuando la frecuencia del alelo A1 se encuentra por debajo de su valor de equilibrio volverá hacia el equilibrio en la generación siguiente. El equilibrio “interno” de un locus con superioridad del heterozigoto es estable.
+la población retrocederá hacia el equilibrio en la generación siguiente. De igual manera, cuando **p* sea menor que 0,6, el Δp será positivo**. Cuando la frecuencia del **alelo A1 se encuentra por debajo de su valor de equilibrio volverá hacia el equilibrio en la generación siguiente**. El equilibrio “interno” de un locus con superioridad del heterozigoto es estable.
 
 La Figura 5.18b muestra un paisaje adaptativo para un locus con **superioridad del heterozigoto**. El gráfico representa la eficacia media poblacional en función de la frecuencia del alelo A1. La eficacia media es baja cuando no está A1 y relativamente baja cuando A1 se ha fijado. A medida que la frecuencia del alelo se desplaza desde ambos extremos hacia su equilibrio estable, la eficacia media poblacional aumenta hasta un máximo.
 ![[Pasted image 20260109141448.png]]

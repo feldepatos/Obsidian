@@ -1,10 +1,12 @@
 ## Características generales
+
 - Principal constituyente del organismo
 - Compartimiento vasto y continuo por todo el cuerpo.
 - Delimitado por láminas basales de los diversos epitelios,células musculares y las células de sostén  de  los nervios
 ## Funciones
+
 - Sostener+cohesionar a otras tejidos de los órganos.
-- Soporte de las estructuras del orgnanismo.
+- Soporte de las estructuras del organismo.
 - Proteger+aislar+ dar forma a los órganos
 - Lugar donde ocurren las reacciones  inflamatorias e  inmunes
 - Interviene en la reparación tisular
@@ -84,6 +86,7 @@ Origina los diversos tejidos conjuntivos del cuerpo.
 | Origen       | Torrente sanguíneo                          | Médula ósea                                                          |
 | Localización | Por el sistema linfático+donde lo necesiten | Glándulas salivares+linfáticos+hematopoyético                        |
 ### Tejido Adiposo
+
 Características generales
 
 |              | Blanco                                                                                                                          | Pardo                                                | Beige                                                              |
