@@ -30,7 +30,8 @@ Características
 
 ## Linfa
 
-Es un líquido corporal que circula por el sistema linfático y se forma a partir del líquido intersticial. Su función principal es mantener el equilibrio de los líquidos del organismo y participar en la defensa inmunológica, transportando células del sistema inmune y sustancias como proteínas y grasas desde los tejidos hacia la sangre.
+Es un líquido corporal que circula por el sistema linfático y se forma a partir del líquido intersticial. 
+Su función principal es mantener el equilibrio de los líquidos del organismo y participar en la defensa inmunológica, transportando células del sistema inmune y sustancias como proteínas y grasas desde los tejidos hacia la sangre.
 
 
 > [!NOTE] Liquido intersticial
@@ -136,18 +137,24 @@ Podemos distinguir 3 tipos de linfocitos según su funcionalidad:
 	- Producción+secreción de Ac.
 	- Expresa las moléculas del MHC(II).
 - NK
-	- Carecen de receptores de linfocitos, pero presentan NCR(receptores de citotoxicidad natural)
+	- Carecen de receptores de linfocitos, pero presentan NCR(receptores de citotoxicidad natural).
 	- Parte de la inmunidad inespecífica.
 	- Destruye células transformadas(diana) induciendo su apoptosis o lisis mediante la secreción de perforinas y granzimas.
+
+
+> [!NOTE] NCR(Receptores de citotoxicidad natural)
+> Son proteínas en la superficie de las células NK (Natural Killer) que les **permiten reconocer y eliminar células infectadas por virus o tumorales**, incluyendo los conocidos como NCRs que reconocen glúcidos, y otros como KIRs y NKG2D que interactúan con moléculas como las HLA o B7-H6 para **activar la respuesta inmune innata.**
+> Funcionan como activadores o inhibidores, detectando moléculas de estrés o falta de MHC-I en células diana, desencadenando la liberación de citocinas y la muerte celular para defender el organismo.
 
 ![[Pasted image 20260115162430.png]]
 ![[Pasted image 20260115162439.png]]
 
 
-*Desarrollo y diferenciación de los linfocitos*
+~={pink}*Desarrollo y diferenciación de los linfocitos*=~
 
 **Los linfocitos sufren diferenciación independiente de Ag en los órganos linfáticos primarios.**
-Los linfocitos se diferencian en células inmunocompetentes en la médula ósea. Al principio, los linfocitos son programados genéticamente para reconocer un Ag individual entre un número casi infinito de Ag posibles, en un proceso de diferenciación y proliferación independiente de Ag. Estas células inmunocompetentes ingresan, a la sangre o linfa y son transportadas hacia todo el organismo, donde se dispersa en el tejido conjuntivo.
+Los linfocitos se diferencian en células inmunocompetentes en la médula ósea. Al principio, los linfocitos son programados genéticamente para reconocer un Ag individual entre un número casi infinito de Ag posibles, en un proceso de diferenciación y proliferación independiente de Ag.
+Estas células inmunocompetentes ingresan, a la sangre o linfa y son transportadas hacia todo el organismo, donde se dispersa en el tejido conjuntivo.
 
 > [!question] ¿Qué es la diferenciación y proliferación independiente de Ag?
 > Los linfocitos pueden multiplicarse sin la necesidad de un Ag. Algo solo posible solo en los órganos primarios.
@@ -156,7 +163,7 @@ Los linfocitos se diferencian en células inmunocompetentes en la médula ósea.
 **Los linfocitos sufren activación dependiente de Ag en los órganos linfáticos secundarios.**
 Los linfocitos inmunocompotentes se organizan alrededor de las células reticulares y sus fibras reticulares para formar los **tejidos y los órganos linfáticos efectores adultos(nódulos linfáticos, ganglios linfáticos, amígdalas y bazo).** Dentro de estos órganos linfáticos secundarios, los linfocitos T y B sufren una activación dependiente de Ag para convertirse en linfocitos efectores y linfocitos de memoria.
 
-*Respuestas inmunitarias frente a Ag*
+~={pink} *Respuestas inmunitarias frente a Ag*=~
 
 **La inflamación es la respuesta inicial frente a un Ag**
 Es la primera reacción inicial del cuerpo frente a la invasión de un Ag, ya sea una molécula extraña o un organismo patógeno. Puede secuestrar el Ag, digerirlo físicamente con enzimas secretadas por los neutrófilos o fagocitarlo y degradarlo en el citoplasma de los macrófagos. Esa degradación puede conducir a la presentación de Ag a los linfocitos inmunocompetentes para obtener una respuesta específica.
@@ -206,7 +213,8 @@ El **MHC II**, se expresa en la superficie de todas las APC y es decisiva en las
 > MHC I→ Ag interno→CD8+→destrucción celular.
 > MHC II→Ag externo→CD4+→Activación y regulación inmune
 
-*Activación de los linfocitos T y B*
+~={pink} *Activación de los linfocitos T y B*=~
+
 **La activación de los linfocitos T requiere la presencia de señales co estimuladoras**.
 Necesitan de 2 señales estimuladoras para activarse completamente y para diferenciarse y proliferar a continuación. 
 La interacción del **TCR** y las moléculas CD4 o CD8 con el Ag-MHC se conoce como la primera señal. La segunda señal, que se denomina coestimuladora, se consigue por la interacción de moléculas de la membrana de los linfocitos T con moléculas superficiales de las APC.
@@ -318,6 +326,7 @@ Tanto los mastocitos como los basófilos fijan un Ac secretado por células plas
 
 **Estas sustancias causan las alteraciones vasculares importantes asociadas con reacciones de hipersensibilidad**.
 ## Plaquetas
+
 **Los trombocitos son pequeños fragmentos citoplasmáticos limitados por membrana y anucleados que derivan de los megacariocitos.**
 
 Pueden dividirse en 4 zonas según su organización y su función:
@@ -338,8 +347,6 @@ La serotonina es un vasoconstrictor que causa la contracción de las células mu
 
 En el glucocáliz primario provee una superficie de reacción para la conversión de fibrinógeno soluble en fibrina, la cual forma una red laxa sobre el tapón inicial y se estabiliza con la ayuda de más enlaces cruzados covalentes que produce una aglomeración densa de las fibras. En la red, quedan atrapadas plaquetas y eritrocitos.
 El tapón plaquetario inicial se transforma en el coágulo definitivo, llamado tapón hemostático secundario, por la acción de factores tisulares.
-
-
 ### Proteínas plasmáticas
 ![[Pasted image 20260114112752.png]]
 
@@ -364,7 +371,7 @@ Durante la vida fetal, tanto los eritrocitos como los leucocitos se forman en va
 
 Después del nacimiento, la hematopoyesis sólo ocurre en la médula ósea roja y en algunos tejidos linfáticos, al igual que en el adulto.
 
-*Teoría monofilética de la hematopoyesis*
+~={pink} *Teoría monofilética de la hematopoyesis*=~
 
 **Las células de la sangre derivan de una célula madre hematopoyética en común**.
 
@@ -468,7 +475,7 @@ Son estructuras moleculares conservadas presentes en mo que son reconocidas por 
 	- Receptores que distinguen moléculas propias que proceden de células muertas(no por apoptosis) o dañadas que funcionan como señales de "peligro".
 
 
-*Reconocimiento de las PAMP*
+~={pink} *Reconocimiento de las PAMP*=~
 
 Son reconocidas por receptores de reconocimiento de patrones, que se encuentran en células como macrófagos, neutrófilos y células dentríticas, tanto en la superficie celular como en el interior de la célula o en vesículas endosómicas.
 Cuando un PRR se une a PAMP, se activan señales intracelulares que produce:
@@ -564,6 +571,7 @@ Las NK tienen receptores que reconocen Ac unidos a células infectadas. Tras uni
 Los Ac pueden unir múltiples partículas formando agregados grandes que facilitan su eliminación. Reduce la dispersión de patógenos y los hace más fáciles de fagocitar.
 
 ### Celular
+
 Reconocen como Antígenos elementos solubles o accesibles sin elaborar.
 Reconocen como antígenos productos elaborados y unidos a las proteínas MHC en la superficie de células.
 

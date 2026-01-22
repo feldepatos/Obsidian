@@ -6,7 +6,7 @@ Se encuentra dividido a nivel anatómico de la siguiente forma:
 - Sistema nervioso central
 	- Compuesto por encéfalo y la médula espinal, contenidos en la cavidad craneana y en el conducto vertebral, respectivamente.
 - Sistema nervioso periférico
-	- Formado por nervios craneales, espinales y periféricos que conducen impulsos desde el SNC y hasta él; los conjuntos de somas neuronales ubicados fuera del SNC se llaman ganglios y las terminaciones nerviosas especializadsa.
+	- Formado por nervios craneales, espinales y periféricos que conducen impulsos desde el SNC y hasta él; los conjuntos de somas neuronales ubicados fuera del SNC se llaman ganglios y las terminaciones nerviosas especializadas.
 
 Por otro lado, también podemos dividirlo por su funcionalidad
 - Sistema nervioso somático
@@ -19,6 +19,7 @@ Por otro lado, también podemos dividirlo por su funcionalidad
 
 ---
 # Composición
+
 Principalmente está compuesto por dos células: la neurona y las células de sostén.
 
 La neurona es la unidad funcional del sistema nervioso. Está compuesta por el soma que contiene el núcleo y varias invaginaciones de longitud variable. Las neuronas están especializadas para recibir estímulos desde otras células y para conducir impulsos eléctricos hacia otras partes del sistema a través de sus invaginaciones. Son varias neuronas que participan en la transmisión de impulsos y están organizadas en forma de eslabones de una cadena, como una red de comunicaciones integrada. Los contactos que especializados entre las neuronas, se llaman sinapsis.
@@ -167,7 +168,7 @@ La vaina de mielina se forma a partir de capas compactadas del mesaxón de célu
 
 El espesor de la vaina de mielina producida en la mielinización está determinado por el diámetro del axón y no por la célula de Schwann.
 
-El nódulo de Ranvier es la unión entre 2 células de Schwann adyacentes.
+El nódulo de Ranvier es la unión entre 2 células de Schwann adyacentes. Además, son interrupciones entre las vainas de mielina donde se concentraban los canales de sodio dependientes de voltaje.
 
 
 ### Células satélites
@@ -209,11 +210,25 @@ Células cilíndricas que revisten los ventrículos del encéfalo y el conducto 
 Forman el revestimiento  epitelial de las cavidades  llenas de líquido del SNC. Forman una sola capa de células entre cúbicas y cilíndricas que poseen características morfológicas  y fisiológicas de las células  transportadoras de líquido.
 
 ## Conducción del impulso
-Un impulso nervioso se conduce a lo largo del axón de modo similar a como una llama avanza sobre la mecha de un petardo. Estos procesos electroquímicos implicaban las generación de un potencial de acción, una onda de despolarización de membrana que comienza en el segmento inicial del cono axónico. Su membrana contiene una gran cantidad de Na+ y K+ activados por voltaje. En respuesta a un estímulo, se abren los conductos de Na+ activados por el voltaje en el segmento inicial de la membrana del axón, lo que provoca la entrada de Na+ en el axoplasma. Este ingreso de Na+ invierte brevemente el potencial negativo de la membrana en reposo a uno positivo. 
-Después de la despolarización, los conductos  activados por el voltaje se abren. EL K+ abandona rápidamente el axón y devuelve a la membrana a su potencial de reposo. La despolarización  de una parte de la membrana envía una corriente eléctrica a las porciones vecinas de la membrana no estimulada, que siguen con carga positiva. Esta corriente local estimula las porciones adyacentes de la membrana del axón y repite la despolarización a lo largo de la membrana.
+
+Un impulso nervioso se conduce a lo largo del axón de modo similar a como una llama avanza sobre la mecha de un petardo. Estos procesos electroquímicos implicaban las generación de un potencial de acción, una onda de despolarización de membrana que comienza en el segmento inicial del cono axónico. Su membrana contiene una gran cantidad de Na⁺ y K⁺ activados por voltaje. En respuesta a un estímulo, se abren los conductos de Na⁺ activados por el voltaje en el segmento inicial de la membrana del axón, lo que provoca la entrada de Na+ en el axoplasma. Este ingreso de Na⁺ invierte brevemente el potencial negativo de la membrana en reposo a uno positivo. 
+Después de la despolarización, los conductos  activados por el voltaje se abren. EL K⁺ abandona rápidamente el axón y devuelve a la membrana a su potencial de reposo. La despolarización  de una parte de la membrana envía una corriente eléctrica a las porciones vecinas de la membrana no estimulada, que siguen con carga positiva. Esta corriente local estimula las porciones adyacentes de la membrana del axón y repite la despolarización a lo largo de la membrana.
 Tras un breve período, la neuronas puede repetir el proceso de generación de potencial de acción una vez más.
 
-Los axones mielínicos conducen los impulsos con más rápidez que los axones amielínicos. Este proceso se llama conducción saltatoria o discontinua. En los nervios mielínicos, la vaina de mielina alrededor del nervio no conduce la corriente eléctrica y forma una cubierta aislante alrededor del axón. Por ello, la inversión del voltaje puede ocurrir *sólo* en los nódulos de Ranvier, donde el axolema carece de vaina de mielina. Aquí, el axolema está expuesto a líquidos extracelulares y posee una gran concentración de conductos de Na+ y K+ activados por voltaje.
+Los axones mielínicos conducen los impulsos con más rápidez que los axones amielínicos. Este proceso se llama **conducción saltatoria o discontinua**. En los nervios mielínicos, la vaina de mielina alrededor del nervio no conduce la corriente eléctrica y forma una cubierta aislante alrededor del axón. Por ello, la inversión del voltaje puede ocurrir *sólo* en los nódulos de Ranvier, donde el axolema carece de vaina de mielina. Aquí, el axolema está expuesto a líquidos extracelulares y posee una gran concentración de conductos de Na+ y K+ activados por voltaje.
+
+> [!NOTE] Conducción saltatoria o discontinua
+> El impulso nervioso se transmite a  lo largo de axones **mielinizados** de manera rápida y eficiente, ya que la mielina actúa como aislante eléctrico e impide el intercambio de iones en los segmentos cubiertos. La despolarización solo ocurre en los nódulos de Ranvier. De esta forma, el potencial no se propaga de forma contínua, sino salta al siguiente nódulo de Ranvier
+
+
+|                                  | Impulso nervioso                                      | Impulso discontinuo       |
+| -------------------------------- | ----------------------------------------------------- | ------------------------- |
+| Tipo de axón                     | NO mielinizados                                       | Mielinizados              |
+| Ubicación de la despolarización  | A lo largo del axón                                   | Nódulos de Ranvier        |
+| Forma de transmisión del impulso | Lenta+progresiva                                      | Salta de un nodulo a otro |
+| Gasto enérgitico                 | ↑ , ya que se intercambian iones en  toda la membrana | Rápida+eficiente (↓)      |
+
+Por este motivo, la inversión del voltaje salta a medida que la corriente fluye de un nódulo de Ranvier al siguiente. La velocidad de la conducción saltatoria no sólo está relacionada con el espesor de la mielina sino también con el diámetro del axón. La conducción es más rápida a lo largo de los axones de ↑ diámetro.
 
 
 > [!Success] Resumen del impulso
@@ -223,9 +238,37 @@ Los axones mielínicos conducen los impulsos con más rápidez que los axones am
 ---
 # Organización del sistema nervioso Periférico
 
+Está compuesto por nervios periféricos con terminaciones nerviosas especializadas y ganglios que contienne somas neuronales que se encuentran fuera del sistema nervioso central.
 ## Nervios periféricos
 
+Los nervios del SNP están compuestos por muchas fibras nerviosas que transportan información sensitiva y motora(efectora) entre los órganos y los tejidos del cuerpo y el encéfalo y la médula espinal. 
+Los somas de los nervios periféricos pueden ubicarse dentro del SNC o fuera de él en  los ganglios periféricos. Los ganglios contienen cúmulo de somas neuronales y de fibras nerviosas errantes o salientes. 
+
+Por otro lado, los somas de las neuronas motoras que inervan el sistema músculo esquelético se ubican en el encéfalo, en el tronco encefálico y en la médula espinal. Los  axones abandonan el SNC y transcurren en los nervios periféricos hacia el  sistema músculo esquelético que inervan. Una sola neurona transmite impulsos desde el SNC hacia el órgano efector.
+
+Los somas de las neuronas sensitivas están  ubicados en los ganglios que están fuera del SNC pero cerca de él.
+
 ### Componentes del tejido conjuntivo del nervio periférico
+
+Principalmente está compuesta por fibras nerviosas y sus células de sostén, las células de Schwann. Las fibras nerviosas individuales y sus células de Schwann asociadas se mantienen juntas por el tejido conjuntivo organizado en 3 componentes distinto:
+- Endoneuro
+- Perineuro
+- Epineuro
+
+*Endoneuro*
+Está compuesto por tejido conjuntivo laxo asociado con fibras nerviosas individuales. Es posible encontrar algún que otro fibroblasto, pero aparecen con más frecuencia los mastocitos y los macrófagos, que una vez activados se llaman dentritos mielínicos. Pero principalmente está compuesto por células de Schwann, que constituye el 90%.
+
+*Perineuro*
+Es el tejido conjuntivo especializado que rodea un fascículo nervioso y contribuye a la formación de la barrera hematoneural.
+
+Esta barrera mantiene el medio iónico de las fibras nerviosas envainadas. Las células perineurales poseen receptores, transportadores y enzimas que proveen el transporte activo de sustancias.
+
+*Epineuro*
+Está compuesto por tejido conjuntivo denso irregular que rodea y une los fascículos en un haz común.
+Es el tejido más externo del nervio periférico. 
+
+Los vasos que irrigan los nervios transcurren en el epineuro y sus ramificaciones penetran el nervio y corren dentro del perineuro. El tejido a  la altura del endoneuro está muy poco vascularizado; el intercambio metabólico de sustrato y desechos en este tejido depende de la difusión desde los vasos sanguíneos y hacia ellos a través de la vaina perineural.
+
 ---
 # Organización del sistema nervioso Autónomo
 
@@ -237,11 +280,65 @@ Los efectores específicos en los órganos internos que responden a la informaci
 
 ---
 # Organización del sistema nervioso Central
-## Células de la sustancia grias
 
+Está compuesto por el encéfalo ubicado en la cavidad craneada y la médula espinal, ubicada en el conducto vertebral. El SNC está protegido por el cráneo y las vértebras  y está rodeado por 3 membranas de tejido conjuntivo llamado meninges. El encéfalo y la médula espinal flotan esencialmente en el líquido cefalorraquídeo que ocupa el espacio entre las 2 capas meníngeas internas. El encéfalo, además, se subdivide en cerebro, cerebelo y tronco encefálico, que se continua con la médula espinal.
+
+La corteza cerebral que forma la capa más externa del encéfalo, contiene somas neuronales, axones, dendritas y células de la glía central y es el sitio donde se producen las sinapsis. En un cerebro disecado en fresco, la corteza cerebral tiene un color gris, que recibe el nombre de sustancia gris. Además de hallarse en la corteza, la sustancia gris también se encuentra en forma de islotes, denominados núcleos, en la profundidad  del cerebro y del cerebelo.
+
+La sustancia blanca contiene sólo axones de neuronas, además de las células gliales y los vasos sanguíneos asociados.
+## Células de la sustancia gris
+
+Los tipos de somas encontrados en la sustancia gris varían según la parte del encéfalo o de la médula espinal que se examine.
+La red  de evaganaciones axonales, dendríticas y gliales asociadas con la sustancia gris, se denomina neurópilo. 
+
+Cada región funcional de la sustancia gris tiene una variedad característica de somas asociados con una red de evaginaciones axonales, dendríticas y gliales.
 ## Organización de la médula espinal
+
+La médula espinal es una estructura cilíndrica aplanada que está en continuidad directa con el  tronco encefálico. 
+
+En un corte transversal, la médula espinal exhibe una sustancia interna con forma de mariposa pardo grisácea, la sustancia gris, que rodea el conducto central, y una sustancia periférica blanquecina, la sustancia blanca.
+
+La sustancia gris contiene los somas neuronales y sus dentrititas, juntos con axones y células de la glía central. 
+
+|                               | Sustancia gris                            | Sustancia blanca                                                  |
+| ----------------------------- | ----------------------------------------- | ----------------------------------------------------------------- |
+| Componentes                   | Somas+dendritas                           | Axones mielinizados                                               |
+| Forma                         | Mariposa                                  | Rodeando a la sustancia gris                                      |
+| Tipo de neurona  que contiene | Interneuronas+neuronas motoras            | Tractos ascendentes y descendientes                               |
+| Función                       | Procesa e integra la información nerviosa | Conducir impulso nerviosos entre la médula espinal  y el encéfalo |
+
 
 ## Tejido conjuntivo del sistema nervioso central
 
+3 membranas secuenciales de tejido conjuntivo, las meninges, cubren el encéfalo y la médula espinal.
+- Duramadre
+- Aracnoide
+- Piamadre
+
+*Duramadre*
+Es la capa gruesa de tejido conjuntivo que forma la duramadre es continua en su superficie externa con el periostio del cráneo. Dentro hay espacios revestidos por el  endotelio que actúan como conductos principales para la sangre que regresa del encéfalo. Estos senos venosos reciben sangre de las principales venas cerebrales y la transportan hacia las venas yugulares internas.
+
+*Aracnoide*
+Es una lámina delicada de tejido conjuntivo que limita con la superficie interna de la duramadre y extiende cordones aracnoides hacia la piamadre en la superficie del encéfalo y la médula espinal. Los cordones en forma de red de la aracnoides, le dan su nombre a este tejido. Los cordones están compuestos por hebras de tejido conjuntivo laxo con fibroblastos alargados. Este  espacio que cruzan estos cordones es el espacio subaracnoide; es el que contiene el líquido cefalorraquídeo.
+
+*Piamadre*
+Es una capa delicada de tejido conjuntivo. Está en contacto directo con la superficie del encéfalo y la médula espinal y es continua con la vaina de tejido conjuntivo perivascular de los vasos sanguíneos encefálicos y medulares.
+
 ---
 # Histogénesis
+
+Las neuronas del  SNC y la glía central, a excepción de las células microglias, derivan de las células neuroectodérmicas del tubo neural.
+Después de que las neuronas en desarrollo han migrado hasta sus ubicaciones predestinadas en el tubo neural y se han diferenciado a neuronas maduras, ya no se dividen. Sin embargo, en el encéfalo adulto, una cantidad muy pequeña que persisten desde el desarrollo embrionario, llamados células madre neurales, quienes conservan la capacidad de dividirse. 
+
+Los precursores de los oligodendrocitos son células muy migratorias. Estas células parecen compartir un linaje evolutivo con las neuronas motoras, que migran desde su sitio de origen hacia las evaginaciones axónicas en desarrollo en la sustancia blanca del encéfalo o la médula espinal. Entonces, los precursores proliferan en respuesta a la expresión local de señales mitogénicas. 
+
+Los astrocitos también derivan del tubo neural. Durante las etapas embrionarias y postnatal temprana, los astrocitos inmaduros migran hacia la corteza, donde se diferencian y se convierten en astrocitos maduros.
+
+Las células ependimarias derivan de la proliferación de células neuroepiteliales que rodean en forma inmediata el conducto del tubo neural en desarrollo.
+
+Por otro lado, las microgliales derivan de los precursores de macrófagos mesodérmicos en la médula ósea. Estas se infiltran el tubo neural en las etapas iniciales de su desarrollo y bajo la influencia de los factores de crecimiento.
+
+Las células ganglionares del SNP y la glía periférica derivan de la cresta neural. También las células de Schwann derivan de células migrantes de la cresta neural que asocian con los axones de los nervios embrionarios iniciales. 
+
+
+

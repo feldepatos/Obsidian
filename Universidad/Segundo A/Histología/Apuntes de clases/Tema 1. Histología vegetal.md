@@ -67,7 +67,7 @@ no tiene q haber espacio intercelular+cél que no necesitan cloroplastos+ ↑ n�
 cutícula→secreción lípidica y protege las células.
 
 Clase 2(19-9-25): 17- 31
-Tricoma protuberacias sobre la superficie de la planta y con muchas funciones
+Tricoma es una protuberacias sobre la superficie de la planta y con muchas funciones
 lo mas probable que las muestras que miremos que sean cosas que sobresalgan pero también podemos encontrar artefactos.
 ![[Pasted image 20250919084735.png]]
 suberificada se observan 7 capas de células vacuolas  con pared primaria

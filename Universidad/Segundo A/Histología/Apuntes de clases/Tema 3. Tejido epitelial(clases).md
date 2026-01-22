@@ -1,4 +1,5 @@
 Clase (6-10-25) 1-17 (Tema 3)
+
 la célula epitelial concretamente la del intestino como modelo.
 forman un epitelio  que hace de barrera entre la comida y  el medio interno, controla la absorción de nutrientes así como la pérdida.
 epitelio→estructura de revestimiento de las partes del cuerpo animal 
@@ -16,7 +17,7 @@ Presenta una gran diversidad de formas  de la función a realizar.
 Riñón
 
 ![[Pasted image 20251006091037.png]]
-se puede flexionar pero volverá debido a la conexión a  la membrana plasmática
+**se puede flexionar pero volverá debido a la conexión a  la membrana plasmática**
 paralelos a la distancia adecuada mínimamente
  pero en los esterocilios un poco más larga pero con una composición diferente.
  en ocasiones tienen conexiones entre ellos.
@@ -54,6 +55,7 @@ Fascia adherens: entre cel cardiac,
 nuestras cellas no pueden formar una infinidad de estructuras diferentes por eso repiten.
 
 Segunda parte del tema 
+
 Lámina basal
 matriz extracelular→normalmente, esta a la base de los epitelios que es la lámina basal. Siempre es la que esta en la base independientemente del nº de células.
 colágeno→familia de proteínas por estar formadas por 3 cadenas aa 
