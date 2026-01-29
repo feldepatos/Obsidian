@@ -245,6 +245,7 @@ La Q-citocromo c oxidorreductasa es un dímero, y cada monómero contiene 11 sub
 
 **El ciclo Q canaliza electrones desde un portador de dos electrones a un portador de un electrón y bombea protones.**
 La QH₂ transfiere dos electrones a la Q-citocromo c oxidorreductasa, pero el aceptor de electrones en este complejo, el citocromo c, solo puede aceptar un electrón. ¿Cómo se produce el cambio del ubiquinol, portador de dos electrones, al citocromo c, portador de un electrón? El mecanismo para el acoplamiento de la transferencia de electrones de Q al citocromo c con el transporte transmembrana de protones se conoce como ciclo Q (Figura 19.13). Dos moléculas de QH₂ se unen al complejo consecutivamente, cediendo cada una dos electrones y dos H₂. Estos protones se liberan al lado citoplasmático de la membrana. La QH₂ se une al primer sitio de unión de Q y los dos electrones viajan a través del complejo hacia diferentes destinos. Un electrón fluye primero al grupo Rieske 2Fe-2S; luego, al citocromo c1; y, finalmente, a una molécula de citocromo c oxidado, convirtiéndolo en su forma reducida. La molécula de citocromo c reducida puede difundirse libremente desde la enzima para continuar a lo largo de la cadena respiratoria. El segundo electrón pasa a través de dos grupos hemo del citocromo b hasta una ubiquinona oxidada en un segundo sitio de unión Q. El Q en el segundo sitio de unión se reduce a un anión radical semiquinona (Q•) por el electrón del primer QH2. El Q, ahora completamente oxidado, abandona el primer sitio Q, libre para reingresar al grupo Q.
+
 Una segunda molécula de QH2 se une a la Q-citocromo c oxidorreductasa y reacciona de la misma manera que la primera. Uno de los electrones se transfiere al citocromo c. 
 
 El segundo electrón pasa a través de los dos grupos hemo del **citocromo b hasta la ubiquinona** parcialmente reducida, unida a un segundo sitio de unión. Al añadir el electrón de la segunda molécula de QH₂, este anión radical quinona absorbe dos protones de la matriz para formar QH₂. La eliminación de estos dos protones de la matriz contribuye a la formación del gradiente protónico. En resumen, se liberan cuatro protones del lado citoplasmático y se eliminan dos de la matriz mitocondrial. 
@@ -260,6 +261,7 @@ $$
 $$
 El requerimiento de oxígeno para esta reacción es lo que hace que los organismos "aeróbicos" sean aeróbicos. Obtener oxígeno para esta reacción es la razón principal por la que los seres humanos deben respirar. Cuatro electrones se canalizan al O₂ para reducirlo completamente a dos moléculas de H₂O y, concomitantemente, se bombean protones desde la matriz hacia el lado citoplasmático de la membrana mitocondrial interna. Esta reacción es bastante favorable desde el punto de vista termodinámico. A partir de los potenciales de reducción de la Tabla 19.1, se calcula que el cambio de energía libre estándar para esta reacción es de G° 231,8 kJ mol⁻¹ (55,4 kcal mol⁻¹). La mayor cantidad posible de esta energía libre debe capturarse en forma de gradiente de protones para su posterior uso en la síntesis de ATP.
 La citocromo c oxidasa consta de 13 subunidades, 3 de las cuales están codificadas por el genoma mitocondrial y el resto por el genoma nuclear (Figura 19.14).
+
 La ​​citocromo c oxidasa contiene dos grupos hemo, hemo a y hemo a 3, y tres iones de cobre, dispuestos como dos centros de cobre denominados Cu⁻¹ y Cu⁻¹, donde el Cu⁻¹ contiene dos iones de cobre. Cuatro moléculas de citocromo c reducido, generadas por la Q-citocromo c oxidorreductasa, se unen consecutivamente a la citocromo c oxidasa y transfieren un electrón para reducir una molécula de O₂ a H₂O (Figura 19.15).
 1. Los electrones de dos moléculas de citocromo c reducido fluyen a través de las reacciones de oxidación-reducción; una se detiene en CuB y la otra en el hemo a₃. Con ambos centros en estado reducido, pueden unirse a una molécula de oxígeno.
 2. Al unirse el oxígeno molecular, este retira un electrón de cada uno de los iones cercanos en el centro activo para formar un puente de peróxido (O₂₂) entre ellos.
@@ -349,7 +351,9 @@ Rompen el acoplamiento entre la cadena de transporte de electrónico  y la fosfo
 
 ![[Pasted image 20250308210122.png]]
 # Partículas submitocondriales
-Son vesículas cerradas generadas por el sellado de las crestas mitocondriales como consecuencia de aplicar ultrasonidos(sonicación) mitocondrias aisladas. Es una herramienta para estudios de la cadena de transporte electrónico.
+Son vesículas cerradas generadas por el sellado de las crestas mitocondriales como consecuencia de aplicar ultrasonidos(sonicación) mitocondrias aisladas.
+
+Es una herramienta para estudios de la cadena de transporte electrónico.
 - Al cambiar la orientación de la membrana hay que tener en cuenta que:
 	- Dentro de la partícula queda el citocromo c que estaba en el espacio intermembrana.
 	- Fuera queda orientada la ATP sintasa (ya no es necesaria la actividad de la translocasa ATP-ADP, insensibilidad al atractilósido)

@@ -47,7 +47,7 @@ Las cadenas laterales de hidrocarburos más grandes se encuentran en los aminoá
 
 Tres aminoácidos, **serina, treonina y tirosina,** contienen grupos hidroxilo (-OH ) (Figura 3.4). Los electrones en el enlace son atraídos por el átomo de oxígeno, haciéndolo parcialmente negativo, lo que a su vez hace que el hidrógeno sea parcialmente positivo. 
 - La **serina** 
-	- Puede considerarse una versión de la alanina con un grupo hidroxilo unido al grupo metilo, mientras que la **treonina** se asemeja a la valina con un grupo hidroxilo en lugar de uno de los grupos metilo de la valina. 
+	- Puede considerarse una versión de la **alanina** con un **grupo hidroxilo** unido al grupo metilo, mientras que la **treonina** se asemeja a la valina con un grupo hidroxilo en lugar de uno de los grupos metilo de la valina. 
 - La **tirosina** 
 	- Es similar a la fenilalanina, pero contiene un grupo hidroxilo hidrófilo unido al anillo aromático grande. 
 
@@ -55,7 +55,7 @@ Tres aminoácidos, **serina, treonina y tirosina,** contienen grupos hidroxilo (
 Los grupos hidroxilo de la serina, la treonina y la tirosina las hacen más hidrófilas (que les gusta el agua) y reactivas que sus respectivas contrapartes no polares, la alanina, la valina y la fenilalanina. 
 
 - La **cisteína** 
-	- es estructuralmente similar a la serina, pero contiene un grupo sulfhidrilo o tiol (-SH ) en lugar del grupo hidroxilo. El grupo sulfhidrilo es mucho más reactivo que un grupo hidroxilo y puede perder completamente un protón a un pH ligeramente básico para formar el grupo tiolato reactivo. Los pares de grupos sulfhidrilo muy próximos pueden formar enlaces disulfuro, enlaces covalentes que son particularmente importantes para la estabilización de algunas proteínas, como se analizará en el Capítulo 4. 
+	- Es estructuralmente similar a la **serina**, pero contiene un grupo sulfhidrilo o **tiol (-SH )** en lugar del grupo hidroxilo. El grupo sulfhidrilo es mucho más reactivo que un grupo hidroxilo y puede perder completamente un protón a un pH ligeramente básico para formar el grupo tiolato reactivo. Los pares de grupos sulfhidrilo muy próximos pueden formar enlaces disulfuro, enlaces covalentes que son particularmente importantes para la estabilización de algunas proteínas, como se analizará en el Capítulo 4. 
 ![[Pasted image 20260121022636.png]]
 
 Además, el conjunto de aminoácidos polares incluye la **asparagina y la glutamina**, que contienen una carboxamida terminal.
@@ -64,7 +64,7 @@ Además, el conjunto de aminoácidos polares incluye la **asparagina y la glutam
 ### AA carga positiva son hidrofílicos
 Los aminoácidos con cadenas laterales con carga positiva, son altamente hidrófilos (Figura 3.5). 
 - La **lisina** y la **arginina** 
-	- Tienen cadenas laterales relativamente largas que terminan con grupos con carga positiva a pH neutro. La lisina está coronada por un grupo amino y la arginina por un grupo guanidinio. 
+	- Tienen cadenas laterales relativamente largas que terminan con grupos con carga positiva a **pH neutro**. La lisina está coronada por un grupo amino y la arginina por un grupo guanidinio. 
 	- Cabe destacar que los grupos R de la lisina y la arginina tienen propiedades duales: las cadenas de cuatro carbonos constituyen una estructura principal de hidrocarburos, similar a la del aminoácido leucina, pero la cadena termina con una carga positiva. Estas combinaciones de características contribuyen a la amplia gama de propiedades químicas de los aminoácidos.
 - La **histidina** 
 	- Contiene un grupo imidazol, un anillo aromático que también puede tener carga positiva. Con un valor de pKa cercano a 6, el grupo imidazol de la histidina es único, ya que puede estar sin carga o con carga positiva a un pH cercano a la neutralidad, dependiendo de su entorno local (Figura 3.6). De hecho, la histidina se encuentra a menudo en los sitios activos de las enzimas, donde el anillo imidazol puede unirse y liberar protones durante las reacciones enzimáticas.
@@ -114,7 +114,7 @@ o base(aceptor de protones):
 Las sustancias con esta doble naturaleza son anfóteras y a menudo se denominan anfolitos (de "electrolitos anfóteros"). Un aminoácido monoaminocarboxílico simple, como la alanina, es un ácido diprótico cuando está completamente protonado; tiene dos grupos, el grupo OCOOH y el grupo ONH₃, que pueden ceder protones:
 ![[Pasted image 20260121024251.png]]
 
-**Los aminoácidos tienen curvas de titulación características**
+**Los aminoácidos tienen curvas de valoración características**
 
 La valoración **ácido-base implica la adición o eliminación gradual de protones** (Capítulo 2). La Figura 3-10 muestra la curva de titulación de la forma diprótica de la glicina. La gráfica presenta dos etapas distintas, correspondientes a la desprotonación de dos grupos diferentes de la glicina. Cada una de las dos etapas se asemeja en forma a la curva de titulación de un ácido monoprótico, como el ácido acético (véase la Figura 2-17), y puede analizarse de la misma manera. A pH muy bajo, la especie iónica predominante de la glicina es la forma completamente protonada, H₃NOCH₂OCOOH. En el punto medio de la primera etapa de la titulación, en la que el grupo OCOOH de la glicina pierde su protón, se presentan concentraciones equimolares de las especies donadora de protones (H₃NOCH₂OCOOH) y aceptora de protones (H₃NOCH₂OCOO). En el punto medio de cualquier titulación, se alcanza un punto de inflexión donde el pH es igual al pKa del grupo protonado que se titula (véase la Fig. 2-18). Para la glicina, el pH en el punto medio es de 2,34; por lo tanto, su grupo OCOOH tiene un pKa (denominado pK1 en la Fig. 3-10) de 2,34.
 ![[Pasted image 20260121033808.png]]
@@ -132,7 +132,7 @@ Por lo tanto, **el grupo amino tiene un pKa menor que el de una amina alifática
 
 ![[Pasted image 20260121033901.png]]
 
-En resumen, el pKa de cualquier grupo funcional se ve muy afectado por su entorno químico, un fenómeno que a veces se aprovecha en los sitios activos de las enzimas para promover mecanismos de reacción exquisitamente adaptados que dependen de los valores de pKa alterados de los grupos donadores/aceptores de protones de residuos específicos.
+En resumen, **el pKa de cualquier grupo funcional se ve muy afectado por su entorno químico, un fenómeno que a veces se aprovecha en los sitios activos de las enzimas para promover mecanismos de reacción exquisitamente adaptados que dependen de los valores de pKa alterados de los grupos donadores/aceptores de protones de residuos específicos.
 
 La segunda información proporcionada por la curva de valoración de la glicina es que este aminoácido tiene **dos regiones con poder amortiguador**. Una de estas es la porción relativamente plana de la curva, que se extiende aproximadamente 1 unidad de pH a cada lado del primer pKa de **2,34,** lo que indica que la **glicina es un buen tampón cerca de este pH**. La otra zona de tampón se centra alrededor de un pH de **9,60.** (Cabe destacar que la glicina no es un buen tampón al pH del líquido intracelular o la sangre, aproximadamente 7,4). Dentro de los rangos de tampón de la glicina, la ecuación de Henderson-Hasselbalch (véase el Recuadro 2-3) puede utilizarse para calcular las proporciones de especies de glicina donantes y aceptoras de protones necesarias para formar un tampón a un pH determinado.
 ## Punto isoeléctrico
@@ -240,7 +240,8 @@ Podemos diferenciar diferentes tipos de proteínas en función de:
 
 **Resumen de la Estructura de las Proteínas**
 
-**La disposición espacial de los átomos en una proteína** se denomina **conformación**. Las posibles conformaciones de una proteína incluyen cualquier estado estructural que pueda alcanzarse **sin romper enlaces covalentes.** Un cambio de conformación podría ocurrir, por ejemplo, por rotación alrededor de enlaces simples. De las numerosas conformaciones teóricamente posibles en una proteína que contiene cientos de enlaces simples, una o (más comúnmente) unas pocas generalmente predominan en condiciones biológicas. La necesidad de múltiples conformaciones estables refleja los cambios que deben ocurrir en la mayoría de las proteínas al unirse a otras moléculas o catalizar reacciones. Las conformaciones existentes en un conjunto dado de condiciones suelen ser las termodinámicamente más estables, con la energía libre de Gibbs (G) más baja. **Las proteínas en cualquiera de sus conformaciones funcionales plegadas** se denominan proteínas **nativas**. 
+**La disposición espacial de los átomos en una proteína** se denomina **conformación**
+Las posibles conformaciones de una proteína incluyen cualquier estado estructural que pueda alcanzarse **sin romper enlaces covalentes.** Un cambio de conformación podría ocurrir, por ejemplo, por rotación alrededor de enlaces simples. De las numerosas conformaciones teóricamente posibles en una proteína que contiene cientos de enlaces simples, una o (más comúnmente) unas pocas generalmente predominan en condiciones biológicas. La necesidad de múltiples conformaciones estables refleja los cambios que deben ocurrir en la mayoría de las proteínas al unirse a otras moléculas o catalizar reacciones. Las conformaciones existentes en un conjunto dado de condiciones suelen ser las termodinámicamente más estables, con la energía libre de Gibbs (G) más baja. **Las proteínas en cualquiera de sus conformaciones funcionales plegadas** se denominan proteínas **nativas**. 
 
 > [!NOTE] Energía libre de Gibbs
 > Es una magnitud termodinámica que indica **si un proceso ocurre de manera espontánea** y cuánta energía útil puede obtenerse de él a **temperatura y presión constantes**.
@@ -298,11 +299,19 @@ La mayoría de los patrones estructurales descritos en este capítulo reflejan d
 - Los aa invariables son importantes para la función
 - Las mutaciones conservadoras son cambios entre aa químicamente semejantes.
 - Algunas mutaciones se relacionan con enfermedades-→ enfermedades moleculares→patología molecular.
+
+> [!success] Resumen de la estructura de la proteína
+> Cada proteína tiene una estructura tridimensional que refleja su función.
+La estructura proteica se estabiliza mediante múltiples interacciones débiles. Las interacciones hidrofóbicas son las principales contribuyentes a la estabilización de la forma globular de la mayoría de las proteínas solubles; los enlaces de hidrógeno y las interacciones iónicas se optimizan en las estructuras específicas que son termodinámicamente más estables.
+La naturaleza de los enlaces covalentes en la cadena principal del polipéptido impone restricciones a la estructura. El enlace peptídico tiene un carácter de doble enlace parcial que mantiene a todo el grupo peptídico de seis átomos en una configuración plana rígida.
+Los enlaces NOC y C OC pueden rotar para adoptar ángulos de enlace de y , respectivamente.
+
 ## Secundaria
+
 El término "estructura secundaria" se refiere a la conformación local de alguna parte de un polipéptido. El análisis de la estructura secundaria se centra, de forma más útil, en los patrones de plegamiento regulares comunes de la estructura principal del polipéptido. Algunos tipos de estructura secundaria son particularmente estables y se presentan ampliamente en las proteínas. Los más destacados son la hélice y las conformaciones que se describen a continuación. Utilizando principios químicos fundamentales y algunas observaciones experimentales, Pauling y Corey predijeron la existencia de estas estructuras secundarias en 1951, varios años antes de que se dilucidara la primera estructura completa de una proteína.
 
 - Patrones repetitivos de conformación local de la cadena polipeptídica
-- Dependen de los valores de los rotámeros phi, psi
+- **Dependen de los valores de los rotámeros phi, psi**
 - Hay un n.º limitado de conformaciones posibles debido a impedimientos estéricos entre los grupos -NH,- CO y -R.
 - La conformación más favorable depende de la secuencia de aa.
 - Las conformaciones posibles se estabilizan por un número elevado de enlaces de hidrógeno del C carbonillo (C=O) y en N amida(N-H)de los enlaces peptídicos.
@@ -311,10 +320,31 @@ El término "estructura secundaria" se refiere a la conformación local de algun
 - Diagrama de Ramachandran
 - Las conformaciones posibles se representan en el diagrama de Ramachandran
 - Distribución de ángulos phi, psi en un polipeptídico.
+
+
+> [!NOTE] Phi(φ) y spi(ψ)
+> Phi→ángulo de rotación alrededor del enlace entre el N-terminal y el carbono alpha(N-Cα)
+> Psi→ángulo de rotación alrededor del enlace entre el carbono α y el carbono carbonilo(es el C que forma parte del enlace peptídico)(Cα-C).
+
+
+> [!Question] ¿Por qué las estructuras secundarias dependen de los giros de phi y spi entre los residuos?
+
+
+Cada aminoácido **puede rotar alrededor de estos enlaces,** pero no todos los ángulos son posibles debido a **choques estéricos**(cuando los átomos se encuentran demasiado cerca entre sí, de manera que sus nubes electrónicas se repelen entre sí y no pueden ocupar el mismo espacio) entre átomos. Solo ciertas combincaiones de phi y spi permiten que la cadena se pliegue de manera regular y forma alpha hélice o láminas betas.
+Además, la geometría impuesta por phi y spi determina la distancia y orientación de los grupos -NH y -C=O. 
+Para que se formen los enlaces de hidrógeno característicos de la estructura secundaria, los angulos deben estar dentro de rangos específicos.
+
+
+> [!NOTE] Diagrama de Ramachandran
+> Es una herramienta que muestra las conformaciones posibles de los aa en una proteína según los ángulos phi y spi  de la cadena polipeptídica.
+
+
 ### Alpha helice
 
 **La hélice es una proteína común estructura secundaria**
-La disposición más simple que la cadena polipeptídica podía adoptar con sus enlaces peptídicos rígidos (pero con otros enlaces simples libres para rotar) es una estructura helicoidal, llamada hélice.
+
+~={yellow}La disposición más simple que la cadena polipeptídica podía adoptar con sus enlaces peptídicos rígidos =~(pero con otros enlaces simples libres para rotar) es una estructura helicoidal, llamada hélice.
+
 En  esta estructura, la estructura principal del polipeotídico está firmemente enrollada alrededor de un eje imaginario que pasa longitudinalmente por el centro de la hélice, y los grupos R de los residuos de aa sobresalen de la estructura principal helicoidal. 
 La unidad repetitiva es una sola vuelta de la hélice, que se extiende aprox. 5,4 A a lo largo del eje longitudinal, y cada vuelta helicoidal incluye 3,6 residuos de aa.
 La torsión helicoidal de la hélice presente en todas las proteínas es dextrógira
@@ -330,11 +360,11 @@ No todos los polipéptidos pueden formar una hélice estable. Las interacciones 
 Por ejemplo, si una cadena polipeptídica tiene un bloque largo de residuos de Glu, este segmento de la cadena no formará una hélicea a pH, a 7, porque los grupos carboxilo con carga negativa de los residuos de Glu adyacentes se repelen entre sí con tanta fuerza que impiden la formación de la hélice. Por la misma razón, si hay muchos residuos de Lys y/o Arg adyacentes, que tienen grupos R con carga positiva a pH 7,0, también se repelarán entre sí e impedirán la formación de la hélice. 
 El voluemn y la forma de residuos de Asn, Ser, Thr y Cys también pueden desestabilizar una hélice si están muy juntos en la cadena. La torsión de una hélice garantiza interacciones críticas entre la cadena lateral de un aa y la cadena lateral situada a 3(y a veces 4) residuos de distancia a cada lado.
 
-La prolina, el átomo forma parte de un anillo rigido y la rotación alrededor del enlace NOC no es posibles, por lo tanto, un residuo de prolina introduce un pliqgue desestabilizador en la hélice. Además, el átomo de nitrógeno de un residuo de Pro en un enlace peptídico no tiene hidrógeno sustituyente para participar en enlaces de hidrógeno con otros residuos. Por estas razones, la prolina rara vez se encuentra dentro de una hélice.
+La prolina, el átomo forma parte de un anillo rígido y la rotación alrededor del enlace NOC no es posibles, por lo tanto, un residuo de prolina introduce un pliegue desestabilizador en la hélice. Además, el átomo de nitrógeno de un residuo de Pro en un enlace peptídico no tiene hidrógeno sustituyente para participar en enlaces de hidrógeno con otros residuos. Por estas razones, la prolina rara vez se encuentra dentro de una hélice.
 > [!tip] Prolina en la alpha helice
 >  La prolina tiene una fuerte tendencia a formar un **anillo rígido** porque su cadena lateral se une al nitrógeno del grupo amino, formando una estructura cíclica. Esta rigidez **limita la rotación** alrededor del enlace N–Cα y rompe la geometría necesaria para la **α-hélice**.
 
-La glicina posee mayor flexibilidad conformacional que los demás residuos de aa. Los polímeros de glicina tienden a adoptar estructuras enrolladas muy diferentes a las de una hélice.
+La **glicina posee mayor flexibilidad conformacional** que los demás residuos de aa. Los polímeros de glicina tienden a adoptar estructuras enrolladas muy diferentes a las de una hélice.
 
 
 > [!tip] Glicina
@@ -375,10 +405,85 @@ Por ejemplo, en las queratinas más resistentes como las del cuerno del  rinocer
 
 
 ### Lámina beta
+Es la segunda tipo de estructura repetitiva. La estructura principal de la cadena polipeptídica se extiende en zigzag en lugar de una estructura helicoidal.
+Las cadenas polipeptídicas en zigzag pueden disponerse una al lado de la otra para formar una estructura similar a una serie de pliegues. En esta disposición, denominada lámina, se forman enlaces de hidrógeno entre segmentos adyacentes de la cadena polipeptídica. Los grupos R de los aa adyacentes sobresalen de la estructura en zigzag en direcciones opuestas creando el patrón alterno.
+
+Las cadenas polipeptídicas adyacentes en una lámina pueden ser paralelas o antiparalelas(con la misma u opuesta orientación amino-carboxilo, respectivamente).
+Las estructuras son algo similares, aunque el período de repetición es más corto para la conformación paralelas y los patrones de enlaces de hidrógeno son diferentes.
+
+**Los giros beta son comunes en las proteínas.**
+En las proteínas globulares, que tienen una estructura plegada compacta, casi un tercio de los residuos de aminoácidos se encuentran en giros o bucles donde la cadena polipeptídica invierte su dirección.
+pliegue
+Los residuos de glicina y prolina suelen presentarse en giros. El primero se debe a su pequeño tamaño y flexibilidad, y el segundo que los enlaces peptídicos que involucran el nitrógeno imino de la prolina adoptan fácilmente la configuración cis, una forma particularmente susceptible a un giro cerrado.
+Además, las cadenas polipeptídicas pueden cambiar de dirección mediante giros y bucles inversos.
+Los giros beta, se encuentran a menudo cerca de la superficie de una proteína, donde los grupos peptídicos de los 2 residuos centrales de aa en el giro pueden formar enlaces de hidrógeno con agua.
+
+#### Fibroína
+Es la proteína de la seda, producida por insectos y arañas. Es rica en residuos de Ala y Gly, lo que permite un empaquetamiento compacto de las láminas y una disposición entrelazada de los grupos R. La estructura se estabiliza mediante enlaces de hidrógeno entre todos los enlaces peptídicos en los polipeptídicos de cada lámina y mediante la optimización de las interacciones de van der Waals entre láminas.
+
+> [!question] ¿Por qué la prolina distorsiona la estructura?
+> Porque la prolina tiene una cadena lateral unida al N que tiende a formar un anillo rígido, cosa que limita la rotación de la cadena polipeptídica y dificulta adoptar los ángulos psi y psi necesarios para la lámina beta. Además, carece de un H amídico(H unido al nitrógeno del grupo amida en un enlace peptídico ), por lo que no puede formar enlaces de hidrógeno con cadenas vecinas de la lámina beta.
+
+
+> [!success] Resumen de la estructura secundaria
+> La estructura secundaria es la disposición regular de los residuos de aminoácidos en un segmento de una cadena polipeptídica, donde cada residuo está relacionado espacialmente con sus vecinos de la misma manera.
+Las estructuras secundarias más comunes son la hélice, la conformación y los giros.
+La estructura secundaria de un segmento polipeptídico puede definirse completamente si se conocen los ángulos y de todos los residuos de aminoácidos de ese segmento.
 
 ## Terciaria
-## Cuartenaria 
 
+- Estructura tridimensional global de la proteína en su plegamiento completo: Compacta→glóbulo
+- Mantenimiento: interacciones débiles entre R + puentes disulfuro(-S-S-)
+- Residuos alejados en la secuencia quedan cerca.
+- Interior proteína apolar (R polares),agua excluida
+- Superficie polar o hidrofílica→solubilidad
+- Las láminas beta se estabilizan mediante enlaces de hidrógeno entre cadenas polipeptídicas.
+
+Es la disposición espacial de los residuos de aa que están separados en la secuencia y al patrón de enlaces disulfuro.
+Este nivel de estructura es el resultado de las interacciones entre los grupos R de la cadena peptídica.
+Las proteínas globulares, con su estructura tridimensional más intrincada, realizan la mayoría de las transacciones químicas en la célula.
+
+Se utiliza la mioglobina para explicar la estructura terciaria. Es una proteína que actúa como "amortiguador de oxígeno" para mantener una concentración intracelular de oxígeno constante bajo diversos grados de metabolismo aeróbico. La capacidad de la mioglobina para unirse al O2 depende de la presencia del hemo, un grupo prostético que contiene un átomo de hierro. La mioglobina es una molécula extremadamente compacta.
+Es asimétrica debido al complejo plegamiento de su cadena principal. Su interior está compuesto casi en su totalidad por residuos apolares, mientras que el exterior está por una combinación de residuos polares y apolares, que pueden interactuar con el agua y, por tanto, hacer que la molécula sea hidrosoluble. El modelo de llenado de espacio muestra que hay muy poco espacio en el interior. 
+Esta distribución constrastante de residuos polares y apolares revela una faceta clave de la arquitectura proteica. En un entorno acuoso, como el interior de una célula, el plegamiento de las proteínas se debe al efecto hidrofóbico: la fuerte tendencia de los residuos hidrofóbicos a evitar el contacto con el agua. Por lo tanto, la cadena polipeptídica se pliega de forma que sus cadenas laterales hidrofóbicas quedan ocultas y sus cadenas polares cargadas quedan en la superficie. De forma similar, un grupo NH o CO de un péptido desapareado de la cadena principal prefiere marcademente el agua a un medio apolar. La única forma de ocultar un segmneto de la cadena principal en un entorno hidrofóbico es emparejar todos los grupos NH y CO mediante enlaces de hidrógeno. Este plegamiento se logra perfectamente en una hélice o lámina. Las interacciones de Van der Waals entre las cadenas laterales de hidrocarburos estrechamente empaquetadas también contribuyen a la estabilidad de las proteínas.
+
+
+Factores que determinan las estructura secundaria y terciaria para la formación del plegado proteico:
+- Interacciones carga-carga
+- Enlaces de hidrógeno internos
+- Interacciones de Van der Waals
+- Efectos hidrófobo
+- Enlaces disulfuro
+
+### Dominios
+Proteínas grandes
+Unidades estructurales con plegamiento independiente en una estructura terciaria.
+
+El primer principio es que la mayoría de las proteínas están formadas por más de un dominio. **Un dominio es una región compacta plegada localmente**, de la estructura terciaria. **Los dominios están conectados entre sí mediante la cadena polipeptídica que transcurre a lo largo de toda la molécula.**
+Los dominios múltiples son especialmente comunes en las proteínas globulares más simples, mientras que las proteínas muy pequeñas, tienden a ser dominios plegados  únicos. 
+El análisis de las estructuras de centenares de proteínas globulares ha conducido a formular algunas reglas generales que rigen el plegado terciario:
+
+- Todas las proteínas globulares poseen un interior y un exterior definidos.
+	- Cuando observamos las posiciones de los aminoácidos en la **estructura tridimensional**, encontramos que los residuos hidrófobos se sitúen principalmente en el interior, mientras que los residuos hidrófilos están en la superficie, en contacto con el agua.
+- Las láminas beta están generalmente enrolladas, o envueltas en estructuras cilíndricas.
+	- Esta tendencia de las láminas beta hacia un enrollamiento a izquierdas es consecuencia de la configuración L de los residuos de aminoácidos.
+- La cadena polipeptídica puede doblar las esquinas de diversas maneras, para ir desde un segmento beta o una hélice a la siguiente.
+	- Existen distintas variedades de giro b, y cada una de ellas puede lograr una inversión completa de la dirección de la cadena polipeptídica en sólo cuatro residuo.
+- NO todas las partes de las proteínas globulares pueden clasificarse convenientemente como hélice, lámina beta o giros.
+
+## Cuartenaria 
+- Cada cadena tiene su estructura Terciaria
+- Subunidades→monómeros→protómeros.
+    - Las subunidades iguales o diferentes se organizan de manera simétrica.
+- Ventajas de la asociación
+    - ↑ estabilidad
+    - Regulación alostérica
+- Estabilidad
+    - Mismo tipo de enlaces que estructura terciaria.
+
+**Las estructuras cuaternarias de las proteínas varían desde dímeros simples hasta grandes complejos.**
+
+Muchas proteínas tienen múltiples subunidades polipeptídicas. La asociación de cadenas polipeptídicas puede desempeñar diversas funciones.
 
 > [!success] Resumen de la estructura terciaria y cuartenaria
 > **La estructura terciaria** es la estructura tridimensional completa de una cadena polipeptídica.
@@ -393,9 +498,35 @@ La **estructura cuaternaria** resulta de las interacciones entre las subunidades
 ---
 # Desnaturalización de proteínas
 
+- Consecuencias
+    - Pérdida de la conformación nativa y de la actividad biológica.
+    - Pérdida de interacciones de la estructura secundaria, terciaria y cuartenaria, no enlaces peptídicas.
+    - Proteína desnaturalizada en conformación cambiante al azar.
+    - ↓ Solubilidad
+- Agentes desnaturalizantes
+    - Calor
+    - pH extremos
+    - Agentes químicos
+        - Caotrópicos
+        - Detergentes
+        - Reductores
+
+*Desnaturalización por calor*
+
+Afecta a las interacciones débiles de una proteína(principalmente los enlaces de hidrógeno) de forma compleja. Si la temperatura aumenta lentamente, la conformación de la proteína generalmente permanece  intacta hasta que se produce una pérdida abrupta de estructura(y función) en un rango estrecho de temperaturas. La brusquedad del cambio sugiere que el desdoblamiento es un proceso cooperativo: la pérdida de estructura en una parte de la proteína desestabiliza  otras partes. Los efectos del calor no son predecibles. 
+
+*Desnaturalización por el pH, disolventes orgánicos o detergentes*
+
+Las proteínas pueden desnaturalizarse no solo por calor,  sino también por valores extremos de pH, por ciertos disolventes orgánicos miscibles como el alcohol o la acetona, por ciertos solutos como la urea y el clorhidrato de guanidina, o por detergentes.
+Cada uno de estos agentes desnaturalizantes representa un tratamiento suave, en el sentido de que no se rompe ningún enlace covalente en la cadena polipeptídica. Los disolventes orgánicos, la urea y los detergentes actúan principalmente alterando las **interacciones hidrofóbicas que conforman el núcleo estable de las proteínas globulares**; los valores extremos de pH alteran la carga neta  de la proteína, lo que provoca repulsión electrostática y la interrupción de algunos enlaces de hidrógeno.
+
 
 ---
 # Renaturalización de proteínas
+Es la recuperación de la conformación nativa y la actividad biológica desde un estado desnaturalizado.
 
+Experimento de Anfinse (1953) Plegamiento de ribonucleasas pancreáticas (Rnasa) Rnasa:124 aas,8 cys, 4 puentes disulfuro.
+
+Ciertas proteínas globulares desnaturalizadas por calor, pH extremo o reactivos desnaturalizantes recuperarán su estructura nativa y su actividad biológica si se devuelven a condiciones en las que la conformación nativa es estable. Este proceso se denomina renaturalización.
 
 ---
