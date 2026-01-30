@@ -404,7 +404,18 @@ $$
 \vartriangle G=\vartriangle G'^{0}+RT \ln \frac{[P]}{[S]}
 $$
 
-donde R es la constante de los gases, 8,315 J/mol K, y T es la temperatura absoluta. 
+en donde △G'º es la variación de energía libre estándar,  R es la constante de los gases, 8,315 J/mol K, y T es la temperatura absoluta. 
+
+
+> [!NOTE] Energía libre estándar 
+> Es el cambio de energía libre de Gibbs que tiene lugar en una reacción o proceso cuando todos los reactivos y productos se encuentran en condiciones estándar. Estas condiciones incluyen una concentración de 1 M para los solutos, una presión de 1 atm para los gases y una temperatura de 25 °C; en sistemas biológicos se considera pH 7 y se expresa como ΔG°’.
+Permite saber si un proceso es termodinámicamente favorable. Un valor negativo indica que el proceso es espontáneo, un valor positivo indica que no es espontáneo y un valor igual a cero indica que el sistema está en equilibrio
+
+> [!NOTE] Energía de Gibbs
+> es una magnitud termodinámica que indica **la cantidad de energía disponible para realizar trabajo útil** en un sistema a temperatura y presión constantesSe expresa como **G** y su variación se representa como **ΔG**. Esta variación permite predecir si un proceso ocurre de manera espontánea.![[Pasted image 20260130162810.png]]
+
+
+
 Cuando la "reacción" consiste simplemente en el transporte de un soluto desde una región donde su concentración es C1 a una región donde su concentración es C2, no se forman ni se rompen enlaces y la variación de energía libreestándar, △G'⁰, es cero. La variación de energía libre para el transporte, △G_t, es entonces:
 
 $$
@@ -420,10 +431,10 @@ $$
 La ecuación 11-2 es válida para todos los solutos sin carga. Cuando el soluto es un ion, su movimiento sin un contraión acompañante resulta en la separación endergónica de las cargas positivas y negativas, lo que produce un potencial eléctrico; este proceso de transporte se denomina **electrogénico**. El coste energético de mover un ion depende del potencial electroquímico (p. 391), la suma de los gradientes químicos y eléctricos:
 
 $$
-\vartriangle G_{t}=RT \ln \left( \frac{C_{2}}{C_{1}} \right)+ Z \Delta \Psi
+\vartriangle G_{t}=RT \ln \left( \frac{C_{2}}{C_{1}} \right)+ Z F \Delta \Psi
 $$
 
-donde Z es la carga del ion, es la constante de Faraday (96.480 J/V mol) y es el potencial eléctrico transmembrana (en voltios). 
+donde Z es la carga del ion, F es la constante de Faraday (96.480 J/V mol), △Ψ es el potencial eléctrico transmembrana (en voltios), R es la constante de gases, 8'315J/mol K. y T es la temperatura absoluta.
 
 Las células eucariotas suelen tener potenciales eléctricos a través de sus membranas plasmáticas de aproximadamente 0,05 a 0,1 V (con el interior negativo en relación con el exterior), por lo que el segundo término de la Ecuación 11-3 puede contribuir significativamente a la variación total de energía libre para el transporte de un ion. La mayoría de las células mantienen diferencias de más de diez veces en las concentraciones de iones a través de sus membranas plasmáticas o intracelulares, y para muchas células y tejidos, el transporte activo es, por lo tanto, un proceso que consume mucha energía. 
 
@@ -625,7 +636,7 @@ $$
 La energía necesaria para este proceso proviene de dos fuentes: la mayor concentración de Na en el exterior que en el interior (el potencial químico) y el potencial transmembrana (el potencial eléctrico), que es negativo en el interior y, por lo tanto, atrae el Na hacia el interior. El potencial electroquímico del Na es, 
 
 $$
-\vartriangle G=RT \ln \frac{[Na+I_{in}]}{[Na+I_{out}]} + nI \vartriangle E
+\vartriangle G=RT \ln \frac{[Na⁺]_{out}}{[Na⁺]_{in}} + ZF \vartriangle \psi
 $$
 
 donde n = 2, el número de iones de Na⁺ cotransportados con cada molécula de glucosa. Dado el potencial de membrana típico de -50 mV, una [Na⁺] intracelular de 12 mM y una [Na⁺] extracelular de 145 mM, la energía, △G, disponible cuando dos iones de Na reentran en la célula es de 22,5 kJ, suficiente para bombear glucosa contra un gran gradiente de concentración:
