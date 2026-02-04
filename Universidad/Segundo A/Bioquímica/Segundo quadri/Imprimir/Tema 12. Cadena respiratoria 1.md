@@ -1,4 +1,5 @@
 # Oxidaciones biológicas
+
 Los organismos aerobios requieren O2 para su supervivencia
 - Los combustibles/comida se oxidan para obtener energía.
 - Un proceso de oxidación directo
@@ -12,6 +13,7 @@ $$
 		$$
 AH_{2}+NAD^{+} \rightarrow A+NADH+H^{+}
 $$
+
 ## Características de la mitocondria
 En eucariotas, la cadena de transporte electrónico y la fosforilación oxidativa se localizan en la membrana interna de la mitocondria.
 - Impermeabilidad a iones y moléculas
@@ -43,14 +45,18 @@ $$
 2. A través de la cadena de transporte electrónico donde sistemas redox permiten transferir electrones desde NADH hasta el último aceptor(CO2) con producción conmomitante de ATP.
 La cadena de transporte electrónico es la última etapa del proceso oxidativo.
 ## Reacciones redox
+
 La cadena de transporte electrónico es una sucesión de reacciones redox(oxida-reducción)
 - Los electrones (e-) pasan de un compuesto A_red(dador electrónico) a una compuestos B_ox(aceptor electrónico).
 - El dador(compuesto con tendencia a ceder e-) se oxida A_ox y el aceptor(compuestos con tendencia a ganar e-) se reduce B_red
-		![[Pasted image 20250308212737.png]]
 
-## Potencial de reducción estándar
+![[Pasted image 20250308212737.png]]
+
+### Potencial de reducción estándar
+
 Todas reacción redox puede dividirse en dos semirreacciones, cada una correspondiente a un par redox.
-	$$
+
+$$
 A_{red}\rightarrow A_{\otimes }+ne^{-}
 $$
 $$
@@ -59,52 +65,68 @@ $$
 $$
 A_{red}+B_{OX}\rightarrow A_{OX}+B_{red}
 $$
+
 El potencial redox es la tendencia que tiene un par redox a ceder o captar e-, expresándose como Eº en condiciones estándar bioquímicas.
-	Los potenciales redox se miden frente al par $$
+
+- Los potenciales redox se miden frente al par 
+
+$$
 \frac{1}{2}H_{2}H^{+}(valor\ cero)
 $$
 
 ### Termodinámica de las reacciones de oxidorreducción
 
-Hacia el de mayor afinidad por los electrones
+Hacia el de mayor afinidad por los electrones.
+
 Potencial de reducción estándar Eº.
 El par con potencial redox más negativo es el reductor más potente mientras que le par redox con potencial más positivo es el oxidante más fuerte
-	El flujo favorable de e- será siempre del par con menor Eº al par con mayor Eº.
-	$$
+- El flujo favorable de e- será siempre del par con menor Eº al par con mayor Eº.
+
+$$
 Eº(Par\ dador\ de\ e^{-})\rightarrow Eº'(Par\ aceptor\ de \ e^{-})
 $$
 Reacciones Redox
+
 $$
 A_{OX}+B_{red}\iff A_{red}+B_{oxid}
 $$
 Semireacción
+
 $$
 A_{OX}+electrón \iff^{reducción\ oxidación}A_{red}
 $$
 Por convencción:
-	Semireacción→Eº=0
-		↑ tendencia captar electrones→Eº>0
-		↑ tendencia a ceder electrones→Eº<0
-	Con dos pares redox, la dirección del flujo de electrones:
-			Del par con menor Eº al de mayor Eº.
+- Semireacción→Eº=0
+	- ↑ tendencia captar electrones→Eº>0
+	- ↑ tendencia a ceder electrones→Eº<0
+- Con dos pares redox, la dirección del flujo de electrones:
+		- Del par con menor Eº al de mayor Eº.
+
 Potencial de reducción estándar E' *in vivo*→Ecuación de Nerts:
+
 $$
 E'=Eº+ \frac{RT}{nF} \ln \frac{[aceptor]}{dador}
 $$
+
 Variación de energía libre:
-	en condiciones estándar
-		$$
+- en condiciones estándar:
+
+$$
 \Delta G^{0'}=-nF \Delta E^{0'}
 $$
-	In vivo
-		$$
+- In vivo
+
+$$
 \Delta G^{'}=-nF\Delta E' 
 $$
+
 ### Transferencia de electrones desde el NADH al Oxígeno
 $$
 NADH+H^{+}+\frac{1}{2}O_{2}\rightarrow NAD^{+}+H_{2}O
 $$
+
 Esta reacción es suma de dos semireacciones
+
 $$
 \begin{align}
 NADH+H^{+}\rightarrow NAD^{+}+2H^{+}+2e^{-}(par\ dador\ de\ e^{-}) \\
@@ -112,8 +134,10 @@ NADH+H^{+}\rightarrow NAD^{+}+2H^{+}+2e^{-}(par\ dador\ de\ e^{-}) \\
 +2e^{-}\rightarrow H_{2}O(par\ aceptor\ de\ e^{-})
 \end{align}
 $$
+
 El potencial Eº para cada par redox(correspondiente a la semireacción oxidante+ne-→reductor) es
-	$$
+
+$$
 \begin{align}
 NAD^{+}+2h^{+}+2e^{-}\rightarrow NAD^{+}+2H^{+}+2e^{-} \\
 \frac{1}{2}O_{2}+2H^{+}+2e^{-}\rightarrow H_{2}O
@@ -126,15 +150,67 @@ $$
 \end{align}
 
 $$
-		La reacción es termodinámicamente favorable
+- La reacción es termodinámicamente favorable
+
  enzima responsable de la oxidación del NADH no es uno sino varios, los e- se transfisderen hasta el O2 en etapas sucesivas-componentes de la cadena de transporte electrónico.
-# Oxidación de sustratos y transferencia de electrones
+### Oxidación de sustratos y transferencia de electrones
+
 Electrones que provienen de la degradación de hidratos de carbono, lípidos y aa son transferidos a la cadena de transporte electrónico.
 ![[Pasted image 20250308213731.png]]
 Enzimas relacionadas con procesos redox-oxidorreductasas-no poseen grupos funcionales capaces de actuar como sumidero de electrones, por tanto, requieren cofactores orgánicos(nucléotidos de piridina, nucléotidos de flavina, grupos hemo) y/o metales de transición activos(Fe,Cu, Mo).
-## Energía libre de reacciones redox
-## Oxidación de sustratos y transferencia de electrones a la cadena de transporte electrónico mitocondrial
+#### Energía libre de reacciones redox
+
+#### Oxidación de sustratos y transferencia de electrones
+
+Las oxidoreductasas(catalizan reacciones redox) requieren cofactores que actúan como a aceptadores/donantes de electrones. Pueden ser cofactores orgánicos(nucleótidos de adenina, nucleótidos de flavina, grupos hemos) y/o metales de transición activos(Fe, Cu, Mo).
+
+![[Pasted image 20260204122406.png]]
+
+#### Transportadores universales de electrones
+
+Los electrones fluyen desde diversas especies metabólicas intermediarias a transportadores de electrones especializados en reacciones catalizadas por enzimas.
+
+![[Pasted image 20260204122559.png]]
+
+$$
+\begin{align}
+NAD^{+}+2H^{+}+2e^{-}→NADH+H^{+} \\
+NADH+H^{+}+\frac{1}{2}O_{2}→ NAD^{+}+H_{2}O \\
+NADP^{+}+2H^{+}+2e^{-}→NADPH+H^{+} \\
+NADPH+A+H^{+}→NADP^{+}+AH_{2}
+\end{align}
+$$
+
+#### Deshidrogenasas dependientes de NAD⁺ 
+Catalizan la reacción general
+$$
+AH_{2}+NAD\leftrightarrows A+NADH+H^{+}
+$$
+![[Pasted image 20260204123329.png]]
+
+#### Deshidrogenasas dependientes de FAD/FMN
+
+![[Pasted image 20260204123428.png]]
+
+---
+
 # Componentes de la cadena de transporte electrónico mitocondrial
+
+
+## Complejos mitocondriales
+
+- Tranportadores se organizan en complejos (I,II,III,IV) embedidos en la membrana interna mitocondrial.
+	- Complejos I, III y IV intervienen  en reoxidación NAD+.
+	- Complejos II,III y IV intervienen en  reoxidación FAD.
+- Transportadores  móviles actúan entre diferentes  complejos
+	- Ubiquinona (Q,CoQ)  conecta I con III y II con III.
+	- Citocromo C conecta III con IV.
+- Complejos  I,  III y IV bombean H+ **al espacio intermembrana acoplado al paso  de electrones (Incremento G<0)**.
+
+## Organización
+
+- Cada complejo consta de  varios transportadores  que actúan sucesivamente en la cadena (Eº' creciente)
+	- La variación  de energía libre producida durante el paso de los electrones en I, III y IV permite el bombeo de H+ desde la matriz  (in) hacia el espacio intermembrana, generándose un gradiente de H+ que hace posible la síntesis de ATP(ATP sintasa).
 
 **Proteínas ferrosulfuradas**
 ![[Pasted image 20250308214233.png]]
@@ -170,55 +246,56 @@ $$
 	- capta electrones de uno en uno y los cede de uno en uno.
 - Q_10  canaliza  electrones derivados de oxidación de sustratos(deshidrogenasas dependientes de .FAD).
 	![[Pasted image 20250308214639.png]]
+
 ## Orden de los transportadores
 Varios criterios permiten establecer el orden de los componentes de la cadena.
 - Potenciales estándar de cada uno de los pares redox.
 - Espectros de absorción en estado oxidado y reducido.
-- Razón  P/O
+- Razón P/O
 - Acción de 
 	- Inhibidores
 	- Detergentes iónicos suaves y baja temperatura(permite aislar complejos mitocondriales)
-		![[Pasted image 20250308214841.png]]
-## Complejos mitocondriales
-- Tranportadores se organizan en complejos (I,II,III,IV) embedidos en la membrana interna mitocondrial.
-	- Complejos I, III y IV intervienen  en reoxidación NAD+.
-	- Complejos II,III y IV intervienen en  reoxidación FAD.
-- Transportadores  móviles actúan entre diferentes  complejos
-	- Ubiquinona (Q,CoQ)  conecta I con III y II con III.
-	- Citocromo C conecta III con IV.
-- Complejos  I,  III y IV bombean H+ **al espacio intermembrana acoplado al paso  de electrones (Incremento G<0)**
-- Organización
-	- Cada complejo consta de  varios transportadores  que actúan sucesivamente en la cadena (Eº' creciente)
-		- La variación  de energía libre producida durante el paso de los electrones en I, III y IV permite el bombeo de H+ desde la matriz  (in) hacia el espacio intermembrana, generándose un gradiente de H+ que hace posible la síntesis de ATP(ATP sintasa).
 
-Características de los complejos mitocondriales I y II.
-- **Complejo I**
-	- Bombea 4H+/2e
-	- Mw>900.000, más de 25 polipéptidos
-	- FMN actúa como adaptador electrónico, capta 2 electrones de NADH y los cede  de uno en uno a centros de Fe-S(7-8)
+![[Pasted image 20250308214841.png]]
+
+## Características de los complejos mitocondriales.
+
+### Complejo I
+
+- Bombea 4H+/2e
+- Mw>900.000, más de 25 polipéptidos
+- FMN actúa como adaptador electrónico, capta 2 electrones de NADH y los cede  de uno en uno a centros de Fe-S(7-8)
 $$
 NADH+H^{+}+Q→NAD^{+}+QH_{2}
 $$
-- **Complejo II**
-	- Bombea
-	- Mw~125.000, más de 4 polipéptidos
-	- **FAD** actúa como adaptador electrónico, capta 2 electrones de succionato y los cede de uno a centros  Fe-S(3)
+### Complejo II
+
+- NO Bombea H⁺
+- Mw~125.000, más de 4 polipéptidos
+- **FAD** actúa como adaptador electrónico, capta 2 electrones de succionato y los cede de uno a centros  Fe-S(3)
 $$
 succionato +Q→ffumarato+QH_{2}
 $$
-- **Complejo III**
-	- Bombea 4H+/2  electrones(Ciclo Q)
-	- Mw~250.000, dímero.
-	- Cada monómeros contiene 1 centro Fe-S, Cit B (con 2 hemos) y Cit C1 distinto de Cit C que actúa de aceptor de electrones.
+
+
+### Complejo III
+
+- Bombea 4H+/2  electrones(Ciclo Q)
+- Mw~250.000, dímero.
+- Cada monómeros contiene 1 centro Fe-S, Cit B (con 2 hemos) y Cit C1 distinto de Cit C que actúa de aceptor de electrones.
 $$
 QH_{2}+2cit\ C(Fe^{3+})→Q+2cit\ C(Fe^{2+})
 $$
-- **Complejo  IV**
-	- Bombea 2H+/ 2 electrones
-	- Mw~204.000, 13 subunidades, contiene 2 átomos de cobre (Cu_A,  Fe-Cu_A) , uno(Cu_8) y  dos Cit a (cit a y cit a_3)
+
+
+### Complejo  IV
+
+- Bombea 2H+/ 2 electrones
+- Mw~204.000, 13 subunidades, contiene 2 átomos de cobre (Cu_A,  Fe-Cu_A) , uno(Cu_8) y  dos Cit a (cit a y cit a_3)
 $$
 2 \ cit\ C(Fe^{2+})+\frac{1}{2}O_{2}→2cit\ C(Fe^{3+})+H_{2}0
 $$
+
 **La cadena respiratoria consta de bombas de protones y un enlace físico con el ciclo del ácido cítrico.**
 ¿Cómo se organizan los diversos transportadores de electrones para producir una reacción exergónica que finalmente genera un gradiente de protones? Los electrones se transfieren del NADH al O₂ a través de una cadena de tres grandes complejos proteicos llamados NADH-Q oxidorreductasa, Q-citocromo c oxidorreductasa y citocromo c oxidasa (Figura 19.10 y Tabla 19.2).
 El flujo de electrones dentro de estos complejos transmembrana conduce al transporte de protones a través de la membrana mitocondrial interna. Estos complejos parecen estar asociados en un complejo supramolecular denominado respirasoma. Al igual que en el ciclo del ácido cítrico, estos complejos supramoleculares facilitan la rápida transferencia de sustrato y previenen la liberación de intermediarios de reacción. Un cuarto complejo proteico grande, llamado succinato-Q reductasa, contiene la succinato deshidrogenasa, que genera FADH₂ en el ciclo del ácido cítrico (p. 285). Los electrones de este FADH₂ entran en la cadena de transporte de electrones de la Q-citocromo c oxidorreductasa. La succinato-Q reductasa, a diferencia de los otros complejos, no bombea protones.
@@ -275,45 +352,72 @@ Los cuatro protones en esta reacción provienen exclusivamente de la matriz. Por
 $$
 4\ Cytc_{red}+8H^{+}+O_{2}→4\ Cytc_{ox }+2H_{2}O+4H^{+}_{citoplasma}
 $$
-# Flujo de electrones y H+ a través de los complejos I, III, IV.
+
+
+
+
+## Flujo de electrones y H+ a través de los complejos I, III, IV.
 ![[Pasted image 20250308212206.png]]
-# Otros sustratos transfieren electrones a la ubiquinona
+## Otros sustratos transfieren electrones a la ubiquinona
 Otros dos vías electrones a ubiquinona (Q) a través de deshidrogenasa  FAD-dependientes.
 - Acil-CoA deshidrogenasa  (beta-oxidación de ácidos grasos)
 - Glicerol  3-fosfato deshidrogenasa (lanzadera  glicerol-fosfato)
-# Supercomplejo respiratorios
+## Supercomplejo respiratorios
 Estequiometría supercomplejo I-III-IV:1:2:1 (respirasoma) determinado por Cryo-Em en mitocondrias  de corazón bovino (Kühlbrandt, BMC Biology 2015, 13:89).
 ![[Pasted image 20250307022801.png]]
 Complejos respiratorios pueden coexistir entre formas libres y asociadas.
 Regulación  depende de  cambios en necesidades metabólicas o condiciones ambientales (estrés, demanda de energía,etc)
+
+## Estudios de la cadena de transporte: Partículas submitocondriales
+Son vesículas cerradas generadas por el sellado de las crestas mitocondriales como consecuencia de aplicar ultrasonidos(sonicación) mitocondrias aisladas.
+
+Es una herramienta para estudios de la cadena de transporte electrónico.
+- Al cambiar la orientación de la membrana hay que tener en cuenta que:
+	- Dentro de la partícula queda el citocromo c que estaba en el espacio intermembrana.
+	- Fuera queda orientada la ATP sintasa (ya no es necesaria la actividad de la translocasa ATP-ADP, insensibilidad al atractilósido)
+	- También se orienta hacia fuera el sitio de unión del  NADH o succionato
+- Partículas mitocondriales en disolución pueden acceder a las fuentes de poder reductor(NADH,succionato), ADP y Pi suministradas con la disolución electrónico y la fosforilación oxidativa.
+
+![[Pasted image 20250308205952.png]]
+
+---
 # Síntesis acoplada de ATP
+
 Razón P/O, número de moléculas de ATP(P) sintetizadas por cada 2 electrones necesarios para reducir un Oxígeno.
 - Se necesita consumir 4H+ del gradiente electroquímico para sintetizar una molécula de ATP (3 ATP sintasa+1 importar ADP+Pi y exportar ATP por el translocador ADP-ATP y la translocasa de fosfato).
 
 	![[Pasted image 20250308211049.png]]
 	
 	![[Pasted image 20250308211057.png]]
-# Fuerza Protón-Motriz
+## Fuerza Protomotriz
+
+
 ![[Pasted image 20250308211031.png]]
-## Transportadores necesarios
+
+## Transportadores para la fosforilación oxidativa
+
 El translocador ADP-ATP lleva  a cabo un transporte *antiporte* que exporta ATP-4(Sin Mg2+) e importa ADP-3
 - Transporte electrogénico, se inhibe por atractilósido
 La  translocasa de fosfata lleva a cabo  un  transporte de Pi impulsado por la entrada en *simporte* de  H+.
 - Tranposte *electroneutro* no consume potencial de membrana
 - El gradiente de H+ favorece el funcionamiento de los dos transportadores
 La entrada de ADP+Pi combinada con la salda de ATP implica globalmente el  consumo de  un H+ adicional.
+
 ![[Pasted image 20250307073510.png]]
-# Control Respiratorio.
+## Control Respiratorio.
 La fosforilación oxidativa y la cadena de transporte electrónica están íntimamente acopladas.
 - El acoplamiento se establece a través del gradiente iónico  de H+.
 - La regulación coordinada de ambos procesos se conoce con el nombre  de control respiratorio.
 ![[Pasted image 20250307073713.png]]
+
 1. Mitocondrias en presencia de  ADP, Pi,fuente de electrones(NADH,Succionato), y O2 como aceptor final, consumen O2  y sintetizan ATP.
 2. 
 	1. Si se inhibe la cadena:
 		1. No hay transporte  de electrones no se consume O2, no se genera gradiente de H+ y no se sintetiza ATP.
 	2. Si se inhibe la síntesis de ATP
 		1. No se forma ATP, no se consume el gradiente de H+ y se detiene la cadena de  transporte electrónico (el gradiente de  H+ es tan grande que la cadena no tiene energía para bombear H+)
+
+---
 # Inhibidores de la cadena de transporte electrónica y desacopladores del transporte electrónico
 1. Cadena de transporte electrónico
 	1. Complejo I
@@ -336,6 +440,7 @@ La fosforilación oxidativa y la cadena de transporte electrónica están íntim
 
 ![[Pasted image 20250307074026.png]]
 ## Desacopladores
+
 Rompen el acoplamiento entre la cadena de transporte de electrónico  y la fosforilación oxidativa
 - Son ácidos débiles solubles en la membrana(pka ~5), se protonan en el espacio intermembrana (↑[H+])  y se desprotonan en la matriz (↓[H+])
 	- pasa  H+ del espacio intermembrana  a la matriz.
@@ -350,14 +455,37 @@ Rompen el acoplamiento entre la cadena de transporte de electrónico  y la fosfo
 			- Está presente en el tejido  adiposo marrón de mamíferos lo que permite mantener la temperatura corporal(oso durante la hibernación).
 
 ![[Pasted image 20250308210122.png]]
-# Partículas submitocondriales
-Son vesículas cerradas generadas por el sellado de las crestas mitocondriales como consecuencia de aplicar ultrasonidos(sonicación) mitocondrias aisladas.
 
-Es una herramienta para estudios de la cadena de transporte electrónico.
-- Al cambiar la orientación de la membrana hay que tener en cuenta que:
-	- Dentro de la partícula queda el citocromo c que estaba en el espacio intermembrana.
-	- Fuera queda orientada la ATP sintasa (ya no es necesaria la actividad de la translocasa ATP-ADP, insensibilidad al atractilósido)
-	- También se orienta hacia fuera el sitio de unión del  NADH o succionato
-- Partículas mitocondriales en disolución pueden acceder a las fuentes de poder reductor(NADH,succionato), ADP y Pi suministradas con la disolución electrónico y la fosforilación oxidativa.
+### Termogenina
 
-![[Pasted image 20250308205952.png]]
+Proteína integral de la membrana interna mitocondrial que forma un canal de H⁺(desacoplador natural).
+El gradiente de H⁺ se disipa y no se sintetiza ATP, generandose calor.
+Está presente en el tejido adiposos marrón de mamíferos y permite mantener la temperatura corporal(por ejemplo, la hibernación de los osos). Está implicado también en la regulación de la masa corporal.
+
+---
+# Otras cadenas  de transporte electrónico mitocondrial
+
+La mayor parte de la información que se tiene sobre la cadena respiratoria procede del estudio de las mitocondrias de mamíferos, de células hepáticas y cardíacas.
+
+Pero existe una extraordinaria  diversidad de mitocondrias de otras eucariotas, resultado de una larga historia evolutiva de adaptaciones en condiciones ambientales y funciones fisiológicas muy diversas.
+
+Además, los bacterias también procede cadenas de transporte electrónicos acopladas en la formación de un gradiente de protones para la síntesis de ATP.
+
+## Mitocondrias de plantas
+
+Las mitocondrias de plantas tienen:
+1. NAD(P)H deshidrogenasas alternativas al complejo(no bombean H⁺).
+2. Una oxidasa terminal alternativa a los complejos III y IV(inhibida por ácido salicilhidroámicos), pero no por cianuro, antimicina A o mixotiazol.
+
+Este metabolismo oxidativo no genera ATP(no se translocan H⁺).
+La energía se disipa en forma de calor.
+
+
+## Mitocondrias que funcionan en anaerobiosis
+
+En algunos animales, hongos y protistas han adaptados sus mitocondrias a un metabolismo anaeróbico. Se utilizan aceptores electrónicos alternativos al O2.
+
+1. Aceptores electrónicos del ambiente.
+2. Aceptores electrónicos sintetizados endógenamente.
+## El mundo bacteriano
+![[Pasted image 20260204131201.png]]

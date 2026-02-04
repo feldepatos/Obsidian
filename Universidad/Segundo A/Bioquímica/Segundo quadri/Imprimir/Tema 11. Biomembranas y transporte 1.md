@@ -356,24 +356,29 @@ diferencia de potencial eléctrico transmembrana
 # Termodinámica del transporte a través de membrana
 
 *Entrada*
+
 $$
 \Delta G=RT\ln \frac{[A]_{i}}{[A]_{e}}
 $$
 *Salida*
+
 $$
 \Delta G=-RT\ln \frac{[A]_{i}}{[A]_{e}}
 $$
 Transporte de moléculas cargadas
 
 *Entrada*
+
 $$
 \Delta G=z F \Delta \Psi
 $$
+
 z→carga o  valencia del ión
 F→constante  de Faraday 96'5 kJ/mol*V
 ∆Ψ= Ψi – Ψe (Volts)
 ![[Pasted image 20250309144935.png]]
 *Salida*
+
 $$
 \Delta G=-z F \Delta \Psi
 $$
@@ -609,12 +614,6 @@ En resumen, el transporte activo secundario aprovecha la energía almacenada en 
 
 ![[Pasted image 20250309180914.png]]
 
-
-
-
-
-
-
 > [!tip] Diferencias entre el transporte activo primario vs secundario
 > El **transporte activo primario** utiliza **energía directa del ATP** para mover sustancias en contra de su gradiente de concentración o electroquímico. La proteína transportadora actúa como una bomba y cambia de conformación al hidrolizar ATP.
 El **transporte activo secundario** no usa ATP de forma directa. Aprovecha la energía almacenada en el **gradiente electroquímico** de otra sustancia, que fue generado previamente por el transporte activo primario. El movimiento de una sustancia a favor de su gradiente impulsa el transporte de otra en contra del suyo.
@@ -634,6 +633,7 @@ $$
 2 Na^{+}_{out}+ glucosa→2 Na⁺_{in}+glucosa_{in}
 $$
 La energía necesaria para este proceso proviene de dos fuentes: la mayor concentración de Na en el exterior que en el interior (el potencial químico) y el potencial transmembrana (el potencial eléctrico), que es negativo en el interior y, por lo tanto, atrae el Na hacia el interior. El potencial electroquímico del Na es, 
+
 
 $$
 \vartriangle G=RT \ln \frac{[Na⁺]_{out}}{[Na⁺]_{in}} + ZF \vartriangle \psi
@@ -746,7 +746,9 @@ $$
 ADP^{-3}+HPO_{4}^{-2}+H^{+}\leftrightarrows ATP^{-4}+H_{2}O
 $$
 
-La enzima tiene tres sitios activos, cada uno de los cuales realiza una de tres funciones diferentes en cualquier instante. La fuerza protón-motriz hace que los tres sitios activos cambien de función secuencialmente a medida que los protones fluyen a través del componente de la enzima, incrustado en la membrana. De hecho, podemos pensar en la enzima como si constara de una parte móvil y una parte estacionaria: (1) la unidad móvil, o rotor, está compuesta por el anillo c y el tallo γε, y (2) la unidad estacionaria, o estator, está compuesta por el resto de la molécula.
+La enzima tiene tres sitios activos, cada uno de los cuales realiza una de tres funciones diferentes en cualquier instante. La fuerza protón-motriz hace que los tres sitios activos cambien de función secuencialmente a medida que los protones fluyen a través del componente de la enzima, incrustado en la membrana. De hecho, podemos pensar en la enzima como si constara de una parte móvil y una parte estacionaria: 
+1. la unidad móvil, o rotor, está compuesta por el anillo c y el tallo γε, y 
+2. la unidad estacionaria, o estator, está compuesta por el resto de la molécula.
 
 
 > [!question] ¿Cómo responden los tres sitios activos de la ATP sintasa al flujo de protones? 
@@ -754,7 +756,7 @@ La enzima tiene tres sitios activos, cada uno de los cuales realiza una de tres 
 
 
 Diversas observaciones experimentales sugirieron un mecanismo de cambio de unión para la síntesis de ATP impulsada por protones. Esta propuesta establece que una subunidad puede realizar cada uno de los tres pasos secuenciales en la síntesis de ATP mediante un cambio de conformación. 
-Estos pasos son: 
+Estos pasos son : 
 1. La unión de ADP y P₁, 
 2. La síntesis de ATP 
 3. La liberación de ATP. 
