@@ -109,3 +109,53 @@ Reparación de rupturas de cadenas dobles q generan forats donde son importantes
 
 ---
 6-2-26
+D: 19- 
+# El mecanismo molecular de la recombinación
+Uno de los sistemas son los mecanismos ed recombinación.
+Es un mecanismo q conceptualmente es facil de entender pero visualmente no, por  eso tenemos difeerntes nichos porque verlo visual es interesante.
+
+estos sistemas permite obtener mucha variación dentro de nuestro genoma.
+a nivel de mutación son pequeñas y las recombinaciones permite hacer cambios de ordenes dentro de los cromosomas.
+
+la recombinación descubrió  como un mecanismo en diferentes partes de la célula. Pero cuando se descubrió pasaba en la meiosis.
+cuando se produce un intercambio entre cromosomas y se ha multiplicado el ADN porque de lo contrario entre hermanos sería muy pequeña.
+ tmb c vió en mecanismos de integración de virus el mecanismo utilizado habitualmente y tenemos diferentes mecanismos: transformació, transducció i conjugació...
+ se busca la cadena homóloga de una cromátida hermana en caso de no tener accesible la cadena complementaria
+ se crea nuevas estructuras q son dificiles de saber de donde surgen, pq tenemos interaccione enre moléculas donde los cormosomas se enganchen y se deben desenganchar.
+
+Recombinación homóloga→
+
+
+dos tipos de transcriptivas
+
+intercambio de material genético no ha mutado sino solo cambio de lugar y ya.
+
+
+definir que es la unión Holliday→donde se entrecruza, es dinámica donde toda la secuencia empieza a correr donde las homólogsa se crucen y tenemos 2 cromádias unidas q deben romperse.
+puede ser de 2 formas  la ruptura:
+el corte puede producirse de maner avertical u horizontal y dependiendo de donde se produzca tendrsmos 2 resultados diferentes-
+en horizontal→ el contenido alelico no varia, los extremos no cambian donde tenemos los genes de referencia
+Por el contrario, lo q inorporamos los extremos cmabiando la carga alélica, todo esto es teoría.
+
+
+recA puede invadir para poder desplazar una cadena doble que esté cerca, donde se deba producir la recombinación.
+
+Ruv catalizan la reacción, q se mueven por todo el sistema y q todo se puede avanzar
+
+
+RuvC→del corte final ya sea horizontal o vertical.
+
+ ![[Pasted image 20260206110146.png]]
+  secuencia chi cada 5 
+
+la teoría habla de cromátidas homólogas mientra otra dice q solo ocurre en una cadena.
+
+el doble corte se produce en la misma cromátida donde el sistema cambia las enimas eliminaria algun nucleótidos para comenzar la inserción de la otra cromátida sin daño.
+
+todo lo anterior es recombinación homóloga.
+
+## Recombinación específica de lugar
+las enzimas son una integrasa del virus +proteína de integración del bacteria.
+
+# DNA híbrido, reparación de apareamientos erróneos y conversión génica
+

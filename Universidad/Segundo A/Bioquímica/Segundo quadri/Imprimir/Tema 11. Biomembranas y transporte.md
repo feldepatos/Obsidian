@@ -57,6 +57,7 @@ Algunas proteínas de membrana se unen covalentemente a uno o más lípidos, que
 #### Estereoides
 
 Solo están presentes en eucariotas, y en células animales el esteroide más abundante es el colesterol.
+
 Posee una cola hidrocarbonada ramificada (apolar)  y  un  grupo hidroxil(-OH) que le da un carácter débilmente anfifilico.  El grupo -OH polar puede encontrarse esterificado  con  AG de cadena larga: ésteres de colesterol.
 El sistema de anillos le proporciona rigideza.
 

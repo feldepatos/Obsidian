@@ -3,46 +3,71 @@
 Los organismos aerobios requieren O2 para su supervivencia
 - Los combustibles/comida se oxidan para obtener energía.
 - Un proceso de oxidación directo
-		$$
- AH_{2}+\frac{1}{2}O_{2}\longrightarrow A + H_{2}O
+
 $$
-	No se da en general en s                                       istemas biológicos
-	El O2 no actúa como aceptor primario de electrones
+AH_{2}+\frac{1}{2}O_{2}\longrightarrow A + H_{2}O
+$$
+No se da en general en sistemas biológicos.
+
+El O2 no actúa como aceptor primario de electrones.
+
 - En las células, actúan como aceptores primarios de electrones otras moléculas, como NAD+ (nicotinamida adenina dinucleótido)
-	- Los sustratos que tienen que oxidarse lo hacen con el NAD+
-		$$
+	- Los sustratos que tienen que oxidarse lo hacen con el NAD+.
+
+
+$$
 AH_{2}+NAD^{+} \rightarrow A+NADH+H^{+}
 $$
 
+*Función de la respiración mitocondrial*
+
+Los organismos aerobios requieren O2 para su supervivencia
+El O2 actúa como el último aceptor en la cadena de transporte electrónico, con lo cual cumple 2 funciones principales:
+- Regenerar NAD⁺/FAD(aceptores primarios de electrones).
+- Generar gradiente de H⁺, necesario para la síntesis de ATP para la ATP sintasa.
+
 ## Características de la mitocondria
+
 En eucariotas, la cadena de transporte electrónico y la fosforilación oxidativa se localizan en la membrana interna de la mitocondria.
+
 - Impermeabilidad a iones y moléculas
 - Contiene los complejos I-IV, ATP sintasa(complejo V), orientada hacia la matriz, ATP-ADP translocasa y otras proteínas transportadoras.
 - En el espacio intermembrana se acumulan los H+ bombeados por la cadena.
-- ![[Pasted image 20250308213755.png]]
+
+![[Pasted image 20250308213755.png]]
 *Mitocondria está compuesta por doble membrana*
 ### Origen endosimbionte de la mitocondria 
+
 ![[Pasted image 20250308213815.png]]
-![[Pasted image 20250308213827.png]]
+
 ![[Pasted image 20250308213837.png]]
 ### Función de la respiración mitocondrial
+
 ![[Pasted image 20250205021330.png]]
+
 La oxidación final de la glucosa tiene lugar en la mitocondria:
 $$
 C_{6}+O_{12}O_{6}\rightarrow 6CO_{2}+24H^{+}-24e^{-}
 $$
 Finalmente estos electrones acaban reduciendo el O2 hasta el H20.
+
 $$
 24^{-}+24^{+}+6CO_{2}\rightarrow 12H_{2}O
 $$
+
 que es la reacción final de la oxidación de la glucosa
+
 Para que las oxidaciones sigan hay que generar NAD+
 1. Con otro sustrato oxidado
-	1. $$
+
+$$
 X(OX)+NADH(red)+H^{+}\rightarrow XH_{2}(red)+NAD^{+}(OX)
 $$
-	En determinadas condiciones (anaerobias a través de fermentaciones)
+
+En determinadas condiciones (anaerobias a través de fermentaciones).
+
 2. A través de la cadena de transporte electrónico donde sistemas redox permiten transferir electrones desde NADH hasta el último aceptor(CO2) con producción conmomitante de ATP.
+
 La cadena de transporte electrónico es la última etapa del proceso oxidativo.
 ## Reacciones redox
 
@@ -188,14 +213,27 @@ AH_{2}+NAD\leftrightarrows A+NADH+H^{+}
 $$
 ![[Pasted image 20260204123329.png]]
 
+Las deshidrogenasas ligadas a nucleótidos de nicotinamida catalizan reacciones reversibles de los tipos generales siguientes:
+$$
+\begin{align}
+\text{Sustrato reducido}+NAD⁺→\text{Sustrato oxidado}+NADH+H^{+} \\
+\text{Sustrato reducido}+NADP⁺\text{Sustrato oxidado}+NADPH+H^{+}
+\end{align}
+$$
+La mayoría de deshidrogenasas que particiapn en el catabolismo son específica para el NAD⁺ como aceptor electrónico. Algunas están localizadas y otras en la mitocondria, existiendo también otras con isoenzmias, mitocondriales y citosólicos.
+
+Las deshidrogenasas ligadas al NAD eliminan 2 átomos de hidrógeno de sustratos. Uno es transferido en forma de ión hidruro al NAD⁺ mientras que el otro aparece como H⁺ en el medio. El NADH y el NADPH son transportadores electrónicos hidrosolubles que se asocian *reversiblemente* con deshidrogenasas. El NADH transporta los electrones que provienen de reacciones catabólicas a su punto de entrada en la cadena respiratoria, el complejo de la NADH deshidrogenasa. El NADPH generalmente suministra electrones a reacciones anabólicas. Las células mantienen reservas separadas de NADPH y NADH, con potenciales redox diferentes. Esto se consigue manteniendo las razones(reducida/oxidada) relativamente alta para el NADPH y relativamente baja para el NADH. Ni el NADH ni el NADPH puede atravesar la membrana interna de la mitocondria, pero los electrones que transportan pueden ser lanzados a su través indirectamente.
+
+
 #### Deshidrogenasas dependientes de FAD/FMN
 
 ![[Pasted image 20260204123428.png]]
 
+Las flavoproteínas contienen un nucleótido de flavinas, FMN o FAD, fuertemente unido, a veces de manera covalente. El nucleótido de flavina oxidado puede aceptar un electrón o dos (produciendo FADH2 o FMNH2). La transferencia electrónica se da gracias a que la flavoproteína tiene un potencial de reducción estándar superior al del compuesto oxidado. Recuerde que el potencial de reducción es una medida cuantitativa de la tendencia relativa de una especie química determina para aceptar electrones en una reacción de oxidación-reducción. El potencial de reducción estándar de un nucleótido de flavina, a diferencia de lo que sucede con el NAD o el NADPH, depende de la proteína a la que está asociado.
+
 ---
 
 # Componentes de la cadena de transporte electrónico mitocondrial
-
 
 ## Complejos mitocondriales
 
@@ -213,28 +251,41 @@ $$
 	- La variación  de energía libre producida durante el paso de los electrones en I, III y IV permite el bombeo de H+ desde la matriz  (in) hacia el espacio intermembrana, generándose un gradiente de H+ que hace posible la síntesis de ATP(ATP sintasa).
 
 **Proteínas ferrosulfuradas**
+
 ![[Pasted image 20250308214233.png]]
 	El átomo de hierro interviene en transferencia de un eléctron 
+
 $$
 Fe ^{3+}(ox) +1e^{-}→Fe^{2+}(red)
 $$
-	El hierro forma enlaces de coordinación con átomos de azufre(lábiles) restos tiol de cisteinas.
-	![[Pasted image 20250308214505.png]]
+El hierro forma enlaces de coordinación con átomos de azufre(lábiles) restos tiol de cisteinas.
+
+![[Pasted image 20250308214505.png]]
+
+El hierro está presente no en forma de hemo sino en asociación con átomos de azufre inorgánico o con átomos de azufre de residuos de Cys de la proteína, o con los 2 al mismo tiempo. Estos centros ferro-sulfurados (Fe-S) van desde estructuras sencillas con un solo átomo de Fe coordinado a 4 residuos Cys-SH a centros Fe-S más complejos con 2 o 4 átomos de Fe.
+
+Todas las proteínas ferro-sulfuradas participan en transferencias de un electrón en las que se oxida o reduce uno de los átomos de Fe de la agrupación ferro-sulfurada. En la transferencia de electrones mitocondrial actúan como mínimo ocho proteínas Fe-S.
+
 
 **Cuproproteínas**
 - 3 histidina y una molécula O2 coordinan el átomo  de cobre en el centro Cu_8(en azul) de citocromo oxidasa.
 - El átomo de cobre intervienen en transferencias de  un electrón
+
 $$
 Cu^{2+}(ox)+1e^{-}→Cu^{1+}(red)
 $$
+
 **Citocromos**
+
 - El atomo de hierro del grupo hemo interviene en transferencia de un electrón.
 - El grupo hemo está unido a dos cisteínas de la proteína(extrínseca de membrana).
 - Contiene un grupo hemo como el de la Hb.
 - El grupo hemo tiene unido una cadena hidrocarbonada que lo ancla en el interior de la proteína.
-		$$
+
+$$
 Fe^{3+}+1e^{-}→Fe^{2+}
 $$
+
 $$
 E^{º'} \ del \ par\ Fe^{3+}/ Fe^{2+}en\  cada\ citocromo\  depende\ \  del \ entorno\ proteico
 $$
@@ -244,8 +295,9 @@ $$
 - Cadena isoprenoide apolar capacita para difundir en la membrana.
 - Transportador móvil
 	- capta electrones de uno en uno y los cede de uno en uno.
-- Q_10  canaliza  electrones derivados de oxidación de sustratos(deshidrogenasas dependientes de .FAD).
-	![[Pasted image 20250308214639.png]]
+- Q_10  canaliza  electrones derivados de oxidación de sustratos(deshidrogenasas dependientes de FAD).
+
+![[Pasted image 20250308214639.png]]
 
 ## Orden de los transportadores
 Varios criterios permiten establecer el orden de los componentes de la cadena.
@@ -268,6 +320,23 @@ Varios criterios permiten establecer el orden de los componentes de la cadena.
 $$
 NADH+H^{+}+Q→NAD^{+}+QH_{2}
 $$
+Es una enzima enorme compuesta por 45 cadenas polipeptídicas diferentes, entre las que se encuentra una flavoproteína que contiene FMN y como mínimo 8 centro ferro-sulfurados. El complejo I tiene forma de L, con un brazo incrustado en la membrana interna y el otro prologándose hacia la matriz. Estudios comparativos del complejo I en bacterias y otros organismos muestran que 7 polipéptidos en el brazo de la membrana y 7 en la matriz están conservados y  son esenciales.
+
+El complejo I cataliza 2 procesos simultáneos forzosamente acoplados:
+1. La transferencia exergónica hacia la ubiquinona de ión hidruro del NADH y un protón de la matriz expresado por la fórmula escrita anteriormente
+2. Transferencia endergónica de 4 protones desde la matriz al espacio intermembrana. 
+
+ En este proceso se desplazan protones contra gradiente de protones transmembrana. Por lo tanto, el complejo I es una bomba de protones impulsada por la energía que cataliza es vectorial: mueve los protones en una dirección específica desde una localización (la matriz, que se carga negativamente con la salida de los protones) a otra(el espacio intermembrana, que se carga positivamente). Para resaltar la naturaleza vectorial del proceso, la reacción se expresa a menudo con subíndices que indican la localización de los protones: p para la cara positiva de la membrana interna(el espacio intermmebrana) y n para la cara negativa(la matriz):
+$$
+NADH+5H^{+}_{N}+Q→NAD^{+}+QH_{2}+4H^{+}_{p}
+$$
+
+
+> [!question] 
+¿Cómo se acopla la reducción de la Q con un el bombeo de protones?
+
+La reducción de Q tiene lugar lejos del brazo de la membrana de la proteína donde se produce el bombeo de protones, por lo que el acoplamiento es claramente indirecto. Probablemente, la reducción de Q induce un cambio conformacional de largo alcance en el complejo I. Basándonos en su estructura parece ser un posible mecanismo de acoplamiento: una hélice larga que se encuentra a lo largo del brazo de la membrana puede transmitir cambios alostéricos a través de este brazo. Parece probable que los 4 protones se bombeen de manera simultánea, por lo  que, la energía de una reacción fuertemente  exergónica(la reacción de Q) se rompa en pequeños paquetes, una estrategia común empleadas por los organismos vivos.
+
 ### Complejo II
 
 - NO Bombea H⁺
@@ -277,7 +346,10 @@ $$
 succionato +Q→ffumarato+QH_{2}
 $$
 
+Es el única enzima del ciclo de Krebs ligado a la membrana. El complejo II acopla la oxidación del succionato en un sitio con la reducción de la ibiquinona en otro sitio alejado del primeros unos 40A. Aunque más pequeño y más sencillo que el complejo I. 
+Contiene 5 grupos prostéticos de 2 tipos y 4 subunidades proteicas diferentes. Las subunidades C y D son proteínas integrales de membrana, cada una de ellas con 3 hélices transmembrana. Contienen un grupo hemo, *hemo b*, y un sitio de unión para Q que es el  aceptor final de electrones en la reacción catalizada por el  complejo II. Las subunidades A y B se extienden hacia la matriz;  contienen 3 centros 2Fe-2S, FAD unido y un sitio de unión para el sustrato succinato. Aunque la ruta global de transferencia de electrones a la larga (desde el sitio de unión del succionato al FAD, a continuación a través de los centros Fe-S hasta el sitio de unión de Q), ninguna de las distancias de transferencias electrónica individuales excede unos, 11A,  una distancia razonable para una transferencia electrónica rápida. La transferencia de electrones a través de la membrana interna, aunque el QH2 producido por la oxidación del succinato será utilizado por el complejo III para impulsar la transferencia protónica. Debido a que el complejo II funciona en el ciclo de krebs, los  factores que afectan su actividad (tales como la disponibilidad de Q oxidado) sirven probablemente, para coordinar dicho ciclo con la transferencia electrónica mitocondrial.
 
+El *grupo hemo b* no se encuentra en la ruta directa de transferencia electrónica; en su  lugar podría servir para reducir la frecuencia con la que los protones  "se pierden" fuera del sistema, desplazándose del succinato al O2 molecular para producir especies reactivas de oxígeno(BOS) peróxido de hidrógeno(H2O2) y el radical superóxido.
 ### Complejo III
 
 - Bombea 4H+/2  electrones(Ciclo Q)
@@ -286,7 +358,16 @@ $$
 $$
 QH_{2}+2cit\ C(Fe^{3+})→Q+2cit\ C(Fe^{2+})
 $$
+Los electrones de la Q reducida pasan a través de otros 2 complejos proteicos más grandes de la membrana mitocondrial interna antes de alcanzar el último aceptor electrónica, O2. El complejo II, acopla la transferencia de electrones desde el ubiquinol al citocromo C con el transporte vectorial de protones desde la matriz al espacio intermembrana. La unidad funcional del complejo II es un dímero. Cada monómero consta de 3 proteínas importantes para la acción del 
+complejo: citocromo b, citocromo c1 y la proteína ferro-sulfarada de Rieske. 
 
+Los dos monómeros del *citocromo b* rodean una caverna en el centro de la membrana, en la que la ubiquinona tiene libertad para moverse desde el lado de la matriz de la membrana(sitio Qn en un monómero) al espacio intermembrana(sitio Qp del otro monómero) a medida que lanza electrones y protones a través de la membrana mitocondrial interna.
+
+Para explicar el papel de Q en la conservación  de energía, Mitchell propuso el ciclo "Q". A medida que los electrones se desplazan desde QH2 a través del complejo III, QH2 se  oxida  con liberación de protones en un lado de la membrana (en Qp), mientras que en  el otro sitio(Qn), Q  se reduce y se  capta protones. El producto de un sitio, y viceversa. 
+
+El ciclo Q adapta  el cambio  entre el transportador de 2  electrones ubiquinoal(la forma reducida de la ubiquinona)  y los transportadores  de un electrón, los hemos *bL* y *bH* del *citocromo b* y  los citocromos *c1*  y *c*, y resulta en la captación de 2 protones en  el lado n y la liberación de 4 protones en el lado *p* por cada par de electrones que pasan del Complejo III al *citocromo c* en el lado *p*. Aunque la vía de los electrones a través de este segmento de la cadena respiratoria es  complicada, el efecto neto de la transferencia es simple: QH2 se oxida a Q al tiempo que se reducen 2 moléculas de *citocromo c*  y se desplazan 2 protones del lado *p* al lado *n* de la membrana mitocondrial interna.
+
+El *citocromo c* es una proteína soluble del espacio intermembrana, que se asocia reversiblemente con el lado *p* de la membrana interna. Después de que su único hemo acepte un electrón del complejo III, el *citocromo c* se desplaza en el espacio intermembrana hacia  el  complejo IV, para ceder el electrón a un centro de cobre binuclear.
 
 ### Complejo  IV
 
@@ -296,7 +377,16 @@ $$
 2 \ cit\ C(Fe^{2+})+\frac{1}{2}O_{2}→2cit\ C(Fe^{3+})+H_{2}0
 $$
 
+En el último paso de la cadena respiratoria, el Complejo IV, también llamado citocromo oxidasa,  transporta electrones desde el *citocromo c* al oxígeno molecular, reduciéndolo a H2O.
+El complejo IV es una enzima dimérico  muy  grande (cada monómero  tiene 13 subunidades y una *M*t de 240.000) de la membrana mitocondrial interna. 
+La subunidad II  del complejo  IV contiene 2 iones Cu  que forman con los grupos -SH de 2 residuos Cys en un centro binuclear que se parece a los centros 2Fe-2S de las proteínas ferro-sulfuradas. La subunidad I contiene 2 grupos hemo, designados *a* y *a3*, y otro ión cobre(Cu3). El hemo *a3* y el Cu_b forman un segundo centro binuclear que acepta los electrones del *hemo a* y los transfiere al O2 unido al hemo *a3*. 
+
+La transferencia de electrones a través del complejo IV va del *citocromo c* al centro Cu, al hemo *a*, al centro hemo *a3-Cu_b* , y finalmente al O2. Por cada 4 electrones que pasan a través del complejo, el enzima consume 2 H⁺ "sustrato" de la matriz(lado n) convirtiendo el 1/2O2 en H2O. También utiliza la energía de esta reacción redox para bombear 2 protones hacia el espacio intermembrana (lado p)  por cada par de electrones que pasan, añadiéndose al potencial electroquímico producido por el transporte de protones impulsado por el potencial redox a través de los complejos I y III. 
+
+Esta reducción de 1/2 O2, por 2 electrones requiere la oxidación de QH2, la cual, a su vez, requiere la oxidación de NADH a succinato. En el complejo IV, el O2 se reduce en centro redox que transportan solo un electrón a la vez. Normalmente los intermediarios oxigenados incompletamente reducidos permanecen fuertemente unidos al complejo hasta que se han convertido completamente en agua, si bien se escapa una pequeña fracción de intermediarios del oxígenos. Estos intermediarios son especies de oxígeno reactivo que pueden dañar los componentes celulares a menos que se eliminen por medio de mecanismos de defensa descritos más adelante.
+
 **La cadena respiratoria consta de bombas de protones y un enlace físico con el ciclo del ácido cítrico.**
+
 ¿Cómo se organizan los diversos transportadores de electrones para producir una reacción exergónica que finalmente genera un gradiente de protones? Los electrones se transfieren del NADH al O₂ a través de una cadena de tres grandes complejos proteicos llamados NADH-Q oxidorreductasa, Q-citocromo c oxidorreductasa y citocromo c oxidasa (Figura 19.10 y Tabla 19.2).
 El flujo de electrones dentro de estos complejos transmembrana conduce al transporte de protones a través de la membrana mitocondrial interna. Estos complejos parecen estar asociados en un complejo supramolecular denominado respirasoma. Al igual que en el ciclo del ácido cítrico, estos complejos supramoleculares facilitan la rápida transferencia de sustrato y previenen la liberación de intermediarios de reacción. Un cuarto complejo proteico grande, llamado succinato-Q reductasa, contiene la succinato deshidrogenasa, que genera FADH₂ en el ciclo del ácido cítrico (p. 285). Los electrones de este FADH₂ entran en la cadena de transporte de electrones de la Q-citocromo c oxidorreductasa. La succinato-Q reductasa, a diferencia de los otros complejos, no bombea protones.
 
@@ -363,12 +453,14 @@ Otros dos vías electrones a ubiquinona (Q) a través de deshidrogenasa  FAD-dep
 - Acil-CoA deshidrogenasa  (beta-oxidación de ácidos grasos)
 - Glicerol  3-fosfato deshidrogenasa (lanzadera  glicerol-fosfato)
 ## Supercomplejo respiratorios
+
 Estequiometría supercomplejo I-III-IV:1:2:1 (respirasoma) determinado por Cryo-Em en mitocondrias  de corazón bovino (Kühlbrandt, BMC Biology 2015, 13:89).
 ![[Pasted image 20250307022801.png]]
 Complejos respiratorios pueden coexistir entre formas libres y asociadas.
 Regulación  depende de  cambios en necesidades metabólicas o condiciones ambientales (estrés, demanda de energía,etc)
 
 ## Estudios de la cadena de transporte: Partículas submitocondriales
+
 Son vesículas cerradas generadas por el sellado de las crestas mitocondriales como consecuencia de aplicar ultrasonidos(sonicación) mitocondrias aisladas.
 
 Es una herramienta para estudios de la cadena de transporte electrónico.
@@ -386,9 +478,25 @@ Es una herramienta para estudios de la cadena de transporte electrónico.
 Razón P/O, número de moléculas de ATP(P) sintetizadas por cada 2 electrones necesarios para reducir un Oxígeno.
 - Se necesita consumir 4H+ del gradiente electroquímico para sintetizar una molécula de ATP (3 ATP sintasa+1 importar ADP+Pi y exportar ATP por el translocador ADP-ATP y la translocasa de fosfato).
 
-	![[Pasted image 20250308211049.png]]
-	
-	![[Pasted image 20250308211057.png]]
+![[Pasted image 20250308211049.png]]
+
+![[Pasted image 20250308211057.png]]
+
+El proceso global se conoce como "acoplamiento quimiosmótico". Aquí, "acoplamiento" hace referencia a la conexión *obligada* entre la síntesis mitocondrial de ATP y el flujo electrónico a través de la cadena respiratoria; ninguno de los 2 procesos puede actuar sin el otro.  En la siguiente figura se muestra la  definición operativa de acoplamiento. Cuando se suspenden mitocondrias aisladas en un tampón que contiene ADP+Pi, y un sustrato oxidable tal como el succionato, tiene lugar 3 procesis que pueden medirse fácilmente: 
+1. Se oxida el sustrato(el succionato da fumarato)
+2. Se consume O2.
+3. Se sintetiza ATP.
+
+El consumo de oxígeno y la síntesis de ATP depende de la presencia de un sustrato oxidable(en este caso el succinato), así como de ADP y Pi.
+Debido a que la oxidación del sustrato impulsa la síntesis de ATP a los inhibidores de la transferencia electrónica bloqueen la síntesis de ATP. Lo contrario también se cumple: la inhibición de la síntesis de ATP bloquea la transferencia electrónica en mitocondrias intactas. Cuando se proporciona O2 y sustratos oxidables pero no ADP a mitocondrias aisladas no pueden haber síntesis de ATP y no se da la transferencia electrónica al O2. 
+
+![[Pasted image 20260212143616.png]]
+La teoría quimiosmótica explica fácilmente la dependencia de la transferencia electrónica de la síntesis de ATP en la mitocondria. Cuando se bloquea el flujo de protones hacia la matriz a través del canal protónico de la ATP sintasa, no hay una vía de retorno de los protones impulsada por la actividad de la cadena respiratoria genera un gran gradiente de protones. La fuerza protón-motriz va aumentando hasta que el coste (energía libre) del bombeo de protones fuera de la matriz en contra de este gradiente es igual o superior a la energía liberada por la transferencia de electrones desde el NADH al O2. Llegado este punto, el flujo de electrones ha de parar; la energía libre del proceso global del flujo de electrones acoplado al bombeo de protones es cero, y el sistema está en equilibrio.
+
+Hay, no obstante, ciertas condiciones y reactivos que desacoplan la oxidación y la fosforilación. Cuando se rompen mitocondrias intactas mediante tratamiento con detergente o corte mecánico, los fragmentos membranosos resultantes aún puede catalizar la transferencia electrónica desde el succinato o el NADH al O2 pero no hay síntesis de ATP acoplada a esta respiración. 
+
+Ciertos compuestos químicos también producen el desacoplamiento sin romper la estructura mitocondrial donde entran en forma protonado pueden liberar el protón, disipando de este modo el gradiente de protones. 
+
 ## Fuerza Protomotriz
 
 
@@ -404,7 +512,8 @@ La  translocasa de fosfata lleva a cabo  un  transporte de Pi impulsado por la e
 La entrada de ADP+Pi combinada con la salda de ATP implica globalmente el  consumo de  un H+ adicional.
 
 ![[Pasted image 20250307073510.png]]
-## Control Respiratorio.
+## Control Respiratorio
+
 La fosforilación oxidativa y la cadena de transporte electrónica están íntimamente acopladas.
 - El acoplamiento se establece a través del gradiente iónico  de H+.
 - La regulación coordinada de ambos procesos se conoce con el nombre  de control respiratorio.
@@ -419,6 +528,7 @@ La fosforilación oxidativa y la cadena de transporte electrónica están íntim
 
 ---
 # Inhibidores de la cadena de transporte electrónica y desacopladores del transporte electrónico
+
 1. Cadena de transporte electrónico
 	1. Complejo I
 		1. Rotenona
@@ -441,7 +551,8 @@ La fosforilación oxidativa y la cadena de transporte electrónica están íntim
 ![[Pasted image 20250307074026.png]]
 ## Desacopladores
 
-Rompen el acoplamiento entre la cadena de transporte de electrónico  y la fosforilación oxidativa
+Rompen el acoplamiento entre la cadena de transporte de electrónico  y la fosforilación oxidativa.
+
 - Son ácidos débiles solubles en la membrana(pka ~5), se protonan en el espacio intermembrana (↑[H+])  y se desprotonan en la matriz (↓[H+])
 	- pasa  H+ del espacio intermembrana  a la matriz.
 	- Anulan componente eléctrico y osmótico.
@@ -459,6 +570,7 @@ Rompen el acoplamiento entre la cadena de transporte de electrónico  y la fosfo
 ### Termogenina
 
 Proteína integral de la membrana interna mitocondrial que forma un canal de H⁺(desacoplador natural).
+
 El gradiente de H⁺ se disipa y no se sintetiza ATP, generandose calor.
 Está presente en el tejido adiposos marrón de mamíferos y permite mantener la temperatura corporal(por ejemplo, la hibernación de los osos). Está implicado también en la regulación de la masa corporal.
 

@@ -1,4 +1,15 @@
-# Fases de la Fotosíntesis
+# Fotosíntesis
+La fotosíntesis utiliza la energía de la  luz para convertir la radiación electromagnética en energía química.
+Los electrones de alta energía se utilizan para 
+- Crear una fuerza motriz de protones que impulsa la síntesis  de ATP.
+- Formar NADPH(poder reductor biosintético).
+Las reacciones que son impulsadas directamente por la luz solar se llaman reacciones luminosas.
+Los organismos fotosintéticos se llaman autótrofos, mientras que los organismos que obtienen energía  solo de combustible químicos son heterótrofos.
+
+*En plantas, 2 fotosistemas conectados en serie*
+El fotosistema I genera poder reductor en forma de NADPH, pero prevee 
+
+## Fases de la Fotosíntesis
 Fase luminosa
 - Captación de energía por pigmentos que absorben luz y conversión en energía química(ATP) y poder reductor(NADPH)
 		- ![[Pasted image 20250308203257.png]]
@@ -9,7 +20,7 @@ Fase de fijación del CO2
 		- ![[Pasted image 20250308203408.png]]
 - Localización, estroma(plantas)
 	![[Pasted image 20250308203454.png]]
-# El cloroplasto de los organismos fotosintéticos eucariotas
+## El cloroplasto de los organismos fotosintéticos eucariotas
 La fotosíntesis se produce en células eucariotas (algas, plantas superiores) y en bacterias(cianobacterias)
 En el cloroplasto se realizan las dos fases de la fotosíntesis
 - Contiene DNA y ribosomas (sintetizan parte del componente proteico)
@@ -41,11 +52,13 @@ En el cloroplasto se realizan las dos fases de la fotosíntesis
 La cadena fotosintética emplea la energía de la radiación electromagnética para impulsar la síntesis de NADPH y ATP.
 
 ![[Pasted image 20250308203751.png]]
+# Absorción de la luz
 # El gradiente de H+ impulsa la síntesis de ATP
 El gradiente de H+ generado a través de la membrana tilacoidal permite la síntesis de ATP.
 Experimento de  Jagendorf
 	Un gradiente de H+ producido artificialmente en vesículas tilacoidales mantenidas en oscuridad es capaz de impulsar la síntesis de ATP.
 	![[Pasted image 20250308203839.png]]
+# Organización y funcionamiento de la cadena de transporte electrónico fotosintético
 # Pigmentos Fotosintéticos 
 Tipos
 - Principales
@@ -228,3 +241,6 @@ Cadena electrónica mitocondrial y fotosintética
 ![[Pasted image 20250308201459.png]]
 Topología del movimiento de H+ y ATP sintasa
 	![[Pasted image 20250308201449.png]]
+
+# Fotosíntesis en procariotas
+# Cadena electrónica mitocondrial y fotosintética

@@ -61,6 +61,7 @@ Tipos
 	- Están presentes en algunas algas pardas.
 
 ## Briofitos
+
 Este nivel de organización es característicos de un grupo de plantas terrestres o embriófitos. Destacan las siguientes características:
 - Mayoritariamente  terrestres: unos viven muy ligadas a ambientes húmedos, mientras que otros pueden vivir formando part de crostes biológicas en ambientes áridos o semidesérticos.
 - De organización sencilla complejos de transporte de agua y nutrientes.
