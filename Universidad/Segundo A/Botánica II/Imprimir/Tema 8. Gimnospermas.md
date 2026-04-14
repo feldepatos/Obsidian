@@ -7,10 +7,12 @@
 
 *Existen cinco filos de plantas con semillas con representantes vivos.* 
 
-Las plantas con semillas surgieron a partir del período Devónico tardío, hace al menos 365 millones de años. Durante los siguientes 50 millones de años, evolucionó una amplia gama de plantas con semillas, muchas de las cuales se agrupan como los llamados helechos con semillas, mientras que otras se reconocen como cordaitas y coníferas (véase el ensayo "Plantas de la Edad del Carbón" en las páginas 400 y 401).
+Las plantas con semillas surgieron a partir del período Devónico tardío, hace al menos 365 millones de años. Durante los siguientes 50 millones de años, evolucionó una amplia gama de plantas con semillas, muchas de las cuales se agrupan como los llamados helechos con semillas, mientras que otras se reconocen como cordaitas y coníferas.
 
 Todas las plantas con semillas suelen poseer megafilos, que generalmente son hojas grandes con varias o muchas nervaduras, pero que en algunos grupos se modifican a agujas o escamas. Existen cinco filos con representantes vivos: Coniferophyta, Cycadophyta, Ginkgophyta, Gnetophyta y Anthophyta. El filo Anthophyta comprende las angiospermas, o plantas con flores; Los cuatro filos restantes se conocen comúnmente como gimnospermas.
+
 Las gimnospermas representan una serie de linajes evolutivos de plantas con semillas. Aunque solo existen unas 840 especies de gimnospermas vivas, en comparación con al menos 300.000 especies de angiospermas, las especies individuales de gimnospermas suelen ser dominantes en amplias áreas.
+
 Antes de comenzar nuestro análisis de las plantas con semillas, examinaremos brevemente un grupo más de plantas vasculares sin semillas: las progimnospermas. Se analizan aquí, en lugar de en el capítulo 17, porque podrían ser las progenitoras de las plantas con semillas o, al menos, están estrechamente relacionadas con las primeras plantas con semillas.
 
 ## Características generales
@@ -21,12 +23,14 @@ Se trata de espermatófitos cuya característica diagnóstica más importante es
 
 *Ciclo digenético heteromorfo con dominancia abrumadora del esporófito y heterosporia*.
 
+Un ciclo digenético heteromorfo con dominancia abrumadora del esporófito y heterosporia es un tipo de ciclo de vida en el que se alternan dos generaciones: una diploide llamada esporófito y otra haploide llamada gametófito. Se dice que es heteromorfo porque ambas generaciones tienen aspecto diferente entre sí. La dominancia abrumadora del esporófito significa que esta es la fase más desarrollada, visible y duradera del organismo, mientras que el gametófito está muy reducido y depende del esporófito. Además, presenta heterosporia, lo que implica que se producen dos tipos distintos de esporas: microsporas, que darán origen a gametófitos masculinos, y megasporas, que originarán gametófitos femeninos. Este tipo de ciclo es característico de las plantas con semilla.
 
 *Plantas leñosas de ramificación monopódica con crecimiento secundario en grosor y tronco de madera homogénea y xilema sin tráqueas*.
 
 Finalmente, hay que destacar que con la irrupción de las gimnospermas tuvo lugar la aparición de un sistema vascular muy elaborado, así como la aparición de elementos de sostén que les permiten alcanzar una larga vida y notables dimensiones, pues el hábito arbóreo es el más común tanto en los representantes fósiles como en los actuales. El engrosamiento secundario, que aparece en algunos pteridófitos fósiles, alcanza su mejor expresión en las Gimnospermas y en las Dicotiledóneas leñosas, gracias a la acción de un tejido meristemático(*cambium*) que forman nuevas capas de células hacia el exterior y el interior del tallo. En particular, el leño secundario de las Gimnospermas aparece integrado por *traqueidas*, células muertas de escasa longitud (solo varios milímetros), prismáticas y más o menos aplanadas, con los extremos aguzados y con su eje mayor paralelo al del tallo; su misión es doble, pues su conjunto proporciona un importante sostén para la planta(sus paredes están reforzadas por lignina) al tiempo que posibilitan el trasiego de agua y elementos minerales (presentan comunicación entre las adyacentes mediante *punteaduras* ubicadas en las paredes paredes radiales, que no son sino áreas carentes de lignina y obturadas por la membrana permeable). En algunas Gimnospermas, además, pueden aparecer cordones de células atravesando radialmente el tallo(o la raíz engrosada secundariamente) facilitándose así el trasiego de agua y de metabolitos entre las partes internas y externas.
 
 *Hojas generalmente aciculares, escuamiformes o acintadas*.
+
 En las **gimnospermas**, las hojas suelen presentar formas especializadas que les ayudan a adaptarse a condiciones ambientales variadas, especialmente climas secos o fríos. Por eso se dice que son **generalmente aciculares, escuamiformes o acintadas**:
 
 - **Aciculares**: hojas largas, delgadas y puntiagudas, como las de los pinos. Reducen la pérdida de agua y soportan bajas temperaturas.
@@ -55,13 +59,7 @@ El gametófito femenino, que comienza su desarrollo como un tejido pluricelular 
 
 Las microsporas son transportadas por diversos vectores fundamentalmente por el viento, y al alcanzar los primordios seminales germinan y originan un tubo polínico. Este progresa como un hausterio que se adhiere lateralmente al tejido de la nucela, facilitando así que el gametófito masculino tome los recursos que necesita para su desarrollo; su extremo orientado hacia el interior de la cámara acabará finalmente rompiéndose y liberará 2 células espermáticas flageladas que se desplazarán en el seno de la *gota de polinización* hasta alcanzar el cuello del arqueogonio, aunque sólo una se unirá con la ovocélula provocando la fecundación. En otros grupos gimnospérmicos, como en las coníferas, los tubos polínicos no descargan células flageladas sino que progresan hasta penetrar en los arqueogonios y descargan entonces sendos gámetos carentes de flagelos, un fenómeno muy parecido ya que al presentan las angiospermas, salvo que en éstas hay una *doble fecundación*.
 
-
-
-
 *Gametófito masculinos(grano de polen pluricelular) endospórico*.
-
-
-
 
 *Semillas con endosperma primario (tejido de reserva de origen gametófito) generado después de la fecundación del primordio seminal.*
 

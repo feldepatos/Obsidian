@@ -41,7 +41,8 @@ el xilema tienen una característica de la madera respecto de angiospermas
 de traqueidas en vez de tener traqueas y traqueidas y tenemos vasos del lumen estrechos q otorga gran duerza y los vasos medulares son delgados una final de cel parenquimáticas.
 
 la aparición del tráqueas no van a ser simulataneas del fruto, coincide con la gimnospermas.
-tenemos un grupo de gimnospermas ya presentan trauqeas de vasos xilematicos de lumen grandes, y al contrario hay un grupo de angiospermas pero q no tiene traqueas, solo tiene traqueidas eso se considera es una desaparaición, por una cuestión de adaptación del frio
+
+tenemos un grupo de gimnospermas ya presentan tráqueas de vasos xilematicos de lumen grandes, y al contrario hay un grupo de angiospermas pero q no tiene traqueas, solo tiene traqueidas eso se considera es una desaparaición, por una cuestión de adaptación del frio
 cuado tienes posibilidad de congelación entonces tenerlo tan grande no es buena idea, como las canodades de una vivienda en sometidas a congelación para evitar el colapso de congelación.→genitales.
 
 
@@ -152,3 +153,45 @@ las frutas no se pueden guardar para otros años, porque carecen de latencia ni 
 
 un gran interés farmacológico.
 gametófito flagelado
+
+
+---
+24-2-26
+D44-
+### Orden pinales
+
+las más antiguos
+
+la resina tiene unos conductos cosa que no ocurre con las cupressaceaes(rasgo que permite diferenciarlas).
+No hay hermafroditas y en cupressaceae no necesariamente.
+se cumple que sea sifonógama.
+
+### Cupresales
+secuoyas
+grupo gigante, en volumen es más grande que una ballena gris.
+
+sus hojas son 2 tipos de hojas: Juniperus, aciculares y escuamiformes.
+enebros y salinas(escuamiformes)
+
+fructificaciones→funcionalmente son frutas pero morfológicamente pueden parecerlo, y en algunos casos pueden ser carnosos en un cupresales pero en juniperus no,
+las escuamas seminiferas se fusionan entre ellas 
+
+taxas →en vez de tenr un glabulo solo tiene 1 una semilla envuelta por una estructura carnosa q es una q crece de la base (meristema q comienza a crecer y envuelve a la semilla).
+
+
+
+### Gnetales
+doble fecundación
+en el xilema tiene la aparición de las tráqueas.
+hay una envoltura parcial del primordio seminal 
+el gametófito reducción importante, 
+
+
+ephedra, como una leguminosa sin frutos
+
+
+esas  2 hojas no dejan de crecer pero *Welwistchia* en la base tiene un meristema y por la fruta se termina y se rompe.
+
+angios
+cuerpo vegetatitivo con mucha versatilidad a todos los ambientes.
+el ciclo vital se reduce 
