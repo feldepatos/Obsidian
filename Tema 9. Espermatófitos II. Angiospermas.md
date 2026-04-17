@@ -502,5 +502,82 @@ diferencia entre el folículo.solo tiene una entrada ,o sea una sutura fruto del
 limon→pelos el endocarpico hinchado de zumo.
 
 ---
-16-4-26
+15-4-26
 D29-34
+
+gineceo→mango
+eterio
+	partes de la flora q son el receptáculo floral donde están insertadas todas las piezas florales y la parte rugosa es el eje floral.
+
+pomo
+	paredes del ovario, las paredes dentro de la manzana 
+	![[Pasted image 20260415084007.png]]
+
+el cono es del ovario ínfero
+
+Balaustia
+
+sicono→higo
+sorosis→piña
+	nos comemos todo el eje de la inflorescencia
+	le quitamos todas las brácteas
+
+----
+# Tema 15. Dispersión
+
+15-4-26
+
+zoocoria
+la parte externa del animal o interna(cuando lo ingiere)
+
+Endozoocoria→voluntaria ya que se lacome
+la planta consigue que las semillas acaben en un sustrato abonado
+
+Diszoocoria→dispersión accidental
+
+ORNITOCORIA
+	suele ser endozoocoria
+	o se le puede quedar enganchado en las patas
+	necesita un reclamo para atraerlo, como colores llamativos adaptatos a la vista de aves.
+	+cera para destacar
+
+modificación para la dispersión
+	las frutas quedan sobre la planta
+	 esclerocarpo→pq debe pasar por el aparato digestivo→cubierta leñosa
+	 suelen tener sustancias inhibidores de la germinación
+
+mientras que las aves intentan limpiarse el pico contra una rama de un árbol la semilla se queda pegaba y germina.
+
+
+exozoocoria
+	presentan una nº ↑ proyecciones q le permiten ser enganchosos
+
+mamalicoria(endozoocoria)
+
+---
+16-4-26
+D10-
+
+MIRMECOCORIA
+	el reclamo es el alimento
+	la misma semilla excreción en la semilla o fruta q se queda pegado sobre la hormiga para evitar que sean comidas por las hormigas
+
+Anemocoria
+	el tamaño o bien tienen mecanismo que favorecen la fotabilidad o son muy pequeñas
+
+el cáliz de la flor que se transforma en esa estructura
+
+Estepicursores→la parte aérea se desconecta y forma bolas esféricas
+
+Hidrocoria→
+
+Viviparismo→la semilla germina sobre el árbol
+
+acumulan presión dentro de la fruta(↑ 1 bar) y cuando se tocan las semillas salen con mucha presión
+
+cacahuete→legumbre →Geocarpia
+
+---
+
+# Tema 16. Diversidad y evolución. Origen y filogenia
+

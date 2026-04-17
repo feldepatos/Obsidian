@@ -52,7 +52,6 @@ Lo que resta de los quilomicrones, de los que se ha retirado la mayor parte de t
 
 **La lipolisis, movilización de los triacilgliceroles almacenados en el tejido adiposo, está regulada hormonalmente.**
 
-
 En respuesta a señales hormonales(**epinefrina y glucagón**), los triagliceroles del tejido adiposo se convierten en ácidos grasos libres que se liberan a la sangre(albúmina actúa como transportador).
 
 PKA fosforila a la lipasa sensible a la hormona (LHS) y a Perilipina (localizada en superfice de la gota grasa), permitiendo el acceso del LSH para hidrolizar el triacilglicerol a ácidos grasos.
@@ -310,13 +309,19 @@ Al igual que en el caso de la degradación de ácidos grasos, la síntesis de á
 
 El citrato transporta grupos acetilo desde la mitocondria al citoplasma.
 
-El primer obstáculo bioquímico en la síntesis de ácidos grasos es que esta tiene lugar en el citoplasma, pero el acetil-CoA, la materia prima para la síntesis de ácidos grasos, se forma en las mitocondrias. Las mitocondrias no son fácilmente permeables al acetil-CoA. ¿Cómo se transfieren las moléculas de acetil-CoA al citoplasma? El problema se resuelve mediante el transporte del acetil-CoA fuera de la mitocondria en forma de citrato. El **citrato se forma en la matriz mitocondrial mediante la condensación del acetil-CoA con oxaloacetato**(Figura 27.1). Esta reacción inicia el ciclo del ácido cítrico cuando se requiere energía. Cuando se satisfacen las necesidades energéticas de una célula, el citrato se reubica en el citoplasma mediante una proteína de transporte, donde es escindido por la ATP-citrato liasa a costa de una molécula de ATP para producir acetil CoA citoplasmático y oxaloacetato.
+El primer obstáculo bioquímico en la síntesis de ácidos grasos es que esta tiene lugar en el citoplasma, pero el acetil-CoA, la materia prima para la síntesis de ácidos grasos, se forma en las mitocondrias. Las mitocondrias no son fácilmente permeables al acetil-CoA. 
+
+> [!question] ¿Cómo se transfieren las moléculas de acetil-CoA al citoplasma? 
+> El problema se resuelve mediante el transporte del acetil-CoA fuera de la mitocondria en forma de citrato
+
+El **citrato se forma en la matriz mitocondrial mediante la condensación del acetil-CoA con oxaloacetato**(Figura 27.1). Esta reacción inicia el ciclo del ácido cítrico cuando se requiere energía. Cuando se satisfacen las necesidades energéticas de una célula, el citrato se reubica en el citoplasma mediante una proteína de transporte, donde es escindido por la ATP-citrato liasa a costa de una molécula de ATP para producir acetil CoA citoplasmático y oxaloacetato.
 
 $$
 \text{Citrato}+ATP+CoASH+H_{2}O→\text{Acetil CoA}+ADP+P_{i}+\text{Oxalacetato}
 $$
 
 Las reacciones de transporte y escisión deben **repetirse ocho veces** para obtener todos los átomos de carbono necesarios para **la síntesis de palmitato.**
+
 Además de ser un precursor de la síntesis de ácidos grasos, el citrato también actúa como molécula señal. Inhibe la **fosfofructoquinasa**, que **controla** la velocidad de la **glucólisis** (p. 243). El citrato en el citoplasma indica un estado rico en energía, lo que indica que no es necesario oxidar la glucosa.
 
 ![[Pasted image 20250616181725.png]]
@@ -361,7 +366,7 @@ Respuesta a la dieta. *El control a largo plazo está mediado por cambios en las
 
 ## La proteína portadora de acilos(ACP)
 
-Si comparamos el APC con la coenzima A, vemos que hay mucha similitud, ambos tiene fosfopanteteínas, con su grupo SH y se diferencian en que el APC esta constituida,además ,por 77 aa,  siendo por lo tanto todavía más grande que el CoA.
+Si comparamos el APC con la coenzima A, vemos que hay mucha similitud, ambos tiene fosfopanteteínas, con su grupo SH y se diferencian en que el APC esta constituida,además, por 77 aa, siendo por lo tanto todavía más grande que el CoA.
 
 ## Reacciones de la biosíntesis
 
@@ -376,11 +381,44 @@ Y vuelva a iniciarse un nuevo ciclo de elongación.
 
 *Los ácidos graso sintasa recibe los grupos de acetilo y malonilo*
 
-Antes de que puedan empezar las reacciones de condensación que construyen la cadena de ácido graso,sehandecargar los 2 grupos tioldelcomplejo enzimático con los grupos acilos correctos. En primer lugar se transfiere el grupo acetilodelacetil-CoA a la ACPenunareacción catalizadapor el dominio malonil/acetil-CoA-ACP transferasa(MAT) del polipeptido multifuncional. A continuación se transfiere el grupo acetilo al grupo-SH de la Cys de la beta-cetoacil-ACP sintasa(KS). La segunda reacción, transferencia  del grupo malonilo desde el malonil-CoA al grupo-SH de la ACP, está también catalizada por la malonil/acetil-CoA-ACP transferasa. En el complejo de sintasa cargada, los grupos acetilo y malonilo están activadospara el proceso de alargamiento de la cadena. Los 4 primeros pasos de este proceso los consideramos ahora en cierto detalle; todos los números de las etapas se refieren a lafigura 21-6.
+Antes de que puedan empezar las reacciones de condensación que construyen la cadena de ácido graso,sehandecargar los 2 grupos tioldelcomplejo enzimático con los grupos acilos correctos. En primer lugar se transfiere el grupo acetilodelacetil-CoA a la ACPenunareacción catalizadapor el dominio malonil/acetil-CoA-ACP transferasa(MAT) del polipeptido multifuncional. A continuación se transfiere el grupo acetilo al grupo-SH de la Cys de la beta-cetoacil-ACP sintasa(KS). La segunda reacción, transferencia  del grupo malonilo desde el malonil-CoA al grupo-SH de la ACP, está también catalizada por la malonil/acetil-CoA-ACP transferasa. En el complejo de sintasa cargada, los grupos acetilo y malonilo están activadospara el proceso de alargamiento de la cadena. Los 4 primeros pasos de este proceso los consideramos ahora en cierto detalle; todos los números de las etapas se refieren a la figura 21-6.
 
 ## Estrategia del proceso de síntesis
 
+*El compejo de los ácidos grasa sintasa de mamíferos tiene múltiples sitios activos*
+
+Los diversos dominios de la FAS I de mamíferos funcionan como enzimas distintas pero unidos. El sitio activo de cada enzima se encuentra en un dominio diferente del gran polipéptido. A lo largo del proceso de síntesis de ácidos grasos los intermedios permanecen covalentemente en forma de tioésteres a uno de 2 grupos tiol. Un sitio de unión es el grupo --SH  de un residuo Cys en una d elos dominios de la sintasa (beta-cetoacil-APC sintasa; KS); el otro es el grupo --SH de la proteína portadora de acilos, un dominio separado del mismo polipéptido. La hidrólisis de los tioésteres es muy exogérnica; la energía liberada ayuda a que 2 pasos (1 y 5 de la Figura 21-6) en la síntesis de ácidos grasos (condensación) sean termodinámicamente favorables.
+
+La proteína portadora de acilos (APC) es la lanzadora que mantiene unido el sistema. La ACP de *E.coli* es una proteína pequeña, que contiene el grupo prostético **4'-fosfopanteteína** (fig.21-5, compárese con el ácido pantoténico y la fracción beta-mercaptoetilimina de la coenzima A en la fig-8-41). Se cree que el grupo prostético 4'-fosfopanteteína de la ACP de *E.coli* sirve de brazo flexible que une la cadena acilo graso creciente a la superficie del complejo del ácido graso creciente a la superficie del complejo del ácido graso sintasa al tiempo que lleva los intermediarios de la reacción desde un sitio activo de la enzima al siguiente. La ACP de mamíferos tiene una función similar y el mismo grupo prostético; sin embargo, tal como hemos visto, está incrustada en forma de dominios dentro de un polipéptido multifuncional mucho mucho mayor.
+
+*La ácido graso sintasa recibe los grupos acetilo y malonilo*
+
+Antes de que pueden empezar las recciones de condensación que construyen la cadena de ácido graso, se han de cargar los 2 grupos tiol del complejo enzimático con los grupos acilos correctos(Fig.21-6 parte superior). En primer lugar se transfiere el grupo acetilo del acetil-CoA a la ACP en una reacción catalizada por el dominio **malonil/acetil-CoA-ACP transferasas(MAT)** de polipéptido multifuncional. A continuación se transfiere el grupo acetilo al grupo -SH de la Cys de la **beto-cetoacil-ACP sintasa(KS).** La segunda reacción, transferencia del grupo malonil desde el malonil-CoA al grupo--SH de la ACP, está también catalizada por la malonil/acetil-CoA-ACP transferasa. En el complejo de la sintasa cargada, los grupos acetilo y malonilo están activados para el proceso de alargamiento de la cadena. Los 4 primeros pasos de este proceso los consideramos ahora en cierto detalle; todos los números de la etapas se refieren a la figura 21-6.
+
+**Paso 1. Condensación**
+La primera reacción en la formación de una cadena de ácido graso es una condensación de Claisen forman en la que intervienen los grupos acetilo y malonilo activados para formar **acetoacetil-ACP**, un grupo acetoacetilo unido a la ACP a través del grupo-SH de la fosfopanteteína; simultáneamente, se produce una molécula de CO2. En esta reacción catalizada por la beta-cetoacil-ACP sintasa, se transfiere el grupo acetilo desde el grupo-SH de la Cys de la enzima malonilo que se encuentra unido al -SH de ACP, conviertiéndose en la unidad de 2 carbonos metilo terminal del nuevo grupo acetoacetilo.
+
+El átomo de carbono del CO2 formado en esta reacción es el mismo átomo de carbono que se introdujo originalmente en el malonil-CoA a partir del bicarbonato mediante la reacción de la acetil-CoA carboxilasa. Así, el CO2 sólo se encuentra transitoriamente en el enlace covalente durante la biosíntesis de ácidos grasos; se elimina a medida que se inserta cada unidad de los 2 carbonos.
+
+
+> [!question] Por qué las células se toman la molestia de adicional CO2 para formar un grupo malonilo a partir de un grupo acetilo, sólo para perderlo de nuevo durante la formación de acetoacetato?
+
+La reacción de condensación es termodinámicamente favorable gracias a la utilización de grupos malonilo activados en lugar de los grupos acetilo. El carbono metilénico del grupo malonilo, situado entre los carbonos carbonílico y carboxílico es un nucleófilo muy bueno. En el paso de la condensación, la descarboxilación del grupo malonilo facilita el ataque nucleofílico del carbono metilénico sobre el tioéster que une el grupo acetilo a la beta-cetoacil-ACP sintasa desplazando el grupo -SH de la enzima(Ésta es una condensación de ésteres de Claisen típica; veáse la fig.13-4) . El acoplamiento de la condensación a la carboxilación del grupo malonilo hace que el proceso sea globalmente muy exergónico. Una secuencia similar de carboxilación-descarboxilación facilita la formación de fosfoenolpiruvato a partir del piruvato en la gluconeogénesis.
+
+Mediante la utilización de grupos malonilo activados en la síntesis de ácidos grasos y de acetato activado en su degradación, la célula consigue que ambos sean favorables energéticamente aunque uno sea, efectivamente, el inverso del otro. La energía extra requerida para que la síntesis de ácidos grasos sea favorable la proporciona el ATP utilizado para sintetizar malonil-CoA a partir de acetil-CoA y bicabornato.
+
+**Paso 2. Reducción del grupo carbonilo**
+El acetoacetil-ACP formado en la etapa de condensación se reducen seguidamente en el grupo carbonilo en C-3 formando D-beta-hidroxibutiril-ACP. Esta reacción está catalizada por la **beta-cetoacil-ACP reductasa(KR)**, y el NADPH es el dador electrónico. Obsérvese que el grupo D-beta-hidroxibutirilo no tiene la misma forma estereoisómera que el intermedio L-hidroxiacilo en la oxidación de los ácidos grasos (véase la fig. 17-8).
+
+**Paso 3. Deshidratación.**
+Se elimina ahora los elementos del agua de C-2 y C-3 del D-beta-hidroxibutiril-ACP y se forma un doble enlace en el producto **trans-delta²-butenil-ACP**. La enzima que cataliza esta deshidratación es la **beta-hidroxiacil-ACP deshidratasa(DH)**
+
+**Paso 4 Reducción de doble enlace.**
+Finalmente, el doble enlace del *trans-delta²-butenil-ACP* se reduce(satura) formando **butiril-ACP** por acción de la **enoil-ACP reductasa(ER)**; de nuevo el dador electrónico es el NADPH.
+
+
 ![[Pasted image 20250616180150.png]]
+
 ## Síntesis de Palmitato
 
 El primer ciclo incorpora 4C, cada ciclo restante incorpora 2C, para sintetizar un palmitato(C16) se necesitan 7 ciclos de extensión.
@@ -393,24 +431,33 @@ $$
 Varias fuentes suministran NADPH para la síntesis de ácidos grasos.
 
 La síntesis de palmitato requiere 14 moléculas de NADPH, además del gasto de ATP. Parte del poder reductor se genera cuando el oxaloacetato formado en la transferencia de grupos acetilo al citoplasma regresa a la mitocondria.
+
 La membrana mitocondrial interna es impermeable al oxaloacetato. Por lo tanto, se requieren una serie de reacciones de derivación. En primer lugar, el oxaloacetato se reduce a malato por el NADH. Esta reacción es catalizada por una malato deshidrogenasa en el citoplasma.
+
 $$
 \text{Oxalacetato}+NADH+H^{+}→\text{malato}+NAD^{+}
 $$
+
 En segundo lugar, el malato es descarboxilado oxidativamente por una enzima malato ligada al NADP (también llamada enzima málica).
+
 $$
 \text{Malato}+NADP^{+}→\text{Piruvato}+CO_{2}+NADPH
 $$
+
 El piruvato formado en esta reacción ingresa fácilmente a las mitocondrias, donde es carboxilado a oxaloacetato por la piruvato carboxilasa.
+
 $$
 \text{Piruvato}+CO_{2}+ATP+H_{2}O→\text{Oxalacetato}+ADP+P_{i}+2H^{+}
 $$
+
 La suma de las 3 reacciones es:
+
 $$
 NADP^{+}+NADH+ATP+H_{2}O→NADPH+NAD^{+}+ADP+P_{i}+H^{+}
 $$
 
 Así, se genera una molécula de NADPH por cada molécula de acetil CoA que se transfiere de la mitocondria al citoplasma. Por lo tanto, se forman ocho moléculas de NADPH cuando se transfieren ocho moléculas de acetil CoA al citoplasma para la síntesis de palmitato. Las seis moléculas adicionales de NADPH necesarias para la síntesis de palmitato provienen de la vía de las pentosas fosfato (Capítulo 25).
+
 La ​​acumulación de precursores para la síntesis de ácidos grasos es un excelente ejemplo del uso coordinado de múltiples vías. El ciclo del ácido cítrico, el transporte de oxaloacetato desde la mitocondria y la vía de las pentosas fosfato proporcionan los átomos de carbono y el poder reductor, mientras que la glucólisis y la fosforilación oxidativa proporcionan el ATP necesario para la síntesis de ácidos grasos (Figura 27.2).
 
 ![[Pasted image 20250616182551.png]]
@@ -418,9 +465,10 @@ La ​​acumulación de precursores para la síntesis de ácidos grasos es un e
 
 El ácido graso sintasa es un complejo multienzimático(bacterias, plantas,tipo II) o multifuncional(vertebrados, tipo I).
 
+
 ## Ácido grasa sintasa multifuncional
 
-Ácido graso sintasa I(FAS I) en mamíferos.
+Ácido graso sintasa I (FAS I) en mamíferos.
 -  Homodímero funcionando  las subunidades de forma independiente.
 
 **La síntesis de ácidos grasos consiste en una serie de reacciones de condensación, reducción, deshidratación y reducción.** 
@@ -460,8 +508,8 @@ Este intermediario es un buen sustrato para una tioesterasa que hidroliza el C�
 	- Algunos animales, como los humanos, no pueden sintetizar todas las clases de ácidos grasos que necesita por falta de habilidad metabólica en las etapas incluidas en b. Estos ácidos  grasos se han de tomar en la dieta y se denominan ácidos grasos esenciales.
 - Metabolismo del colesterol
 	- La síntesis del colesterol se verifica en el citoplasma de la mayoría de los animales superiores. Los 27 átomos de carbono del colesterol proceden de la acetil CoA.
-	- El colesterol no es soluble en  agua,  como  tampoco lo  son los triacilgliceroles y otros lípidos. Por ello, como ya hemos visto, se  transporta en sangre como partículas de distinta densidad  en las  que se  encuentra en combinación con otros lípidos y con proteínas.
-	- El colesterol es necesario para el crecimiento y  desarrollo celular apropiados,  ya que son componentes esenciales de las membranas  de células  eucariotas.  Sin embargo, cuando  existe un defecto en su transporte o en  su captura por  las células, se acumula en las arterias  y puede llegar a obstruirlas→aterosclerosis.
+	- El colesterol no es soluble en  agua, como tampoco lo son los triacilgliceroles y otros lípidos. Por ello, como ya hemos visto, se  transporta en sangre como partículas de distinta densidad  en las que se encuentra en combinación con otros lípidos y con proteínas.
+	- El colesterol es necesario para el crecimiento y  desarrollo celular apropiados, ya que son componentes esenciales de las membranas de células eucariotas. Sin embargo, cuando existe un defecto en su transporte o en su captura por las células, se acumula en las arterias  y puede llegar a obstruirlas→aterosclerosis.
 
 ## Regulación integrada del metabolismo de lípidos
 
