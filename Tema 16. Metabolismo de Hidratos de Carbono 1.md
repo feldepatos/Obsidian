@@ -156,6 +156,7 @@ $$
 Así, parte del ATP se recupera del **ADP y el **AMP se convierte en la señal para el estado de baja energía.**
 
 Hexoquinasa. 
+
 La **fosfofructoquinasa** es la enzima reguladora más importante en la glucólisis, pero no es la única. 
 La **hexoquinasa**, la enzima que cataliza el primer paso de la glucólisis, es **inhibida** por su producto, la **glucosa 6-fosfato**. Altas concentraciones de glucosa 6-fosfato indican que la célula ya no necesita glucosa para obtener energía, por lo que no es necesario descomponerla. La glucosa quedará entonces en la sangre. **Un aumento** en la **concentración de glucosa 6-fosfato** es un medio por el cual la **fosfofructoquinasa** se **comunica con la hexoquinasa**. Cuando la fosfofructoquinasa está inactiva, la concentración de fructosa 6-fosfato aumenta. A su vez, el nivel de **glucosa 6-fosfato** **aumenta** porque **está en equilibrio con la fructosa 6-fosfato**. Por lo tanto, la **inhibición de la fosfofructoquinasa** conduce a la inhibición de la **hexoquinasa**.
 
@@ -164,14 +165,17 @@ La **hexoquinasa**, la enzima que cataliza el primer paso de la glucólisis, es 
 Piruvato quinasa. **La piruvato quinasa, enzima que cataliza el tercer paso irreversible de la glucólisis**, controla el flujo de esta vía. Este último paso produce ATP y piruvato, un intermediario metabólico central que puede oxidarse aún más o utilizarse como componente básico. El **ATP inhibe alostéricamente la piruvato quinasa** para ralentizar la glucólisis cuando la **carga energética de la célula es alta**. Finalmente, la alanina (sintetizada en un solo paso a partir del piruvato, p. 458) también inhibe alostéricamente la piruvato quinasa, en este caso, para indicar la abundancia de componentes básicos, como sucedería cuando se sintetiza nueva proteína muscular. Cuando aumenta el ritmo de la glucólisis, la fructosa 1,6-bisfosfato, producto del paso irreversible anterior de la glucólisis, activa la quinasa para que pueda seguir el ritmo del alto flujo de intermediarios que se aproxima. La figura 15.13 muestra un resumen de la regulación de la glucólisis en el músculo en reposo y activo.
 ![[Pasted image 20250320224843.png]]
 ## Rendimiento energético en oxidación aerobia de glucosa
+
 ![[Pasted image 20250318195959.png]]
 ## Lanzadera del NADH
+
 ![[Pasted image 20250318200324.png]]
 ### Lanzadera del glicerol 3-fosfato
+
 Esta lanzadera es **irreversible**. 
 Es funcional en cerebro y en músculo.
-
 Produce 1'5 ATP por NADH. en lugar de los 2'5 ATPs que produciría el NADH si fuera mitocondrial.
+
 ![[Pasted image 20250318201138.png]]
 
 La lanzadera del glicerol-3-fosfato es un mecanismo que sirve para transferir los electrones del NADH producido en el citosol durante la glucólisis hacia la mitocondria, ya que el NADH no puede atravesar la membrana interna mitocondrial.
@@ -185,12 +189,10 @@ Después, el glicerol-3-fosfato se transporta hacia la membrana interna de la mi
 Como resultado, los electrones que originalmente estaban en el NADH citosólico entran en la cadena respiratoria a nivel de FADH2, lo que produce menos ATP que si entraran como NADH. Aproximadamente, esta lanzadera genera alrededor de 1,5 ATP por cada NADH citosólico.
 
 En resumen, esta lanzadera permite regenerar NAD+ en el citosol y transferir los electrones a la mitocondria, aunque con menor rendimiento energético que otras lanzaderas como la del malato-aspartato.
-
 ### Lanzadera malato-aspartato
+
 Esta segunda lanzadera es **reversible**, y por tanto, sirve tanto para introducir NADH como para sacarlo. Es la que funciona en hígado, riñón y corazón.
-
 ![[Pasted image 20250318201126.png]]
-
 La lanzadera malato-aspartato es un sistema que permite transportar los equivalentes reductores del NADH producido en el citosol hacia la mitocondria, ya que el NADH no puede cruzar directamente la membrana interna mitocondrial.
 
 Es el mecanismo más eficiente para este transporte y se utiliza principalmente en tejidos como el hígado, el corazón y el riñón.
@@ -211,6 +213,7 @@ En resumen, la lanzadera malato-aspartato transfiere electrones del NADH citosó
 ## Glicolisis como ruta anabólica
 ![[Pasted image 20250318201149.png]]
 ## Destinos del piruvato
+
 ![[Pasted image 20250318202030.png]]
 La conversión de glucosa en dos moléculas de piruvato da como resultado la síntesis neta de ATP. Sin embargo, una vía de conversión de energía que se detiene en el piruvato no continuará por mucho tiempo, ya que no se ha mantenido el equilibrio redox. Este desequilibrio se debe a la actividad de la gliceraldehído 3-fosfato deshidrogenasa, que necesariamente conduce a la reducción de NAD⁻ a NADH cuando se oxida el gliceraldehído 3-fosfato. En la célula, existen cantidades limitadas de NAD⁻, que se deriva de la vitamina niacina, un requisito dietético para los seres humanos. En consecuencia, el NAD⁻ debe regenerarse para que se lleve a cabo la glucólisis. Por lo tanto, el proceso final de la vía es la regeneración de NAD⁻ a través del metabolismo del piruvato.
 ### Fermentación alcohólica y láctica
@@ -221,7 +224,7 @@ La secuencia de reacciones de la glucosa al piruvato es similar en la mayoría d
 	2. Esta coenzima se deriva de la vitamina tiamina (B1). El segundo paso es la reducción del acetaldehído a etanol por NADH, en una reacción catalizada por la alcohol deshidrogenasa. Por lo tanto, el acetaldehído es el compuesto orgánico que acepta los electrones en esta fermentación. Esta reacción regenera el NAD+.
 	3. La conversión de glucosa en etanol es un ejemplo de fermentación alcohólica.
 	4. El resultado neto de este proceso anaeróbico es:
-		1. Glucosa+2Pi+2ADP+2H+→2 Etanol+2CO2+2 ATP+2H2O
+		- Glucosa+2Pi+2ADP+2H+→2 Etanol+2CO2+2 ATP+2H2O
 	5. Cabe destacar que el NAD+ y el NADH no aparecen en esta ecuación, a pesar de ser cruciales para el proceso general. El NADH generado por la oxidación del gliceraldehído 3-fosfato se consume en la reducción del acetaldehído a etanol.
 	6. Por lo tanto, no hay oxidación-reducción neta en la conversión de glucosa en etanol (Figura 15.5). El etanol formado en la fermentación alcohólica es un ingrediente clave en la elaboración de cerveza y vino, y el dióxido de carbono formado representa la mayor parte de la carbonatación en la cerveza y el champán.
 2. El lactato se forma a partir del piruvato en diversos microorganismos mediante un proceso denominado fermentación láctica. Esta reacción también ocurre en las células de organismos superiores cuando la cantidad de oxígeno es limitada, como en las células del músculo esquelético durante una actividad intensa. El piruvato acepta los electrones del NADH para formar lactato en una reacción catalizada por la lactato deshidrogenasa.
@@ -242,13 +245,18 @@ Esta reacción se analizará en detalle en el Capítulo 17. El NAD⁻⁻ necesar
 
 *Las fermentaciones proporcionan energía utilizable en ausencia de oxígeno.*
 Las fermentaciones producen solo una fracción de la energía disponible de la combustión completa de la glucosa. ¿Por qué se utiliza tan ampliamente una vía metabólica relativamente ineficiente? La razón fundamental es que estas vías no requieren oxígeno. La capacidad de sobrevivir sin oxígeno ofrece una gran variedad de hábitats, como el suelo, las aguas profundas y los poros de la piel. Algunos organismos, llamados anaerobios obligados, no pueden sobrevivir en presencia de O₂, un compuesto altamente reactivo. La bacteria Clostridium perfringens, causante de la gangrena, es un ejemplo de anaerobio obligado. Otros anaerobios obligados patógenos se enumeran en
+
 ![[Pasted image 20250320181134.png]]
 
 El músculo esquelético de la mayoría de los animales puede funcionar anaeróbicamente durante períodos cortos. Por ejemplo, cuando los animales realizan períodos de ejercicio intenso, sus necesidades de ATP aumentan más rápido que la capacidad del cuerpo para proporcionar oxígeno al músculo. El músculo funciona anaeróbicamente hasta que se produce la fatiga, causada, en parte, por la acumulación de lactato. La sensación de ardor en los músculos que se produce durante un período de ejercicio intenso se debe a la acumulación de ácido láctico.
+
 Aunque solo hemos considerado el ácido láctico y la fermentación alcohólica, los microorganismos son capaces de generar una amplia gama de moléculas como puntos finales de la fermentación (Tabla 15.3). De hecho, muchos productos alimenticios, como la crema agria, el yogur, diversos quesos, la cerveza, el vino y el chucrut, son resultado de la fermentación.
 ## Metabolismo de glucosa y cáncer
+
 El metabolismo anaerobio de la glucosa en células tumorales produce sólo 2 ATP/glucosa en lugar de los casi 30 que se obtienen cuando se degrada hasta CO2+HAO.
+
 La fermentación a lactato hace que el metabolismo de la célula cancerosa sea anabólico, para crecer.
+
 Las células tumorales consumen glucosa muy rápido para obtener suficiente ATP.
 Inhibidores de hexoquinasa y otras enzimas privan a la célula cancerosa de energía y las matan.
 ### Tomografía de emisión de positrones y cáncer
@@ -256,30 +264,43 @@ La tomografía de emisión de positrones(PET) detecta el consumo de glucosa en t
 ## Síntesis de hidratos de Carbono
 ![[Pasted image 20250318202438.png]]
 ## Gluconeogénesis
+
 Ruta anabólica, piruvato se convierte e F6P o G6P y a veces en glucosa.
+
 ![[Pasted image 20250318202515.png]]
 ### Sustratos gluconeogénicos
+
 ![[Pasted image 20250318202642.png]]
 ### Glicolisis vs gluconeogénesis
+
 ![[Pasted image 20250318202653.png]]
+
+En los mamíferos la gluceoneogénesis, tiene lugar principalmente en el hígado y su misión es proporcionar glucosa para exportarla a otros tejidos cuando se han agotado los depósitos de glucógeno y cuando no se encuentra disponible la glucosa en la dieta. La gluconeogénesis utiliza varios de los enzimas que actúan en la glucólisis, pero no simplemente a la inversa. 7 de las reacciones glucolíticas son reversibles y los enzimas que catalizan estas reacciones también funcionan en la gluconeogésis. 3 reacciones de la glucólisis son tan exorgénicas que son prácticamente irreversibles: las catalizadas por las hexoquinasas, por la PFK-1 y por la piruvato quinasa. Las 3 reacciones presentan una AG' grande y negativa. En la gluconeogénesis se utilizan rodeos para cada uno de estos pasos irreversibles. Cada una de estas reacciones de rodeo tiene también una Ag negativa y grande.
+
+En cada uno de los 3 pasos en los que las reacciones glucolíticas están rodeadas por reacciones gluconeogénicas alternativas, la operación simultánea de ambas rutas consumiría ATP sin que se consiguiese ningún trabajo químico o biológico.
 ### Etapas diferencicales de la gluconeogénesis
+
 ![[Pasted image 20250318202722.png]]
 ![[Pasted image 20250318202731.png]]
-### Regulación glicolisis/  glucoeneogénesis
+### Regulación glicolisis/ glucoeneogénesis
 ![[Pasted image 20250318202843.png]]
 *La carga energética determina si la glucólisis o la gluconeogénesis serán más activas.*
 
 El primer sitio de regulación importante en la vía de la gluconeogénesis es la interconversión de **fructosa 6-fosfato y fructosa 1,6-bisfosfato** (Figura 16.5).
-Consideremos primero una situación en la que 
+Consideremos primero una situación en la que:
 - **Se necesita energía(↓ATP)**. 
 	- En este caso, la concentración de **AMP es alta**(El AMP proviene de la formación de ATP a partir del 2 moléculas de ADP). En esta condición, el AMP **estimula la fosfofructoquinasa**,  pero inhibe la **fructosa 1,6-bisfosfatasa.** Por lo tanto, se **activa la glucólisis** y se **inhibe la gluconeogénesis**. 
+
 Por el contrario, niveles altos de ATP y citrato indican que la carga energética es alta y que los intermediarios biosintéticos son abundantes.
+
 - El ATP y el citrato **inhiben la fosfofructoquinasa**, mientras que el **citrato activa la fructosa 1,6-bisfosfatasa**. 
 - En estas condiciones, la **glucólisis** está prácticamente **inactiva** y se promueve la **gluconeogénesis**. 
 	- ¿Por qué participa el citrato en este esquema regulador? Como veremos en el Capítulo 18, **el citrato informa sobre el estado del ciclo del ácido cítrico**, la **principal vía para la oxidación** de combustibles en presencia de oxígeno.
+
 Altos niveles de citrato indican una situación de alto contenido energético y la presencia de precursores para la biosíntesis.
 
 La glucólisis y la gluconeogénesis también se regulan recíprocamente en la interconversión de **fosfoenolpiruvato** y **piruvato** en el hígado. La enzima glucolítica **piruvato quinasa es inhibida** por los efectores alostéricos **ATP** y alanina, que indican que la **carga energética es alta** y que los componentes básicos son abundantes. Por el contrario, la **piruvato carboxilasa**, que cataliza el primer paso de la gluconeogénesis a partir del piruvato, es **inhibida por el ADP**. Asimismo, el ADP inhibe la **fosfoenolpiruvato carboxilasa**. La **piruvato carboxilasa es activada por la acetil CoA**, lo cual, al igual que el citrato, indica que el ciclo del ácido cítrico **produce energía e intermediarios biosintéticos** (Capítulo 18). Por lo tanto, la gluconeogénesis se ve favorecida cuando la célula es rica en **precursores biosintéticos y ATP**.
+
 ![[Pasted image 20250322184428.png]]
 ### Control por [Fructosa-2,6-bifosfato]
 ![[Pasted image 20250318203004.png]]
@@ -292,11 +313,10 @@ Cuando la glucemia es baja:
 - la fructosa 2,6-bisfosfato pierde un grupo fosforilo para formar fructosa 6-fosfato, que ya no se une a la PFK.
 
 ¿Cómo se controla la concentración de fructosa 2,6-bisfosfato para que suba y baje con los niveles de glucosa en sangre? 
+
 - Dos enzimas regulan la concentración de esta molécula: una fosforila la fructosa 6-fosfato y la otra la desfosforila. La fructosa 2,6-bisfosfato se forma a partir de la fructosa 6-fosfato en una reacción catalizada por la fosfofructoquinasa 2 (PFK2), una enzima diferente de la fosfofructoquinasa. En sentido inverso, la fructosa 6-fosfato se forma mediante la hidrólisis de la fructosa 2,6-bisfosfato por una fosfatasa específica, la fructosa bisfosfatasa 2 (FBPasa2). El hallazgo sorprendente es que tanto la PFK2 como la FBPasa2 están presentes en una sola cadena polipeptídica de 55 kd (Figura 16.6). Esta enzima bifuncional contiene un dominio regulador N-terminal, seguido de un dominio quinasa y un dominio fosfatasa.
 
-
-> [!question] 
-> ¿Qué determina si la PFK2 o la FBPasa2 dominan las actividades de la enzima bifuncional en el hígado? 
+¿Qué determina si la PFK2 o la FBPasa2 dominan las actividades de la enzima bifuncional en el hígado? 
 
 - Las actividades de la PFK2 y la FBPasa2 están **controladas** recíprocamente por la **fosforilación** de un único residuo de serina. Cuando la glucosa es escasa, como ocurre durante un ayuno nocturno, un **aumento** en el nivel sanguíneo de la hormona **glucagón** desencadena una **cascada de señales de AMP cíclico** (p. 177), lo que lleva a la **fosforilación** de esta enzima bifuncional por la proteína quinasa A (Figura 16.7). Esta modificación covalente **activa la FBPasa2** e **inhibe la PFK2**, disminuyendo el nivel de F-2,6-BP. Predomina la gluconeogénesis. La glucosa producida por el hígado en estas condiciones es esencial para la viabilidad del cerebro. La **estimulación de la proteína quinasa A** por el **glucagón** también inactiva la **piruvato quinasa en el hígado** (p. 244).
 
@@ -304,20 +324,15 @@ Por el contrario, cuando la **glucosa en sangre es abundante**, como ocurre desp
 ![[Pasted image 20250320231334.png]]
 ### Activación de protein quinasa A→PK A
 Una concentración de glucosa baja en sangre provoca la liberación de la hormona glucagón por las células alpha del páncreas.
-
 ![[Pasted image 20250319224332.png]]
 PKA activada por AMPc provoca una disminución en la concentración de F-2,6-BP, entre otros efectos.
 ![[Pasted image 20250319224416.png]]
 ### Regulación de Piruvato Quinasa por PK A
+
 La actividad en tejido hepático está regulado por fosforilación modulada por hormonas(glucagón e insulina) que señalizan al hígado acerca de los niveles de glucosa en sangre.
+
 El enzima está regulado también por control alostérico
 ![[Pasted image 20250319224010.png]]
-
-Concentraciones elevadas de ATP, acetil-CoA, y ácidos grasos de cadena larga inhiben alostéricamente todos los isozimas de la piruvato quinasa. El isozima hepática(forma L), está sujeto a una regulación adicional por fosforilación. Cuando una baja concentración de glucosa en sangre provoca la liberación de glucagón, la proteína quinasa dependiente de AMPc fosforila la isozima L de la piruvata quinasa, inactivándolo. Esto disminuye la utilización de glucosa como combustible por el hígado, reservándolo para su exportación al cerebro y otros órganos. En el músculo, el efecto del aumento de la [AMPc] es totalmente diferente. En respuesta a la adrenalina, el AMPc activa la degradación del glucógeno y la glucólisis y proporciona el combustible necesario para la respuesta de luchar o huir.
-
-Además, la acumulación de alanina, que se puede sintetizar a partir del piruvato en un paso, inhibe alostéricamente la piruvato quinasa, haciendo más lenta la producción de piruvato por la glucólisis.
-
-Cuando desciende la concentración de glucogón, una proteína fosfatasa desfosforila la piruvato quinasa activándola. Este mecanismo impide que el hígado consuma glucosa a través de la glucólisis cuando la concentración de glucosa en sangre es baja;en lugar de ello el hígado exporta la glucosa. Este mecanismo de fosforilación no afecta la isozima muscular(forma M).
 ### Control de la síntesis de enzimas Gluconeogénicos
 La insulina impide la síntesis de enzimas gluconeogénicos
 ![[Pasted image 20250319223846.png]]
@@ -594,14 +609,7 @@ Por lo tanto, una abundancia de fructosa 6-fosfato conlleva una mayor concentrac
 Tras una comida rica en carbohidratos, los niveles de glucosa en sangre aumentan y la síntesis de glucógeno se intensifica en el hígado. Si bien la insulina es la principal señal para la síntesis de glucógeno, otra señal es la concentración de glucosa en sangre, que normalmente oscila entre 80 y 120 mg por 100 ml (4,4-6,7 mM). El hígado detecta la concentración de glucosa en sangre y la absorbe o libera para mantener un nivel normal. La cantidad de fosforilasa α hepática disminuye rápidamente cuando se infunde glucosa en la sangre (Figura 24.7). De hecho, la fosforilasa α es el sensor de glucosa en las células hepáticas. La unión de la glucosa a la fosforilasa α cambia su equilibrio alostérico de la forma activa R a la forma inactiva T. Este cambio conformacional convierte al grupo fosforilo de la serina 14 en un sustrato para la proteína fosfatasa 1. La PP1 se une firmemente a la fosforilasa a solo cuando esta se encuentra en el estado R, pero permanece inactiva cuando está unida. Cuando la glucosa induce la transición a la forma T, la PP1 se disocia de la fosforilasa y se activa, convirtiendo la fosforilasa a hepática en la forma b. Recordemos que la transición R Δ T de la fosforilasa a muscular no se ve afectada por la glucosa y, por lo tanto, no se ve afectada por el aumento de los niveles de glucosa en sangre (p. 373).
 Tras un período de disminución del nivel de glucógeno fosforilasa a, aumenta la cantidad de glucógeno sintasa a, lo que provoca la síntesis de glucógeno a partir de la glucosa que ya ha entrado en el hígado. ¿Cómo activa la glucosa la glucógeno sintasa? 
 La fosforilasa b, a diferencia de la fosforilasa a, no se une a la fosfatasa. En consecuencia, la conversión de a en b va acompañada de la liberación de PP1, que queda libre para activar la glucógeno sintasa e inactivar la glucógeno fosforilasa (Figura 24.8). La eliminación del grupo fosforilo de la glucógeno sintasa b inactiva la convierte en la forma a activa. Inicialmente, hay aproximadamente 10 moléculas de fosforilasa a por molécula de fosfatasa. En consecuencia, la mayor parte de la fosforilasa a se convierte en b antes de que se libere la fosfatasa. Por lo tanto, la actividad de la glucógeno sintasa comienza a aumentar solo después de que la mayor parte de la fosforilasa se inactiva (véase la Figura 24.7). El desfase entre la degradación y la síntesis impide que ambas vías operen simultáneamente. Este notable sistema de detección de glucosa depende de tres elementos clave: (1) la comunicación entre el sitio alostérico de la glucosa y el fosfato de serina, (2) el uso de PP1 para inactivar la fosforilasa y activar la glucógeno sintasa, y (3) la unión de la fosfatasa a la fosforilasa a para prevenir la activación prematura de la glucógeno sintasa.
-## Ruta de los fosfatos de pentosa de la oxidación de la glucosa 
-
-En la mayoría de tejidos animales el destino catabólico principal de la G6P es la degradación glucolítica a piruvato gran parte del cual se oxida vía del ciclo de kreb lo que lleva en último término a la generación de ATP.
-
-En esta ruta oxidativa, el NADP⁺ es el aceptor electrónico, dando NADPH. Las células en rápida división,utilizan la pentosa ribosa-5-fosfato, para producir RNA, DNA y coenzimas(ATP,NADH,FADH2), y coenzima A.
-
-En otros tejidos el producto esencial de la ruta es el dador electrónico NADPH necesario para la biosíntesis reductora o para contrarrestar los efectos perniciososo como ORE(estrés oxidativo)
-
+## Ruta de los fosfatos de pentosa
 1. Reacciones de oxidación
 2. Reacciones de isomerización/epimerización
 3. Reacciones de ruptura y de formación de enlaces.
@@ -614,13 +622,10 @@ $$
 6C_{5}\leftrightarrows 5C_{6}
 $$
 ![[Pasted image 20250319232602.png]]
-
 Recordemos que, en la fotosíntesis, un producto clave de las reacciones luminosas es el NADPH. El NADPH es la fuente del poder reductor biosintético en todos los organismos y se utiliza en numerosos procesos bioquímicos (Tabla 25.1). ¿Cómo generan NADPH las células y organismos no fotosintéticos? El metabolismo de la glucosa 6-fosfato por la vía de las pentosas fosfato genera NADPH para los organismos no fotosintéticos. Esta vía consta de dos fases: (1) la generación oxidativa de NADPH y (2) la interconversión no oxidativa de azúcares (Figura 25.1). En la fase oxidativa, el NADPH se genera cuando la glucosa 6-fosfato se oxida a ribulosa 5-fosfato.
-
 $$
 \text{Glucosa-6-fosfato}+2NADP^{+}+H_{2}O→\text{Ribulosa-5-fosfato}+2NADPH+2H^{+}+CO_{2}
 $$
-
 La ribulosa 5-fosfato se convierte posteriormente en ribosa 5-fosfato, precursora del ARN y el ADN, así como del ATP, el NADH, el FAD y la coenzima A. En la fase no oxidativa, la vía cataliza la interconversión de azúcares de tres, cuatro, cinco, seis y siete carbonos en una serie de reacciones no oxidativas. El exceso de azúcares de cinco carbonos puede convertirse en intermediarios de la vía glucolítica. Todas estas reacciones tienen lugar en el citoplasma.
 
 *Se generan dos moléculas de NADPH en la conversión de glucosa 6-fosfato en ribulosa 5-fosfato.*
@@ -665,18 +670,13 @@ $$
 $$
 Por lo tanto, el exceso de ribosa 5-fosfato formado por la vía de la pentosa fosfato puede convertirse completamente en intermediarios glucolíticos. Además, cualquier ribosa ingerida en la dieta puede ser procesada en intermediarios glucolíticos mediante esta vía. Evidentemente, los esqueletos carbonados de los azúcares pueden reorganizarse ampliamente para satisfacer las necesidades fisiológicas (Tabla 25.2).
 
+
 Versatilidad de la ruta de los fosfatos de pentosa
 1. Ribosa 5-fosfato puede utilizarse en síntesis de nucleótidos y ácidos nucleicos.
 2. Si la célula no necesita producir energía, fructosa 6-P y gliceraldehído 3-P producidos en vía no oxidativa se transformarán de nuevo en glucosa 6-P(↑ NADPH).
 3. Si la célula necesita producir energía fructosa 6-P y gliceraldehído 3-P podrán proseguir por glucolisis, hasta piruvato, y su oxidación completa.
 ![[Pasted image 20250319233341.png]]
 ![[Pasted image 20250319233349.png]]
-
-*La xilulosa-5-fosfato es un regulador clave de los metabolismo glucídico y lipídico*
-
-Otro mecanismo regulador actúa controlando la [F-1,6-BP]. La [xilulosa-5-P] aumenta a medida que la glucosa que entra en el hígado se convierte en G6P y se dirige tanto en la ruta glucolítica como a la de las pentosas fosfato. La xilulosa-5-P activa la fosfoproteína fosfatasa 2A que desfosforila la enzima bifuncional PFK-2/FBPasa-2. La desfosforilación activa la PFK2 e inhibe FBPasa-2 con lo que el consiguiente aumento de la [F-2,6-BP] estimulando la glucólisis e inhibe la gluconeogénesis. El aumento de la glucólisis dispara la producción de acetil-CoA mientras que el incremento en el flujo de hexosas a través de la ruta  de las pentosas fosfato genera NADPH. El acetil-CoA y el NADPH  son los materailes de partida para la síntesis de ácidos grasos.
-
-La xilulosa-5-P también aumenta la síntesis de todas las enzimas requeridos para la síntesis de ácidos grasos.
 
 ## NADPH y Glutation
 
@@ -695,14 +695,12 @@ El proceso tiene lugar en el estroma del cloroplasto en plantas superiores.
 ![[Pasted image 20250320135332.png]]
 ## Etapas del ciclo de Calvin
 1. Fijación del CO2
-2. Reducción y producción de triosa fosfato (G3P).
+2. Reducción
+	1. ![[Pasted image 20250320135549.png]] y producción de triosa fosfato (G3P).
 3. Regeneración del aceptor de CO2(ribulosa-1,5-bifosfato).
-
 El rendimiento neto del ciclo: 1 molécula de G3P por cada 3 moléculas de CO2 asimiladas.
-
 ![[Pasted image 20250320135549.png]]
 ### Fase de fijación del CO2, RubisCO
-
 La ribulosa 1,5-bisfosfato carboxilasa/oxigenasa(RubisCO) cataliza la fijación del CO2 atmosférico.
 Unión covalente del CO2 a la ribulosa-1,5-bisfosfato(carboxilación) y ruptura del intermediario de 6 carbonos.
 Constituye el 50% de las proteínas del estroma.
@@ -712,28 +710,20 @@ Constituye el 50% de las proteínas del estroma.
 
 La primera etapa del ciclo de Calvin es la fijación del CO₂. La molécula de CO₂ se condensa con la ribulosa 1,5-bisfosfato para formar un compuesto inestable de seis carbonos, que se hidroliza rápidamente a dos moléculas de 3-fosfoglicerato.
 Así, el dióxido de carbono, un producto de desecho de la respiración celular, se reintroduce en el mundo bioquímico. Esta reacción altamente exergónica (⌬G°⬘ = ⫺51,9 kJ mol⫺1, o ⫺12,4 kcal mol⫺1) es catalizada por la ribulosa 1,5-bisfosfato carboxilasa/oxigenasa (generalmente llamada rubisco), una enzima ubicada en la superficie estromal de las membranas tilacoides de los cloroplastos. Esta importante reacción es el paso limitante en la velocidad de la síntesis de hexosas. La rubisco en los cloroplastos consta de ocho subunidades grandes y ocho pequeñas. Cada cadena L contiene un sitio catalítico y un sitio regulador. Las cadenas S potencian la actividad catalítica de las cadenas L. Esta enzima es muy abundante en los cloroplastos, constituyendo más del 16%, probablemente la proteína más abundante en la biosfera. Se requieren grandes cantidades debido a que la rubisco es una enzima ineficiente; su velocidad catalítica máxima es de tan solo 3 s⁻1.
-
 La rubisco también requiere CO₂ unido para su actividad catalítica, además del sustrato CO₂. El CO₂ unido forma un carbamato con la lisina 201 de la subunidad grande. El carbamato se une a un ion Mg²+ necesario para la actividad catalítica. Más adelante veremos la importancia reguladora de este requisito.
 ### Reacciones de la fase de fijación y de reducción
-
 Para producir netamente una molécula de triosa fosfato(gliceraldehído-3-fosfato, C3) se han de fijar 3 moléculas de CO2(C1), empleando para ello 3 cebadores C5(ribulosa-1,5-bisfosfato).
 ![[Pasted image 20250320135947.png]]
 $$
 3CO_{2}+3RuBP+6ATP+6NADPH+6H^{+}→3G_{3}P+6ADP+6Pi+6NADP^{+}
 $$
-
-*Las hexosas fosfato se forman a partir del fosfoglicerato y la ribulosa 1,5-bisfosfato se regenera.*
-
+Las hexosas fosfato se forman a partir del fosfoglicerato y la ribulosa 1,5-bisfosfato se regenera.
 En la segunda etapa del ciclo de Calvin, los productos de 3-fosfoglicerato de la rubisco se convierten en hexosas fosfato. Los pasos de esta conversión son similares a los de la vía gluconeogénica, excepto que la gliceraldehído 3-fosfato deshidrogenasa del cloroplasto, que genera gliceraldehído 3-fosfato (GAP) en el tercer paso de la conversión, es específica para el NADPH en lugar del NADH. Las hexosas fosfato producto del ciclo de Calvin existen en tres formas isoméricas: glucosa 1-fosfato, glucosa 6-fosfato y fructosa 6-fosfato, que en conjunto se denominan reserva de hexosas monofosfato. Cabe recordar que estos isómeros son fácilmente interconvertibles. Alternativamente, el gliceraldehído 3-fosfato puede transportarse al citoplasma para la síntesis de glucosa. Estas reacciones, y la catalizada por la rubisco, llevan el CO2 al nivel de oxidación de una hexosa, convirtiéndolo en un combustible químico a expensas del NADPH y el ATP generados en las reacciones de la luz.
-
 La tercera y última etapa del ciclo de Calvin es la regeneración, que no es tan sencilla como la del oxalacetato en el ciclo del ácido cítrico. El reto reside en construir moléculas de cinco carbonos, como el gliceraldehído 3-fosfato. Mediante una transcetolasa, que encontraremos de nuevo en la vía de las pentosas fosfato, y una aldolasa, una enzima presente en la glucólisis y la gluconeogénesis, la construcción del azúcar de cinco carbonos se realiza como se muestra en la Figura 22.4. La suma de las reacciones es:
-
 $$
 \text{Fructosa-6-fosfato}+2\text{gliceraldehído-3-fosfato}+\text{dihidroxiacetona fosfata}+3ATP→3 \text{Ribulosa-1,5bisfosfato}+3ADP
 $$
-
 Esta serie de reacciones completa el ciclo de Calvin (Figura 22.5). La Figura 22.5 presenta las reacciones necesarias con la estequiometría adecuada para convertir tres moléculas de CO₂ en una molécula de dihidroxiacetona fosfato (DHAP).
-
 Sin embargo, se requieren dos moléculas de DHAP para la síntesis de un miembro del grupo de hexosas monofosfato. En consecuencia, el ciclo, tal como se presenta, debe repetirse dos veces para producir una hexosa monofosfato. El resultado del ciclo de Calvin es la generación de una hexosa y la regeneración del compuesto inicial, la ribulosa 1,5-bisfosfato. En esencia, la ribulosa 1,5-bisfosfato actúa catalíticamente, de forma similar al oxaloacetato en el ciclo del ácido cítrico.
 ### Fase de regeneración del aceptor
 ![[Pasted image 20250320140649.png]]
@@ -741,11 +731,9 @@ Sin embargo, se requieren dos moléculas de DHAP para la síntesis de un miembro
 Se utilizan tres moléculas de ATP y dos moléculas de NADPH para llevar el dióxido de carbono al nivel de una hexosa.
 
 ¿Cuál es el gasto energético para sintetizar una hexosa? Se requieren seis rondas del ciclo de Calvin, ya que en cada ronda se reduce un átomo de carbono. Se gastan doce moléculas de ATP para fosforilar 12 moléculas de 3-fosfoglicerato a 1,3-bisfosfoglicerato, y se consumen 12 moléculas de NADPH para reducir 12 moléculas de 1,3-bisfosfoglicerato a gliceraldehído 3-fosfato. Se gastan seis moléculas adicionales de ATP para regenerar la ribulosa 1,5-bisfosfato. La ecuación balanceada para la reacción neta del ciclo de Calvin es:
-
 $$
 6CO_{2}+18ATP+12NADPH+12H_{2}O→C_{6}H_{1}2O_{6}+18ADP+18Pi+12NAPD^{+}+6H^{+}
 $$
-
 Por lo tanto, se consumen 3 moléculas de ATP y 2 moléculas de NADPH para incorporar una sola molécula de CO₂ en una hexosa como la glucosa o la fructosa. La síntesis de glucosa a partir de CO₂ es bioquímicamente costosa, pero la fuente de energía principal —la luz solar— es abundante.
 ## Balance global del ciclo de Calvin
 $$
@@ -787,6 +775,29 @@ Incremento de Mg2+ en el estroma en luz para compensar el bombeo de H+ al lumen 
 ![[Pasted image 20250320150055.png]]
 Aumento del poder redox por el funcionamiento de la cadena fotosintética. Enzimas de la fase de regeneración se mantienen reductivos y activos. En oscuridad estos enzimas se oxidan e inactivan espontáneamente por el O2.
 ![[Pasted image 20250320150104.png]]
+**Explicación larga**
+La rubisco es una de las enzimas más importantes de la vida, ya que proporciona carbono orgánico a la biosfera. Sin embargo, esta enzima tiene un lado derrochador. En ocasiones, la rubisco reacciona con O₂ en lugar de CO₂, catalizando una reacción de oxigenasa inútil. Los productos de esta reacción son fosfoglicolato y 3-fosfoglicerato (Figura 22.11).
+El fosfoglicolato no es un metabolito versátil. Una vía de recuperación recupera parte de su esqueleto carbonado, reciclando tres de los cuatro átomos de carbono de dos moléculas de glicolato. Sin embargo, un átomo de carbono se pierde en forma de CO₂. Este proceso se denomina fotorrespiración porque, al igual que en la respiración celular, se consume O₂ y se libera CO₂. Sin embargo, la fotorrespiración es derrochadora porque el carbono orgánico se convierte en CO₂ sin la producción de ATP, NADPH u otro metabolito rico en energía. Además, la actividad oxigenasa aumenta más rápidamente con la temperatura que la actividad carboxilasa, lo que representa un problema para las plantas tropicales.
+![[Pasted image 20250321210059.png]]
+Si la actividad oxigenasa de la rubisco aumenta más rápidamente con la temperatura que su actividad carboxilasa, ¿cómo plantas como la caña de azúcar y el maíz que crecen en climas cálidos evitan tasas muy altas de fotorrespiración? La solución al problema ilustra un mecanismo por el cual la fotosíntesis responde a las condiciones ambientales.
+
+*La vía C4 de las plantas tropicales acelera la fotosíntesis mediante la concentración de dióxido de carbono.*
+
+Una forma de contrarrestar la actividad oxigenasa inherente de la rubisco es lograr una alta concentración local de CO2 en el sitio del ciclo de Calvin en las células fotosintéticas. La esencia de este proceso radica en que los compuestos de cuatro carbonos (C4), como el oxaloacetato, transportan el CO2 desde las células del mesófilo en la superficie de las hojas hasta las células internas de la vaina del haz, que son los principales sitios de la fotosíntesis (Figura 22.12).
+La ​​descarboxilación del compuesto de cuatro carbonos en una célula de la vaina del haz mantiene una alta concentración de CO2 en el sitio del ciclo de Calvin. El compuesto de tres carbonos resultante, el piruvato, regresa a la célula del mesófilo para otra ronda de carboxilación. La vía C4 para el transporte de CO₂, también llamada vía Hatch-Slack en honor a sus descubridores Marshall Davidson Hatch y C. Roger Slack, comienza en una célula mesófila con la condensación de CO₂ y fosfoenolpiruvato para formar oxalacetato, en una reacción catalizada por la fosfoenolpiruvato carboxilasa. Posteriormente, el oxalacetato es convertido en malato por una malato deshidrogenasa ligada al NADP⁻. El malato entra en la célula de la vaina del haz y es descarboxilado dentro de los cloroplastos por una malato deshidrogenasa ligada al NADP⁻. El CO₂ liberado entra en el ciclo de Calvin de la forma habitual, condensándose con ribulosa 1,5-bisfosfato. El piruvato formado en esta reacción de descarboxilación regresa a la célula mesófila. Finalmente, la piruvato-Pi diquinasa forma fosfoenolpiruvato a partir del piruvato. La reacción neta de esta vía C4 es 
+$$
+CO_{2}\text{(en célula mesofila)}+ATP+H_{2}O→CO_{2}\text{(en la célula de la vina del haz)}+AMP+2Pi+H^{+}
+$$
+
+Por lo tanto, se consume el equivalente energético de dos moléculas de ATP al transportar CO₂ a los cloroplastos de las células de la vaina del haz. En esencia, este proceso es un transporte activo: el bombeo de CO₂ a la célula de la vaina del haz se impulsa por la hidrólisis de una molécula de ATP a una molécula de AMP y dos moléculas de ortofosfato. La concentración de CO₂ puede ser 20 veces mayor en las células de la vaina del haz que en las células del mesófilo como resultado de este transporte.
+Cuando la vía C4 y el ciclo de Calvin operan conjuntamente, la reacción neta es
+$$
+6CO_{2}+30ATP+12NADPH+12H_{2}O→C_{6}H_{1}2O_{6}+30ADP+30Pi+12NADP^{+}+18H^{+}
+$$
+Cabe destacar que se consumen 30 moléculas de ATP por cada molécula de hexosa formada cuando la vía C4 transporta CO₂ al ciclo de Calvin, en contraste con las 18 moléculas de ATP por molécula de hexosa en ausencia de la vía C4. La elevada concentración de CO2 acelera la tasa de fotosíntesis en plantas tropicales donde la luz es abundante y el CO2 es limitante, a la vez que minimiza la pérdida de energía causada por la fotorrespiración.
+
+Las plantas tropicales con una vía C4 realizan poca fotorrespiración debido a que la alta concentración de CO2 en las células de la vaina del haz acelera la reacción de la carboxilasa en comparación con la reacción de la oxigenasa. La distribución geográfica de las plantas que poseen esta vía (plantas C4) y las que carecen de ella (plantas C3) ahora puede comprenderse en términos moleculares. Las plantas C4 tienen ventaja en ambientes cálidos y con alta iluminación, lo que explica su prevalencia en los trópicos. Las plantas C3, que consumen solo 18 moléculas de ATP por molécula de hexosa formada en ausencia de fotorrespiración (en comparación con las 30 moléculas de ATP de las plantas C4), son más eficientes que las plantas C4 a temperaturas de ambientes templados (Figura 22.13).
+
 *La rubisco se activa mediante cambios en las concentraciones de iones hidrógeno y magnesio impulsados ​​por la luz.*
 
 ¿Cómo se comunican las reacciones luminosas con las oscuras para regular este proceso crucial de fijación de CO₂ en biomoléculas? El principal mecanismo de regulación es la alteración del entorno estromal por las reacciones luminosas. Estas reacciones provocan un aumento del pH y de las concentraciones estromales de Mg₂₄, NADPH y una reducción de ferredoxina; todo lo cual contribuye a la activación de ciertas enzimas del ciclo de Calvin (Figura 22.16).
@@ -802,61 +813,26 @@ En los cloroplastos, la tiorredoxina oxidada es reducida por la ferredoxina en u
 ## Asimilación de CO2 en Biomasa en plantas
 ![[Pasted image 20250320150136.png]]
 ## Fotorrespiración
-
 RuBisco no muestra especificidad absoluta por CO2; O2 compite con CO2 en una de cada 3-4 ciclos catalíticos.
 Ribulosa 1,5-bisfosfatos reacciona con O2 formando 3-fosfoglicerato y 2-fosfoglicolato.
 Actividad combinada de rubisco oxigenass y ruta de recuperación del gliocolato consume O2 y produce CO2.
 - NO conserva energía.
 - La formación neta de biomasa puede disminuir hasta un 50%(despilfarro).
-
-*Explicación larga*
-La rubisco es una de las enzimas más importantes de la vida, ya que proporciona carbono orgánico a la biosfera. Sin embargo, esta enzima tiene un lado derrochador. En ocasiones, la rubisco reacciona con O₂ en lugar de CO₂, catalizando una reacción de oxigenasa inútil. Los productos de esta reacción son fosfoglicolato y 3-fosfoglicerato (Figura 22.11).
-
-El fosfoglicolato no es un metabolito versátil. Una vía de recuperación recupera parte de su esqueleto carbonado, reciclando tres de los cuatro átomos de carbono de dos moléculas de glicolato. Sin embargo, un átomo de carbono se pierde en forma de CO₂. Este proceso se denomina fotorrespiración porque, al igual que en la respiración celular, se consume O₂ y se libera CO₂. Sin embargo, la fotorrespiración es derrochadora porque el carbono orgánico se convierte en CO₂ sin la producción de ATP, NADPH u otro metabolito rico en energía. Además, la actividad oxigenasa aumenta más rápidamente con la temperatura que la actividad carboxilasa, lo que representa un problema para las plantas tropicales.
-![[Pasted image 20250321210059.png]]
-Si la actividad oxigenasa de la rubisco aumenta más rápidamente con la temperatura que su actividad carboxilasa, ¿cómo plantas como la caña de azúcar y el maíz que crecen en climas cálidos evitan tasas muy altas de fotorrespiración? La solución al problema ilustra un mecanismo por el cual la fotosíntesis responde a las condiciones ambientales.
-
-
-## Metabolismo plantas C4
-
+Metabolismo plantas C4
 En determinadas plantas se ha encontrado que, para evitar los efectos perjudiciales de la fotorrespiración, estas plantas han desarrollado una ruta especial de fijación en conjunción con el ciclo de Calvin en la que los intermediarios de fijación no son compuestos C3 sino C4, de ahí el nombre de plantas C4.
 Algunas de estas plantas son, por ejemplo, el maíz y la caña del azucar.
 El objetivo de esta alternativa de fijación es aumentar la concentración de CO2 donde va a ser usado por la Rubisco, es decir, se ha desarrollado un sistema de suministro de CO2. 
-
 El CO2 va a ser tomado en células cercanas a la superficie de las hojas donde hay mucho O2 y va a ser transportado al interior de la hoja donde hay muy poco 02. Allí es donde se producirá la reacción de la rubisco.
 Las células de captación del CO2 son las células del mesófilo, que en las plantas C3 es donde se realiza la fotosíntesis , pero no en las C4. En éstas la fotosíntesis tendrá lugar en las células de la vaina del haz o perivasculares, que en C4 contienen los cloroplastos.
-
 Veamos cómo hace esto las plantas C4.
 El CO2 es fijado como bicarbonato mediante la PEP carboxilasa dando OAA. Esta puede ser:
 - Reducio a malato.
 - Transaminado a aspartato.
-
 Cualquiera de las dos moléculas C4 sale y va a las células C de la vaina del haz, donde el compuesto C4 es descarboxilado para dar CO2 y una molécula C3(Piruvato). El piruvato vuelve a la célula del mesófilo y se fosforila con 1 ATP convirtiéndose en PEP, y por tanto regenerando el primer sustrato.
-
 $$
 1ATP→AMP+PPi(=\text{consumo de }2\ ATP)
 $$
-
 Por tanto, cada fijación de 1 CO2 cuesta 2 ATP más a la planta. Pero aún así la eficiencia total es mayor porque se reduce mucho la pérdida por fotorrespiración. Es ventajoso para la planta.
-
 ![[Pasted image 20250320152232.png]]
-
-*La vía C4 de las plantas tropicales acelera la fotosíntesis mediante la concentración de dióxido de carbono.*
-
-Una forma de contrarrestar la actividad oxigenasa inherente de la rubisco es lograr una alta concentración local de CO2 en el sitio del ciclo de Calvin en las células fotosintéticas. La esencia de este proceso radica en que los compuestos de cuatro carbonos (C4), como el oxaloacetato, transportan el CO2 desde las células del mesófilo en la superficie de las hojas hasta las células internas de la vaina del haz, que son los principales sitios de la fotosíntesis (Figura 22.12).
-La ​​descarboxilación del compuesto de cuatro carbonos en una célula de la vaina del haz mantiene una alta concentración de CO2 en el sitio del ciclo de Calvin. El compuesto de tres carbonos resultante, el piruvato, regresa a la célula del mesófilo para otra ronda de carboxilación. La vía C4 para el transporte de CO₂, también llamada vía Hatch-Slack en honor a sus descubridores Marshall Davidson Hatch y C. Roger Slack, comienza en una célula mesófila con la condensación de CO₂ y fosfoenolpiruvato para formar oxalacetato, en una reacción catalizada por la fosfoenolpiruvato carboxilasa. Posteriormente, el oxalacetato es convertido en malato por una malato deshidrogenasa ligada al NADP⁻. El malato entra en la célula de la vaina del haz y es descarboxilado dentro de los cloroplastos por una malato deshidrogenasa ligada al NADP⁻. El CO₂ liberado entra en el ciclo de Calvin de la forma habitual, condensándose con ribulosa 1,5-bisfosfato. El piruvato formado en esta reacción de descarboxilación regresa a la célula mesófila. Finalmente, la piruvato-Pi diquinasa forma fosfoenolpiruvato a partir del piruvato. La reacción neta de esta vía C4 es 
-$$
-CO_{2}\text{(en célula mesofila)}+ATP+H_{2}O→CO_{2}\text{(en la célula de la vina del haz)}+AMP+2Pi+H^{+}
-$$
-
-
-Por lo tanto, se consume el equivalente energético de dos moléculas de ATP al transportar CO₂ a los cloroplastos de las células de la vaina del haz. En esencia, este proceso es un transporte activo: el bombeo de CO₂ a la célula de la vaina del haz se impulsa por la hidrólisis de una molécula de ATP a una molécula de AMP y dos moléculas de ortofosfato. La concentración de CO₂ puede ser 20 veces mayor en las células de la vaina del haz que en las células del mesófilo como resultado de este transporte.
-Cuando la vía C4 y el ciclo de Calvin operan conjuntamente, la reacción neta es
-$$
-6CO_{2}+30ATP+12NADPH+12H_{2}O→C_{6}H_{1}2O_{6}+30ADP+30Pi+12NADP^{+}+18H^{+}
-$$
-Cabe destacar que se consumen 30 moléculas de ATP por cada molécula de hexosa formada cuando la vía C4 transporta CO₂ al ciclo de Calvin, en contraste con las 18 moléculas de ATP por molécula de hexosa en ausencia de la vía C4. La elevada concentración de CO2 acelera la tasa de fotosíntesis en plantas tropicales donde la luz es abundante y el CO2 es limitante, a la vez que minimiza la pérdida de energía causada por la fotorrespiración.
-
-Las plantas tropicales con una vía C4 realizan poca fotorrespiración debido a que la alta concentración de CO2 en las células de la vaina del haz acelera la reacción de la carboxilasa en comparación con la reacción de la oxigenasa. La distribución geográfica de las plantas que poseen esta vía (plantas C4) y las que carecen de ella (plantas C3) ahora puede comprenderse en términos moleculares. Las plantas C4 tienen ventaja en ambientes cálidos y con alta iluminación, lo que explica su prevalencia en los trópicos. Las plantas C3, que consumen solo 18 moléculas de ATP por molécula de hexosa formada en ausencia de fotorrespiración (en comparación con las 30 moléculas de ATP de las plantas C4), son más eficientes que las plantas C4 a temperaturas de ambientes templados (Figura 22.13).
 ## Metabolismo hidratos de carbono
 ![[Pasted image 20250320152247.png]]

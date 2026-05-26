@@ -15,6 +15,7 @@ Tejidos vasculares→soporte+conducción
 	Floema
 		no han perdido el contenido celular carecen de núcleo
 		cribosas→primeras cel. conductoras en aparecer en el grupo
+
 Además de tener tejidos conductores presentan una estructura definida→eustela
 	Grupos fósil
 		![[Pasted image 20250206135553.png]]

@@ -26,7 +26,7 @@ los primordios seminales están desnudos o parcialmente, la cubierta aparece una
 es el nombre de una estructura q aparece en diferentes grupos.
 tenemos unas esquames q porten las semillas encima, no se cierran sobre la semilla, por tanto, las deja completamente desnudas
 
-el primordio seminal es allo q dará lugar a la semilla antes de la germinación, es bastante compleja, una sucesión de retención de estructuras dejando dentro el embrión, no es exclusivamente del gametófito.
+el primordio seminal es eso q dará lugar a la semilla antes de la germinación, es bastante compleja, una sucesión de retención de estructuras dejando dentro el embrión, no es exclusivamente del gametófito.
 
 Tmb sabemos q todos los embriófitos tiene el mismo ciclo vital, la dominancia es tan grande y onminospresencia los gametófitos están escondidas y tenemos todos los grupos tenemos heterosporia.
 
@@ -62,7 +62,7 @@ y las esporas femeninas quedan en otras hojas como las megasporfilas y dentro de
 donde el protalo queda dentro y la agrupación de arqueogonios.
 las angiosp no hacen arqueogonios.
 
-gamet masculino está dentro la cual tiene una serie de cel protálicas q tienen función del gametóito y otras donde producen un papel en la reproducción cel anteridial y la cel veg q hara el tubo la intina+exina q hacen las apredes de la espora q dan protección al todo gametófito.
+gamet masculino está dentro la cual tiene una serie de cel protálicas q tienen función del gametóito y otras donde producen un papel en la reproducción cel anteridial y la cel veg q hara el tubo la intina+exina q hacen las paredes de la espora q dan protección al todo gametófito.
 
 estas cel masculinas sexuales, en general van transportados por un tubo q esa cel protálicas ? la carretera por la cual se mueven los gametos.
 

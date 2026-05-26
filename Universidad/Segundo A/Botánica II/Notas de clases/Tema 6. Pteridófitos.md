@@ -81,7 +81,7 @@ el tallo, está lleno de agujeros cosa típica de las plantas en zonas húmedas.
 recubiertos de silicio, son muy asperos→estropajos.
 
 **todos los esporangios están agrupados en la parte terminal de los tallos**
-recibe el nombre de estróbilo, pq responde a una morfología, cual cosa q tenga un eje sobre el cual habrá escuames, o ramificación compacta.
+recibe el nombre de **estróbilo**, pq responde a una morfología, cual cosa q tenga un eje sobre el cual habrá escuames, o ramificación compacta.
 ![[Pasted image 20260213101916.png]]
 ramificaciones pendadas donde penguen los esporangios.
 cada una de esas piezas. 

@@ -274,9 +274,10 @@ D22-23
 Alteraciones de la fecundación-apomixis
 
 es una forma de producir embriones q son clones de la planta madre en el diagrama tenemos todas las % 
-tenemos uan espora dentro del esporangio(megasportangio dentro del primordio seminal) inicialmente tenemos cel madre de la megaspora q tendrá meiosis 
-de las 3 aborten y solo queda una q recibe todo el citoplasma q da lugar a un primordio seminal q tendrá 7 cel 
-em diferente puntos s epuede romper el proceso la cel madre puede no hace rla meiosi y se queda como la cel diploide se pone en lugar de la ovocelula y produce un embrión q es el clon de la madre.
+tenemos una espora dentro del esporangio(megasporangio dentro del primordio seminal) inicialmente tenemos cel madre de la megaspora q tendrá meiosis 
+de las 3 aborten y solo queda una q recibe todo el citoplasma q da lugar a un primordio seminal q tendrá 7 cel.
+
+em diferente puntos se puede romper el proceso la cel madre puede no hacer la  meiosi y se queda como la cel diploide se pone en lugar de la ovocelula y produce un embrión q es el clon de la madre.
 
 la meoisis pero q no prospere y q hay una cel diploide alrededor (nucela) q se pone en lugar de la ovocelula y da lugar a nu embrión diploide o podemos tener todas las situaciones.
 

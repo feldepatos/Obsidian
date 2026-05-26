@@ -7,6 +7,7 @@
 				- en que cambiará los potenciales de redox porque vamos a utilizar no en estado normal sino excitado y permite la transferencia de e- en una cadena q tiene varios pasos que en un principio son desfavorable.
 
 # Cloroplastos de los organismos fotosintéticos eurariotas
+
 - tilacoides→grana→que estan en la membrana tilacoidal (interna) que esta apilada porque es donde están las clorofilas 
 	- tenemos la cadena de transporte de e-+ATPsintasa+sistemas de transportadores(similar a la membrana intermembrana mitocondrial)
 		- desde el estroma la lumen tialcoidal que genera una diferencia de potencial+[] donde hay ↑ cargas positiva en el lumen tilacoidal en contra de gradiente

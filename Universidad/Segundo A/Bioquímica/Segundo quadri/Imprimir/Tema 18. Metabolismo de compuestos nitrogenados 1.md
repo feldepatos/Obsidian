@@ -8,7 +8,8 @@ Células exocrinas del pancreas segregan enzimas proteolíticas **(zimógenos)**
 # Metabolismo de aa
 
 ## Introducción
-Los aa procedentes de la dieta o del  recambio intracelular que no se emplean para síntesis de proteínas deben ser degradados
+Los aa procedentes de la dieta o del  recambio intracelular que no se emplean para síntesis de proteínas deben ser degradados.
+
 El hígado es el órgano principal  de degradación en  mamíferos, y también se produce en tejidos extrahepáticos como el tejido muscular.
 ![[Pasted image 20250523200136.png]]
 
@@ -18,7 +19,11 @@ AA ceden **alpha-amino** a **aplha-cetoglutarato** para dar **glutamato**→tran
 Glu se desamina oxidativamente dando amonio libre que puede excretarse en diferentes formas no tóxicas.
 El amonio producido en tejidos extrahepáticos se transporta al hígado mediante glutamina y alanina.
 
-¿Cuál es el destino de los aminoácidos liberados durante la digestión o el recambio de proteínas? Los aminoácidos que no se necesitan como componentes básicos se degradan en diversos compuestos, dependiendo del tipo de aminoácido y del tejido del que se originan. El principal sitio de degradación de aminoácidos en los mamíferos es el hígado. El primer paso es la eliminación de nitrógeno. Los alfa-cetoácidos resultantes se metabolizan para que los esqueletos carbonados puedan incorporarse al metabolismo principal como precursores de la glucosa o de intermediarios del ciclo del ácido cítrico. Consideraremos primero el destino del grupo alfa-amino y luego el del esqueleto carbonado.
+
+> [!question] 
+> ¿Cuál es el destino de los aminoácidos liberados durante la digestión o el recambio de proteínas?
+
+Los aminoácidos que no se necesitan como componentes básicos se degradan en diversos compuestos, dependiendo del tipo de aminoácido y del tejido del que se originan. El principal sitio de degradación de aminoácidos en los mamíferos es el hígado. El primer paso es la eliminación de nitrógeno. Los alfa-cetoácidos resultantes se metabolizan para que los esqueletos carbonados puedan incorporarse al metabolismo principal como precursores de la glucosa o de intermediarios del ciclo del ácido cítrico. Consideraremos primero el destino del grupo alfa-amino y luego el del esqueleto carbonado.
 
 Los grupos alfa-amino se convierten en iones amonio mediante la desaminación oxidativa del glutamato.
 
@@ -28,13 +33,18 @@ La aspartato aminotransferasa, una de las enzimas más importantes, cataliza la 
 La alanina aminotransferasa cataliza la transferencia del grupo amino de la alanina al α-cetoglutarato.
 
 El átomo de nitrógeno que se transfiere al α-cetoglutarato en la reacción de transaminación se convierte en ion amonio libre mediante la desaminación oxidativa del glutamato, regenerando el α-cetoglutarato.
+
 Esta reacción es catalizada por la glutamato deshidrogenasa, una enzima que vimos anteriormente en el contexto de la incorporación de amoníaco a las biomoléculas (p. 456). Por lo tanto, esta enzima facilita la entrada y salida de nitrógeno de los sistemas bioquímicos. La glutamato deshidrogenasa se encuentra en las mitocondrias, al igual que algunas de las otras enzimas necesarias para la producción de urea, la forma excretada del NH₄ en la mayoría de los vertebrados. Esta compartimentación secuestra el amoníaco libre, que es altamente tóxico.
+
 En los vertebrados, la actividad de la glutamato deshidrogenasa está regulada alostéricamente. La enzima consta de seis subunidades idénticas. El guanosín trifosfato y el adenosín trifosfato son inhibidores alostéricos, mientras que el guanosín difosfato y el adenosín difosfato son activadores alostéricos. Por lo tanto, una disminución de la carga energética celular acelera la oxidación de aminoácidos.
 La suma de las reacciones catalizadas por las aminotransferasas y la glutamato deshidrogenasa es...
 
 Aunque los átomos de nitrógeno de la mayoría de los aminoácidos se transfieren al α-cetoglutarato antes de su eliminación, los grupos α-amino de la serina y la treonina pueden convertirse directamente en NH4+. Estas desaminaciones directas son catalizadas por la serina deshidratasa y la treonina deshidratasa, en las que el piridoxal fosfato (PLP) es el grupo prostético.
-Los tejidos periféricos transportan nitrógeno al hígado
+
+**Los tejidos periféricos transportan nitrógeno al hígado**
+
 Aunque gran parte de la degradación de aminoácidos tiene lugar en el hígado, otros tejidos también pueden degradarlos. Por ejemplo, el músculo utiliza aminoácidos de cadena ramificada (leucina, valina e isoleucina) como fuente de energía durante el ejercicio prolongado y el ayuno. ¿Cómo se procesa el nitrógeno en estos otros tejidos? Al igual que en el hígado, el primer paso es la eliminación del nitrógeno del aminoácido. Sin embargo, el músculo carece de las enzimas del ciclo de la urea, el conjunto de reacciones que prepara el nitrógeno para su excreción (p. 486); por lo tanto, en el músculo, el nitrógeno debe liberarse en una forma que pueda ser absorbida por el hígado y convertida en urea.
+
 El nitrógeno se transporta del músculo al hígado en dos formas principales de transporte: alanina y glutamina. El glutamato se forma mediante reacciones de transaminación, pero el nitrógeno luego se transfiere al piruvato para formar alanina, que se libera en la sangre (Figura 31.1). El hígado absorbe la alanina y la convierte de nuevo en piruvato mediante transaminación. El piruvato puede utilizarse para la gluconeogénesis, y el grupo amino finalmente aparece como urea. Este transporte se conoce como ciclo glucosa-alanina. Es similar al ciclo de Cori, mencionado anteriormente (p. 262). Sin embargo, a diferencia del ciclo de Cori, el piruvato no se reduce a lactato y, por lo tanto, hay más electrones de alta energía disponibles para la fosforilación oxidativa en el músculo. El nitrógeno también puede transportarse como glutamina. La glutamina sintetasa (p. 457), que ya vimos al analizar la biosíntesis de aminoácidos, cataliza la síntesis de glutamina a partir de glutamato y NH4+ en una reacción dependiente de ATP: los átomos de nitrógeno de la glutamina pueden convertirse en urea en el hígado.
 ## Transaminación
 
@@ -42,22 +52,29 @@ En muchas reacciones alpha-cetoglutarto es el aceptor del grupo amino,  pero  la
 
 Tres **α-cetoácidos (α-cetoglutarato, oxaloacetato y piruvato)** pueden convertirse en aminoácidos en un solo paso mediante la adición de un grupo amino. Hemos visto que el α-cetoglutarato puede convertirse en glutamato mediante aminación reductora (p. 457). El grupo amino del glutamato puede transferirse a otros α-cetoácidos mediante reacciones de transaminación. Por lo tanto, el aspartato y la alanina pueden formarse mediante la adición de un grupo amino al oxaloacetato y al piruvato, respectivamente.
 Las transaminaciones son realizadas por transaminasas dependientes del fosfato de piridoxal.
+
 Las transaminasas también se denominan aminotransferasas. Las reacciones de transaminación participan en la síntesis de la mayoría de los aminoácidos. Todas las aminotransferasas contienen el grupo prostético fosfato de piridoxal (PLP), derivado de la piridoxina (vitamina B6). Durante la transaminación, el fosfato de piridoxal acepta un grupo amino para formar un cofactor importante en muchas enzimas: el fosfato de piridoxamina (PMP).
 
-La serina, la cisteína y la glicina se forman a partir del 3-fosfoglicerato.
+**La serina, la cisteína y la glicina se forman a partir del 3-fosfoglicerato.**
+
 La serina se sintetiza a partir del 3-fosfoglicerato, un intermediario de la glucólisis. El primer paso es la oxidación a 3-fosfohidroxipiruvato. Este α-cetoácido se transamina a 3-fosfoserina, que posteriormente se hidroliza a serina. La serina es precursora de la glicina y la cisteína. En la formación de la glicina, el grupo metileno de la cadena lateral de la serina se transfiere al tetrahidrofolato, un transportador de unidades de un carbono.
 
-El tetrahidrofolato transporta unidades de un carbono activadas.
+**El tetrahidrofolato transporta unidades de un carbono activadas.**
 
 El tetrahidrofolato es una coenzima esencial para la síntesis de muchos aminoácidos y nucleótidos. Esta coenzima, un transportador muy versátil de unidades de un carbono activadas, consta de tres grupos: una pteridina sustituida, un p-aminobenzoato y una cadena de uno o más residuos de glutamato (Figura 29.7). Los mamíferos pueden sintetizar el anillo de pteridina, pero no pueden conjugarlo con las otras dos unidades, por lo que deben obtener tetrahidrofolato de la dieta o de microorganismos en su tracto intestinal.
+
 El grupo de un carbono transportado por el tetrahidrofolato está unido a su átomo de nitrógeno N-5 o N-10 (denotado como N₁ o N₁) o a ambos (Figura 29.8 en la pág. 460).
 Esta unidad puede existir en tres estados de oxidación (Tabla 29.1). La forma más reducida porta un grupo metilo, mientras que la forma intermedia porta un grupo metileno.
+
 Las formas más oxidadas llevan un grupo formilo, formimino o metenilo. La unidad de un carbono completamente oxidada, CO₂, es transportada por la biotina en lugar del tetrahidrofolato.
+
 La importancia del tetrahidrofolato para la replicación del ADN y el crecimiento celular queda demostrada por el hecho de que los fármacos que inhiben su regeneración son eficaces en la inhibición del crecimiento de células cancerosas (p. 474).
 El tetrahidrofolato, derivado del ácido fólico (vitamina B9), desempeña un papel especialmente importante en el desarrollo del sistema nervioso durante las primeras etapas del embarazo.
+
 La deficiencia de ácido fólico puede provocar un fallo en el cierre del tubo neural, lo que provoca afecciones como la espina bífida (cierre defectuoso de la columna vertebral) y la anencefalia (ausencia de cerebro). El tubo neural se cierra alrededor del día 28 de embarazo, generalmente antes de que la mujer sepa que está embarazada. Por lo tanto, algunos médicos recomiendan que todas las mujeres en edad fértil tomen suplementos de ácido fólico.
 
-La S-adenosilmetionina es el principal donante de grupos metilo. El tetrahidrofolato puede transportar un grupo metilo en su átomo N-5, pero su potencial de transferencia no es lo suficientemente alto para la mayoría de las metilaciones biosintéticas. En cambio, el donante de metilo activado en estas reacciones suele ser la S-adenosilmetionina (SAM), que se sintetiza mediante la transferencia de un grupo adenosilo del ATP al átomo de azufre de la metionina. El grupo metilo de la unidad de metionina se activa por la carga positiva del átomo de azufre adyacente, lo que hace que la molécula sea mucho más reactiva que el N-5-metiltetrahidrofolato. Recordemos que la S-adenosilmetionina es un donante de metilo activado en la síntesis de fosfatidilcolina a partir de fosfatidiletanolamina (p. 436).
+La S-adenosilmetionina es el principal donante de grupos metilo. El tetrahidrofolato puede transportar un grupo metilo en su átomo N-5, pero su potencial de transferencia no es lo suficientemente alto para la mayoría de las metilaciones biosintéticas. En cambio, el donante de metilo activado en estas reacciones suele ser la S-adenosilmetionina (SAM), que se sintetiza mediante la transferencia de un grupo adenosilo del ATP al átomo de azufre de la metionina. El grupo metilo de la unidad de metionina se activa por la carga positiva del átomo de azufre adyacente, lo que hace que la molécula sea mucho más reactiva que el N-5-metiltetrahidrofolato. Recordemos que la S-adenosilmetionina es un donante de metilo activado en la síntesis de fosfatidilcolina a partir de fosfatidiletanolamina.
+
 La ​​síntesis de S-adenosilmetionina es inusual, ya que el grupo trifosfato del ATP se divide en pirofosfato y ortofosfato; el pirofosfato se hidroliza posteriormente a dos moléculas de Pi. La S-adenosilhomocisteína se forma cuando el grupo metilo de la S-adenosilmetionina se transfiere a un aceptor. Posteriormente, la S-adenosilhomocisteína se hidroliza a homocisteína y adenosina.
 
 --- 
@@ -76,7 +93,7 @@ En el **músculo**, cuando se degradan aminoácidos para obtener energía, se pr
 
 En el **hígado**, la alanina se convierte nuevamente en piruvato, liberando el grupo amino, que es eliminado como **urea**. El piruvato restante se usa para fabricar **glucosa** mediante gluconeogénesis. Esta glucosa regresa al músculo, completando el ciclo
 
-## Desaminación oxidativa del  glutamato
+## Desaminación oxidativa del glutamato
 El grupo alpha-amino del glutamato se convierte en ión amonio  mediante  glutamato  deshidrogenasa(reacción reversible).
 En dirección catabólica(desaminación oxidativa) emplea  NAD+, y  NADPH cuando  actúa en el  anabolismo(aminación  reductiva).
 ![[Pasted image 20250523192823.png]]
@@ -118,11 +135,15 @@ $$
 Parte del NH4+ formado en la descomposición de aminoácidos se consume en la biosíntesis de compuestos nitrogenados. En la mayoría de los vertebrados terrestres, el exceso de NH4+ se convierte en urea y luego se excreta. Estos organismos se denominan ureotélicos. En los vertebrados terrestres, la urea se sintetiza mediante el ciclo de la urea (Figura 31.2). Uno de los átomos de nitrógeno de la urea se transfiere desde un aminoácido, el aspartato. El otro átomo de nitrógeno se deriva directamente del NH4+ libre, y el átomo de carbono proviene del HCO3⫺ (derivado de la hidratación del CO2).
 
 El ciclo de la urea comienza en la mitocondria con el acoplamiento del NH4+ libre con el HCO3⫺ para formar carbamoil fosfato. Aunque el carbamoil fosfato es una molécula simple, su biosíntesis, que requiere energía, es compleja y consta de tres pasos, todos catalizados por la carbamoil fosfato sintetasa (también llamada CPS I).
+
 Cabe destacar que el NH3, al ser una base fuerte, normalmente existe como NH4+ en solución acuosa. Sin embargo, la carbamoil fosfato sintetasa desprotona el ion y utiliza el NH3 como sustrato. La reacción comienza con la fosforilación de HCO3⫺ para formar carboxifosfato, que luego reacciona con amoníaco para formar ácido carbámico. Finalmente, una segunda molécula de ATP fosforila el ácido carbámico a carbamoil fosfato. El consumo de dos moléculas de ATP hace que esta síntesis de carbamoil fosfato sea prácticamente irreversible. La enzima de los mamíferos requiere la molécula reguladora N-acetilglutamato para su actividad. El N-acetilglutamato se sintetiza solo si hay aminoácidos libres, lo cual indica bioquímicamente que el amoníaco generado debe eliminarse. La reacción catalizada por la carbamoilfosfato sintetasa es idéntica a la de la síntesis de pirimidinas (p. 468). La enzima que sintetiza pirimidinas (CPS II) utiliza glutamina como fuente de nitrógeno en lugar de amoníaco y no requiere N-acetilglutamato.
+
 El grupo carbamoílo del carbamoilfosfato se transfiere a la ornitina para formar citrulina, en una reacción catalizada por la ornitina transcarbamoilasa.
 La ornitina y la citrulina son aminoácidos, pero no se encuentran entre los 20 aminoácidos que se utilizan como componentes básicos de las proteínas. La formación de NH4+ por la glutamato deshidrogenasa, su incorporación al carbamoil fosfato y la posterior síntesis de citrulina tienen lugar en la matriz mitocondrial. En cambio, las tres reacciones siguientes del ciclo de la urea, que conducen a la formación de urea, tienen lugar en el citoplasma.
+
 La citrulina, transportada al citoplasma a cambio de ornitina, se condensa con aspartato, el donante del segundo grupo amino de la urea. Esta síntesis de argininosuccinato, catalizada por la argininosuccinato sintetasa, está impulsada por la escisión del ATP en AMP y pirofosfato, y por la posterior hidrólisis de este último.
 A continuación, la argininosuccinasa escinde el argininosuccinato en arginina y fumarato.
+
 De este modo, el esqueleto carbonado del aspartato se conserva en forma de fumarato. Finalmente, la arginina se hidroliza para generar urea y ornitina en una reacción catalizada por la arginasa. La ornitina se transporta de vuelta a la mitocondria para iniciar otro ciclo. La urea se excreta. De hecho, los seres humanos excretamos unos 10 kg (22 libras) de urea al año.
 
 ## Formación de carbamoil fosfato
@@ -196,15 +217,22 @@ El ciclo tiene lugar en la mitocondria y el citosol de los hepatocitos. Su funci
 ![[Pasted image 20250523191018.png]]
 
 ---
-# Destino de los esqueletos carbonados  de los aa
+# Destino de los esqueletos carbonados de los aa
 
 Las 20 rutas de degradación de los esqueletos carbonados de los aa convergen en sólo 7 intermediarios metabólicos
 - aa cetogénicos: acetil-CoA, acetoacetil-CoA.
 - aa glucogénicos: piruvato, alpha-cetoglutarato, succinil-CoA, fumarato y oxalacetato
 
+La mayoría de aa se metabolizan en el hígado. Parte del amoníaco generado en este proceso se recicla y se utiliza en diversas rutas biosintéticas; el exceso se excreta directamente o se convierte en urea o ácido úrico para su excreción, según el organismo. El exceso de amoníaco generado en otros tejidos (extrahepáticos) se transporta al hígado (en forma de grupos amino) para su conversión en la forma de excreción.
+
+4 aa tienen un papel central en el metabolismo del nitrógeno: glutamato, glutamina, alanina y aspartato. El lugar especial de estos 4 aa en el metabolismo de nitrógeno no es un accidente evolutivo. Estos aa concretos son los que se convierten más fácilmente en intermedios del ciclo del krebs: glutamato y glutamina en alpha-cetoglurato, alanina en piruvato y aspartato en oxalacetato. El glutamato y la glutamina desempeñan papeles especialmente críticos actuando como una especie de punto general de recogida de grupos amino. En el citosol de las células hepáticas, los grupos amino de la mayoría de los aa se transfieren al alpha-cetoglutarato formando glutamato. A continuación se transporta el glutamato a la mitocondria, donde cede el grupo amino para formar NH4+. El exceso de amoníaco generado en la mayor parte de los tejidos restantes se convierte en nitrógeno amídico de la glutamina, que pasa al hígado y, seguidamente, a las mitocondrias del mismo. En la mayoría de tejidos, la glutamina o el glutamato, o ambos, se encuentran en concentraciones más elevadas que el resto de aa.
+
+En el músculo esquelético, los grupos amino en exceso se transfieren generalmente al piruvato formando alanina, otra molécula importante en el transporte de grupos amino hasta el hígado. 
+ 
+
 ---
 # Ciclo del nitrógeno
-## Síntesis de aa:  Fijación del nitrógeno
+## Síntesis de aa: Fijación del nitrógeno
 
 Uno de los factores más limitantes para el crecimiento y desarrollo de los seres vivos es la disponibilidad de nitrógeno en una forma utilizable. Todos los organismos pueden convertir el NH3 en nitrógeno orgánico, es decir, pueden formar enlaces C-N. Pero pocos tienen la capacidad de sintetizar NH3, y compuestos nitrogenados a partir del N2, el gar atmósferico más abundante.
 ![[Pasted image 20250523190833.png]]
@@ -242,7 +270,9 @@ Precursores provienen de
 	- oxalacetato+alpha-cetoglutarato
 - Ruta de fosfatos de pentosa
 	- Ribosa-5-fosfato
+
 Nitrógeno entra a través de glutamato o glutamina
+
 Bacterias y plantas pueden  sintetizar los 20 aa.
 Mamíferos sólo los no esenciales (rutas más complejas) deben ser incorporados a partir de la dieta.
 
@@ -266,7 +296,9 @@ Funciones de los nucleótidos en las células
 Resumen de la biosíntesis de nucleótidos y su nomenclatura.
 
 Las vías para la biosíntesis de nucleótidos se dividen en dos clases: vías de novo y vías de rescate (Figura 30.2). En las vías de novo, las bases de nucleótidos se ensamblan a partir de compuestos más simples. La estructura de una base de pirimidina se ensambla primero y luego se une a la ribosa. En cambio, la estructura de una base de purina se sintetiza pieza por pieza directamente sobre una estructura basada en ribosa. En las vías de rescate, las bases preformadas se recuperan y se reconectan a una unidad de ribosa.
+
 Tanto las vías de novo como las de rescate conducen a la síntesis de ribonucleótidos.
+
 Sin embargo, el ADN se construye a partir de desoxirribonucleótidos. Todos los desoxirribonucleótidos se sintetizan a partir de los ribonucleótidos correspondientes. El azúcar desoxirribosa se genera mediante la reducción de la ribosa dentro de un nucleótido completamente formado. Además, el grupo metilo que distingue la timina del ADN del uracilo del ARN se añade en el último paso de la vía. Un nucleósido consiste en una base púrica o pirimidínica unida a un azúcar, y un nucleótido es un éster fosfato de un nucleósido. Por ejemplo, la adenosina es un nucleósido compuesto por la base adenina y el azúcar ribosa. El ATP es un nucleótido, el éster fosfato (en este caso, un trifosfato) de la adenosina. Los nombres de las bases principales del ARN y el ADN, así como los de sus derivados nucleosídicos y nucleótidos, se muestran en la Tabla 30.1.
 
 ## Síntesis de *novo* de pirimidinas
@@ -274,12 +306,19 @@ Sin embargo, el ADN se construye a partir de desoxirribonucleótidos. Todos los 
 *El anillo de pirimidina se ensambla y luego se une a un azúcar ribosa.*
 
 Los precursores de los anillos de pirimidina son el bicarbonato, el ácido aspártico y el amoníaco, que generalmente se produce a partir de la hidrólisis de la cadena lateral de glutamina. En la síntesis de novo de pirimidinas, primero se sintetiza el anillo y luego se une a la ribosa para formar un nucleótido de pirimidina (Figura 30.3).
+
 El primer paso en la biosíntesis de novo de pirimidinas es la síntesis de carbamoil fosfato a partir de bicarbonato y amoníaco en un proceso de tres pasos, que requiere la escisión de dos moléculas de ATP. Esta reacción es catalizada por la carbamoil fosfato sintetasa (CPS, también llamada CPS II). En el primer paso de la vía de síntesis del carbamoil fosfato, el bicarbonato es fosforilado por el ATP para formar carboxifosfato, una forma activada de CO₂, y ADP. En el segundo paso, la glutamina es hidrolizada por el CPS para producir glutamato y amoníaco, que luego reacciona con el carboxifosfato para formar ácido carbámico y fosfato inorgánico.
+
 El carbamoil fosfato reacciona con el aminoácido aspartato para formar carbamoilaspartato en una reacción catalizada por la aspartato transcarbamoilasa (ATCasa).
+
 Esta enzima alostérica regula la síntesis de nucleótidos de pirimidina, como veremos más adelante (p. 475).
+
 En esta etapa, el orotato se acopla a una forma de ribosa activada para aceptar bases nucleotídicas, el 5-fosforribosil-1-pirofosfato (PRPP). El PRPP se sintetiza a partir de la ribosa 5-fosfato, formada por la vía de las pentosas fosfato, mediante la adición de pirofosfato a partir de ATP en una reacción catalizada por la PRPP sintetasa.
+
 El orotato reacciona con el PRPP para formar orotidilato, un nucleótido de pirimidina, en una reacción impulsada por la hidrólisis del pirofosfato, como se muestra en el margen.
+
 Posteriormente, el orotidilato se descarboxila para formar uridina monofosfato (UMP o uridilato), uno de los dos principales nucleótidos de pirimidina precursores del ARN. Esta reacción es catalizada por la orotidilato descarboxilasa.
+
 El CTP se forma por la aminación de UTP
 
 ¿Cómo se forma el otro ribonucleótido de pirimidina principal, el citidina monofosfato (CMP o citidilato)? Se sintetiza a partir de la base uracilo del UMP, pero el UMP debe convertirse en UTP antes de que pueda tener lugar la síntesis. Las quinasas convierten los nucleósidos monofosfatos en nucleósidos trifosfatos. Recordemos que los difosfatos y trifosfatos son las formas activas de los nucleótidos en la biosíntesis y la conversión de energía. Los nucleósidos monofosfatos se convierten en nucleósidos trifosfatos gradualmente. Primero, los nucleósidos monofosfatos se convierten en difosfatos mediante nucleósidos monofosfato quinasas específicas que utilizan ATP como donante del grupo fosforilo. Por ejemplo, el UMP es fosforilado a UDP por la UMP quinasa.
@@ -306,12 +345,15 @@ Se requieren nueve pasos adicionales para ensamblar el anillo de purina. La bios
 *AMP y GMP formados a partir de IMP.*
 El inosinato, aunque es un componente de algunas moléculas de ARN, sirve principalmente como precursor de las demás purinas. El inosinato es la base de una vía ramificada que conduce tanto al AMP como al GMP (Figura 30.6). El adenilato se sintetiza a partir del inosinato mediante la sustitución de un grupo amino por el átomo de oxígeno del carbonilo en C-6. La adición de aspartato, seguida de la eliminación de fumarato, aporta el grupo amino. Se requiere GTP, en lugar de ATP, para la síntesis del intermediario adenilosuccinato a partir de inosinato y aspartato.
 El monofosfato de guanosina (GMP o guanilato) se sintetiza mediante la oxidación de inosinato a monofosfato de xantina (XMP o xantilato), seguida de la incorporación de un grupo amino en C-2. El NAD+ es el aceptor de hidrógeno en la oxidación del inosinato. El grupo carbonilo del xantilato se activa mediante la transferencia de un grupo AMP desde el ATP. El amoníaco, generado por la hidrólisis de la glutamina, desplaza el grupo AMP para formar guanilato, en una reacción catalizada por la GMP sintetasa. Cabe destacar que la síntesis de adenilato requiere GTP, mientras que la de guanilato requiere ATP. Este contraste, como veremos (p. 476), permite equilibrar el flujo a lo largo de cada rama.
+
 Las bases pueden reciclarse mediante vías de rescate.
 Los nucleótidos de purina también pueden sintetizarse recuperando y reciclando purinas intactas liberadas por la degradación hidrolítica de ácidos nucleicos y nucleótidos.
+
 Estas vías de rescate omiten la mayoría de los pasos energéticos de la síntesis de nucleótidos de novo, ahorrando así cantidades sustanciales de ATP.
 Dos enzimas de rescate con diferentes especificidades recuperan bases de purina. La adenina fosforribosiltransferasa cataliza la formación de adenilato, mientras que la hipoxantina-guanina fosforribosiltransferasa (HGPRT) cataliza la formación de guanilato, así como de IMP, que, como se recordará, es un precursor del guanilato y el adenilato. Existen vías de rescate similares para las pirimidinas. La pirimidina fosforribosiltransferasa reconecta el uracilo, pero no la citosina, al PRPP. Las vías de rescate son especialmente notables debido a las sorprendentes consecuencias de su ausencia (p. 479).
 
 ## Síntesis de desoxirribonucleótidos: Reducción de NTPs a dNTPs
+
 Ahora nos centraremos en la síntesis de desoxirribonucleótidos. Estos precursores del ADN se forman mediante la reducción de ribonucleótidos. El grupo 2'hidroxilo de la ribosa se reemplaza por un átomo de hidrógeno. Los sustratos son ribonucleósidos difosfatos, y el reductor final es el NADPH (Figura 30.7). La misma enzima, la ribonucleótido reductasa, actúa sobre los cuatro ribonucleótidos. La estequiometría general es...
 $$
 \text{Ribonucleotide diphosphate}+NADPH+H^{+}→\text{Deoxyribonucleotide diphosphate}+NADP^{+}+H_{2}O
@@ -351,6 +393,7 @@ La carbamoil fosfato sintetasa también es un sitio de inhibición por retroalim
 
 La reducción de ribonucleótidos a desoxirribonucleótidos está controlada con precisión por interacciones alostéricas. La ribonucleótido reductasa de E. coli es una enzima homodímera. Cada subunidad contiene dos sitios alostéricos: uno controla la actividad general de la enzima, mientras que el otro regula la especificidad del sustrato (Figura 30.10). La actividad catalítica global de la ribonucleótido reductasa se ve disminuida por la unión de dATP, lo que indica una abundancia de desoxirribonucleótidos. La unión de ATP revierte esta inhibición por retroalimentación. La unión de dATP o ATP al sitio de control de especificidad de sustrato potencia la reducción de los nucleótidos de pirimidina, UDP y CDP, a sus formas desoxirribonucleotídicas. La unión de timidina trifosfato (TTP) promueve la reducción de GDP e inhibe la reducción adicional de los ribonucleótidos de pirimidina. El aumento subsiguiente en el nivel de dGTP estimula la reducción de ATP a dATP. Este complejo patrón de regulación proporciona el equilibrio adecuado de los cuatro desoxirribonucleótidos necesarios para la síntesis de ADN.
 ###  Catabolismo de nucleótidos de Purina
+
 El proceso tiene lugar principalmente en el hígado donde el producto final será el ácido úrico.
 1. Desfosforilación: nucleótidos→nucleósidos
 	- Pérdida del  grupo fosfato por las nucleotidasas

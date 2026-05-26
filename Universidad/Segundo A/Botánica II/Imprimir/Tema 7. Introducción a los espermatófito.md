@@ -1,10 +1,11 @@
 Los espermatófitos
 
-Se cuentan entre los vegetales que más éxito han alcanzado en el medio terrestre donde han sido capaces de colonizar casi todos los hábitats y erigirse en los orgnanismos dominantes. Muy probablemente las razones de este écito se deben a la adquisición, a lo largo de su historia evolutiva, de todo un conjunto de adaptaciones morfo-estructuras desarrolladas por el resto de los vegetales.
+Se cuentan entre los vegetales que más éxito han alcanzado en el medio terrestre donde han sido capaces de colonizar casi todos los hábitats y erigirse en los organismos dominantes. Muy probablemente las razones de este éxito se deben a la adquisición, a lo largo de su historia evolutiva, de todo un conjunto de adaptaciones morfo-estructuras desarrolladas por el resto de los vegetales.
 
 Para la óptima colonización del medio terrestre los espermatófitos han adquirido tejidos de carácter protector, a menudo impermeabilizados mediante sustancias céreas, para impedir la pérdida de agua, así como han desarrollado aparatos estomáticos más o menos  complejos que regulan el intercambio gaseoso con el medio ambiente, 2 adquisiciones, que aunque no son exclusivas a ellos, sí adquieren aquí su máximo grado de elaboración. 
 
 Muy importante es también el papel de las raíces, y sobre todo la adquisición de un sistema vascular complejo y mucho más eficaz que el desarrollado por los pteridófitos que distribuye a todas las partes de la planta el agua, los elementos minerales y los metabolitos. 
+
 Además, el notable desarrollo de los tejidos de sostén (como el esclerénquima y colénquima) y el reforzamiento en las plantas leñosas de las paredes de los elementos xilemáticos mediante deposiciones de *lignina*, les ha permitido mantenerse erguidos en un medio en el que carecen del efecto sustentador del empuje del agua, de la misma manera que les permite alcanzar un gran tamaño.
 
 
@@ -23,10 +24,11 @@ Esto significa que la capacidad de engrosar el tallo y volverse arbórea **no de
 En pocas palabras: **primero surgió la madera y el engrosamiento del tallo, y luego apareció la semilla**, que completó la transición hacia plantas más complejas y adaptadas a la vida terrestre.
 
 *Estructura de la madera diferente en las 2 divisiones de espermatófitos.*
-	Gimnospermas: traqueidas y radios medulares de parénquima.
-	Angiospermas: tráqueas, traqueidas y radios medulares de parénquima.
+- Gimnospermas: traqueidas y radios medulares de parénquima.
+- Angiospermas: tráqueas, traqueidas y radios medulares de parénquima.
 
 *Haces vasculares abiertos en eustela con cambium vascular(cerrados en monocotiledóneas, atactostela).*
+
 En las plantas vasculares, la disposición de los haces vasculares y la presencia de cambium determinan cómo crece el tallo y cómo se organiza la madera y el floema.
 
 En plantas con **eustela**, los haces vasculares (xilema y floema) están organizados en un **anillo alrededor de la médula** del tallo. Estos haces suelen ser **abiertos**, lo que significa que cada haz conserva un **cambium vascular** entre xilema y floema. Este cambium permite el **crecimiento secundario**, es decir, que el tallo aumente progresivamente su grosor con el tiempo, formando madera (xilema secundario) y floema secundario.
@@ -128,17 +130,15 @@ En resumen, en la base de las gimnospermas actuales encontramos plantas que ya t
 ---
 # La aparición de la semilla
 
-
-Evolución de la Semilla
-
 Todas las plantas con semillas son heterosporas, produciendo megasporas y microsporas que dan lugar, respectivamente, a megagametofitos (gametofitos femeninos) y microgametofitos (gametofitos masculinos). Sin embargo, la heterosporia no es exclusiva de las plantas con semillas. Como se explicó en el Capítulo 17, algunas plantas vasculares sin semillas también son heterosporas. La producción de semillas es, sin embargo, una forma particularmente extrema de heterosporia, que se ha modificado para formar un óvulo, la estructura que se convierte en la semilla. De hecho, una semilla es simplemente un óvulo maduro que contiene un embrión. El óvulo inmaduro consiste en un megasporangio, la estructura donde se producen las megasporas, rodeado por una o dos capas adicionales de tejido, los tegumentos (Figura 18-1). Varios eventos llevaron a la evolución de un óvulo, incluyendo:
 
-1. Retención de las megasporas dentro del megasporangio, que es carnoso y se denomina nucela en las plantas con semillas; en otras palabras, el megasporangio ya no libera las esporas.
-2. Reducción del número de células madre de las megasporas en cada megasporangio a una.
-3. Supervivencia de solo una de las cuatro megasporas producidas por la célula madre de las esporas, dejando una única megaspora funcional en el megasporangio.
-4. Formación de un gametofito femenino dentro de la única megaspora funcional; es decir, formación de un gametofito femenino endospórico (dentro de la pared) que ya no es de vida libre y se retiene dentro del megasporangio.
-5. Desarrollo del embrión, o esporofito joven, dentro del gametofito femenino retenido dentro del megasporangio. 6. Formación de un tegumento que envuelve completamente el megasporangio, excepto por una abertura en su ápice llamada micrópilo.
-6. Modificación del ápice del megasporangio para recibir microsporas o granos de polen.
+1. **Retención de las megasporas dentro del megasporangio, que es carnoso y se denomina nucela en las plantas con semillas; en otras palabras, el megasporangio ya no libera las esporas.**
+2. **Reducción del número de células madre de las megasporas en cada megasporangio a una.**
+3. **Supervivencia de solo una de las cuatro megasporas producidas por la célula madre de las esporas, dejando una única megaspora funcional en el megasporangio.**
+4. **Formación de un gametofito femenino dentro de la única megaspora funcional; es decir, formación de un gametofito femenino endospórico (dentro de la pared) que ya no es de vida libre y se retiene dentro del megasporangio.**
+5. Desarrollo del embrión, o esporofito joven, dentro del gametofito femenino retenido dentro del megasporangio. 
+6. **Formación de un tegumento que envuelve completamente el megasporangio, excepto por una abertura en su ápice llamada micrópilo.**
+7. Modificación del ápice del megasporangio para recibir microsporas o granos de polen.
 
 Relacionado con estos eventos, se produce un cambio fundamental en la unidad de dispersión, de la megáespora a la semilla, el megasporangio que contiene el embrión y sus tegumentos.
 
@@ -146,6 +146,22 @@ Relacionado con estos eventos, se produce un cambio fundamental en la unidad de 
 
 En las plantas con semillas modernas, el óvulo consiste en una nucela envuelta por uno o dos tegumentos con un micrópilo. Cuando los óvulos de la mayoría de las gimnospermas están listos para la fecundación, la nucela contiene un megagametofito compuesto de tejido nutritivo y arquegonios. Tras la fecundación, los tegumentos se transforman en una testa y se forma la semilla. En la mayoría de las plantas con semillas modernas, el embrión se desarrolla dentro de la semilla antes de su dispersión; las excepciones incluyen el ginkgo (véase página 450) y muchas cícadas. Además, todas las semillas contienen alimento almacenado.
 
+![[Pasted image 20260519181049.png]]
+
+- Antes de la fecundación de la ovocélula, se denomina óvulo o primordio seminal.
+- El micropoli es la único comunicación con el exterior.
+- La nucela es el megasporangio que se hace carnoso.
+
+
+> [!NOTE] Primordio seminal
+> Es la estructura inicial del óvulo en las plantas con semillas, que se desarrolla en el ovario del gineceo. Está formado por la nucela rodeada por uno o 2 tegumentos y dará lugar, tras la fecundación, a la semilla. En su interior se desarrollará el gametófito femenino(saco embrionario) , donde tendrá lugar la fecundación.
+
+
+Ventajas evolutivas de la semilla:
+- Reproducción a cargo de la generación dominante (esporófito, 2n).
+- Unidad de dispersión es el nuevo esporófito.
+- Posibilidad de retardar la germinación.
+- Proporciona sustancias de reserva al embrión.
 
 
 ---

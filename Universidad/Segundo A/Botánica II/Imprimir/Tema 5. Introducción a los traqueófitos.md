@@ -66,24 +66,41 @@ Las traqueidas son más primitivas (es decir, menos especializadas) que los elem
 
 ## Estela 
 
+
+> [!NOTE] Estela
+> Es el cilindro central de tejidos vasculares de un tallo o raíz, formando principalmente por xilema y floema, junto con otros tejidos asociados.
+
+
 **Los tejidos vasculares se encuentran en los cilindros vasculares, o estelas, de las raíces y los tallos.**
 
 Los tejidos vasculares primarios (xilema primario y floema primario) y, en algunas plantas vasculares, una columna central de tejido fundamental conocida como médula, conforman el cilindro central, o estela, del tallo y la raíz en el cuerpo primario de la planta. Se reconocen varios tipos de estelas, entre ellas la protóstela, la sifonostela y la eustela (Figura 17-5).
 
 ![[Pasted image 20260212122703.png]]
 
-La **​​protóstela**, el tipo de estela más simple y antiguo, consiste en un cilindro sólido de tejido vascular en el que el floema rodea el xilema o se encuentra intercalado en él (Figuras 17-3 y 17-5a). Se encuentra en los grupos extintos de plantas vasculares sin semillas que se analizan a continuación, así como en las licofitas (compuestas principalmente por licopodios) y en los tallos juveniles de algunos otros grupos actuales. Además, es el tipo de estela que se encuentra en la mayoría de las raíces.
+La **​​protóstela**, el tipo de estela más simple y antiguo, consiste en un cilindro sólido de tejido vascular en el que el **floema rodea el xilema** o se encuentra intercalado en él (Figuras 17-3 y 17-5a). Se encuentra en los grupos extintos de plantas vasculares sin semillas que se analizan a continuación, así como en las licofitas (compuestas principalmente por licopodios) y en los tallos juveniles de algunos otros grupos actuales. Además, es el tipo de estela que se encuentra en la mayoría de las raíces.
 
-La **sifonostela** —el tipo de estela que se encuentra en los tallos de la mayoría de las especies de plantas vasculares sin semillas— se caracteriza por una médula central rodeada de tejido vascular (Figura 17-5b).
+La **sifonostela** —el tipo de estela que se encuentra en los tallos de la mayoría de las especies de plantas vasculares sin semillas— se caracteriza por una **médula central rodeada de tejido vascular** (Figura 17-5b).
 
 El floema puede formarse solo fuera del cilindro xilemático o a ambos lados del mismo. En las sifonostelas de los helechos, la salida del tallo de las hebras vasculares que conducen a las hojas —los rastros foliares— generalmente está marcada por huecos conocidos como huecos foliares en la sifonostela (como se muestra en la Figura 17-5c). Estos huecos foliares están llenos de células parenquimatosas, al igual que las que se encuentran dentro y fuera del tejido vascular de la sifonostela. Aunque los rastros foliares en las plantas con semillas se asocian con áreas parenquimatosas que recuerdan a los huecos foliares, estas áreas generalmente no se consideran homólogas a los huecos foliares. Por lo tanto, nos referiremos a estas áreas en las plantas con semillas como rastros foliares.
 
-Si el cilindro vascular primario consiste en un sistema de filamentos discretos alrededor de una médula, como ocurre en casi todas las plantas con semillas, la estela se denomina eustela (Figura 17-5d). Estudios comparativos de plantas vasculares vivas y fósiles han sugerido que la eustela de las plantas con semillas evolucionó directamente de una protóstela.
+
+> [!NOTE] Rastro foliar
+> Es la porción de tejido vascular que se desvía desde la estela del tallo hacia una hoja, atravesando el cortéx, para irrigarla. Es la "conexión" vascular que une el sistema del tallo con la hoja y que queda asociada a la base de la hoja en cada nudo.
+
+
+Si el cilindro vascular primario consiste en un sistema de filamentos discretos alrededor de una médula, como ocurre en casi todas las plantas con semillas, la estela se denomina **eustela** (Figura 17-5d). Estudios comparativos de plantas vasculares vivas y fósiles han sugerido que la eustela de las plantas con semillas evolucionó directamente de una protóstela.
 
 Las eustelas aparecieron primero entre las progimnospermas, un grupo de plantas esporuladas . Las sifonostelas evidentemente evolucionaron independientemente de las protóstelas. Esta evidencia indica que ninguno de los grupos de plantas vasculares sin semillas con representantes vivos dio origen a plantas con semillas vivas. 
 
 Las raíces y las hojas evolucionaron de diferentes maneras.
 Aunque el registro fósil revela poca información sobre el origen de las raíces tal como las conocemos hoy, estas debieron evolucionar a partir de las partes inferiores, a menudo subterráneas, del eje de las plantas vasculares antiguas. En su mayor parte, las raíces son estructuras relativamente simples que parecen haber conservado muchas de las características estructurales antiguas que ya no están presentes en los tallos de las plantas modernas.
+
+
+> [!NOTE] Sistemas medulares
+> Protostela→ xilema en el centro rodeado por floema.
+> Sifonostela→ una médula central rodeada por tejidos vascular. El xilema y floema forman un cilindro alrededor de la médula.
+> Eustela→ los haces vasculares aparecen separados y dispuestos en anillo alrededor de la médula.
+> Atactostela→los haces vasculares están dispersos por el tallo sin formar un anillo definidio.
 
 
 ---
@@ -128,7 +145,18 @@ Parece probable que las megafilas evolucionaran a partir de sistemas de ramifica
 
 Las plantas primitivas tenían un eje sin hojas, ramificado dicotómicamente, sin distinción entre eje y megafilos. La ramificación desigual resultó en ramas más agresivas que "sobrepasaban" a las más débiles. Las ramas laterales subordinadas y sobrepasadas representaban el inicio de las hojas, y las porciones más agresivas se convertían en ejes con forma de tallo. A esto le seguía el aplanamiento o "planación" de las ramas laterales. El paso final era la fusión o "membrana" de las ramas laterales separadas para formar una lámina primitiva. Los megafilos se originaron de forma independiente al menos tres veces (en helechos, colas de caballo y plantas con semillas).
 
+
+> [!NOTE] Teoría de la enanción.
+>Las hojas surgen de un protuberación del tallo y acaba siendo recorrida por una ramificación del nervio→como una espina
+
+
+> [!NOTE] Teoría del teloma
+>  los telomas(parte final) una rama culminaría las demás que quedaría como laterales y estos se disponen en el mismo plano. Y después la  fusión de los telomas y da lugar a una lámina→hoja
+
+
+
 ## Importancia evolutiva
+
 - Separa el clado de los licófitos del resto de traqueófitos, que tienen solo microfilos.
 - Megafilos en plantas con semillas y helecho (clado *Euphylophyta*).
 - Presencia de hojas reducidas en Equisetales y Psilotales.
