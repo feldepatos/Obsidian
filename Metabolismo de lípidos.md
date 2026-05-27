@@ -108,13 +108,83 @@ Además de ser un precursor de AG, también actúa como molécula señal. Inhibe
 **Es el punto de control de la síntesis de AG**.
 
 La formación del malonil-CoA a partir del acetil-CoA es un proceso irreversible catalizado por la acetil-CoA carboxilasa. Esta enzima se inactiva por fosforilación y se activa por desfosforilación. La proteína quinasa dependiente de AMP(AMPK) convierte la carboxilasa en una forma inactiva modificando un residuo de serina. 
+
 La AMPK es un indicador de energía; se activa por AMP y se inhibe por ATP.
 
 Por tanto, la carboxilasa se inactiva cuando la carga energética es baja. No se sintetiza cuando se necesita energía.
 
 También depende de la [Citrato] . Hay que recordar que el citrato es un indicador de abundancia energética y de componentes intermediarios, entonces se puede continuar sin problema alguno en la síntesis de AG.
 
+Además, la palmitoil-CoA inhibe la translocasa que transporta el citrato desde las mitocondrias al citoplasma, así como la glucosa-6-fosfato deshidrogenasa, la enzima reguladora en la fase oxidativa de la vía de las pentosas fosfato.
+
+> [!NOTE] Nota
+> Si el citrato no puede salir de la mitocondria indica que no hay suficiente cantidad de citrato producido como para indicar abundancia energética.
 
 
+> [!NOTE] Palmitoil-CoA→Feedback negativo
+> El palmitoil es la versión activada del ácido palmítico.
+> Procede degradación de triacilglicéridos o la síntesis de AG.
+> Un exceso de palmotoil-CoA indica que ya hay suficientes AG.
 
-## Regulación
+Por otro lado, el malonoil-CoA (producto procedente de la condensación de acetil-CoA y CO2 de la síntesis de AG) inhibe la CAT I(carnitina aciltransferasa I) impediendo la beta-oxidación.
+
+También está regulada por hormonas: glucagón, epinefrina e insulina.
+- Insulina: estimula la síntesis de AG mediante la activación de la acetil-CoA carboxilasa.
+- Glucagón+epinefrina: inhiben la acetil-CoA, por tanto, la síntesis de AG. 
+	- Epinefrina: indica la necesidad de energía inmediata.
+	- Al final ambas hormonas desactivan la síntesis de AG al mantener la carboxilasa en el estado inactivo.
+
+## Reacciones de la biosíntesis
+
+**Elongación de AG**
+
+El sistema enzimático que cataliza la síntesis de AG a partir de acetil-CoA, malonil-CoA y NADPH se llama ácido grasa sintasa. La fase de elongación de la síntesis de AG comienza cuando el acetil-CoA y el malonil-CoA reaccionan con una proteína de anclaje llamada proteína transportadora de acilo(ACP).
+
+
+> [!NOTE] ACP: Proteína transportadora de acilo.
+> Es una proteína esencial del complejo ácido graso sintasa que participa en la síntesis de ácidos grasos. Su función principal es actuar como un transportador móvil de los intermediarios acilo durante el proceso de elongación de la cadena lipídica.
+> Durante la síntesis de ácidos grasos, los intermediarios como el acetil, el malonil y las cadenas acilo en crecimiento se unen a la ACP, formando compuestos como acetil-ACP, malonil-ACP y acil-ACP. Estos intermediarios no se liberan al citosol, sino que permanecen unidos a la ACP mientras son transformados paso a paso.
+
+
+*Condensación*
+Condensación de grupos acetilos y malonilos para formar acetoacetil-ACP, se libera CO2
+
+$$
+Acetil-ACP+Malonil-ACP→Acetoacetil-ACP+CO_{2}
+$$
+
+*Reducción del grupo carbonilo, que consume NADPH.*
+Reducción del acetoacetil-CoA a un compuesto de 3C, D-beta-hidroxibutiril-ACP.
+
+*Deshidratación.*
+Se elimina una molécula de H2O y se forma un enlace dando lugar a enoil-ACP.
+
+
+*Nueva reducción, que consume un nuevo NADPH.*
+El doble enlace formado en la fase anterior se reduce(Satura)por NADPH para formar butiril-ACP.
+
+Este butiril-ACP se condensa con el malonil-ACP para formar cadenas más largas, por tanto, continua dentro del FAS(Complejo de los AG sintasa).
+
+## Síntesis de palmito(lipogénesis de novo)
+Este proceso a diferencia del anterior, crea AG desde cero.
+
+El primer ciclo incorpora 4C, cada ciclo restante incorpora 2C hasta sintetizar palmitato(16C).
+
+Se requiere 14 moléculas de NADPH, además del gasto de ATP. 
+La membrana mitocondrial es impermeable al oxaloacetato, por tanto, se debe reducir a malato por el NADH(ocurre en el citoplasma).
+
+En segundo lugar, el malato se descarboxila oxidativa a piruvato.
+
+Ahora el piruvato entra a las mitocondria, donde piruvato es carboxilado a oxaloacetato por la piruvato carboxilasa.
+
+Así, se genera una molécula de NADPH por cada molécula de acetil-CoA que se transfiere de la mitocondria al citoplasma. Por lo tanto, se forma 8 Acetil-CoA al citoplasma para la síntesis de palmitato. Las 6 adicionales de NADPH necesarias para la síntesis de palmitato provienen de la vía de las pentosas fosfato.
+
+## Síntesis de otros AG y colesterol
+
+*Síntesis de AG en el citosol*
+Los 27 átomos de C del colesterol proceden de la acetil-CoA: síntesis de novo de palmito y elongación de cadenas insaturadas
+
+*Metabolismo de colesterol*
+Para su transporte se une con otros lípidos o proteínas.
+Es neceario para el crecimiento y desarrollo celular, ya que son componentes esenciales de las membranas de células eucariotas.
+

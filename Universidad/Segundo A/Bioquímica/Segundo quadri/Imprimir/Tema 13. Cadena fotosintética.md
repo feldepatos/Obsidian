@@ -23,6 +23,7 @@ Fase de fijación del CO2
 		- ![[Pasted image 20250308203408.png]]
 - Localización, estroma(plantas)
 	![[Pasted image 20250308203454.png]]
+
 ## El cloroplasto de los organismos fotosintéticos eucariotas
 
 La fotosíntesis se produce en células eucariotas (algas, plantas superiores) y en bacterias(cianobacterias).
@@ -111,6 +112,7 @@ Además de clorofilas, las membranas tilacoides contienen pigmentos secundarios 
 La determinación experimental de la efectividad de la luz de diferentes colores para promover la fotosíntesis da lugar a un **espectro de acción** que a menudos es útil para identificar el pigmento responsable principal de un efecto biológico de la luz. Al capturar luz en una región del espectro no utilizada por otros organismos, un organismo fotosintético puede conquistar un nicho ecológico propio. 
 
 *La clorofila canaliza la energía absorbida a centros de reacción mediante transferencia de excitones*
+
 Los pigmentos de las membranas tilacoides que absorben luz están dispuestos en conjuntos funcionales denominados **fotosistemas**. Todas las moléculas de pigmento de un fotosistema pueden absorbe fotones, pero sólo unas pocas moléculas de clorofila asociadas al **centro de reacción fotoquímico** están especializadas en transducir la energía luminosa en energía química. Las otras moléculas de pigmento de un fotosistema actúan como moléculas antena. Absorben energía luminosa y la transmiten rápida y eficientemente al centro de reacción. Unas moléculas forman parte de un complejo núcleo alrededor del centro de reacción. Otras forman complejos de captación de luz(LCH) alrededor de la periferia del complejo núcleo. La clorofila y otros pigmentos se encuentran siempre asociados con proteínas de unión específicas que fijan los cromóforos en función de la relación que tienen entre sí, con otros complejos proteicos y con la membrana. 
 
 Las moléculas de clorofila en los complejos captadores de luz y en otras proteínas fijadoras de clorofila, tienen propiedades de absorción de la luz que son sutilmente diferentes a las de la clorofila libre. Cuando se excitan por la luz moléculas de clorofila aisladas in vitro, la energía absorbida se libera rápidamente en forma de fluorescencia y calor, pero cuando se excita la clorofila por la luz visible en hojas intactas, se observa muy poca fluorescencia. Lo que ocurre en su lugar es una transferencia directa de energía desde la clorofila antena excitada a una molécula de clorofila vecina, que queda excitada al tiempo que la primera molécula vuelve a su estado basal. Esta transferencia de energía, transferencia de excitones, se repite a un tercer, cuarto o posterior vecino hasta que se excita una de un par especial de moléculas de clorofila *a* en el centro de reacción fotoquímico. En esta molécula de clorofila excitada se promueve el paso de un electrón a un orbital de energía superior. Este electrón pasa a continuación a un aceptor electrónico vecino que forma parte de la cadena de transferencia electrónica, dejando la clorofila del centro de reacción con un electrón menos(un "hueco electrónico"). El aceptor electrónico adquiere una carga negativa en esta transacción. El electrón perdido por el par de moléculas de clorofila del centro de reacción es reemplazado por un electrón de una molécula dadora de electrones vecina, que queda, de este modo, cargada positivamente. De esta forma, *la excitación por la luz produce una separación de carga eléctrica e inicia una cadena de oxidación-reducción*
@@ -179,6 +181,7 @@ El funcionamiento coordinado de los fotosistemas (PSI y PSII) permite que la tra
 ![[Pasted image 20260417202928.png]]
 
 *En las plantas actúan en tándem en 2 centros de reacción*
+
 La maquinaria fotosintética de las cianobacterias, algas y plantas vasculares modernas es más complejas que los sistemas bacterianos de un único centro, y es muy probable que haya evolucionado a través de la combinación de 2 fotocentros bacterianos más sencillos. Las membranas tilacoides de los cloroplastos tienen 2 clases diferentes de fotosistemas, cada uno de ellos con su propio tipo de centro de reacción fotoquímico y un conjunto de moléculas antena. Los 2 sistemas tienen funciones distintas y complementarias. El **fotosistema II (PSII)** es un sistema tipo feofitina-quinona que contiene cantidades aproximadamente iguales de clorofilas *a* y *b*. La excitación del par especial del centro de reacción P680 impulsa electrones a través del complejo b_6_f con el movimiento concomitante de protones a través de la membrana del tilacoide. El **fotosistema I(PSI)** tienen un centro de reacción P700  y una elevada proporción de clorofila a respecto *a* clorofila *b*. El P700 excitado pasa electrones a través de una cadena de transportadores a la proteína Fe-S ferrodixina, y a continuación al NADP⁺, produciendo NADPH. 
 
 Estos 2 centros de reacción presentes en plantas actúan en tandem para catalizar el movimiento de electrones impulsado por la luz desde el H2O hasta el NADP⁺. Los electrones son transportados entre los dos fotosistemas por la proteína soluble **plastocianina**. Las cianobacterias y las plantas oxidan H2O para reemplazar los electrones que se trasladan del PSII. Este proceso se conoce como **fotosístesis oxigénica** para distinguirlo de la fotosíntesis anoxigénica de las bacterias púrpuras y verdes del azufre. Todas las células fotosintéticas que desprende O2 contienen PSI y PSII; los organismos con un único fotosistema no desprende O2. 
@@ -223,7 +226,7 @@ $$
 
 Los electrones almacenados temporalmente en el plastoquinol como resultado de la excitación de P680 del PSII se transportan a P700 de PSI mediante el complejo del citocromo b_6_f y la proteína soluble de plastocianina. Al igual que el complejo III de la mitocondria, el complejo b_6_f contiene un citocromo *b* con 2 grupos hemo, una proteína ferro-sulfurada de Rieske y el citocromo *f*. Los electrones fluyen a través del complejo del citocromo b_6_f desde el PQH2 al citocromo *f*, seguidamente a la plastocianina, y finalmente a P700⁺, reduciéndolo.
 
-El citocromo b_6_f traspasa los electrones de una quinona reducida, un transportador de 2 electrones móvil y liposoluble , a una proteína hidrosoluble que transporta un electrón (citocromo c en la mitocondria, plastocianina en los cloroplastos). Como en las mitocondrias, en la función de este complejo interviene un ciclo Q, en el que los electrones pasan, de uno en uno, desde PQH2 al citocromo b6. Como resultado de este ciclo se bombean protones a través de la membrana; en los cloroplastos, la dirección del movimiento protónico es desde el compartimiento del estroma a la luz del tilacoide. Hasta 4 protones entran en la luz por cada par de electrones que pasan a través del complejo b_6_f .El resultado es la producción de un gradiente de protones a través de la membrana del tilacoide es pequeño, la entrada de un número pequeño de protones tiene un efecto relativamente grande sobre el pH de la luz. La diferencia de pH determinada entre el estroma (pH 8) y la luz del tilacoide (pH 5) representa una diferencia de 1000 veces en la concentración de protones, una importante fuerza motriz para la síntesis de ATP.
+El citocromo b_6_f traspasa los electrones de una quinona reducida, un transportador de 2 electrones móvil y liposoluble, a una proteína hidrosoluble que transporta un electrón (citocromo c en la mitocondria, plastocianina en los cloroplastos). Como en las mitocondrias, en la función de este complejo interviene un ciclo Q, en el que los electrones pasan, de uno en uno, desde PQH2 al citocromo b6. Como resultado de este ciclo se bombean protones a través de la membrana; en los cloroplastos, la dirección del movimiento protónico es desde el compartimiento del estroma a la luz del tilacoide. Hasta 4 protones entran en la luz por cada par de electrones que pasan a través del complejo b_6_f .El resultado es la producción de un gradiente de protones a través de la membrana del tilacoide es pequeño, la entrada de un número pequeño de protones tiene un efecto relativamente grande sobre el pH de la luz. La diferencia de pH determinada entre el estroma (pH 8) y la luz del tilacoide (pH 5) representa una diferencia de 1000 veces en la concentración de protones, una importante fuerza motriz para la síntesis de ATP.
 
 *Plastocianina*
 - Transportadores proteico que contiene un **centro de cobre**
@@ -275,14 +278,18 @@ El fotosistema I generalmente incluye 14 cadenas polipeptídicas y múltiples pr
 
 ![[Pasted image 20260417195626.png]]
 
-Aunque la ferredoxina reducida es un potente reductor, no es útil para impulsar muchas reacciones, en parte porque la ferredoxina solo transporta un electrón disponible. La fuente de poder reductor biosintético fácilmente disponible en las células es el NADPH, que transporta dos electrones como un ion hidruro. De hecho, el NADPH funciona exactamente igual que el NADH (p. 213) y difiere estructuralmente solo en que contiene un grupo fosforilo en el grupo 2-hidroxilo de una de las unidades de ribosa (Figura 21.13). Este grupo fosforilo actúa como una etiqueta que identifica al NADPH como reductor en las reacciones biosintéticas, por lo que no se oxida por la cadena respiratoria como sí lo hace el NADH. Esta distinción se aplica a todos los sistemas bioquímicos, incluido el de los seres humanos.
+Aunque la ferredoxina reducida es un potente reductor, no es útil para impulsar muchas reacciones, en parte porque la ferredoxina solo transporta un electrón disponible. La fuente de poder reductor biosintético fácilmente disponible en las células es el NADPH, que transporta dos electrones como un ion hidruro. De hecho, el NADPH funciona exactamente igual que el NADH y difiere estructuralmente solo en que contiene un grupo fosforilo en el grupo 2-hidroxilo de una de las unidades de ribosa (Figura 21.13). Este grupo fosforilo actúa como una etiqueta que identifica al NADPH como reductor en las reacciones biosintéticas, por lo que no se oxida por la cadena respiratoria como sí lo hace el NADH. Esta distinción se aplica a todos los sistemas bioquímicos, incluido el de los seres humanos.
 
 
 > [!question] 
 > ¿Cómo se puede utilizar la ferredoxina reducida para impulsar la reducción de NADP a NADPH? 
 
 
-Esta reacción es catalizada por la ferredoxina-NADP reductasa, una flavoproteína. El componente FAD unido en esta enzima capta dos electrones, uno a la vez, de dos moléculas de ferredoxina reducida a medida que pasa de su forma oxidada a su forma completamente reducida (Figura 21.14). A continuación, la enzima transfiere un ion hidruro al NADP para formar NADPH. Cabe destacar que esta reacción tiene lugar en el lado estromal de la membrana tilacoide. El uso de un protón estromal en la reducción del NADP hace que el estroma sea más básico que el lumen tilacoide y, por lo tanto, contribuye a la formación de la fuerza protón-motriz a través de la membrana tilacoide que se utilizará para sintetizar ATP. Se ha generado la primera materia prima necesaria para reducir el CO2: el poder reductor biosintético en forma de NADPH. Sin embargo, el fotosistema I presenta ahora un déficit de electrones. ¿Cómo se pueden reponer estos electrones?
+Esta reacción es catalizada por la ferredoxina-NADP reductasa, una flavoproteína. El componente FAD unido en esta enzima capta dos electrones, uno a la vez, de dos moléculas de ferredoxina reducida a medida que pasa de su forma oxidada a su forma completamente reducida (Figura 21.14). A continuación, la enzima transfiere un ion hidruro al NADP para formar NADPH. Cabe destacar que esta reacción tiene lugar en el lado estromal de la membrana tilacoide. El uso de un protón estromal en la reducción del NADP hace que el estroma sea más básico que el lumen tilacoide y, por lo tanto, contribuye a la formación de la fuerza protón-motriz a través de la membrana tilacoide que se utilizará para sintetizar ATP. Se ha generado la primera materia prima necesaria para reducir el CO2: el poder reductor biosintético en forma de NADPH. Sin embargo, el fotosistema I presenta ahora un déficit de electrones. 
+
+> [!question] ¿Cómo se pueden reponer estos electrones?
+> 
+
 
 ![[Pasted image 20260417195721.png]]
 
@@ -296,7 +303,10 @@ La ​​fotoquímica del fotosistema II comienza con la excitación de un par e
 
 *El citocromo bf une el fotosistema II con el fotosistema I.*
 
-El QH₂ producido por el fotosistema II transfiere sus electrones a la plastocianina, que a su vez dona los electrones al fotosistema I, reponiendo así los electrones faltantes en el fotosistema I. La cadena comienza cuando los electrones se transfieren, uno a uno, desde el QH₂ a la plastocianina (Pc), una proteína que contiene cobre en el lumen del tilacoide (véase la Figura 21.10). Esta reacción es catalizada por el citocromo bf, una bomba de protones. La reacción del citocromo bf recuerda a la catalizada por la ubiquinol citocromo c oxidorreductasa en la fosforilación oxidativa (p. 308). De hecho, la mayoría de los componentes del complejo citocromo bf son similares a los de la Q citocromo c oxidorreductasa. La oxidación del plastoquinol por el complejo citocromo bf se produce mediante un mecanismo casi idéntico al del ciclo Q de la cadena de transporte de electrones de la respiración celular (p. 309). En la fotosíntesis, el efecto neto del ciclo Q es, primero, liberar protones de QH₂ al lumen y, segundo, bombear protones desde el estroma al lumen, lo que refuerza la fuerza protón-motriz (Figura 21.17). Así, los electrones del fotosistema II se utilizan para reemplazar a los del fotosistema I y, en el proceso, aumentar el gradiente de protones. Sin embargo, el P680 deficiente en electrones debe ahora reponerse con electrones.
+El QH₂ producido por el fotosistema II transfiere sus electrones a la plastocianina, que a su vez dona los electrones al fotosistema I, reponiendo así los electrones faltantes en el fotosistema I. La cadena comienza cuando los electrones se transfieren, uno a uno, desde el QH₂ a la plastocianina (Pc), una proteína que contiene cobre en el lumen del tilacoide (véase la Figura 21.10). 
+
+Esta reacción es catalizada por el citocromo bf, una bomba de protones. La reacción del citocromo bf recuerda a la catalizada por la ubiquinol citocromo c oxidorreductasa en la fosforilación oxidativa . De hecho, la mayoría de los componentes del complejo citocromo bf son similares a los de la Q citocromo c oxidorreductasa. La oxidación del plastoquinol por el complejo citocromo bf se produce mediante un mecanismo casi idéntico al del ciclo Q de la cadena de transporte de electrones de la respiración celular (p. 309). En la fotosíntesis, el efecto neto del ciclo Q es, primero, liberar protones de QH₂ al lumen y, segundo, bombear protones desde el estroma al lumen, lo que refuerza la fuerza protón-motriz (Figura 21.17). Así, los electrones del fotosistema II se utilizan para reemplazar a los del fotosistema I y, en el proceso, aumentar el gradiente de protones. Sin embargo, el P680 deficiente en electrones debe ahora reponerse con electrones.
+
 ![[Pasted image 20260419200840.png]]
 
 *La oxidación del agua logra el equilibrio de oxidación-reducción y aporta protones al gradiente de protones.*
@@ -307,6 +317,7 @@ $$
 $$
 
 La fotólisis del agua por organismos fotosintéticos es esencialmente la única fuente de oxígeno en la biosfera. Este gas, tan preciado para nuestras vidas, es esencialmente un producto de desecho de la fotosíntesis que resulta de la necesidad de lograr el equilibrio redox (Figura 21.19). La cooperación entre el fotosistema I y el fotosistema II crea un flujo de electrones (una corriente eléctrica) desde el H₂O hasta el NADP₃. La vía del flujo de electrones se denomina esquema Z de la fotosíntesis porque el diagrama redox de P680 a P700* se asemeja a la letra Z (Figura 21.20).
+
 Aunque nos hemos centrado en las plantas verdes, que utilizan el H₂O como donador de electrones en la fotosíntesis, la Tabla 21.1 muestra que los procariotas fotosintéticos presentan una amplia variedad de donantes de electrones.
 ![[Pasted image 20250618123945.png]]
 
@@ -321,16 +332,21 @@ $$
 La transferencia de 4 electrones es impulsada por 8 fotones y 12 H+ aparecen en el **lumen tilacoidal**
 - 8H+ se bombean por el ciclo Q en el complejo cit bf
 - 4H+ durante la ecsición de 2 moléculas de H2O.
+
 Balance de la fosforilación
+
 - Entre (3-4)H+ deben retornar al estroma para impulsar la síntesis de una molécula de ATP(fosforilación no cíclica)
 	- Por cada 2 electrones que se transfieren desde el agua al NADP+ para formar una molécula de NADPH se producen 2(1'5) moléculas de ATP
-		$$
+
+$$
 P/2e^{-}=\frac{6H^{+}}{\frac{3H^{+}(4H^{+})}{ATP}}=2(1'5)ATP
 $$
-	ATP y NADPH serán utilizados para la síntesis de hidrato de carbono en el estroma
-	$$
+ATP y NADPH serán utilizados para la síntesis de hidrato de carbono en el estroma
+
+$$
 6CO_{2}+12NADPH+12H_{2}0+18ATP→C_{6}H_{12}O_{6}+12NADP^{+}+18ADP+18P_{i}
 $$
+
 # Fosforilación cíclica
 
 - A veces **no es necesario generar NADPH pero sí ATP**

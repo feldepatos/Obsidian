@@ -10,9 +10,10 @@ Se localiza en la matriz de la mitocondria
 
 En los organismos aeróbicos, la glucosa y otros azúcares, los ácidos grasos y la mayor parte de los aminoácidos se oxidan finalmente a CO2 y H2O a través del ciclo de krebs y la cadena respiratoria. Antes de entrar en el ciclo de krebs, los esqueletos carbonados de glúcidos y ácidos grasos deben ser degradados al grupo acetilo del acetil-CoA, la forma en que el ciclo de krebs acepta la mayor parte del combustible aportado. Muchos de los carbonos de los aminoácidos también entran en el ciclo en forma de acetato, aunque las vías de degradación de algunos aminoácidos dan lugar a otros intermediarios del ciclo tales como el succinato y el malato, que, a continuación, entran en el ciclo.
 
-El piruvato generado por glucólisis en el citosol representa un nódulo en el metabolismo de glúcidos, grasas y proteínas. El piruvato que entra en la mitocondria puede ser oxidado por el ciclo de krebs para generar energía o, después de su conversión en acetil-CoA, puede utilizarse como material de partida para la síntesis de ácidos grasos y esteroles. Un tercer destino posible del piruvato es como precursor de la síntesis de aminoácidos. En la **glucólisis aerónica**, el piruvato no experimenta ninguna oxidación posterior a través del ciclo de krebs, aun cuando haya oxígeno disponible para hacerlo; en vez de ello, el piruvato simplemente se reduce a lactato en el citosol, regenerando NAD⁺ para la producción continuada de ATP por la glucólisis.
+El piruvato generado por glucólisis en el citosol representa es un punto en común en el metabolismo de glúcidos, grasas y proteínas. El piruvato que entra en la mitocondria puede ser oxidado por el ciclo de krebs para generar energía o, después de su conversión en acetil-CoA, puede utilizarse como material de partida para la síntesis de ácidos grasos y esteroles. Un tercer destino posible del piruvato es como precursor de la síntesis de aminoácidos. En la **glucólisis aerónica**, el piruvato no experimenta ninguna oxidación posterior a través del ciclo de krebs, aun cuando haya oxígeno disponible para hacerlo; en vez de ello, el piruvato simplemente se reduce a lactato en el citosol, regenerando NAD⁺ para la producción continuada de ATP por la glucólisis.
 
 *El piruvato se oxida a acetil-CoA y CO2*
+
 La reacción global catalizada por el complejo de la piruvato deshidrogenasa es una **descarboxilación oxidativa**, un proceso de oxidación irreversible en el que el piruvato pierde un grupo carboxilo en forma de molécula de CO2, mientras que los 2 carbonos restantes se transforman en el grupo acetilo del acetil-CoA. El NADH formado en esta reacción libera un ión hidruro(:H⁻) a la cadena respiratoria, que transporta los 2 electrones hasta el oxígeno o, en los microorganismos anaeróbicos, hasta un aceptor de electrones alternativo tal como el nitrato o el sulfato. La transferencia de electrones desde el NADH hasta el oxígeno genera en última instancia 2'5 moléculas de ATP por cada par de electrones.
 # Procedencia y destinos del Acetil-CoA.
 
@@ -84,11 +85,13 @@ Esta reacción es decisiva en el metabolismo: compromete los átomos de carbono 
 enzimas y cinco coenzimas.*
 
 Examinaremos el mecanismo de acción del complejo piruvato deshidrogenasa con cierto detalle, ya que cataliza un punto clave del metabolismo-la conexión entre la glucólisis y el ciclo del ácido cítrico, que permite la oxidación completa de la glucosa. El mecanismo de la reacción de la piruvato deshidrogenasa es sorprendentemente complejo, incluso más de lo que sugiere su estequiometría simple.
+
 La reacción requiere la participación de las tres enzimas del complejo piruvato deshidrogenasa, así como de cinco coenzimas. Las coenzimas tiamina pirofosfato (TPP), ácido lipoico y FAD actúan como coenzimas catalíticas, mientras que CoA y NAD+ son coenzimas estequiométricas. Las coenzimas catalíticas, al igual que las enzimas, no se alteran permanentemente al participar en la reacción. Las coenzimas estequiométricas funcionan como sustratos.
 
 ![[Pasted image 20260417185038.png]]
 
 La conversión de piruvato en acetil-CoA consta de tres pasos: descarboxilación, oxidación y transferencia del grupo acetilo resultante a la CoA.
+
 ![[Pasted image 20260417185157.png]]
 
 Estos pasos deben acoplarse para preservar la energía libre derivada de la descarboxilación e impulsar la formación de NADH y acetil-CoA.
@@ -97,12 +100,14 @@ Estos pasos deben acoplarse para preservar la energía libre derivada de la desc
 ![[Pasted image 20260417185234.png]]
 
 Esta reacción es catalizada por el componente piruvato deshidrogenasa (E1) del complejo multienzimático. El TPP es la coenzima del componente piruvato deshidrogenasa.
+
 2. Oxidación. El grupo hidroxietilo unido al TPP se oxida para formar un grupo acetilo, transfiriéndose simultáneamente a la lipoamida, un derivado del ácido lipoico. Cabe destacar que esta transferencia da lugar a la formación de un enlace tioéster de alta energía.
 ![[Pasted image 20260417185338.png]]
 
 En esta reacción, el grupo disulfuro de la lipoamida se reduce a su forma disulfhidrilo.
-La reacción, catalizada también por el componente E1 de la piruvato deshidrogenasa,
-produce acetil-CoA.
+
+La reacción, catalizada también por el componente E1 de la piruvato deshidrogenasa, produce acetil-CoA.
+
 3. Formación de acetil-CoA. El grupo acetilo se transfiere de la acetil-CoA a la CoA para formar acetil-CoA. La dihidrolipoil transacetilasa (E2) cataliza esta reacción. El enlace tioéster, rico en energía, se conserva al transferirse el grupo acetilo a la CoA. De esta forma, se ha generado acetil-CoA, el combustible del ciclo del ácido cítrico, a partir del piruvato.
 ![[Pasted image 20260417185418.png]]
 
@@ -114,20 +119,18 @@ Esta transferencia de electrones del FAD al NAD⁺ es inusual, ya que la funció
 *Los enlaces flexibles permiten que la lipoamida se mueva entre diferentes sitios activos.*
 Se conocen las estructuras de todas las enzimas que componen el complejo piruvato deshidrogenasa, aunque de diferentes complejos y especies. Por lo tanto, ahora es posible construir un modelo atómico del complejo para comprender su actividad.
 
-El núcleo del complejo está formado por el componente transacetilasa E2.
+*El núcleo del complejo está formado por el componente transacetilasa E2.*
 
-La transacetilasa consta de ocho trímeros catalíticos ensamblados para formar un cubo hueco. Cada una de las tres subunidades que forman un trímero tiene tres dominios principales. En el extremo amino se encuentra un pequeño dominio que contiene un cofactor lipoamida flexible. Al dominio lipoamida le sigue un pequeño dominio que
+La transacetilasa consta de ocho trímeros catalíticos ensamblados para formar un cubo hueco. Cada una de las tres subunidades que forman un trímero tiene tres dominios principales. En el extremo amino se encuentra un pequeño dominio que contiene un cofactor lipoamida flexible. Al dominio lipoamida le sigue un pequeño dominio que:
 
 1. El piruvato se descarboxila en el sitio activo de E1, formando el intermedio hidroxietil-TPP, y el CO2 se libera como primer producto. Este sitio activo se encuentra en lo profundo del complejo E1, conectado a la superficie de la enzima mediante un canal hidrofóbico de 20 Å de longitud.
 2. E2 inserta el brazo de lipoamida del dominio de lipoamida en el canal profundo de E1 que conduce al sitio activo.
 3. E1 cataliza la transferencia del grupo acetilo a la lipoamida. El brazo acetilado abandona E1 y entra en el complejo E2 para visitar el sitio activo de E2, ubicado en lo profundo del complejo, en la interfaz de las subunidades.
-4. El grupo acetilo se transfiere a la CoA, y el segundo producto, acetil-CoA, abandona el complejo. El brazo de lipoamida reducido se desplaza entonces hacia el sitio activo de la flavoproteína E3
+4. El grupo acetilo se transfiere a la CoA, y el segundo producto, acetil-CoA, abandona el complejo. El brazo de lipoamida reducido se desplaza entonces hacia el sitio activo de la flavoproteína E3.
 5. En el sitio activo de la E3, la lipoamida es oxidada por la coenzima FAD. La lipoamida reactivada está lista para iniciar otro ciclo de reacción.
 6. El producto final, NADH, se produce mediante la reoxidación de FADH2 a FAD.
 
-La integración estructural de tres tipos de enzimas y el brazo de lipoamida largo y flexible posibilitan la catálisis coordinada de una reacción compleja. La proximidad de una enzima a otra aumenta la velocidad de reacción global y minimiza las reacciones secundarias. Todos los intermediarios en la descarboxilación oxidativa del piruvato permanecen unidos al complejo durante toda la secuencia de reacción
-y se transfieren fácilmente a medida que el brazo flexible de la E2 se une a cada sitio activo sucesivamente interactúa con E3 dentro del complejo. Un dominio transacetilasa más grande completa
-un trímero de E2. Los ocho trímeros de E2 están rodeados por veinticuatro copias de E1 (un tetrámero α2β2) y 12 copias de E3 (un dímero αβ) rodean el núcleo de E2.¿Cómo funcionan en conjunto los tres sitios activos distintos? La clave reside en el brazo de lipoamida largo y flexible de la subunidad E2, que transporta el sustrato de un sitio activo a otro(Figura 17.8).
+La integración estructural de tres tipos de enzimas y el brazo de lipoamida largo y flexible posibilitan la catálisis coordinada de una reacción compleja. La proximidad de una enzima a otra aumenta la velocidad de reacción global y minimiza las reacciones secundarias. Todos los intermediarios en la descarboxilación oxidativa del piruvato permanecen unidos al complejo durante toda la secuencia de reacción y se transfieren fácilmente a medida que el brazo flexible de la E2 se une a cada sitio activo sucesivamente interactúa con E3 dentro del complejo. Un dominio transacetilasa más grande completa un trímero de E2. Los ocho trímeros de E2 están rodeados por veinticuatro copias de E1 (un tetrámero α2β2) y 12 copias de E3 (un dímero αβ) rodean el núcleo de E2.¿Cómo funcionan en conjunto los tres sitios activos distintos? La clave reside en el brazo de lipoamida largo y flexible de la subunidad E2, que transporta el sustrato de un sitio activo a otro(Figura 17.8).
 
 ![[Pasted image 20260417184658.png]]
 ## Regulación
@@ -138,19 +141,18 @@ un trímero de E2. Los ocho trímeros de E2 están rodeados por veinticuatro cop
 
 El complejo de la piruvato deshidrogenasa está estrictamente regulado por múltiples interacciones alostéricas y modificaciones covalentes. Como se mencionó anteriormente, la **glucosa puede formarse a partir del piruvato mediante la vía gluconeogénica** . Sin embargo, **la formación de acetil CoA** a **partir del piruvato** es un **paso irreversible** en animales y, por lo tanto, no pueden convertir el acetil CoA de nuevo en glucosa. La **descarboxilación oxidativa** del **piruvato a acetil CoA** compromete los átomos de carbono de la glucosa a uno de dos destinos principales: (1) **oxidación a CO₂ por el ciclo del ácido cítrico** con la consiguiente generación de energía o (2) **incorporación a lípidos**, dado que el acetil CoA es un precursor clave para la síntesis de lípidos (Figura 17.9).
 ![[Pasted image 20260417184607.png]]
-Altas concentraciones de productos de reacción inhiben la reacción: el **acetil CoA inhibe el componente transacetilasa (E2)** al unirse directamente a él, mientras que el **NADH inhibe la dihidrolipoil deshidrogenasa (E3)**. Altas concentraciones de NADH y acetil CoA informan a la enzima de que se han satisfecho las necesidades energéticas de la célula o de que se ha producido suficiente acetil CoA y NADH a partir de la degradación de ácidos grasos . En cualquier caso, no es necesario metabolizar el piruvato a acetil CoA. Esta inhibición tiene el efecto de ahorrar glucosa, ya que la mayor parte del piruvato se deriva de la glucosa mediante glucólisis.
+Altas concentraciones de productos de reacción inhiben la reacción: el **acetil CoA inhibe el componente transacetilasa (E2)** al unirse directamente a él, mientras que el **NADH inhibe la dihidrolipoil deshidrogenasa (E3)**. Altas concentraciones de NADH y acetil CoA informan a la enzima de que se han satisfecho las necesidades energéticas de la célula o de que se ha producido suficiente acetil CoA y NADH a partir de la degradación de ácidos grasos . En cualquier caso, no es necesario metabolizar el piruvato a acetil CoA. **Esta inhibición tiene el efecto de ahorrar glucosa, ya que la mayor parte del piruvato se deriva de la glucosa mediante glucólisis.**
 
 El mecanismo clave de regulación del complejo en eucariotas es la modificación covalente, en este caso, la fosforilación (Figura 17.10). 
+
 *La fosforilación del componente piruvato deshidrogenasa (E1) por una quinasa específica desactiva la actividad del complejo. La desactivación se revierte mediante la acción de una fosfatasa específica.* Tanto la quinasa como la fosfatasa están físicamente asociadas con el componente transacetilasa (E2), lo que resalta nuevamente la importancia estructural y mecanicista de este núcleo. Además, tanto la quinasa como la fosfatasa están reguladas.
 ![[Pasted image 20260417184439.png]]
 
-Para comprender cómo funciona esta regulación en condiciones biológicas, considere un músculo que se activa después de un período de reposo (Figura 17.11). En reposo, el músculo no tendrá demandas energéticas significativas. En consecuencia, las proporciones de NADH/NAD+, 
+Para comprender cómo funciona esta regulación en condiciones biológicas, considere un músculo que se activa después de un período de reposo (Figura 17.11). En reposo, el músculo no tendrá demandas energéticas significativas. En consecuencia, las proporciones de NADH/NAD+, **acetil CoA/CoA y ATP/ADP serán altas**. Estas proporciones elevadas estimulan la quinasa, promoviendo la **fosforilación** y, por consiguiente, **la desactivación del complejo piruvato deshidrogenasa**. En otras palabras, las altas concentraciones de productos inmediatos (acetil CoA y NADH) y finales (ATP) del **complejo piruvato deshidrogenasa inhiben su actividad**. Por lo tanto, *la piruvato deshidrogenasa se desactiva cuando la carga energética es alta.*
 
 ![[Pasted image 20260417184454.png]]
 
-**acetil CoA/CoA y ATP/ADP serán altas**. Estas proporciones elevadas estimulan la quinasa, promoviendo la **fosforilación** y, por consiguiente, **la desactivación del complejo piruvato deshidrogenasa**. En otras palabras, las altas concentraciones de productos inmediatos (acetil CoA y NADH) y finales (ATP) del **complejo piruvato deshidrogenasa inhiben su actividad**. Por lo tanto, *la piruvato deshidrogenasa se desactiva cuando la carga energética es alta.*
-
-Al comenzar el ejercicio, las concentraciones de **ADP y piruvato aumentarán a medida que la contracción muscular consume ATP** y la **glucosa se convierte** en **piruvato** para satisfacer las demandas energéticas. Tanto el ADP como el piruvato activan la deshidrogenasa al inhibir la quinasa. Además, la **fosfatasa es estimulada por el Ca2⁻**, una señal que también **inicia la contracción muscular**. Un aumento en el nivel de Ca2⁻ citoplasmático para estimular la contracción muscular eleva el nivel de Ca2⁻ mitocondrial. El aumento del Ca2⁻ mitocondrial activa la fosfatasa, lo que aumenta la **actividad de la piruvato deshidrogenasa**. En algunos tejidos, la fosfatasa está regulada por hormonas. En el hígado, la epinefrina se une al receptor α-adrenérgico para iniciar la vía del fosfatidilinositol , lo que provoca un aumento en la concentración de Ca2⁻ que activa la fosfatasa. En tejidos capaces de sintetizar ácidos grasos (como el hígado y el tejido adiposo), la insulina (la hormona que indica el estado de saciedad) estimula la fosfatasa, aumentando la conversión de piruvato en acetil CoA. En estos tejidos, el complejo piruvato deshidrogenasa se activa para canalizar la glucosa a piruvato, luego a acetil CoA y, finalmente, a ácidos grasos.
+Al comenzar el ejercicio, las concentraciones de **ADP y piruvato aumentarán a medida que la contracción muscular consume ATP** y la **glucosa se convierte** en **piruvato** para satisfacer las demandas energéticas. Tanto el ADP como el piruvato activan la deshidrogenasa al inhibir la quinasa. Además, la **fosfatasa es estimulada por el Ca2⁺, una señal que también inicia la contracción muscular**. Un aumento en el nivel de Ca2⁻ citoplasmático para estimular la contracción muscular eleva el nivel de Ca2⁻ mitocondrial. El aumento del Ca2⁻ mitocondrial activa la fosfatasa, lo que aumenta la **actividad de la piruvato deshidrogenasa**. En algunos tejidos, la fosfatasa está regulada por hormonas. En el hígado, la epinefrina se une al receptor α-adrenérgico para iniciar la vía del fosfatidilinositol , lo que provoca un aumento en la concentración de Ca2⁻ que activa la fosfatasa. En tejidos capaces de sintetizar ácidos grasos (como el hígado y el tejido adiposo), la insulina (la hormona que indica el estado de saciedad) estimula la fosfatasa, aumentando la conversión de piruvato en acetil CoA. En estos tejidos, el complejo piruvato deshidrogenasa se activa para canalizar la glucosa a piruvato, luego a acetil CoA y, finalmente, a ácidos grasos.
 
 # Estrategia general del ciclo del ácido cítrico
 
@@ -319,7 +321,9 @@ Algunos intermediarios del ciclo son precursores de otros compuestos.
 
 En organismos aeróbicos, el ciclo de krebs es una **ruta anfibólica**, es decir, que sirve tanto para procesos anabólicos como catabólicos. Aparte de su papel en el catabolismo oxidativo de glúcidos, ácidos grasos y aminoácidos, el ciclo proporciona precursores para muchas vías biosintéticas(fig.16-16), a través de reacciones que cumplían el mismo propósito en nuestros antepasados anaeróbicos. El alpha-cetoglutarato y el oxalacetato pueden, por ejemplo, servir como precursores de los aminoácidos aspartato y glutamato por simple transaminación. A través del aspartato y glutamato, los átomos de carbonon del oxalacetato y del alpha-cetoglutarato se utilizan entonces para sintetizar otros aminoácidos así como nucleótidos de purina y pirimidina. El succinal-CoA es un intermediario central en la síntesis del anillo de porfirina de los grupos hemo, que actúan como transportadores de oxígeno(en la hemoglobina y mioglina) y de transportadores de electrones(en los citocromos). El oxalacetato se convierte en glucosa mediante la gluconeogénesis.
 
-Dado que los átomos de carbono de las moléculas de acetato que entran en el ciclo del ciclo de krebs aparecen 8 pasos más adelante en el oxalacetato, podría parecer que el ciclo podría genera oxalacetato a partir del acetato y, a continuación se podría utilizar el oxalacetato para sintetizar glucosa. Sin embargo, la estequiometría del ciclo de krebs muestra que no hay conversión neta de acetato en oxalacetato; por cada dos carbonos que entran en el ciclo en forma de acetil-CoA, dos lo dejan en forma de CO2. En muchos organismos no vertebrados, y en todas las plantas vasculares, otra secuencia de reacciones, el **ciclo del glioxilato**, actúa como mecanismo para convertir acetato en glúcido. El ciclo de glioxilato convierte *dos* moléculas de acetato en una de oxalacetato mediante una variante del ciclo del ciclo de krebs en la que eluden los dos pasos de descarboxilación. Así, las plantas y muchos organismos sencillos pueden sintetizar glucosa a partir de ácidos grasos, cosa que no pueden hacer los vertebrados.
+Dado que los átomos de carbono de las moléculas de acetato que entran en el ciclo del ciclo de krebs aparecen 8 pasos más adelante en el oxalacetato, podría parecer que el ciclo podría genera oxalacetato a partir del acetato y, a continuación se podría utilizar el oxalacetato para sintetizar glucosa. Sin embargo, la estequiometría del ciclo de krebs muestra que no hay conversión neta de acetato en oxalacetato; por cada dos carbonos que entran en el ciclo en forma de acetil-CoA, dos lo dejan en forma de CO2. En muchos organismos no vertebrados, y en todas las plantas vasculares, otra secuencia de reacciones, el **ciclo del glioxilato**, actúa como mecanismo para convertir acetato en glúcido. 
+
+El ciclo de glioxilato convierte *dos* moléculas de acetato en una de oxalacetato mediante una variante del ciclo del ciclo de krebs en la que eluden los dos pasos de descarboxilación. Así, las plantas y muchos organismos sencillos pueden sintetizar glucosa a partir de ácidos grasos, cosa que no pueden hacer los vertebrados.
 
 ![[Pasted image 20250318190043.png]]
 
