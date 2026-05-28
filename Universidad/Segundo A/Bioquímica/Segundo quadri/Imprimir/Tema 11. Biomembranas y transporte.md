@@ -77,6 +77,7 @@ El colesterol es el precursor metabólico de los ácidos biliares(propiedades de
 Las proteínas de membrana se dividen operativamente en dos grupos (Fig. 11-6). Las proteínas integrales(intrínsecas) están firmemente asociadas a la membrana y solo se pueden eliminar mediante agentes que interfieren con las interacciones hidrofóbicas, como detergentes, disolventes orgánicos o desnaturalizantes.
 
 Las proteínas periféricas(extrínsecas/de membrana) se asocian con la membrana mediante interacciones electrostáticas y enlaces de hidrógeno con los dominios hidrofílicos de las proteínas integrales y con los grupos polares de la cabeza de los lípidos de la membrana.
+
 Pueden liberarse mediante tratamientos relativamente suaves que interfieren con las interacciones electrostáticas o rompen los enlaces de hidrógeno; un agente comúnmente utilizado es el carbonato a pH alto. Las proteínas periféricas pueden actuar como reguladores de las enzimas unidas a la membrana o limitar la movilidad de las proteínas integrales al unirlas a las estructuras intracelulares. Muchas proteínas de membrana atraviesan la bicapa lipídica.
 
 La **topología de las proteínas de membrana (ubicación relativa a la bicapa lipídica)** se puede determinar con reactivos que reaccionan con las cadenas laterales de las proteínas, pero no pueden atravesar las membranas: por ejemplo, reactivos químicos polares que reaccionan con aminas primarias de residuos de lisina, o enzimas como la tripsina, que escinden proteínas, pero no pueden atravesar la membrana. 
@@ -462,7 +463,7 @@ La energía puede provenir directamente de la hidrólisis del ATP o puede sumini
 	- No se satura, a mayor gradiente de concentración mayor flujo
 	- Importante sólo para moléculas pequeñas
 
-Cuando dos compartimentos acuosos con concentraciones desiguales de un compuesto soluble o ion están separados por una membrana permeable, el soluto se mueve por **difusión simple** desde la región de mayor concentración, a través de la membrana, a la región de menor concentración, hasta que ambos compartimentos alcanzan concentraciones iguales de soluto (Fig. 11-27a). 
+Cuando dos compartimentos acuosos con concentraciones desiguales de un compuesto soluble o ion están separados por una membrana permeable, el soluto se mueve por **difusión simple** desde la región de mayor concentración, a través de la membrana, a la región de menor concentración, hasta que ambos compartimentos alcanzan concentraciones iguales de soluto.
 
 *Transporte mediado o facilitado por péptidos o proteínas*
 
@@ -477,7 +478,7 @@ Podemos distinguir dos tipos de transporte, en función si van a favor o en cont
 - Transporte activo, mediado por péptidos o proteínas transportadoras
 	- Transporte por modificación
 	- Bombas iónicas
-	- Transporte de H+  y electrones
+	- Transporte de H+ y electrones
 	- Sistemas de co-transporte
 
 *Transporte pasivo*
@@ -490,7 +491,9 @@ Podemos distinguir dos tipos de transporte, en función si van a favor o en cont
  
 **El transporte pasivo es facilitado por proteínas de membrana**. 
 
-Cuando iones de carga opuesta están separados por una membrana permeable, se produce un **gradiente eléctrico transmembrana**, un potencial de membrana, Vm (expresado en voltios o milivoltios). Este potencial de membrana **produce una fuerza que se opone a los movimientos iónicos,** lo que aumenta Vm, e impulsa los movimientos iónicos que reducen Vm (Fig. 11-27b). Por lo tanto, la dirección en la que un soluto cargado tiende a moverse espontáneamente a través de una membrana depende tanto del **gradiente químico (la diferencia en la concentración de soluto) como del gradiente eléctrico (Vm) a través de la membrana**. Juntos, estos dos factores se conocen como **gradiente electroquímico o potencial electroquímico**. Este comportamiento de los solutos concuerda con la segunda ley de la termodinámica: las moléculas tienden a adoptar espontáneamente la distribución de mayor aleatoriedad y menor energía.
+Cuando iones de carga opuesta están separados por una membrana permeable, se produce un **gradiente eléctrico transmembrana**, un potencial de membrana, Vm (expresado en voltios o milivoltios). Este potencial de membrana **produce una fuerza que se opone a los movimientos iónicos,** lo que aumenta Vm, e impulsa los movimientos iónicos que reducen Vm (Fig. 11-27b). 
+
+Por lo tanto, la dirección en la que un soluto cargado tiende a moverse espontáneamente a través de una membrana depende tanto del **gradiente químico (la diferencia en la concentración de soluto) como del gradiente eléctrico (Vm) a través de la membrana**. Juntos, estos dos factores se conocen como **gradiente electroquímico o potencial electroquímico**. Este comportamiento de los solutos concuerda con la segunda ley de la termodinámica: las moléculas tienden a adoptar espontáneamente la distribución de mayor aleatoriedad y menor energía.
 
 
 > [!NOTE] Gradiente electroquímico
@@ -508,13 +511,13 @@ Los transportadores atraviesan la bicapa lipídica varias veces, **formando un c
 
 El resultado es un aumento de varios órdenes de magnitud en la velocidad de paso transmembrana del sustrato.
 
-|Característica|Difusión simple|Transporte pasivo (facilitado)|
-|---|---|---|
-|**Mecanismo**|Las moléculas pasan **directamente a través de la bicapa lipídica**|Las moléculas pasan **a través de proteínas de membrana** (canales o transportadores)|
-|**Tipo de moléculas**|Pequeñas y **no polares** (O₂, CO₂, N₂, lípidos)|Polares o cargadas (glucosa, iones, aminoácidos)|
-|**Velocidad**|Lenta, depende de la solubilidad en lípidos|Más rápida, facilitada por proteínas|
-|**Especificidad**|No específica|Específica: cada transportador o canal reconoce moléculas concretas|
-|**Saturación**|No hay límite|Puede saturarse si todos los transportadores están ocupados|
+| Característica        | Difusión simple                                                     | Transporte pasivo (facilitado)                                                        |
+| --------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Mecanismo**         | Las moléculas pasan **directamente a través de la bicapa lipídica** | Las moléculas pasan **a través de proteínas de membrana** (canales o transportadores) |
+| **Tipo de moléculas** | Pequeñas y **no polares** (O₂, CO₂, N₂, lípidos)                    | Polares o cargadas (glucosa, iones, aminoácidos)                                      |
+| **Velocidad**         | Lenta, depende de la solubilidad en lípidos                         | Más rápida, facilitada por proteínas                                                  |
+| **Especificidad**     | No específica                                                       | Específica: cada transportador o canal reconoce moléculas concretas                   |
+| **Saturación**        | No hay límite                                                       | Puede saturarse si todos los transportadores están ocupados                           |
 
 
 
@@ -624,7 +627,7 @@ El **transporte activo secundario** no usa ATP de forma directa. Aprovecha la en
 ## Diversidad celular del transporte de glucosa
 
 Del intestino a la sangre→transporte activo secundario
-- El contransporte de la glucosa de Na+ en la superficie apical  de la célula intestinal se acopla a la bomba de Na+-K+-ATPasa
+- El contransporte de la glucosa de Na+ en la superficie apical de la célula intestinal se acopla a la bomba de Na+-K+-ATPasa
 - En la superficie basal de la célula intestinal el uniportador GLUT2 permite el paso de la glucosa a la sangre
 
 ![[Pasted image 20250309181053.png]]
@@ -679,7 +682,7 @@ Un conjunto molecular en la membrana mitocondrial interna lleva a cabo la sínte
 > [!question] ¿Cómo se acopla la oxidación del NADH a la fosforilación del ADP? 
 > 
 
-Se sugirió inicialmente que la transferencia de electrones conduce a la formación de un intermediario covalente de alta energía que actúa como un compuesto con un alto potencial de transferencia de fosforilo, análogo a la generación de ATP mediante la formación de 1,3-bisfosfoglicerato en la glucólisis (p. 230). Una propuesta alternativa fue que la transferencia de electrones facilita la formación de una conformación proteica activada, que a su vez impulsa la síntesis de ATP. La búsqueda de estos intermediarios durante varias décadas resultó infructuosa. 
+Se sugirió inicialmente que la transferencia de electrones conduce a la formación de un intermediario covalente de alta energía que actúa como un compuesto con un alto potencial de transferencia de fosforilo, análogo a la generación de ATP mediante la formación de 1,3-bisfosfoglicerato en la glucólisis. Una propuesta alternativa fue que la transferencia de electrones facilita la formación de una conformación proteica activada, que a su vez impulsa la síntesis de ATP. La búsqueda de estos intermediarios durante varias décadas resultó infructuosa. 
 
 En 1961, Peter Mitchell sugirió un mecanismo radicalmente diferente: **la hipótesis quimiosmótica.** Propuso que el transporte de electrones y la síntesis de ATP están acoplados por un gradiente de protones a través de la membrana mitocondrial interna. En su modelo, la transferencia de electrones a través de la cadena respiratoria conduce al bombeo de protones desde la matriz hacia el lado citoplasmático de la membrana mitocondrial interna. La concentración de H disminuye en la matriz y se genera un campo eléctrico con el lado de la matriz negativo (Figura 20.1). 
 ![[Pasted image 20260130121358.png]]
@@ -694,7 +697,7 @@ La innovadora hipótesis de Mitchell, de que la oxidación y la fosforilación e
 
 De hecho, el transporte de electrones genera un gradiente de protones a través de la membrana mitocondrial interna. El pH en el exterior es 1,4 unidades inferior al del interior, y el potencial de membrana es de 0,14 V, siendo positivo el exterior. Este potencial de membrana equivale a una energía libre de 20,8 kJ (5,2 kcal) por mol de protones.
 
-## Estructura de la ATP sintasaF
+## Estructura de la ATP sintasa F
 
 - Consta de 2 componentes principales F1 y F0
 	- F1
@@ -708,16 +711,23 @@ De hecho, el transporte de electrones genera un gradiente de protones a través 
 
 **La ATP sintasa se compone de una unidad conductora de protones y una unidad catalítica.**
 
-Ahora son evidentes dos partes del rompecabezas de cómo la oxidación del NADH se acopla a la síntesis de ATP: (1) el transporte de electrones genera una fuerza protónica; (2) la síntesis de ATP por la ATP sintasa puede ser impulsada por una fuerza protónica. ¿Cómo se convierte esta fuerza protónica en el alto potencial de transferencia de fosforilo del ATP?
+Ahora son evidentes dos partes del rompecabezas de cómo la oxidación del NADH se acopla a la síntesis de ATP: (1) el transporte de electrones genera una fuerza protónica; (2) la síntesis de ATP por la ATP sintasa puede ser impulsada por una fuerza protónica. 
 
-La ATP sintasa es una enzima grande y compleja que parece una bola en un palo, ubicada en la membrana mitocondrial interna (Figura 20.3). Gran parte de la parte del "palo", llamada subunidad F₂, está incrustada en la membrana mitocondrial interna.
+
+> [!question] ¿Cómo se convierte esta fuerza protónica en el alto potencial de transferencia de fosforilo del ATP?
+> 
+
+
+La ATP sintasa es una enzima grande y compleja que parece una bola en un palo, ubicada en la membrana mitocondrial interna (Figura 20.3). Gran parte de la parte del "palo", llamada subunidad F1, está incrustada en la membrana mitocondrial interna.
 
 ![[Pasted image 20260130110456.png]]
 La bola de 85 Å de diámetro, llamada subunidad F₁, sobresale hacia la matriz mitocondrial. La subunidad F₁ contiene la actividad catalítica de la sintasa. De hecho, las subunidades F1 aisladas presentan actividad ATPasa.
 
-La subunidad F1 consta de cinco tipos de cadenas polipeptídicas (α 3, β 3,*γ* , δ y ε(epsilon)). Las tres  subunidades α y β, que constituyen la mayor parte de la F1, están dispuestas alternadamente en un anillo hexamérico. Los sitios activos residen en las subunidades.
+La subunidad F1 consta de cinco tipos de cadenas polipeptídicas (α 3, β 3,*γ* , δ y ε(epsilon)). Las tres subunidades α y β, que constituyen la mayor parte de la F1, están dispuestas alternadamente en un anillo hexamérico. Los sitios activos residen en las subunidades.
 
-Justo por encima de las subunidades α y β , se encuentra un tallo central compuesto por las proteínas δ y ε. La subunidad *γ* incluye una larga espiral helicoidal que se extiende hasta el centro del hexámero α 3 β 3. *Cada subunidad β es distinta porque interactúa con una cara diferente de la subunidad γ.(gamma)*. Distinguir las tres subunidades β  es crucial para comprender el mecanismo de la síntesis de ATP. La subunidad F0 es un segmento hidrófobo que abarca la membrana mitocondrial interna. *F0 contiene el canal de protones del complejo*. Este canal consiste en un anillo compuesto por entre 10 y 14 subunidades c incrustadas en la membrana. Una sola subunidad α se une al exterior del anillo. Las subunidades F0 y F1 están conectadas de dos maneras: por el tallo ε central y por una columna exterior. La columna exterior consta de una subunidad α, dos subunidades β y la subunidad γ.
+Justo por encima de las subunidades α y β , se encuentra un tallo central compuesto por las proteínas δ y ε. La subunidad *γ* incluye una larga espiral helicoidal que se extiende hasta el centro del hexámero α 3 β 3. *Cada subunidad β es distinta porque interactúa con una cara diferente de la subunidad γ.(gamma)*. Distinguir las tres subunidades β es crucial para comprender el mecanismo de la síntesis de ATP. 
+
+La subunidad F0 es un segmento hidrófobo que abarca la membrana mitocondrial interna. *F0 contiene el canal de protones del complejo*. Este canal consiste en un anillo compuesto por entre 10 y 14 subunidades c incrustadas en la membrana. Una sola subunidad α se une al exterior del anillo. Las subunidades F0 y F1 están conectadas de dos maneras: por el tallo ε central y por una columna exterior. La columna exterior consta de una subunidad α, dos subunidades β y la subunidad γ.
 
 
 Funciona como 2 nanomáquinas acopladas
@@ -757,15 +767,20 @@ La enzima tiene tres sitios activos, cada uno de los cuales realiza una de tres 
 
 
 Diversas observaciones experimentales sugirieron un mecanismo de cambio de unión para la síntesis de ATP impulsada por protones. Esta propuesta establece que una subunidad puede realizar cada uno de los tres pasos secuenciales en la síntesis de ATP mediante un cambio de conformación. 
+
 Estos pasos son : 
-1. La unión de ADP y P₁, 
+1. La unión de ADP y Pi, 
 2. La síntesis de ATP 
 3. La liberación de ATP. 
-Como ya se mencionó, las interacciones con la subunidad γ hacen que las tres β subunidades sean desiguales.
-![[Pasted image 20260130111448.png]]
-En cualquier momento, una subunidad β estará en la conformación L (laxa). Esta conformación une ADP y P₁. Una segunda subunidad estará en la conformación T (apretada). Esta conformación une ATP con gran avidez, tanto que convierte ADP y P₁ unidos en ATP. Tanto la conformación T como la L están lo suficientemente restringidas como para no liberar los nucleótidos unidos. La subunidad final estará en la forma O (abierta). Esta forma tiene una conformación más abierta y puede unir o liberar nucleótidos de adenina.
 
-La rotación de la subunidad *γ* impulsa la interconversión de estas tres formas (Figura 20.5). El ADP y el Pi unidos a la subunidad en forma T se combinan para formar ATP. Supongamos que la subunidad γ gira 120 grados en sentido antihorario (vista desde arriba). Esta rotación convierte el sitio de la forma T en un sitio de la forma O con el nucleótido unido como ATP. Simultáneamente, el sitio de la forma L se convierte en un sitio de la forma T, lo que permite la transformación de un ADP y un Pi adicionales en ATP. El ATP en el sitio de la forma O puede ahora salir de la enzima para ser reemplazado por ADP y Pi. Una rotación adicional de 120 grados convierte este sitio de la forma O en un sitio de la forma L, atrapando estos sustratos. Cada subunidad progresa de la forma T a la forma O y finalmente a la forma L, sin que haya dos subunidades presentes en la misma forma conformacional. Este mecanismo sugiere que el ATP puede sintetizarse y liberarse impulsando la rotación de la subunidad en la dirección adecuada. Sin embargo, el ATP no abandona el sitio catalítico a menos que los protones fluyan a través de la enzima.
+Como ya se mencionó, las interacciones con la subunidad γ hacen que las tres β subunidades sean desiguales.
+
+![[Pasted image 20260130111448.png]]
+En cualquier momento, una subunidad β estará en la conformación L (laxa). Esta conformación une ADP y P₁. Una segunda subunidad estará en la conformación T (apretada). Esta conformación une ATP con gran avidez, tanto que convierte ADP y Pi unidos en ATP. Tanto la conformación T como la L están lo suficientemente restringidas como para no liberar los nucleótidos unidos. La subunidad final estará en la forma O (abierta). Esta forma tiene una conformación más abierta y puede unir o liberar nucleótidos de adenina.
+
+La rotación de la subunidad *γ* impulsa la interconversión de estas tres formas (Figura 20.5). El ADP y el Pi unidos a la subunidad en **forma T** se combinan para **formar ATP**. Supongamos que la subunidad γ gira 120 grados en sentido antihorario (vista desde arriba). Esta rotación convierte el sitio de la forma T en un sitio de la forma **O con el nucleótido unido como ATP**. Simultáneamente, **el sitio de la forma L se convierte en un sitio de la forma T**, lo que permite la **transformación de un ADP y un Pi adicionales en ATP**. El ATP en el sitio de la forma **O puede ahora salir de la enzima para ser reemplazado por ADP y Pi**. 
+
+Una rotación adicional de 120 grados convierte este sitio de la forma O en un sitio de la forma L, atrapando estos sustratos. **Cada subunidad progresa de la forma T a la forma O y finalmente a la forma L**, sin que haya dos subunidades presentes en la misma forma conformacional. Este mecanismo sugiere que el ATP puede sintetizarse y liberarse impulsando la rotación de la subunidad en la dirección adecuada. Sin embargo, el ATP no abandona el sitio catalítico a menos que los protones fluyan a través de la enzima.
 
 ![[Pasted image 20260130111816.png]]
 
