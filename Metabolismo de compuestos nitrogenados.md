@@ -107,7 +107,7 @@ Su función principal es activar la CPS I para iniciar la formación de carbamoi
 
 ## Etapas del ciclo de urea
 
-*Formación de citrulina(matriz mitocondrial)*
+*Formación de citrulina (matriz mitocondrial)*
 
 El grupo carbomoil se transfiere a la ornitina para formar citrulina, en una reacción catalizada por la ornitina transcarbamoilasa.
 

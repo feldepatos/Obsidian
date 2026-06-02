@@ -43,7 +43,7 @@ $$
 La ubiquinol se oxida a ubiquinona, liberando dos electrones y dos protones. Los protones se liberan al espacio intermembrana, contribuyendo al gradiente electroquímico de protones.
 
 Los electrones tiene 2 rutas:
-1. Pasar por el centro ferrosulfurado Rieske, luego al citocromo C1 y finalmente al citocromo C, que los transporta hacia el complejo VI.
+1. Pasar por el centro ferrosulfurado Rieske, luego al citocromo C1 y finalmente al citocromo C, que los transporta hacia el complejo IV.
 2. Seguir las rutas por el citocromo C y participar en el ciclo Q, que permite regenerar ubiquinol y aumentar el bombeo de protones.
 
 Además, de contribuir al bombeo de protones, aumenta la [H⁺] en el espacio intermembrana.

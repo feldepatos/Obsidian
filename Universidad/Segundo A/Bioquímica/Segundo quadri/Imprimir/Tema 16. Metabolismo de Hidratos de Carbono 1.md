@@ -178,7 +178,7 @@ La lanzadera del glicerol-3-fosfato es un mecanismo que sirve para transferir lo
 
 El problema es que el NADH citosólico necesita regenerarse a NAD+ para que la glucólisis pueda continuar, y además sus electrones deben llegar a la cadena de transporte electrónico en la mitocondria para producir ATP. Para resolver esto existen lanzaderas, y una de ellas es la del glicerol-3-fosfato.
 
-En el citosol, el NADH cede sus electrones a una molécula llamada dihidroxiacetona fosfato (DHAP), que se reduce a glicerol-3-fosfato. En este proceso, el NADH se oxida a NAD+, lo cual permite que la glucólisis siga funcionando.
+En el citosol, el NADH cede sus electrones a una molécula llamada **dihidroxiacetona fosfato (DHAP), que se reduce a glicerol-3-fosfato. En este proceso, el NADH se oxida a NAD+, lo cual permite que la glucólisis siga funcionando.**
 
 Después, el glicerol-3-fosfato se transporta hacia la membrana interna de la mitocondria, donde una enzima mitocondrial lo vuelve a oxidar a DHAP. En este paso, los electrones se transfieren a FAD, formando FADH2. Estos electrones pasan posteriormente a la coenzima Q de la cadena de transporte de electrones.
 

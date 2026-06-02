@@ -2,13 +2,13 @@
 
 Antes de ser absorbidos los triaglicéridos deben ser convertidos en micelas para ser accesibles para las lipasas hidrosolubles en el intestino, que los convertirá en monoglicéridos y diaglicéridos, ácidos grasos libres y glicerol. Estos se absorberán  por las células epiteliales donde se convertirán de nuevo en triaglicéridos y se empaquetan junto con colesterol y proteínas para formar quilomicrones.
 
-Las lipoproteínas reconocen el receptor Apolipoproteína II(ApoC-II) de los quilomicrones  y los transportan al sistema linfático, desde que penetran en la sangre que los transporta al músculo y tejido adiposo. En los capiales de estos, la enzima extracelular lipoproteína lipasa activado por la ApoC-I, hidroliza los triacilglicéridos a ácidos grasos y glicerol, que serán captados por transportadores específicos de las células dianas. En el músculo,los ácidos se oxidan para obtener energía; en el tejido adiposo se reesterifican para su almacenamiento en forma de triacilgliceroles.
+Las lipoproteínas reconocen el receptor Apolipoproteína II(ApoC-II) de los quilomicrones  y los transportan al sistema linfático, desde que penetran en la sangre que los transporta al músculo y tejido adiposo. En los capilalres de estos, la enzima extracelular lipoproteína lipasa activado por la ApoC-I, hidroliza los triacilglicéridos a ácidos grasos y glicerol, que serán captados por transportadores específicos de las células dianas. En el músculo,los ácidos se oxidan para obtener energía; en el tejido adiposo se reesterifican para su almacenamiento en forma de triacilgliceroles.
 
 Los triacilgléridos que llegan al hígado pueden ser oxidados para generar energía o precursores de cuerpos cetónicos. En caso que el individuo tenga una dieta rica en grasa, ese excedente serán convertidos en triacilglicéridos, para ser empaquetados con apopoliproteínas y convertiendose en VLDL. Estas VLDL se secretan por los hepatocitos y son transportadas en sangre a los tejidos adiposos, donde los triacilglicéridos son eliminados y almacenados en forma de gota lipídica en el interior de adipocitos. Esta gota lípidica contiene un núcleo de ésteres del colesterol y triacilglicéridos rodeados por una membrana de fosfolípidos.
 
 ## Movilización de lípidos de reserva
 
-En situaciones donde no se requieran energía las **perilipinas** mantienen bajo llave los triacilglicéridos impediendo la acción de las lipasas sobre ellas. Pero cuando se secretan hormonas como noradrenalina, adrenalina o glucagón, que activan las adenil ciclasa de la membrana plasmática de los adipocitos, el cual produce un segundo mensajero intracelular AMPc. La PKA dependiente de la AMPc fosforila las perilipinas, que sufre un cambio de conformación dejando al descubierto la gota lipídica permitiendo la acción de 3 lipadas que actuaran en las distintas formas de tri-di-monoacilgliceridos, con liberación de ácidos grasos y glicerol. 
+En situaciones donde no se requieran energía las **perilipinas** mantienen bajo llave los triacilglicéridos impediendo la acción de las lipasas sobre ellas. Pero cuando se secretan hormonas como noradrenalina, adrenalina o glucagón, que activan las adenil ciclasa de la membrana plasmática de los adipocitos, el cual produce un segundo mensajero intracelular AMPc. La PKA dependiente de la AMPc fosforila las perilipinas, que sufre un cambio de conformación dejando al descubierto la gota lipídica permitiendo la acción de 3 lipasas que actuaran en las distintas formas de tri-di-monoacilgliceridos, con liberación de ácidos grasos y glicerol. 
 
 Los ácidos grasos liberados pasan desde los adipocitos a la sangre,donde se unirán a la albúmina hasta su órgano diana. Una vez, llegado a su destino se disocian de la albúmina para ser introducidos en el interior de la célula y ser utilizado como combustible.
 
@@ -55,7 +55,7 @@ Se lleva a cabo en 4 procesos:
 
 Uno de los puntos más importantes de la oxidación de los ácidos grasos es la conversión de acil-CoA,ya que le permite la entrada a la mitocondria,por tanto, continuar o no con la oxidación.
 
-Además, el malonil-CoA, como primer intermediario de la síntesis de AG a partir de acetil-CoA, aumenta siempre que el individuo recibe exceso de glúcidos, ya que no  puede acumular todo el forma de glucágeno, por tanto, debe almacenarse en forma TG. La inhibición de la carnitina aciltransferasa-1 por el malonil-CoA garantiza la inhibición de la oxidación de ácidos grasos.
+Además, el malonil-CoA, como primer intermediario de la síntesis de AG a partir de acetil-CoA, aumenta siempre que el individuo recibe exceso de glúcidos, ya que no  puede acumular todo el forma de glucógeno, por tanto, debe almacenarse en forma TG. La inhibición de la carnitina aciltransferasa-1 por el malonil-CoA garantiza la inhibición de la oxidación de ácidos grasos.
 
 ---
 # Cuerpos cetónicos
@@ -81,7 +81,6 @@ La exportación de cuerpos cetónicos libera CoA, lo que permite la oxidación c
 ---
 # Síntesis de AG 
 
-
 |                               | Beta-oxidación         | Síntesis                                   |
 | ----------------------------- | ---------------------- | ------------------------------------------ |
 | Localización celular          | Mitocondria            | Citoplasma                                 |
@@ -93,7 +92,7 @@ La exportación de cuerpos cetónicos libera CoA, lo que permite la oxidación c
 | Producto final                | Acetil-CoA             | Malonil-CoA                                |
 
 *Via del citrato*
-Proporciona acetil-CoA y NADPH
+**Proporciona acetil-CoA y NADPH**
 
 El lugar de síntesis de acetil-CoA es la mitocondria, por tanto, debe ser exportada al citoplasma en forma de citrato.
 
