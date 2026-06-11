@@ -33,10 +33,6 @@ La proteína pRB se encuentra presente en todos los núcleos de las células(tan
 
 Por eso, en caso de estar mutado el gen, el crecimiento de la célula no está controlada, ya que el punto de control del paso de la fase G1 a S es indiscriminatorio.
 
-## La evolución clonal en los tumores
-
-
-
 ---
 # Control del ciclo celular
 
@@ -138,19 +134,5 @@ Entonces, en caso de estar mutados son incapaces de regular los puntos de contro
 
 
 
-
 ---
-# Cambios en el número y estructura de los cromosomas y cáncer
 
----
-# Los cambios en la metilación del DNA suelen asociarse al cáncer
-
-
-
----
-# Predisposición hereditaria al cáncer
-
-
-
-
----
