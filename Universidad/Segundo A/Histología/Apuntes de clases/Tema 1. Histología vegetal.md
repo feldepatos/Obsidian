@@ -23,6 +23,7 @@ Clasificación
 		- crecimiento de la planta por la parte central como las cañas
 
 La planta tiene q crecer coordinada
+
 Se puede encontrar planos de  división orientados en los 3 sentidos del espacio 
 - transversal
 	- se alarga/estira
@@ -45,7 +46,7 @@ esos tejidos se forman a partir de meristemas especializados a partir del apical
 - Meristema fundamental
 	- tejidos fundamental: parénquima,  colenquima y esclerenquima
 - Procámbium
-	- dentro de la planta estará donde aparecen los feix vascular
+	- dentro de la planta estará donde aparecen los haz vascular
 
 ## El meristema apical y diferenciación
 la punta más terminal no es meristema está protegido por un tejido parenquimático llamado caliptra.
@@ -66,6 +67,8 @@ Regular el intercambio molecular con el exterior, normalmente es aislamiento
 no tiene q haber espacio intercelular+cél que no necesitan cloroplastos+ ↑ nº peor (pq cada una tiene sus requisitos), entonces están vacuolizadas solo de agua
 cutícula→secreción lípidica y protege las células.
 
+---
+
 Clase 2(19-9-25): 17- 31
 Tricoma es una protuberacias sobre la superficie de la planta y con muchas funciones
 lo mas probable que las muestras que miremos que sean cosas que sobresalgan pero también podemos encontrar artefactos.
@@ -78,8 +81,10 @@ Las inclusiones citoplasmáticas son precipitantes salinos que la planta no pued
 ### Células epidérmicas:
 #### Tricomas
 adquieren formas variables o  estructuras complejas como arboles
-es una sección  transversal no se puede observa donde termina el tricoma es necesario otro punto de vista.
+es una sección transversal no se puede observa donde termina el tricoma es necesario otro punto de vista.
+
 Los tricomas puede contener líquidos a modo de protección en la planta de la ortiga
+
 Pueden estar en cualquier parte de la planta
 #### Estomas
 son estructuras de algunas células de la epidermis están organizada que dejen un agujero que permite el intercambio gaseoso.
@@ -130,21 +135,30 @@ NO es una estructura permanente en una planta plurianual.
 raíces aéreas en plantas epífetas, el que hace esta es generar unas raíces para capturar humedad del ambiente con una epidermis estratificad con cel muertas en la cuales las pared celular esta rota formando como una esponjas repleta de cavidad donde el agua de deposita en las células.
 
 ## El revestimiento secundario: periderma
-partes viejas de una planta, en las cuales la epidermis deja de ser útil porque la planta crece y requiere estructuras más sólidas que soporten el peso de las partes del a planta y una de las víctimas del proceso es el epidermis y el interior de la planta como fusta y por fuera(ese tejido más aspero) el periderma y formas diferentes
+partes viejas de una planta, en las cuales la epidermis deja de ser útil porque la planta crece y requiere estructuras más sólidas que soporten el peso de las partes del a planta y una de las víctimas del proceso es el epidermis y el interior de la planta como fusta y por fuera(ese tejido más aspero) el periderma y formas diferentes.
+
 Está formado por una meristema secundario, se llama cambium suberogeno/felogeno las células que la forman están llenas de súber como capa protectora es decir que las ceĺ que se queden cerca carecen del suministro de nutrientes.
+
 cadena continua de células que se dividen formando columnas o diversas suberificadas que resultan ser impermeables y la epidermis de fuera queda desconectada de los nutrientes y se pierde.
 En ocasiones forma cel hacia dentro y forma una capa interna de cel parenquimáticas como feloderma. 
+
+----
 
 Clase 3(22-9-25): 33-35
 para desplazar el epidermis que no se renueva
 cuando comienza la formación del periderma las células del cork mueren pq estan suberificadas
+
 El cambio suele darse con células pequeñas como el cork cambium, 
 El periderma sustitute a la epidermis, no tiene pq debe aparecer debajo de la epidermis o sino en una zona profunda todo lo q esta fuera muere y desaparece.
 EL tejido sí dura toda la vida pero las células no , en función de la planta ↑ nº de capas celulares, se desprenden como al platanero hispánico, se llama ritidoma, la parte "amarilla" es  la más joven. En otras plantas se  hacen un solcs, es en función del tipo de planta.
 La surera cada 7 años lo dejan "pelat" para extraer el suro
 ![[Pasted image 20250922092803.png]]
 
+
+---
+
 Clase 6(1-10-25) Diapositivas: 26- de la segunda parte del tema 
+
 Las células del xilema II: elementos de la tráquea 
 bruta ascendente 
 pero la traquea un conducto más o menos comunicante de forma eficiente, que cada una de los elementos tiene una perforación al extremo de mayor o menor inclinación para hacer uso de unos conductos al extremo 
