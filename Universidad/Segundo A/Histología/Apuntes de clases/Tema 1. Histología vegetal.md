@@ -206,7 +206,7 @@ eje central→bifurca entre el parenquima clori
 
 Los meristemas: al tallo
 ![[Pasted image 20251001091301.png]]
-el interfascicular→tiene capacidad como  los meristemas→origen de las  diferentes  capas de las xilema  y floema
+el interfascicular→tiene capacidad como los meristemas→origen de las  diferentes capas de las xilema  y floema
 el peridermma cumple su función
 
 La raíz

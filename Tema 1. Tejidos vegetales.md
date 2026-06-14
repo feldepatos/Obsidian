@@ -1,8 +1,49 @@
 # Tejidos meristemáticos primarios
+
+*Protodermis*
+
+Es el meristemo primario más externo del embrión y del ápice vegetativo de la planta. Se origina a partir de la división de las células iniciales superficiales y su función principal es dar origen, por división y diferenciación celular, a la epidermis del cuerpo primario de la planta, actuando como la primera capa protectora contra la desecación y patógenos
+
+*Procambium*
+
+Es el meristemo primario lateral que se dispone en cordones longitudinales o en forma de anillo cilíndrico dentro del tallo y la raíz en crecimiento. Su función es originar los tejidos conductores primarios de la planta, diferenciándose hacia el interior en xilema primario y hacia el exterior en floema primario. Además, en plantas con crecimiento secundario, una porción de este tejido permanece latente para transformarse en el cámbium fascicular.
+
+*Meristema fundamental*
+
+Es el meristemo primario que ocupa la mayor parte del cuerpo joven de la planta, ubicándose entre la protodermis y el procámbium. Sus células se dividen activamente para dar origen a los tejidos fundamentales o de relleno de la planta, los cuales incluyen la corteza, la médula y los radios medulares, diferenciándose principalmente en parénquima, colénquima y esclerénquima
+
+
 # Tejidos meristemáticos secundarios
+
+*Cambium interfascicular*
+
+Es un meristemo lateral que se forma entre los haces vasculares del tallo a partir de células del **parénquima interfascicular**, y que junto con el cámbium fascicular forma un anillo continuo responsable del crecimiento en grosor de la planta.
+
+
+> [!question] ¿Por qué se originan?
+> Se origina a partir del **parénquima interfascicular** (las células que están entre los haces vasculares del tallo)
+
+
+> [!question] ¿Cómo se origina el cambium interfascicular?
+> Es el **parénquima interfascicular**, es decir, las células parenquimáticas situadas **entre los haces vasculares del tallo**. Estas células maduras recuperan su capacidad de división, se vuelven meristemáticas y se unen al cámbium fascicular para formar un anillo continuo.
+
+
+*Cambium fascicular/intrafascicular*
+Es el meristemo primario que se encuentra en el interior de los haces vasculares de las plantas, ubicado exactamente entre el xilema primario y el floema primario.
+
+
+> [!NOTE] Diferencias entre el cambium fascicular e interfascicular
+> El cambium fascicular y el cambium interfascicular se diferencian principalmente por su origen, ubicacion y el estado previo de sus celulas. El cambium fascicular es un meristemo primario que deriva directamente del procambium durante el desarrollo inicial de la planta, encontrandose confinado estrictamente dentro de los haces vasculares, entre el xilema y el floema primarios. Sus celulas mantienen una actividad meristematica constante y nunca pierden la capacidad de dividirse. Por el contrario, el cambium interfascicular es un meristemo secundario que aparece mas tarde, unicamente cuando inicia el crecimiento secundario en grosor. Este se origina por la desdiferenciacion de celulas parenquimaticas maduras situadas en los radios medulares, es decir, en el espacio existente entre los haces vasculares. Al recibir señales hormonales, estas celulas adultas recuperan su capacidad de division. Finalmente, ambos tejidos se fusionan por sus extremos para constituir el anillo continuo de cambium vascular.
+
+
+*Cambium ferógeno/felógeno*
+
+Es el segundo gran meristemo lateral de las plantas y el responsable de formar la corteza protectora externa (peridermis), ó sea es encargado de reemplazar la epidermis de la planta cuando sufre un crecimiento en grosor.
+
 # Tejidos de revestimientos
 ## Epidermis
 ### Especializaciones de la epidermis
+
 *Estomas*
 Son estructuras en las partes aéreas de la planta para el intercambio gaseoso
 
@@ -102,3 +143,20 @@ Conduce la savia bruta desde la raíz hasta las hojas
 > Son células alargadas y estrechas del **xilema**, también muertas a la madurez, con paredes lignificadas y extremos puntiagudos, que conducen agua y sales minerales mediante **punteaduras**, sin formar un conducto continuo.
 
 ## Floema
+
+Es el tejido vascular de las plantas encargado de transportar la **savia elaborada**, es decir, sustancias orgánicas como azúcares (principalmente sacarosa), aminoácidos y otras moléculas producidas en la fotosíntesis, desde los órganos productores (principalmente las hojas) hacia el resto de la planta.
+
+> [!NOTE] Célula cribosa
+> Es una célula conductora del **floema primitivo** (principalmente en gimnospermas), alargada, con paredes poco especializadas y con áreas cribosas por donde se transportan azúcares y otras sustancias orgánicas.
+
+
+> [!NOTE] Elementos de los tubos cribosos
+> Son células especializadas del **floema de las angiospermas** que se disponen en serie formando tubos y que están vivas a la madurez, encargadas del transporte de savia elaborada (azúcares).
+
+
+> [!NOTE] Célula acompañante
+> Es una célula del floema de las angiospermas asociada a los elementos de los tubos cribosos, con función de soporte metabólico, ya que ayuda en la carga y descarga de sustancias transportadas.
+
+
+> [!NOTE] Célula albumífera
+>Es una célula especializada del floema de las **gimnospermas** que está asociada a las células cribosas y cumple una función similar a la célula acompañante, facilitando su metabolismo y transporte de sustancias.
